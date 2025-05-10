@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-03-10,Midwest,Montana,Billings,Men's Street Footwear,20.0,700,140000.0,49000.0,0.35,Outlet
+Sports Direct,1197831,2021-03-11,Midwest,Montana,Billings,Men's Athletic Footwear,30.0,700,210000.0,73500.0,0.35,Outlet
+Sports Direct,1197831,2021-03-12,Midwest,Montana,Billings,Women's Street Footwear,30.0,500,150000.0,52500.0,0.35,Outlet
+Sports Direct,1197831,2021-03-13,Midwest,Montana,Billings,Women's Athletic Footwear,35.0,500,175000.0,78750.0,0.45,Outlet
+Sports Direct,1197831,2021-03-10,Midwest,Montana,Billings,Men's Street Footwear,18.0,210,3780.0,1890.0,0.5,Online
+Sports Direct,1197831,2021-03-11,Midwest,Montana,Billings,Men's Athletic Footwear,29.0,182,5278.0,2427.8799999999997,0.45999999999999996,Online
+Sports Direct,1197831,2021-03-12,Midwest,Montana,Billings,Women's Street Footwear,27.0,130,3510.0,1579.4999999999998,0.44999999999999996,Online
+Sports Direct,1197831,2021-03-13,Midwest,Montana,Billings,Women's Athletic Footwear,32.0,135,4320.0,2462.4,0.5700000000000001,Online

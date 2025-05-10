@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,45.0,425,191250.0,105187.50000000001,0.55,Outlet
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,Outlet
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,35.0,225,78750.0,31499.999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,40.0,75,30000.0,11999.999999999998,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,44.0,111,4884.0,3418.8,0.7000000000000001,Online
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,41.0,68,2788.0,1310.36,0.47,Online
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,33.0,56,1848.0,942.48,0.51,Online
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,38.0,19,722.0,368.22,0.51,Online
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,34.0,128,4352.0,2698.2400000000007,0.6200000000000001,Outlet
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,34.0,68,2312.0,901.68,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,28.0,72,2016.0,846.7199999999999,0.42,Outlet
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,28.0,23,644.0,276.91999999999996,0.42999999999999994,Outlet

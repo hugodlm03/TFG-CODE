@@ -1,0 +1,151 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Athletic Footwear,20.0,250,50000.0,20000.0,0.4,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Men's Apparel,35.0,325,113750.0,39812.5,0.35,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Apparel,20.0,425,85000.0,34000.0,0.4,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Street Footwear,20.0,645,129000.0,51600.0,0.4,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Athletic Footwear,20.0,325,65000.0,22750.0,0.35,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Street Footwear,10.000000000000002,350,35000.00000000001,14000.000000000004,0.4,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Athletic Footwear,19.999999999999996,200,39999.99999999999,15999.999999999998,0.4,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Apparel,35.00000000000001,250,87500.00000000001,30625.000000000004,0.35,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Apparel,25.0,350,87500.0,35000.0,0.4,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Street Footwear,25.0,600,150000.0,60000.0,0.4,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Athletic Footwear,25.0,300,75000.0,26250.0,0.35,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Street Footwear,15.000000000000002,300,45000.00000000001,18000.000000000004,0.4,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Athletic Footwear,19.999999999999996,225,44999.99999999999,17999.999999999996,0.4,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Apparel,40.0,250,100000.0,35000.0,0.35,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Apparel,30.000000000000004,400,120000.00000000001,48000.00000000001,0.4,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Street Footwear,40.0,670,268000.0,107200.0,0.4,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Athletic Footwear,40.0,375,150000.0,52500.0,0.35,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Street Footwear,35.0,350,122500.0,49000.0,0.4,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Athletic Footwear,35.0,300,105000.0,42000.0,0.4,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Apparel,44.99999999999999,325,146249.99999999997,51187.499999999985,0.35,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Apparel,44.99999999999999,425,191249.99999999997,76499.99999999999,0.4,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Street Footwear,40.0,675,270000.0,108000.0,0.4,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Athletic Footwear,35.0,425,148750.0,52062.5,0.35,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Street Footwear,40.0,400,160000.0,64000.0,0.4,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Athletic Footwear,40.0,375,150000.0,60000.0,0.4,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Apparel,54.99999999999999,375,206249.99999999997,72187.49999999999,0.35,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Apparel,60.0,550,330000.0,132000.0,0.4,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Street Footwear,54.99999999999999,775,426249.99999999994,170500.0,0.4,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Athletic Footwear,50.0,525,262500.0,91875.0,0.35,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Street Footwear,45.0,450,202500.0,81000.0,0.4,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Athletic Footwear,45.0,400,180000.0,72000.0,0.4,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Apparel,60.0,425,255000.0,89250.0,0.35,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Apparel,65.0,600,390000.0,156000.0,0.4,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Street Footwear,60.0,750,450000.0,180000.0,0.4,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Athletic Footwear,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Street Footwear,50.0,450,225000.0,90000.0,0.4,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Athletic Footwear,40.0,400,160000.0,64000.0,0.4,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Apparel,50.0,375,187500.0,65625.0,0.35,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Apparel,55.00000000000001,550,302500.00000000006,121000.00000000003,0.4,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Street Footwear,50.0,650,325000.0,130000.0,0.4,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Athletic Footwear,40.000000000000014,450,180000.00000000006,63000.000000000015,0.35,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Street Footwear,15.000000000000007,350,52500.00000000002,21000.00000000001,0.4,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Athletic Footwear,15.000000000000007,325,48750.00000000002,19500.00000000001,0.4,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Apparel,25.000000000000007,325,81250.00000000003,28437.500000000007,0.35,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Apparel,30.00000000000001,425,127500.00000000004,51000.00000000002,0.4,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Street Footwear,30.00000000000001,600,180000.00000000006,72000.00000000003,0.4,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Athletic Footwear,20.00000000000001,425,85000.00000000004,29750.000000000015,0.35,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Street Footwear,20.00000000000001,300,60000.00000000003,24000.000000000015,0.4,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Athletic Footwear,20.00000000000001,275,55000.00000000003,22000.000000000015,0.4,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Apparel,30.00000000000001,275,82500.00000000003,28875.000000000007,0.35,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Athletic Footwear,18.0,70,1260.0,630.0,0.5,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Men's Apparel,34.0,98,3332.0,1499.3999999999999,0.44999999999999996,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Apparel,19.0,115,2185.0,1179.9,0.54,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Street Footwear,18.0,181,3258.0,1726.74,0.53,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Athletic Footwear,20.0,98,1960.0,881.9999999999999,0.44999999999999996,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Street Footwear,10.0,88,880.0,475.20000000000005,0.54,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Athletic Footwear,19.0,60,1140.0,592.8000000000001,0.52,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Apparel,32.0,65,2080.0,956.8,0.45999999999999996,Online
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Apparel,24.0,102,2448.0,1248.48,0.51,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Street Footwear,23.0,174,4002.0,2161.08,0.54,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Athletic Footwear,24.0,81,1944.0,952.56,0.49,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Street Footwear,14.0,75,1050.0,546.0,0.52,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Athletic Footwear,20.0,63,1260.0,667.8000000000001,0.53,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Apparel,37.0,73,2701.0,1296.48,0.48,Online
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Apparel,28.0,116,3248.0,1656.48,0.51,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Street Footwear,39.0,181,7059.0,3811.86,0.54,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Athletic Footwear,38.0,113,4294.0,2147.0,0.5,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Street Footwear,34.0,91,3094.0,1701.7,0.55,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Athletic Footwear,34.0,78,2652.0,1405.5600000000002,0.53,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Apparel,42.0,85,3570.0,1677.8999999999999,0.47,Online
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Apparel,44.0,111,4884.0,2686.2000000000003,0.55,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Street Footwear,36.0,203,7308.0,3654.0,0.5,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Athletic Footwear,32.0,106,3392.0,1662.08,0.49,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Street Footwear,38.0,104,3952.0,2134.08,0.54,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Athletic Footwear,37.0,98,3626.0,1885.52,0.52,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Apparel,54.0,98,5292.0,2540.16,0.48,Online
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Apparel,54.0,160,8640.0,4665.6,0.54,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Street Footwear,50.0,233,11650.0,5825.0,0.5,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Athletic Footwear,47.0,147,6909.0,3109.0499999999997,0.44999999999999996,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Street Footwear,43.0,126,5418.0,2763.18,0.51,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Athletic Footwear,41.0,116,4756.0,2568.2400000000002,0.54,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Apparel,55.0,119,6545.0,3207.0499999999997,0.49,Online
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Apparel,63.0,150,9450.0,5103.0,0.54,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Street Footwear,55.0,210,11550.0,6237.0,0.54,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Athletic Footwear,50.0,152,7600.0,3648.0,0.48,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Street Footwear,47.0,126,5922.0,3079.44,0.52,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Athletic Footwear,39.0,104,4056.0,2028.0,0.5,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Apparel,48.0,113,5424.0,2657.7599999999998,0.49,Online
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Apparel,50.0,143,7150.0,3718.0,0.52,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Street Footwear,48.0,182,8736.0,4542.72,0.52,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Athletic Footwear,39.0,126,4914.0,2358.72,0.48,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Street Footwear,14.0,88,1232.0,640.64,0.52,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Athletic Footwear,14.0,88,1232.0,640.64,0.52,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Apparel,23.0,94,2162.0,1081.0,0.5,Online
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Apparel,29.0,119,3451.0,1863.5400000000002,0.54,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Street Footwear,27.0,150,4050.0,2025.0,0.5,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Athletic Footwear,19.0,106,2014.0,906.3,0.44999999999999996,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Street Footwear,19.0,78,1482.0,741.0,0.5,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Athletic Footwear,19.0,72,1368.0,725.0400000000001,0.53,Online
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Apparel,27.0,83,2241.0,1053.27,0.47,Online
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Athletic Footwear,15.0,78,1170.0,549.9,0.47000000000000003,Outlet
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Men's Apparel,23.0,111,2553.0,944.61,0.37,Outlet
+Walmart,1197831,2021-02-21,South,Arkansas,Little Rock,Women's Apparel,16.0,145,2320.0,974.4000000000001,0.42000000000000004,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Street Footwear,15.0,206,3090.0,1452.3000000000002,0.47000000000000003,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Athletic Footwear,14.0,107,1498.0,554.26,0.37,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Street Footwear,8.0,112,896.0,403.2,0.45,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Athletic Footwear,15.0,70,1050.0,493.50000000000006,0.47000000000000003,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Men's Apparel,24.0,88,2112.0,844.8,0.39999999999999997,Outlet
+Walmart,1197831,2021-03-19,South,Arkansas,Little Rock,Women's Apparel,20.0,112,2240.0,1030.4,0.46,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Street Footwear,19.0,204,3876.0,1744.2,0.45,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Athletic Footwear,20.0,102,2040.0,815.9999999999999,0.39999999999999997,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Street Footwear,11.0,96,1056.0,496.32000000000005,0.47000000000000003,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Athletic Footwear,13.0,77,1001.0,470.47,0.47000000000000003,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Men's Apparel,31.0,75,2325.0,860.25,0.37,Outlet
+Walmart,1197831,2021-04-20,South,Arkansas,Little Rock,Women's Apparel,24.0,120,2880.0,1267.2,0.44,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Street Footwear,26.0,228,5928.0,2726.88,0.46,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Athletic Footwear,28.0,116,3248.0,1364.1599999999999,0.42,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Street Footwear,27.0,119,3213.0,1413.72,0.44,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Athletic Footwear,24.0,90,2160.0,1015.2,0.47000000000000003,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Men's Apparel,32.0,111,3552.0,1385.2799999999997,0.38999999999999996,Outlet
+Walmart,1197831,2021-05-19,South,Arkansas,Little Rock,Women's Apparel,33.0,145,4785.0,2248.9500000000003,0.47000000000000003,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Street Footwear,28.0,236,6608.0,2907.52,0.44,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Athletic Footwear,25.0,149,3725.0,1452.7499999999998,0.38999999999999996,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Street Footwear,28.0,124,3472.0,1562.4,0.45,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Athletic Footwear,29.0,124,3596.0,1582.24,0.44,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Men's Apparel,37.0,116,4292.0,1673.8799999999999,0.38999999999999996,Outlet
+Walmart,1197831,2021-06-21,South,Arkansas,Little Rock,Women's Apparel,48.0,165,7920.0,3405.6000000000004,0.43000000000000005,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Street Footwear,39.0,271,10569.0,4438.9800000000005,0.42000000000000004,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Athletic Footwear,36.0,163,5868.0,2171.16,0.37,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Street Footwear,32.0,140,4480.0,1971.2,0.44,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Athletic Footwear,35.0,120,4200.0,1806.0000000000002,0.43000000000000005,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Apparel,40.0,149,5960.0,2384.0,0.39999999999999997,Outlet
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Women's Apparel,50.0,198,9900.0,4554.0,0.46,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Street Footwear,43.0,233,10019.0,4508.55,0.45,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Athletic Footwear,42.0,163,6846.0,2669.9399999999996,0.38999999999999996,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Street Footwear,40.0,135,5400.0,2376.0,0.44,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Athletic Footwear,29.0,132,3828.0,1722.6000000000001,0.45,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Apparel,40.0,113,4520.0,1672.4,0.37,Outlet
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Women's Apparel,40.0,193,7720.0,3628.4,0.47000000000000003,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Street Footwear,35.0,221,7735.0,3326.05,0.43000000000000005,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Athletic Footwear,26.0,135,3510.0,1439.1,0.41,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Street Footwear,11.0,123,1353.0,635.9100000000001,0.47000000000000003,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Athletic Footwear,12.0,104,1248.0,524.1600000000001,0.42000000000000004,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Men's Apparel,18.0,111,1998.0,779.2199999999999,0.38999999999999996,Outlet
+Walmart,1197831,2021-09-19,South,Arkansas,Little Rock,Women's Apparel,22.0,140,3080.0,1293.6000000000001,0.42000000000000004,Outlet
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Street Footwear,21.0,180,3780.0,1701.0,0.45,Outlet
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Athletic Footwear,14.0,132,1848.0,739.1999999999999,0.39999999999999997,Outlet
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Street Footwear,16.0,99,1584.0,728.64,0.46,Outlet
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Women's Athletic Footwear,15.0,94,1410.0,634.5,0.45,Outlet
+Walmart,1197831,2021-10-21,South,Arkansas,Little Rock,Men's Apparel,21.0,91,1911.0,707.0699999999999,0.37,Outlet

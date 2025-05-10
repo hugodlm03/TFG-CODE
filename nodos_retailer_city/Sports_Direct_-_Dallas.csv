@@ -1,0 +1,205 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-08-15,South,Texas,Dallas,Men's Apparel,40.0,375,150000.0,37500.0,0.25,Outlet
+Sports Direct,1197831,2021-08-16,South,Texas,Dallas,Women's Apparel,35.0,525,183750.0,82687.5,0.45,Outlet
+Sports Direct,1197831,2021-08-17,South,Texas,Dallas,Men's Street Footwear,25.0,675,168750.0,50625.0,0.3,Outlet
+Sports Direct,1197831,2021-08-18,South,Texas,Dallas,Men's Athletic Footwear,35.0,650,227500.0,68250.0,0.3,Outlet
+Sports Direct,1197831,2021-08-19,South,Texas,Dallas,Women's Street Footwear,35.0,475,166250.0,49875.0,0.3,Outlet
+Sports Direct,1197831,2021-08-20,South,Texas,Dallas,Women's Athletic Footwear,35.0,425,148750.0,59500.0,0.4,Outlet
+Sports Direct,1197831,2021-08-21,South,Texas,Dallas,Men's Apparel,40.0,300,120000.0,30000.0,0.25,Outlet
+Sports Direct,1197831,2021-08-22,South,Texas,Dallas,Women's Apparel,35.0,500,175000.0,78750.0,0.45,Outlet
+Sports Direct,1197831,2021-08-23,South,Texas,Dallas,Men's Street Footwear,30.0,675,202500.0,70875.0,0.35,Outlet
+Sports Direct,1197831,2021-08-24,South,Texas,Dallas,Men's Athletic Footwear,40.0,675,270000.0,94500.0,0.35,Outlet
+Sports Direct,1197831,2021-08-25,South,Texas,Dallas,Women's Street Footwear,30.0,500,150000.0,52500.0,0.35,Outlet
+Sports Direct,1197831,2021-08-26,South,Texas,Dallas,Women's Athletic Footwear,35.0,400,140000.0,63000.0,0.45,Outlet
+Sports Direct,1197831,2021-08-27,South,Texas,Dallas,Men's Apparel,40.0,300,120000.0,36000.0,0.3,Outlet
+Sports Direct,1197831,2021-08-28,South,Texas,Dallas,Women's Apparel,35.0,450,157500.0,78750.0,0.5,Outlet
+Sports Direct,1197831,2021-08-29,South,Texas,Dallas,Men's Street Footwear,20.0,700,140000.0,49000.0,0.35,Outlet
+Sports Direct,1197831,2021-08-30,South,Texas,Dallas,Men's Athletic Footwear,30.000000000000004,700,210000.00000000003,73500.0,0.35,Outlet
+Sports Direct,1197831,2021-08-31,South,Texas,Dallas,Women's Street Footwear,24.999999999999996,525,131249.99999999997,45937.499999999985,0.35,Outlet
+Sports Direct,1197831,2021-09-01,South,Texas,Dallas,Women's Athletic Footwear,30.000000000000004,425,127500.00000000001,57375.00000000001,0.45,Outlet
+Sports Direct,1197831,2021-09-02,South,Texas,Dallas,Men's Apparel,35.0,325,113750.0,34125.0,0.3,Outlet
+Sports Direct,1197831,2021-09-03,South,Texas,Dallas,Women's Apparel,30.000000000000004,600,180000.00000000003,90000.00000000001,0.5,Outlet
+Sports Direct,1197831,2021-09-04,South,Texas,Dallas,Men's Street Footwear,20.0,750,150000.0,52500.0,0.35,Outlet
+Sports Direct,1197831,2021-09-05,South,Texas,Dallas,Men's Athletic Footwear,30.000000000000004,775,232500.00000000003,81375.0,0.35,Outlet
+Sports Direct,1197831,2021-09-06,South,Texas,Dallas,Women's Street Footwear,24.999999999999996,625,156249.99999999997,54687.499999999985,0.35,Outlet
+Sports Direct,1197831,2021-09-07,South,Texas,Dallas,Women's Athletic Footwear,35.0,550,192500.0,86625.0,0.45,Outlet
+Sports Direct,1197831,2021-09-08,South,Texas,Dallas,Men's Apparel,50.0,450,225000.0,67500.0,0.3,Outlet
+Sports Direct,1197831,2021-09-09,South,Texas,Dallas,Women's Apparel,45.0,800,360000.0,180000.0,0.5,Outlet
+Sports Direct,1197831,2021-09-10,South,Texas,Dallas,Men's Street Footwear,45.0,800,360000.0,125999.99999999999,0.35,Outlet
+Sports Direct,1197831,2021-09-11,South,Texas,Dallas,Men's Athletic Footwear,50.0,800,400000.0,140000.0,0.35,Outlet
+Sports Direct,1197831,2021-09-12,South,Texas,Dallas,Women's Street Footwear,45.0,650,292500.0,102375.0,0.35,Outlet
+Sports Direct,1197831,2021-09-13,South,Texas,Dallas,Women's Athletic Footwear,45.0,600,270000.0,121500.0,0.45,Outlet
+Sports Direct,1197831,2021-09-14,South,Texas,Dallas,Men's Apparel,50.0,500,250000.0,75000.0,0.3,Outlet
+Sports Direct,1197831,2021-09-15,South,Texas,Dallas,Women's Apparel,55.00000000000001,875,481250.00000000006,240625.00000000003,0.5,Outlet
+Sports Direct,1197831,2021-09-16,South,Texas,Dallas,Men's Street Footwear,45.0,825,371250.0,148500.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-17,South,Texas,Dallas,Men's Athletic Footwear,50.0,825,412500.0,165000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-18,South,Texas,Dallas,Women's Street Footwear,45.0,975,438750.0,175499.99999999997,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-19,South,Texas,Dallas,Women's Athletic Footwear,45.0,575,258750.0,129375.0,0.5,Outlet
+Sports Direct,1197831,2021-09-20,South,Texas,Dallas,Men's Apparel,50.0,575,287500.0,100625.0,0.35,Outlet
+Sports Direct,1197831,2021-09-21,South,Texas,Dallas,Women's Apparel,60.0,850,510000.0,280500.0,0.55,Outlet
+Sports Direct,1197831,2021-09-22,South,Texas,Dallas,Men's Street Footwear,50.0,800,400000.0,160000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-23,South,Texas,Dallas,Men's Athletic Footwear,55.00000000000001,800,440000.00000000006,176000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-24,South,Texas,Dallas,Women's Street Footwear,50.0,975,487500.0,194999.99999999997,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-25,South,Texas,Dallas,Women's Athletic Footwear,50.0,525,262500.0,131250.0,0.5,Outlet
+Sports Direct,1197831,2021-09-26,South,Texas,Dallas,Men's Apparel,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,Outlet
+Sports Direct,1197831,2021-09-27,South,Texas,Dallas,Women's Apparel,60.0,775,465000.0,255750.00000000003,0.55,Outlet
+Sports Direct,1197831,2021-09-28,South,Texas,Dallas,Men's Street Footwear,55.00000000000001,725,398750.00000000006,159500.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-29,South,Texas,Dallas,Men's Athletic Footwear,55.00000000000001,675,371250.00000000006,148500.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-30,South,Texas,Dallas,Women's Street Footwear,60.0,725,435000.0,174000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-01,South,Texas,Dallas,Women's Athletic Footwear,60.0,450,270000.0,135000.0,0.5,Outlet
+Sports Direct,1197831,2021-10-02,South,Texas,Dallas,Men's Apparel,55.00000000000001,450,247500.00000000003,86625.0,0.35,Outlet
+Sports Direct,1197831,2021-10-03,South,Texas,Dallas,Women's Apparel,50.0,675,337500.0,185625.00000000003,0.55,Outlet
+Sports Direct,1197831,2021-10-04,South,Texas,Dallas,Men's Street Footwear,40.0,625,250000.0,99999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-05,South,Texas,Dallas,Men's Athletic Footwear,40.0,625,250000.0,99999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-06,South,Texas,Dallas,Women's Street Footwear,45.0,575,258750.0,103499.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-07,South,Texas,Dallas,Women's Athletic Footwear,45.0,425,191250.0,95625.0,0.5,Outlet
+Sports Direct,1197831,2021-10-08,South,Texas,Dallas,Men's Apparel,40.0,400,160000.0,56000.0,0.35,Outlet
+Sports Direct,1197831,2021-10-09,South,Texas,Dallas,Women's Apparel,50.0,575,287500.0,158125.0,0.55,Outlet
+Sports Direct,1197831,2021-10-10,South,Texas,Dallas,Men's Street Footwear,40.0,725,290000.0,115999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-11,South,Texas,Dallas,Men's Athletic Footwear,40.0,725,290000.0,115999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-12,South,Texas,Dallas,Women's Street Footwear,65.0,650,422500.0,169000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-13,South,Texas,Dallas,Women's Athletic Footwear,65.0,500,325000.0,162500.0,0.5,Outlet
+Sports Direct,1197831,2021-10-14,South,Texas,Dallas,Men's Apparel,60.0,475,285000.0,99750.0,0.35,Outlet
+Sports Direct,1197831,2021-10-15,South,Texas,Dallas,Women's Apparel,70.0,675,472500.0,259875.00000000003,0.55,Outlet
+Sports Direct,1197831,2021-10-16,South,Texas,Dallas,Men's Street Footwear,60.0,825,495000.0,197999.99999999997,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-17,South,Texas,Dallas,Men's Athletic Footwear,60.0,825,495000.0,197999.99999999997,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-18,South,Texas,Dallas,Women's Street Footwear,65.0,725,471250.0,188499.99999999997,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-19,South,Texas,Dallas,Women's Athletic Footwear,65.0,575,373750.0,186875.0,0.5,Outlet
+Sports Direct,1197831,2021-10-20,South,Texas,Dallas,Men's Apparel,60.0,525,315000.0,110250.0,0.35,Outlet
+Sports Direct,1197831,2021-10-21,South,Texas,Dallas,Women's Apparel,70.0,775,542500.0,298375.0,0.55,Outlet
+Sports Direct,1197831,2021-08-15,South,Texas,Dallas,Men's Apparel,37.0,94,3478.0,1217.3,0.35,Online
+Sports Direct,1197831,2021-08-16,South,Texas,Dallas,Women's Apparel,33.0,147,4851.0,2668.05,0.55,Online
+Sports Direct,1197831,2021-08-17,South,Texas,Dallas,Men's Street Footwear,23.0,176,4048.0,1740.6399999999999,0.43,Online
+Sports Direct,1197831,2021-08-18,South,Texas,Dallas,Men's Athletic Footwear,32.0,163,5216.0,2086.4,0.4,Online
+Sports Direct,1197831,2021-08-19,South,Texas,Dallas,Women's Street Footwear,34.0,119,4046.0,1739.78,0.43,Online
+Sports Direct,1197831,2021-08-20,South,Texas,Dallas,Women's Athletic Footwear,32.0,128,4096.0,2170.88,0.53,Online
+Sports Direct,1197831,2021-08-21,South,Texas,Dallas,Men's Apparel,38.0,75,2850.0,997.4999999999999,0.35,Online
+Sports Direct,1197831,2021-08-22,South,Texas,Dallas,Women's Apparel,32.0,140,4480.0,2508.8,0.56,Online
+Sports Direct,1197831,2021-08-23,South,Texas,Dallas,Men's Street Footwear,29.0,182,5278.0,2639.0,0.5,Online
+Sports Direct,1197831,2021-08-24,South,Texas,Dallas,Men's Athletic Footwear,39.0,169,6591.0,3295.5,0.5,Online
+Sports Direct,1197831,2021-08-25,South,Texas,Dallas,Women's Street Footwear,28.0,145,4060.0,1908.1999999999998,0.47,Online
+Sports Direct,1197831,2021-08-26,South,Texas,Dallas,Women's Athletic Footwear,32.0,116,3712.0,2115.84,0.5700000000000001,Online
+Sports Direct,1197831,2021-08-27,South,Texas,Dallas,Men's Apparel,38.0,81,3078.0,1385.1,0.44999999999999996,Online
+Sports Direct,1197831,2021-08-28,South,Texas,Dallas,Women's Apparel,32.0,135,4320.0,2721.6,0.63,Online
+Sports Direct,1197831,2021-08-29,South,Texas,Dallas,Men's Street Footwear,18.0,182,3276.0,1474.1999999999998,0.44999999999999996,Online
+Sports Direct,1197831,2021-08-30,South,Texas,Dallas,Men's Athletic Footwear,28.0,175,4900.0,2352.0,0.48,Online
+Sports Direct,1197831,2021-08-31,South,Texas,Dallas,Women's Street Footwear,25.0,152,3800.0,1862.0,0.49,Online
+Sports Direct,1197831,2021-09-01,South,Texas,Dallas,Women's Athletic Footwear,29.0,128,3712.0,2190.0800000000004,0.5900000000000001,Online
+Sports Direct,1197831,2021-09-02,South,Texas,Dallas,Men's Apparel,34.0,85,2890.0,1156.0,0.4,Online
+Sports Direct,1197831,2021-09-03,South,Texas,Dallas,Women's Apparel,29.0,156,4524.0,2804.88,0.62,Online
+Sports Direct,1197831,2021-09-04,South,Texas,Dallas,Men's Street Footwear,19.0,195,3705.0,1852.5,0.5,Online
+Sports Direct,1197831,2021-09-05,South,Texas,Dallas,Men's Athletic Footwear,29.0,194,5626.0,2756.74,0.49,Online
+Sports Direct,1197831,2021-09-06,South,Texas,Dallas,Women's Street Footwear,24.0,175,4200.0,1974.0,0.47,Online
+Sports Direct,1197831,2021-09-07,South,Texas,Dallas,Women's Athletic Footwear,34.0,154,5236.0,3141.6,0.6,Online
+Sports Direct,1197831,2021-09-08,South,Texas,Dallas,Men's Apparel,49.0,131,6419.0,2888.5499999999997,0.44999999999999996,Online
+Sports Direct,1197831,2021-09-09,South,Texas,Dallas,Women's Apparel,43.0,224,9632.0,6260.8,0.65,Online
+Sports Direct,1197831,2021-09-10,South,Texas,Dallas,Men's Street Footwear,41.0,224,9184.0,4132.799999999999,0.44999999999999996,Online
+Sports Direct,1197831,2021-09-11,South,Texas,Dallas,Men's Athletic Footwear,49.0,200,9800.0,4704.0,0.48,Online
+Sports Direct,1197831,2021-09-12,South,Texas,Dallas,Women's Street Footwear,44.0,176,7744.0,3639.68,0.47,Online
+Sports Direct,1197831,2021-09-13,South,Texas,Dallas,Women's Athletic Footwear,43.0,174,7482.0,4115.1,0.55,Online
+Sports Direct,1197831,2021-09-14,South,Texas,Dallas,Men's Apparel,45.0,145,6525.0,2805.75,0.43,Online
+Sports Direct,1197831,2021-09-15,South,Texas,Dallas,Women's Apparel,53.0,263,13939.0,8781.57,0.63,Online
+Sports Direct,1197831,2021-09-16,South,Texas,Dallas,Men's Street Footwear,41.0,231,9471.0,4924.92,0.52,Online
+Sports Direct,1197831,2021-09-17,South,Texas,Dallas,Men's Athletic Footwear,48.0,215,10320.0,5572.8,0.54,Online
+Sports Direct,1197831,2021-09-18,South,Texas,Dallas,Women's Street Footwear,44.0,254,11176.0,6146.799999999999,0.5499999999999999,Online
+Sports Direct,1197831,2021-09-19,South,Texas,Dallas,Women's Athletic Footwear,43.0,150,6450.0,3934.5,0.61,Online
+Sports Direct,1197831,2021-09-20,South,Texas,Dallas,Men's Apparel,47.0,167,7849.0,3610.5399999999995,0.45999999999999996,Online
+Sports Direct,1197831,2021-09-21,South,Texas,Dallas,Women's Apparel,54.0,255,13770.0,9225.900000000001,0.67,Online
+Sports Direct,1197831,2021-09-22,South,Texas,Dallas,Men's Street Footwear,49.0,208,10192.0,5197.92,0.51,Online
+Sports Direct,1197831,2021-09-23,South,Texas,Dallas,Men's Athletic Footwear,53.0,208,11024.0,5512.0,0.5,Online
+Sports Direct,1197831,2021-09-24,South,Texas,Dallas,Women's Street Footwear,46.0,273,12558.0,6906.899999999999,0.5499999999999999,Online
+Sports Direct,1197831,2021-09-25,South,Texas,Dallas,Women's Athletic Footwear,47.0,147,6909.0,4490.85,0.65,Online
+Sports Direct,1197831,2021-09-26,South,Texas,Dallas,Men's Apparel,53.0,142,7526.0,3612.48,0.48,Online
+Sports Direct,1197831,2021-09-27,South,Texas,Dallas,Women's Apparel,56.0,233,13048.0,9133.6,0.7000000000000001,Online
+Sports Direct,1197831,2021-09-28,South,Texas,Dallas,Men's Street Footwear,53.0,181,9593.0,5276.15,0.5499999999999999,Online
+Sports Direct,1197831,2021-09-29,South,Texas,Dallas,Men's Athletic Footwear,54.0,176,9504.0,4847.04,0.51,Online
+Sports Direct,1197831,2021-09-30,South,Texas,Dallas,Women's Street Footwear,59.0,203,11977.0,6347.81,0.53,Online
+Sports Direct,1197831,2021-10-01,South,Texas,Dallas,Women's Athletic Footwear,56.0,126,7056.0,4586.400000000001,0.65,Online
+Sports Direct,1197831,2021-10-02,South,Texas,Dallas,Men's Apparel,53.0,135,7155.0,3505.95,0.49,Online
+Sports Direct,1197831,2021-10-03,South,Texas,Dallas,Women's Apparel,48.0,203,9744.0,6820.800000000001,0.7000000000000001,Online
+Sports Direct,1197831,2021-10-04,South,Texas,Dallas,Men's Street Footwear,39.0,156,6084.0,3042.0,0.5,Online
+Sports Direct,1197831,2021-10-05,South,Texas,Dallas,Men's Athletic Footwear,38.0,169,6422.0,3275.2200000000003,0.51,Online
+Sports Direct,1197831,2021-10-06,South,Texas,Dallas,Women's Street Footwear,41.0,144,5904.0,3070.08,0.52,Online
+Sports Direct,1197831,2021-10-07,South,Texas,Dallas,Women's Athletic Footwear,41.0,111,4551.0,2730.6,0.6,Online
+Sports Direct,1197831,2021-10-08,South,Texas,Dallas,Men's Apparel,36.0,100,3600.0,1619.9999999999998,0.44999999999999996,Online
+Sports Direct,1197831,2021-10-09,South,Texas,Dallas,Women's Apparel,45.0,161,7245.0,5071.500000000001,0.7000000000000001,Online
+Sports Direct,1197831,2021-10-10,South,Texas,Dallas,Men's Street Footwear,38.0,181,6878.0,3782.8999999999996,0.5499999999999999,Online
+Sports Direct,1197831,2021-10-11,South,Texas,Dallas,Men's Athletic Footwear,37.0,218,8066.0,4033.0,0.5,Online
+Sports Direct,1197831,2021-10-12,South,Texas,Dallas,Women's Street Footwear,63.0,176,11088.0,6098.4,0.5499999999999999,Online
+Sports Direct,1197831,2021-10-13,South,Texas,Dallas,Women's Athletic Footwear,59.0,145,8555.0,5304.1,0.62,Online
+Sports Direct,1197831,2021-10-14,South,Texas,Dallas,Men's Apparel,56.0,138,7728.0,3709.44,0.48,Online
+Sports Direct,1197831,2021-10-15,South,Texas,Dallas,Women's Apparel,67.0,176,11792.0,7664.8,0.65,Online
+Sports Direct,1197831,2021-10-16,South,Texas,Dallas,Men's Street Footwear,59.0,223,13157.0,7104.780000000001,0.54,Online
+Sports Direct,1197831,2021-10-17,South,Texas,Dallas,Men's Athletic Footwear,56.0,231,12936.0,6726.72,0.52,Online
+Sports Direct,1197831,2021-10-18,South,Texas,Dallas,Women's Street Footwear,62.0,189,11718.0,6327.72,0.54,Online
+Sports Direct,1197831,2021-10-19,South,Texas,Dallas,Women's Athletic Footwear,59.0,173,10207.0,6328.34,0.62,Online
+Sports Direct,1197831,2021-10-20,South,Texas,Dallas,Men's Apparel,58.0,158,9164.0,4582.0,0.5,Online
+Sports Direct,1197831,2021-10-21,South,Texas,Dallas,Women's Apparel,65.0,233,15145.0,9995.7,0.66,Online
+Sports Direct,1197831,2021-08-15,South,Texas,Dallas,Men's Apparel,26.0,113,2938.0,793.2600000000001,0.27,Outlet
+Sports Direct,1197831,2021-08-16,South,Texas,Dallas,Women's Apparel,24.0,163,3912.0,1877.76,0.48,Outlet
+Sports Direct,1197831,2021-08-17,South,Texas,Dallas,Men's Street Footwear,19.0,230,4370.0,1398.4,0.32,Outlet
+Sports Direct,1197831,2021-08-18,South,Texas,Dallas,Men's Athletic Footwear,23.0,215,4945.0,1780.2,0.36,Outlet
+Sports Direct,1197831,2021-08-19,South,Texas,Dallas,Women's Street Footwear,27.0,143,3861.0,1351.35,0.35,Outlet
+Sports Direct,1197831,2021-08-20,South,Texas,Dallas,Women's Athletic Footwear,28.0,136,3808.0,1713.6000000000001,0.45,Outlet
+Sports Direct,1197831,2021-08-21,South,Texas,Dallas,Men's Apparel,26.0,93,2418.0,773.76,0.32,Outlet
+Sports Direct,1197831,2021-08-22,South,Texas,Dallas,Women's Apparel,26.0,155,4030.0,2055.3,0.51,Outlet
+Sports Direct,1197831,2021-08-23,South,Texas,Dallas,Men's Street Footwear,21.0,203,4263.0,1662.5699999999997,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-08-24,South,Texas,Dallas,Men's Athletic Footwear,31.0,236,7316.0,2926.3999999999996,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-25,South,Texas,Dallas,Women's Street Footwear,20.0,155,3100.0,1178.0,0.38,Outlet
+Sports Direct,1197831,2021-08-26,South,Texas,Dallas,Women's Athletic Footwear,26.0,140,3640.0,1710.8000000000002,0.47000000000000003,Outlet
+Sports Direct,1197831,2021-08-27,South,Texas,Dallas,Men's Apparel,29.0,96,2784.0,1030.08,0.37,Outlet
+Sports Direct,1197831,2021-08-28,South,Texas,Dallas,Women's Apparel,27.0,153,4131.0,2230.7400000000002,0.54,Outlet
+Sports Direct,1197831,2021-08-29,South,Texas,Dallas,Men's Street Footwear,13.0,231,3003.0,1201.1999999999998,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-30,South,Texas,Dallas,Men's Athletic Footwear,21.0,210,4410.0,1763.9999999999998,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-31,South,Texas,Dallas,Women's Street Footwear,20.0,179,3580.0,1396.1999999999998,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-09-01,South,Texas,Dallas,Women's Athletic Footwear,20.0,149,2980.0,1460.2,0.49,Outlet
+Sports Direct,1197831,2021-09-02,South,Texas,Dallas,Men's Apparel,26.0,107,2782.0,1001.52,0.36,Outlet
+Sports Direct,1197831,2021-09-03,South,Texas,Dallas,Women's Apparel,22.0,210,4620.0,2633.4,0.5700000000000001,Outlet
+Sports Direct,1197831,2021-09-04,South,Texas,Dallas,Men's Street Footwear,13.0,233,3029.0,1151.02,0.38,Outlet
+Sports Direct,1197831,2021-09-05,South,Texas,Dallas,Men's Athletic Footwear,22.0,248,5456.0,2291.52,0.42,Outlet
+Sports Direct,1197831,2021-09-06,South,Texas,Dallas,Women's Street Footwear,19.0,200,3800.0,1519.9999999999998,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-09-07,South,Texas,Dallas,Women's Athletic Footwear,27.0,182,4914.0,2407.86,0.49,Outlet
+Sports Direct,1197831,2021-09-08,South,Texas,Dallas,Men's Apparel,38.0,153,5814.0,2093.04,0.36,Outlet
+Sports Direct,1197831,2021-09-09,South,Texas,Dallas,Women's Apparel,34.0,264,8976.0,4667.52,0.52,Outlet
+Sports Direct,1197831,2021-09-10,South,Texas,Dallas,Men's Street Footwear,30.0,256,7680.0,2841.6,0.37,Outlet
+Sports Direct,1197831,2021-09-11,South,Texas,Dallas,Men's Athletic Footwear,40.0,280,11200.0,4592.0,0.41,Outlet
+Sports Direct,1197831,2021-09-12,South,Texas,Dallas,Women's Street Footwear,30.0,215,6450.0,2515.4999999999995,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-09-13,South,Texas,Dallas,Women's Athletic Footwear,29.0,192,5568.0,2728.32,0.49,Outlet
+Sports Direct,1197831,2021-09-14,South,Texas,Dallas,Men's Apparel,40.0,150,6000.0,2220.0,0.37,Outlet
+Sports Direct,1197831,2021-09-15,South,Texas,Dallas,Women's Apparel,42.0,280,11760.0,6468.000000000001,0.55,Outlet
+Sports Direct,1197831,2021-09-16,South,Texas,Dallas,Men's Street Footwear,34.0,256,8704.0,3655.68,0.42,Outlet
+Sports Direct,1197831,2021-09-17,South,Texas,Dallas,Men's Athletic Footwear,34.0,264,8976.0,3769.92,0.42,Outlet
+Sports Direct,1197831,2021-09-18,South,Texas,Dallas,Women's Street Footwear,33.0,322,10626.0,4462.92,0.42,Outlet
+Sports Direct,1197831,2021-09-19,South,Texas,Dallas,Women's Athletic Footwear,32.0,201,6432.0,3537.6000000000004,0.55,Outlet
+Sports Direct,1197831,2021-09-20,South,Texas,Dallas,Men's Apparel,39.0,184,7176.0,2726.88,0.38,Outlet
+Sports Direct,1197831,2021-09-21,South,Texas,Dallas,Women's Apparel,47.0,272,12784.0,7286.880000000001,0.5700000000000001,Outlet
+Sports Direct,1197831,2021-09-22,South,Texas,Dallas,Men's Street Footwear,34.0,248,8432.0,3625.7599999999993,0.42999999999999994,Outlet
+Sports Direct,1197831,2021-09-23,South,Texas,Dallas,Men's Athletic Footwear,43.0,256,11008.0,5063.679999999999,0.45999999999999996,Outlet
+Sports Direct,1197831,2021-09-24,South,Texas,Dallas,Women's Street Footwear,35.0,332,11620.0,5461.4,0.47,Outlet
+Sports Direct,1197831,2021-09-25,South,Texas,Dallas,Women's Athletic Footwear,38.0,158,6004.0,3242.1600000000003,0.54,Outlet
+Sports Direct,1197831,2021-09-26,South,Texas,Dallas,Men's Apparel,43.0,158,6794.0,2785.54,0.41,Outlet
+Sports Direct,1197831,2021-09-27,South,Texas,Dallas,Women's Apparel,43.0,240,10320.0,6192.000000000001,0.6000000000000001,Outlet
+Sports Direct,1197831,2021-09-28,South,Texas,Dallas,Men's Street Footwear,38.0,232,8816.0,4055.3599999999997,0.45999999999999996,Outlet
+Sports Direct,1197831,2021-09-29,South,Texas,Dallas,Men's Athletic Footwear,38.0,203,7714.0,3625.58,0.47,Outlet
+Sports Direct,1197831,2021-09-30,South,Texas,Dallas,Women's Street Footwear,47.0,254,11938.0,5372.099999999999,0.44999999999999996,Outlet
+Sports Direct,1197831,2021-10-01,South,Texas,Dallas,Women's Athletic Footwear,41.0,135,5535.0,3044.2500000000005,0.55,Outlet
+Sports Direct,1197831,2021-10-02,South,Texas,Dallas,Men's Apparel,37.0,149,5513.0,2205.2,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-03,South,Texas,Dallas,Women's Apparel,33.0,236,7788.0,4594.920000000001,0.5900000000000001,Outlet
+Sports Direct,1197831,2021-10-04,South,Texas,Dallas,Men's Street Footwear,30.0,213,6390.0,2811.5999999999995,0.43999999999999995,Outlet
+Sports Direct,1197831,2021-10-05,South,Texas,Dallas,Men's Athletic Footwear,29.0,219,6351.0,2984.97,0.47,Outlet
+Sports Direct,1197831,2021-10-06,South,Texas,Dallas,Women's Street Footwear,32.0,190,6080.0,2675.2,0.43999999999999995,Outlet
+Sports Direct,1197831,2021-10-07,South,Texas,Dallas,Women's Athletic Footwear,30.0,145,4350.0,2349.0,0.54,Outlet
+Sports Direct,1197831,2021-10-08,South,Texas,Dallas,Men's Apparel,30.0,128,3840.0,1535.9999999999998,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-10-09,South,Texas,Dallas,Women's Apparel,39.0,190,7410.0,4297.8,0.5800000000000001,Outlet
+Sports Direct,1197831,2021-10-10,South,Texas,Dallas,Men's Street Footwear,31.0,225,6975.0,2999.2499999999995,0.42999999999999994,Outlet
+Sports Direct,1197831,2021-10-11,South,Texas,Dallas,Men's Athletic Footwear,27.0,218,5886.0,2648.7,0.44999999999999996,Outlet
+Sports Direct,1197831,2021-10-12,South,Texas,Dallas,Women's Street Footwear,51.0,228,11628.0,5116.32,0.43999999999999995,Outlet
+Sports Direct,1197831,2021-10-13,South,Texas,Dallas,Women's Athletic Footwear,50.0,160,8000.0,4160.0,0.52,Outlet
+Sports Direct,1197831,2021-10-14,South,Texas,Dallas,Men's Apparel,46.0,162,7452.0,2906.2799999999997,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-10-15,South,Texas,Dallas,Women's Apparel,51.0,236,12036.0,7341.960000000001,0.6100000000000001,Outlet
+Sports Direct,1197831,2021-10-16,South,Texas,Dallas,Men's Street Footwear,46.0,281,12926.0,6075.219999999999,0.47,Outlet
+Sports Direct,1197831,2021-10-17,South,Texas,Dallas,Men's Athletic Footwear,39.0,248,9672.0,4062.24,0.42,Outlet
+Sports Direct,1197831,2021-10-18,South,Texas,Dallas,Women's Street Footwear,46.0,239,10994.0,4837.36,0.43999999999999995,Outlet
+Sports Direct,1197831,2021-10-19,South,Texas,Dallas,Women's Athletic Footwear,44.0,190,8360.0,4681.6,0.56,Outlet
+Sports Direct,1197831,2021-10-20,South,Texas,Dallas,Men's Apparel,47.0,168,7896.0,2921.52,0.37,Outlet
+Sports Direct,1197831,2021-10-21,South,Texas,Dallas,Women's Apparel,54.0,256,13824.0,8294.400000000001,0.6000000000000001,Outlet

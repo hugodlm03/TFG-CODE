@@ -1,0 +1,9 @@
+[console_scripts]
+flower-client-app=flwr.client:run_client_app
+flower-driver-api=flwr.server:run_driver_api
+flower-fleet-api=flwr.server:run_fleet_api
+flower-server-app=flwr.server:run_server_app
+flower-simulation=flwr.simulation:run_simulation_from_cli
+flower-superlink=flwr.server:run_superlink
+flwr=flwr.cli.app:app
+

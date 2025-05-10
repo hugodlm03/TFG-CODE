@@ -1,0 +1,67 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Apparel,70.0,225,157500.0,47250.0,0.3,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Street Footwear,65.0,375,243750.0,73125.0,0.3,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Street Footwear,55.00000000000001,295,162250.00000000003,40562.50000000001,0.25,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,55.00000000000001,275,151250.00000000003,37812.50000000001,0.25,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Apparel,65.0,250,162500.0,40625.0,0.25,In-store
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Apparel,70.0,350,245000.0,73500.0,0.3,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Street Footwear,65.0,575,373750.0,112125.0,0.3,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,55.00000000000001,375,206250.00000000003,61875.00000000001,0.3,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Street Footwear,55.00000000000001,350,192500.00000000003,48125.00000000001,0.25,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,41250.00000000001,0.25,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Apparel,65.0,300,195000.0,48750.0,0.25,In-store
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Apparel,70.0,400,280000.0,84000.0,0.3,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Street Footwear,45.0,525,236250.0,106312.5,0.45,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,45.0,325,146250.0,65812.5,0.45,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Street Footwear,35.0,325,113750.0,39812.5,0.35,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,40.0,175,70000.0,24500.0,0.35,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Apparel,55.00000000000001,225,123750.00000000001,43312.5,0.35,In-store
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Apparel,45.0,325,146250.0,58499.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Street Footwear,45.0,575,258750.0,116437.5,0.45,In-store
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Athletic Footwear,45.0,225,101250.0,45562.5,0.45,In-store
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Women's Street Footwear,35.0,275,96250.0,33687.5,0.35,In-store
+Amazon,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Apparel,66.0,65,4290.0,1887.6,0.44,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Street Footwear,62.0,113,7006.0,3012.58,0.43,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,52.0,90,4680.0,2059.2,0.44,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Street Footwear,50.0,83,4150.0,1494.0,0.36,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,51.0,80,4080.0,1591.2,0.39,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Apparel,63.0,70,4410.0,1675.8,0.38,Online
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Apparel,64.0,98,6272.0,2822.3999999999996,0.44999999999999996,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Street Footwear,64.0,150,9600.0,3935.9999999999995,0.41,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,53.0,105,5565.0,2226.0,0.4,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Street Footwear,51.0,98,4998.0,1949.22,0.39,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,52.0,75,3900.0,1482.0,0.38,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Apparel,62.0,84,5208.0,2031.1200000000001,0.39,Online
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Apparel,65.0,112,7280.0,3203.2,0.44,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Street Footwear,44.0,152,6688.0,3678.4,0.55,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,42.0,94,3948.0,2368.7999999999997,0.6,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Street Footwear,32.0,91,2912.0,1310.3999999999999,0.44999999999999996,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,39.0,44,1716.0,840.84,0.49,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Apparel,52.0,68,3536.0,1661.9199999999998,0.47,Online
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Apparel,44.0,98,4312.0,2199.12,0.51,Online
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Street Footwear,41.0,167,6847.0,3834.32,0.56,Online
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Athletic Footwear,44.0,61,2684.0,1610.3999999999999,0.6,Online
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Women's Street Footwear,33.0,74,2442.0,1221.0,0.5,Online
+Amazon,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Apparel,51.0,68,3468.0,1213.8,0.35,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Street Footwear,49.0,120,5880.0,2058.0,0.35,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,40.0,102,4080.0,1428.0,0.35,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Street Footwear,44.0,91,4004.0,1201.2,0.3,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,42.0,83,3486.0,1010.9399999999999,0.29,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Men's Apparel,50.0,78,3900.0,1248.0,0.32,Outlet
+Amazon,1185732,2021-11-14,Northeast,Massachusetts,Boston,Women's Apparel,48.0,123,5904.0,2066.4,0.35,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Street Footwear,51.0,178,9078.0,3177.2999999999997,0.35,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,37.0,113,4181.0,1337.92,0.32,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Street Footwear,36.0,112,4032.0,1088.64,0.27,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,43.0,105,4515.0,1264.2,0.28,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Men's Apparel,52.0,90,4680.0,1357.1999999999998,0.29,Outlet
+Amazon,1185732,2021-12-13,Northeast,Massachusetts,Boston,Women's Apparel,51.0,128,6528.0,2154.24,0.32999999999999996,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Street Footwear,35.0,179,6265.0,3257.8,0.52,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,36.0,107,3852.0,1887.48,0.49,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Street Footwear,27.0,101,2727.0,1090.8,0.39999999999999997,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,29.0,53,1537.0,599.43,0.38999999999999996,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Men's Apparel,37.0,70,2590.0,1061.8999999999999,0.41,Outlet
+Amazon,1185732,2021-01-14,Northeast,Massachusetts,Boston,Women's Apparel,34.0,104,3536.0,1520.4799999999998,0.42999999999999994,Outlet
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Street Footwear,33.0,184,6072.0,2853.84,0.47000000000000003,Outlet
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Men's Athletic Footwear,33.0,72,2376.0,1116.72,0.47000000000000003,Outlet
+Amazon,1185732,2021-02-12,Northeast,Massachusetts,Boston,Women's Street Footwear,25.0,85,2125.0,849.9999999999999,0.39999999999999997,Outlet

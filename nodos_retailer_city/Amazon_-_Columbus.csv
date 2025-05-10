@@ -1,0 +1,137 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,30.0,375,112500.0,45000.0,0.4,Online
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Men's Apparel,45.0,450,202500.0,70875.0,0.35,Online
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Women's Apparel,30.0,550,165000.0,82500.0,0.5,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Street Footwear,30.0,770,231000.0,92400.0,0.4,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,30.0,450,135000.0,47250.0,0.35,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Street Footwear,20.0,475,95000.0,38000.0,0.4,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,24.999999999999993,325,81249.99999999997,32499.99999999999,0.4,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Apparel,40.00000000000001,375,150000.00000000003,52500.00000000001,0.35,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Apparel,30.0,475,142500.0,71250.0,0.5,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Street Footwear,30.0,725,217500.0,87000.0,0.4,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,30.0,425,127500.0,44625.0,0.35,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Street Footwear,20.0,425,85000.0,34000.0,0.4,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,24.999999999999993,350,87499.99999999997,34999.99999999999,0.4,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Apparel,45.0,375,168750.0,59062.49999999999,0.35,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Apparel,35.0,525,183750.0,91875.0,0.5,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Street Footwear,45.0,795,357750.0,143100.0,0.4,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,45.0,500,225000.0,78750.0,0.35,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Street Footwear,40.0,475,190000.0,76000.0,0.4,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,40.0,425,170000.0,68000.0,0.4,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Apparel,49.99999999999999,450,224999.99999999997,78749.99999999999,0.35,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Apparel,54.99999999999999,550,302499.99999999994,151249.99999999997,0.5,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Street Footwear,49.99999999999999,800,399999.99999999994,160000.0,0.4,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Athletic Footwear,45.0,550,247500.0,86625.0,0.35,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Street Footwear,50.0,525,262500.0,105000.0,0.4,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,50.0,500,250000.0,100000.0,0.4,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Apparel,65.0,500,325000.0,113750.0,0.35,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Apparel,70.0,675,472500.0,236250.0,0.5,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Street Footwear,65.0,900,585000.0,234000.0,0.4,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,60.00000000000001,650,390000.00000000006,136500.0,0.35,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Street Footwear,55.00000000000001,575,316250.00000000006,126500.00000000003,0.4,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,55.00000000000001,525,288750.00000000006,115500.00000000003,0.4,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Apparel,65.0,550,357500.0,125124.99999999999,0.35,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Apparel,70.0,725,507500.0,253750.0,0.5,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Street Footwear,65.0,875,568750.0,227500.0,0.4,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,60.00000000000001,650,390000.00000000006,136500.0,0.35,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Street Footwear,55.00000000000001,575,316250.00000000006,126500.00000000003,0.4,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,45.0,525,236250.0,94500.0,0.4,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Apparel,55.00000000000001,500,275000.00000000006,96250.00000000001,0.35,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Apparel,60.00000000000001,675,405000.00000000006,202500.00000000003,0.5,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Street Footwear,55.00000000000001,775,426250.00000000006,170500.00000000003,0.4,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,50.000000000000014,575,287500.00000000006,100625.00000000001,0.35,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Street Footwear,25.000000000000007,475,118750.00000000003,47500.000000000015,0.4,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,25.000000000000007,450,112500.00000000003,45000.000000000015,0.4,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Apparel,35.0,450,157500.0,55125.0,0.35,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Apparel,40.00000000000001,550,220000.00000000003,110000.00000000001,0.5,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Street Footwear,40.00000000000001,725,290000.00000000006,116000.00000000003,0.4,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Athletic Footwear,30.00000000000001,550,165000.00000000006,57750.000000000015,0.35,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Street Footwear,30.00000000000001,425,127500.00000000004,51000.00000000002,0.4,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,30.00000000000001,400,120000.00000000004,48000.00000000002,0.4,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Apparel,40.00000000000001,400,160000.00000000003,56000.00000000001,0.35,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Apparel,40.0,525,210000.0,105000.0,0.5,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Street Footwear,35.00000000000001,675,236250.00000000006,94500.00000000003,0.4,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,25.00000000000001,500,125000.00000000006,43750.000000000015,0.35,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Street Footwear,35.000000000000014,445,155750.00000000006,62300.00000000003,0.4,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,65.00000000000003,500,325000.0000000001,130000.00000000006,0.4,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Apparel,80.00000000000001,475,380000.00000000006,133000.0,0.35,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Apparel,80.0,575,460000.0,230000.0,0.5,Online
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Street Footwear,75.00000000000001,825,618750.0000000001,247500.00000000006,0.4,Online
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,65.00000000000001,625,406250.0000000001,142187.50000000003,0.35,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Street Footwear,40.0,500,200000.0,80000.0,0.4,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Athletic Footwear,40.0,300,120000.0,42000.0,0.35,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Street Footwear,30.000000000000004,300,90000.00000000001,36000.00000000001,0.4,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Athletic Footwear,35.0,150,52500.0,21000.0,0.4,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Apparel,49.99999999999999,200,99999.99999999999,34999.99999999999,0.35,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Apparel,40.0,300,120000.0,48000.0,0.4,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Men's Street Footwear,40.0,550,220000.0,88000.0,0.4,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Men's Athletic Footwear,40.0,200,80000.0,28000.0,0.35,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Women's Street Footwear,30.000000000000004,250,75000.00000000001,30000.000000000007,0.4,Online
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,29.0,101,2929.0,1464.5,0.5,Online
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Men's Apparel,41.0,122,5002.0,2300.9199999999996,0.45999999999999996,Online
+Amazon,1185732,2021-02-11,Midwest,Ohio,Columbus,Women's Apparel,29.0,143,4147.0,2529.67,0.61,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Street Footwear,27.0,231,6237.0,3243.2400000000002,0.52,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,27.0,126,3402.0,1530.8999999999999,0.44999999999999996,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Street Footwear,20.0,124,2480.0,1314.4,0.53,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,24.0,98,2352.0,1223.04,0.52,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Men's Apparel,37.0,113,4181.0,2048.69,0.49,Online
+Amazon,1185732,2021-03-09,Midwest,Ohio,Columbus,Women's Apparel,28.0,128,3584.0,2186.24,0.61,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Street Footwear,28.0,218,6104.0,3357.2000000000003,0.55,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,28.0,111,3108.0,1522.92,0.49,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Street Footwear,19.0,106,2014.0,1067.42,0.53,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,24.0,102,2448.0,1224.0,0.5,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Men's Apparel,42.0,101,4242.0,1993.7399999999998,0.47,Online
+Amazon,1185732,2021-04-10,Midwest,Ohio,Columbus,Women's Apparel,34.0,137,4658.0,3027.7000000000003,0.65,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Street Footwear,42.0,207,8694.0,4347.0,0.5,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,44.0,135,5940.0,2910.6,0.49,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Street Footwear,39.0,143,5577.0,2844.27,0.51,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,38.0,123,4674.0,2570.7000000000003,0.55,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Men's Apparel,49.0,126,6174.0,2840.04,0.45999999999999996,Online
+Amazon,1185732,2021-05-09,Midwest,Ohio,Columbus,Women's Apparel,53.0,143,7579.0,4850.56,0.64,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Street Footwear,49.0,232,11368.0,6025.04,0.53,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Athletic Footwear,41.0,138,5658.0,2602.68,0.45999999999999996,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Street Footwear,49.0,142,6958.0,3757.32,0.54,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,49.0,140,6860.0,3498.6,0.51,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Apparel,62.0,150,9300.0,4371.0,0.47,Online
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Apparel,64.0,196,12544.0,7777.28,0.62,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Street Footwear,63.0,252,15876.0,8255.52,0.52,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,56.0,195,10920.0,5132.4,0.47,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Street Footwear,51.0,173,8823.0,4499.7300000000005,0.51,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,53.0,152,8056.0,4350.240000000001,0.54,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Apparel,59.0,154,9086.0,4179.5599999999995,0.45999999999999996,Online
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Apparel,69.0,181,12489.0,7868.07,0.63,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Street Footwear,61.0,228,13908.0,6954.0,0.5,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,58.0,195,11310.0,5202.599999999999,0.45999999999999996,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Street Footwear,53.0,150,7950.0,4054.5,0.51,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,41.0,158,6478.0,3303.78,0.51,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Apparel,50.0,135,6750.0,3307.5,0.49,Online
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Apparel,54.0,169,9126.0,5566.86,0.61,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Street Footwear,50.0,225,11250.0,6075.0,0.54,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,47.0,173,8131.0,3821.5699999999997,0.47,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Street Footwear,23.0,138,3174.0,1745.7,0.55,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,24.0,113,2712.0,1383.1200000000001,0.51,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Apparel,32.0,122,3904.0,1873.9199999999998,0.48,Online
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Women's Apparel,37.0,138,5106.0,3165.72,0.62,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Street Footwear,36.0,210,7560.0,3931.2000000000003,0.52,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Athletic Footwear,29.0,138,4002.0,1880.9399999999998,0.47,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Street Footwear,27.0,106,2862.0,1516.8600000000001,0.53,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Athletic Footwear,29.0,112,3248.0,1656.48,0.51,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Men's Apparel,37.0,116,4292.0,1974.32,0.45999999999999996,Online
+Amazon,1185732,2021-10-11,Midwest,Ohio,Columbus,Women's Apparel,38.0,147,5586.0,3519.18,0.63,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Street Footwear,34.0,169,5746.0,2987.92,0.52,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Athletic Footwear,24.0,140,3360.0,1511.9999999999998,0.44999999999999996,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Street Footwear,32.0,116,3712.0,1856.0,0.5,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Athletic Footwear,59.0,135,7965.0,3982.5,0.5,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Men's Apparel,76.0,138,10488.0,5139.12,0.49,Online
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Apparel,74.0,167,12358.0,7909.12,0.64,Online
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Street Footwear,70.0,231,16170.0,8085.0,0.5,Online
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,60.0,181,10860.0,5104.2,0.47,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Street Footwear,37.0,135,4995.0,2697.3,0.54,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Athletic Footwear,38.0,78,2964.0,1393.08,0.47,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Street Footwear,28.0,75,2100.0,1092.0,0.52,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Athletic Footwear,34.0,42,1428.0,714.0,0.5,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Men's Apparel,46.0,52,2392.0,1124.24,0.47,Online
+Amazon,1185732,2021-01-22,Midwest,Ohio,Columbus,Women's Apparel,37.0,81,2997.0,1618.38,0.54,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Men's Street Footwear,38.0,138,5244.0,2779.32,0.53,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Men's Athletic Footwear,38.0,58,2204.0,1013.8399999999999,0.45999999999999996,Online
+Amazon,1185732,2021-02-22,Midwest,Ohio,Columbus,Women's Street Footwear,29.0,63,1827.0,968.3100000000001,0.53,Online

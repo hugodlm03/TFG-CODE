@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Kohl's,1189833,2020-12-28,Midwest,Minnesota,Minneapolis,Men's Street Footwear,35.0,475,166250.0,74812.5,0.45,Outlet
+Kohl's,1189833,2020-12-29,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45.0,475,213750.0,64125.0,0.3,Outlet
+Kohl's,1189833,2020-12-30,Midwest,Minnesota,Minneapolis,Women's Street Footwear,45.0,475,213750.0,96187.5,0.45,Outlet
+Kohl's,1189833,2020-12-31,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,45.0,325,146250.0,58499.99999999999,0.39999999999999997,Outlet
+Kohl's,1189833,2020-12-28,Midwest,Minnesota,Minneapolis,Men's Street Footwear,32.0,119,3808.0,2208.6400000000003,0.5800000000000001,Online
+Kohl's,1189833,2020-12-29,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,43.0,128,5504.0,2311.68,0.42,Online
+Kohl's,1189833,2020-12-30,Midwest,Minnesota,Minneapolis,Women's Street Footwear,41.0,119,4879.0,2878.6100000000006,0.5900000000000001,Online
+Kohl's,1189833,2020-12-31,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,44.0,98,4312.0,2242.2400000000002,0.52,Online

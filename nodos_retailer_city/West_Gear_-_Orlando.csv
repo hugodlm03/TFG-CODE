@@ -1,0 +1,40 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,80.00000000000001,600,480000.00000000006,144000.0,0.3,In-store
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Athletic Footwear,80.00000000000001,600,480000.00000000006,144000.0,0.3,In-store
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,90.00000000000001,525,472500.00000000006,94500.00000000001,0.2,In-store
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,95.00000000000001,625,593750.0000000001,267187.50000000006,0.45,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Street Footwear,45.0,850,382500.0,172125.0,0.45,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Athletic Footwear,45.0,650,292500.0,102375.0,0.35,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Street Footwear,35.0,650,227500.0,56875.0,0.25,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Athletic Footwear,40.0,500,200000.0,60000.0,0.3,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Apparel,55.00000000000001,550,302500.00000000006,105875.00000000001,0.35,In-store
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Apparel,45.0,650,292500.0,146250.0,0.5,In-store
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Street Footwear,45.0,900,405000.0,182250.0,0.45,In-store
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Athletic Footwear,45.0,550,247500.0,86625.0,0.35,In-store
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Women's Street Footwear,35.0,600,210000.0,52500.0,0.25,In-store
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,75.0,174,13050.0,5220.0,0.4,Online
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Athletic Footwear,78.0,180,14040.0,5756.4,0.41,Online
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,86.0,147,12642.0,4424.7,0.35,Online
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,87.0,156,13572.0,7464.6,0.55,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Street Footwear,41.0,255,10455.0,5750.250000000001,0.55,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Athletic Footwear,44.0,189,8316.0,3908.52,0.47,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Street Footwear,32.0,169,5408.0,2055.04,0.38,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Athletic Footwear,37.0,145,5365.0,2199.65,0.41,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Apparel,51.0,165,8415.0,3786.7499999999995,0.44999999999999996,Online
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Apparel,44.0,176,7744.0,5033.6,0.65,Online
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Street Footwear,44.0,234,10296.0,5662.8,0.55,Online
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Athletic Footwear,42.0,138,5796.0,2840.04,0.49,Online
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Women's Street Footwear,33.0,174,5742.0,2124.54,0.37,Online
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,64.0,204,13056.0,4308.48,0.32999999999999996,Outlet
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Athletic Footwear,58.0,204,11832.0,4022.8799999999997,0.33999999999999997,Outlet
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,64.0,179,11456.0,2978.56,0.26,Outlet
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,64.0,200,12800.0,6144.0,0.48,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Street Footwear,30.0,272,8160.0,4161.6,0.51,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Athletic Footwear,36.0,221,7956.0,3182.3999999999996,0.39999999999999997,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Street Footwear,26.0,202,5252.0,1523.08,0.29,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Athletic Footwear,30.0,170,5100.0,1887.0,0.37,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Men's Apparel,36.0,193,6948.0,2848.68,0.41,Outlet
+West Gear,1185732,2021-01-12,Southeast,Florida,Orlando,Women's Apparel,35.0,221,7735.0,4254.25,0.55,Outlet
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Street Footwear,36.0,288,10368.0,4872.96,0.47000000000000003,Outlet
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Athletic Footwear,31.0,165,5115.0,2097.15,0.41,Outlet
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Women's Street Footwear,23.0,204,4692.0,1501.44,0.32,Outlet

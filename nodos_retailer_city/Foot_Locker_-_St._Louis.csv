@@ -1,0 +1,119 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.000000000000007,250,62500.000000000015,25000.000000000007,0.4,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Men's Apparel,40.0,325,130000.0,45500.0,0.35,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Women's Apparel,30.0,400,120000.0,60000.0,0.5,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,620,217000.0,86800.0,0.4,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,35.0,300,105000.0,36750.0,0.35,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Street Footwear,25.000000000000007,350,87500.00000000003,30625.000000000007,0.35,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,30.0,200,60000.0,24000.0,0.4,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Apparel,45.0,250,112500.0,39375.0,0.35,In-store
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Apparel,35.0,350,122500.0,61250.0,0.5,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,575,201250.0,80500.0,0.4,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,30.000000000000004,275,82500.00000000001,28875.000000000004,0.35,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Street Footwear,20.000000000000007,275,55000.00000000002,19250.000000000007,0.35,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.0,200,50000.0,20000.0,0.4,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Apparel,40.0,225,90000.0,31499.999999999996,0.35,In-store
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Apparel,30.000000000000004,350,105000.00000000001,52500.00000000001,0.5,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Street Footwear,40.0,620,248000.0,99200.0,0.4,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Athletic Footwear,35.00000000000001,325,113750.00000000003,39812.50000000001,0.35,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Street Footwear,30.000000000000004,300,90000.00000000001,31500.000000000004,0.35,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Athletic Footwear,30.000000000000004,225,67500.00000000001,27000.000000000007,0.4,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Apparel,44.99999999999999,250,112499.99999999999,39374.99999999999,0.35,In-store
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Apparel,49.99999999999999,350,174999.99999999997,87499.99999999999,0.5,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,600,210000.0,84000.0,0.4,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,30.00000000000001,350,105000.00000000004,36750.000000000015,0.35,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Street Footwear,25.000000000000007,375,93750.00000000003,32812.50000000001,0.35,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.000000000000007,350,87500.00000000003,35000.000000000015,0.4,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Apparel,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Apparel,45.0,525,236250.0,118125.0,0.5,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Street Footwear,40.0,750,300000.0,120000.0,0.4,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,35.00000000000001,500,175000.00000000003,61250.00000000001,0.35,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Street Footwear,30.000000000000004,425,127500.00000000001,44625.0,0.35,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,30.000000000000004,375,112500.00000000001,45000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Apparel,40.0,375,150000.0,52500.0,0.35,In-store
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Apparel,45.0,550,247500.0,123750.0,0.5,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Street Footwear,40.0,700,280000.0,112000.0,0.4,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,40.00000000000001,475,190000.00000000003,66500.0,0.35,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Street Footwear,35.0,400,140000.0,49000.0,0.35,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.000000000000007,325,81250.00000000003,32500.000000000015,0.4,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Apparel,35.0,300,105000.0,36750.0,0.35,In-store
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Apparel,40.0,475,190000.0,95000.0,0.5,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,600,210000.0,84000.0,0.4,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Athletic Footwear,30.00000000000001,400,120000.00000000004,42000.000000000015,0.35,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Street Footwear,15.000000000000002,300,45000.00000000001,15750.000000000002,0.35,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Athletic Footwear,15.000000000000002,275,41250.00000000001,16500.000000000004,0.4,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Apparel,25.0,275,68750.0,24062.5,0.35,In-store
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Apparel,30.000000000000004,350,105000.00000000001,52500.00000000001,0.5,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,525,183750.0,73500.0,0.4,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,25.0,350,87500.0,30624.999999999996,0.35,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Street Footwear,25.0,250,62500.0,21875.0,0.35,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.0,225,56250.0,22500.0,0.4,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Apparel,35.0,225,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Apparel,39.99999999999999,350,139999.99999999997,69999.99999999999,0.5,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Street Footwear,35.0,500,175000.0,70000.0,0.4,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,25.000000000000007,350,87500.00000000003,30625.000000000007,0.35,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Street Footwear,25.000000000000007,295,73750.00000000001,25812.500000000004,0.35,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,25.000000000000007,325,81250.00000000003,32500.000000000015,0.4,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Apparel,44.99999999999999,300,134999.99999999997,47249.999999999985,0.35,In-store
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Apparel,49.999999999999986,400,199999.99999999994,99999.99999999997,0.5,In-store
+Foot Locker,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Street Footwear,44.99999999999999,650,292499.99999999994,116999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,35.0,450,157500.0,55125.0,0.35,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,24.0,70,1680.0,873.6,0.52,Online
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Men's Apparel,38.0,88,3344.0,1504.8,0.44999999999999996,Online
+Foot Locker,1185732,2021-02-18,Midwest,Missouri,St. Louis,Women's Apparel,28.0,120,3360.0,2116.8,0.63,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Street Footwear,34.0,186,6324.0,3225.2400000000002,0.51,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,34.0,87,2958.0,1331.1,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Street Footwear,23.0,95,2185.0,1005.0999999999999,0.45999999999999996,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,28.0,54,1512.0,771.12,0.51,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Men's Apparel,41.0,75,3075.0,1506.75,0.49,Online
+Foot Locker,1185732,2021-03-17,Midwest,Missouri,St. Louis,Women's Apparel,34.0,102,3468.0,2254.2000000000003,0.65,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Street Footwear,33.0,144,4752.0,2471.04,0.52,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,27.0,72,1944.0,952.56,0.49,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Street Footwear,18.0,83,1494.0,732.06,0.49,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,23.0,52,1196.0,621.9200000000001,0.52,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Men's Apparel,36.0,65,2340.0,1053.0,0.44999999999999996,Online
+Foot Locker,1185732,2021-04-18,Midwest,Missouri,St. Louis,Women's Apparel,28.0,105,2940.0,1793.3999999999999,0.61,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Street Footwear,39.0,180,7020.0,3580.2000000000003,0.51,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Athletic Footwear,34.0,88,2992.0,1406.24,0.47,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Street Footwear,29.0,87,2523.0,1160.58,0.45999999999999996,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Athletic Footwear,29.0,65,1885.0,1036.75,0.55,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Men's Apparel,44.0,70,3080.0,1478.3999999999999,0.48,Online
+Foot Locker,1185732,2021-05-19,Midwest,Missouri,St. Louis,Women's Apparel,45.0,105,4725.0,2835.0,0.6,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Street Footwear,32.0,168,5376.0,2903.04,0.54,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,27.0,91,2457.0,1130.2199999999998,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Street Footwear,23.0,113,2599.0,1273.51,0.49,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,23.0,91,2093.0,1046.5,0.5,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Men's Apparel,38.0,102,3876.0,1744.1999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-18,Midwest,Missouri,St. Louis,Women's Apparel,42.0,142,5964.0,3876.6,0.65,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Street Footwear,36.0,203,7308.0,4019.4000000000005,0.55,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,33.0,130,4290.0,2016.3,0.47,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Street Footwear,29.0,128,3712.0,1707.52,0.45999999999999996,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,29.0,101,2929.0,1552.3700000000001,0.53,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Men's Apparel,37.0,94,3478.0,1704.22,0.49,Online
+Foot Locker,1185732,2021-07-17,Midwest,Missouri,St. Louis,Women's Apparel,41.0,160,6560.0,4001.6,0.61,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Street Footwear,38.0,203,7714.0,3857.0,0.5,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,38.0,143,5434.0,2499.64,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Street Footwear,32.0,120,3840.0,1766.3999999999999,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,24.0,91,2184.0,1201.2,0.55,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Men's Apparel,34.0,81,2754.0,1294.3799999999999,0.47,Online
+Foot Locker,1185732,2021-08-18,Midwest,Missouri,St. Louis,Women's Apparel,36.0,128,4608.0,2995.2000000000003,0.65,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Street Footwear,32.0,174,5568.0,2784.0,0.5,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Athletic Footwear,28.0,100,2800.0,1316.0,0.47,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Street Footwear,14.0,75,1050.0,514.5,0.49,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Athletic Footwear,14.0,83,1162.0,615.86,0.53,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Men's Apparel,23.0,77,1771.0,832.37,0.47,Online
+Foot Locker,1185732,2021-09-19,Midwest,Missouri,St. Louis,Women's Apparel,28.0,95,2660.0,1702.4,0.64,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Street Footwear,34.0,131,4454.0,2271.54,0.51,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,24.0,91,2184.0,1092.0,0.5,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Street Footwear,23.0,73,1679.0,805.92,0.48,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,23.0,59,1357.0,678.5,0.5,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Men's Apparel,32.0,68,2176.0,1022.7199999999999,0.47,Online
+Foot Locker,1185732,2021-10-18,Midwest,Missouri,St. Louis,Women's Apparel,38.0,88,3344.0,2140.16,0.64,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Street Footwear,34.0,150,5100.0,2601.0,0.51,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Athletic Footwear,23.0,88,2024.0,910.8,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Street Footwear,23.0,80,1840.0,901.6,0.49,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Athletic Footwear,23.0,88,2024.0,1052.48,0.52,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Men's Apparel,43.0,81,3483.0,1671.84,0.48,Online
+Foot Locker,1185732,2021-11-18,Midwest,Missouri,St. Louis,Women's Apparel,48.0,108,5184.0,3265.92,0.63,Online
+Foot Locker,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Street Footwear,41.0,163,6683.0,3475.1600000000003,0.52,Online
+Foot Locker,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Athletic Footwear,32.0,113,3616.0,1735.6799999999998,0.48,Online

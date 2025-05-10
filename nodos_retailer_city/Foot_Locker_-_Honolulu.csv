@@ -1,0 +1,75 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Men's Apparel,50.0,150,75000.0,11250.0,0.15,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Apparel,45.0,350,157500.0,63000.0,0.4,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Street Footwear,45.0,500,225000.0,56250.0,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Athletic Footwear,54.99999999999999,350,192499.99999999997,38499.99999999999,0.2,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Street Footwear,59.999999999999986,375,224999.99999999994,56249.999999999985,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Athletic Footwear,54.99999999999999,275,151249.99999999997,37812.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Apparel,60.0,125,75000.0,11250.0,0.15,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Apparel,54.99999999999999,325,178749.99999999997,71499.99999999999,0.4,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Street Footwear,60.0,500,300000.0,75000.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Athletic Footwear,65.0,300,195000.0,39000.0,0.2,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Street Footwear,65.0,350,227500.0,56875.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Athletic Footwear,50.0,250,125000.0,31250.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Apparel,55.00000000000001,150,82500.00000000001,12375.000000000002,0.15,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Apparel,70.0,325,227500.0,91000.0,0.4,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Street Footwear,54.99999999999999,525,288749.99999999994,72187.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Athletic Footwear,60.0,375,225000.0,45000.0,0.2,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Street Footwear,60.0,375,225000.0,56250.0,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Athletic Footwear,54.99999999999999,275,151249.99999999997,37812.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Apparel,60.0,175,105000.0,15750.0,0.15,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Apparel,75.0,475,356250.0,142500.0,0.4,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,70.0,725,507500.0,126875.0,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.0,600,450000.0,90000.0,0.2,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Street Footwear,75.0,600,450000.0,112500.0,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Athletic Footwear,75.0,475,356250.0,89062.5,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Apparel,85.00000000000001,350,297500.00000000006,44625.00000000001,0.15,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,100.0,650,650000.0,260000.0,0.4,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,80.0,800,640000.0,160000.0,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.00000000000001,650,552500.0000000001,110500.00000000003,0.2,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Street Footwear,85.00000000000001,600,510000.00000000006,127500.00000000001,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,80.0,500,400000.0,100000.0,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Apparel,85.00000000000001,550,467500.00000000006,70125.0,0.15,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,100.0,550,550000.0,220000.0,0.4,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,85.00000000000001,750,637500.0000000001,159375.00000000003,0.25,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.00000000000001,725,543750.0000000001,108750.00000000003,0.2,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,70.0,600,420000.0,105000.0,0.25,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Athletic Footwear,70.0,525,367500.0,91875.0,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Athletic Footwear,41.0,56,2296.0,895.44,0.39,Online
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Men's Apparel,47.0,38,1786.0,535.8,0.3,Online
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Apparel,44.0,102,4488.0,2468.4,0.55,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Street Footwear,44.0,135,5940.0,2376.0,0.4,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Athletic Footwear,54.0,91,4914.0,1523.34,0.31,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Street Footwear,57.0,101,5757.0,2245.23,0.39,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Athletic Footwear,52.0,69,3588.0,1291.68,0.36,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Apparel,55.0,36,1980.0,514.8000000000001,0.26,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Apparel,50.0,85,4250.0,2337.5,0.55,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Street Footwear,59.0,130,7670.0,2761.2,0.36,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Athletic Footwear,61.0,81,4941.0,1729.35,0.35,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Street Footwear,60.0,91,5460.0,2074.8,0.38,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Athletic Footwear,48.0,73,3504.0,1226.3999999999999,0.35,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Apparel,52.0,42,2184.0,589.6800000000001,0.27,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Apparel,66.0,94,6204.0,3102.0,0.5,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Street Footwear,51.0,158,8058.0,2981.46,0.37,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Athletic Footwear,58.0,98,5684.0,1875.72,0.33,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Street Footwear,56.0,98,5488.0,2195.2000000000003,0.4,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Athletic Footwear,52.0,80,4160.0,1664.0,0.4,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Apparel,55.0,46,2530.0,708.4000000000001,0.28,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Apparel,69.0,143,9867.0,5426.85,0.55,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,67.0,210,14070.0,5628.0,0.4,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Athletic Footwear,72.0,156,11232.0,3481.92,0.31,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Street Footwear,71.0,180,12780.0,4600.8,0.36,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Athletic Footwear,74.0,133,9842.0,3739.96,0.38,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Apparel,83.0,88,7304.0,2191.2,0.3,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,97.0,169,16393.0,8524.36,0.52,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,74.0,208,15392.0,5695.04,0.37,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,81.0,182,14742.0,5012.280000000001,0.34,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Street Footwear,79.0,150,11850.0,4266.0,0.36,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,73.0,130,9490.0,3796.0,0.4,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Apparel,80.0,149,11920.0,3576.0,0.3,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,96.0,154,14784.0,7687.68,0.52,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,79.0,210,16590.0,6138.3,0.37,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,71.0,218,15478.0,5262.52,0.34,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,64.0,162,10368.0,4043.52,0.39,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Athletic Footwear,67.0,142,9514.0,3615.32,0.38,Online

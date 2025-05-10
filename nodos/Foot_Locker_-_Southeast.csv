@@ -1,0 +1,423 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-08-10,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-08-11,Southeast,Florida,Miami,Women's Apparel,45.0,850,382500.0,191250.0,0.5,In-store
+Foot Locker,1185732,2020-08-12,Southeast,Florida,Miami,Men's Street Footwear,45.0,1100,495000.0,222750.0,0.45,In-store
+Foot Locker,1185732,2020-08-13,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,750,337500.0,118124.99999999999,0.35,In-store
+Foot Locker,1185732,2020-08-14,Southeast,Florida,Miami,Women's Street Footwear,35.0,800,280000.0,70000.0,0.25,In-store
+Foot Locker,1185732,2020-08-16,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-08-17,Southeast,Florida,Miami,Women's Apparel,45.0,850,382500.0,191250.0,0.5,In-store
+Foot Locker,1185732,2020-08-18,Southeast,Florida,Miami,Men's Street Footwear,45.0,1070,481500.0,216675.0,0.45,In-store
+Foot Locker,1185732,2020-08-19,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,750,337500.0,118124.99999999999,0.35,In-store
+Foot Locker,1185732,2020-08-20,Southeast,Florida,Miami,Women's Street Footwear,35.0,775,271250.0,67812.5,0.25,In-store
+Foot Locker,1185732,2020-08-21,Southeast,Florida,Miami,Women's Athletic Footwear,40.0,625,250000.0,75000.0,0.3,In-store
+Foot Locker,1185732,2020-08-22,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,675,371250.00000000006,129937.50000000001,0.35,In-store
+Foot Locker,1185732,2020-08-23,Southeast,Florida,Miami,Women's Apparel,45.0,775,348750.0,174375.0,0.5,In-store
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,45.0,1025,461250.0,207562.5,0.45,In-store
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,725,326250.0,114187.5,0.35,In-store
+Foot Locker,1185732,2020-09-20,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,775,348750.0,104625.0,0.3,In-store
+Foot Locker,1185732,2020-09-21,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,60.00000000000001,925,555000.0000000001,277500.00000000006,0.5,In-store
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,55.00000000000001,1050,577500.0000000001,259875.00000000006,0.45,In-store
+Foot Locker,1185732,2020-09-24,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,850,425000.0000000001,148750.00000000003,0.35,In-store
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Men's Apparel,65.0,775,503750.0,176312.5,0.35,In-store
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,70.0,875,612500.0,306250.0,0.5,In-store
+Foot Locker,1185732,2020-10-17,Southeast,Florida,Miami,Men's Street Footwear,35.0,450,157500.0,55125.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-10-18,Southeast,Florida,Miami,Men's Athletic Footwear,35.0,250,87500.0,26250.0,0.3,In-store
+Foot Locker,1185732,2020-10-19,Southeast,Florida,Miami,Women's Street Footwear,25.0,250,62500.0,18750.0,0.3,In-store
+Foot Locker,1185732,2020-10-20,Southeast,Florida,Miami,Women's Athletic Footwear,30.000000000000004,100,30000.000000000004,10500.000000000002,0.35000000000000003,In-store
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Men's Apparel,45.00000000000001,125,56250.00000000001,22500.000000000004,0.4,In-store
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Apparel,40.0,325,130000.0,39000.0,0.3,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Street Footwear,40.0,475,190000.0,66500.0,0.35,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Street Footwear,54.99999999999999,350,192499.99999999997,67374.99999999999,0.35,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Apparel,55.00000000000001,100,55000.00000000001,22000.000000000004,0.4,In-store
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Apparel,50.0,300,150000.0,45000.0,0.3,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,60.00000000000001,275,165000.00000000003,57750.00000000001,0.35,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Street Footwear,60.00000000000001,325,195000.00000000003,68250.0,0.35,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,45.00000000000001,225,101250.00000000001,35437.5,0.35,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Apparel,50.000000000000014,125,62500.000000000015,25000.000000000007,0.4,In-store
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Apparel,65.00000000000001,300,195000.00000000003,58500.00000000001,0.3,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Street Footwear,50.0,500,250000.0,87500.0,0.35,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Street Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,50.0,275,137500.0,48125.0,0.35,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Apparel,44.99999999999999,175,78749.99999999999,31499.999999999996,0.4,In-store
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Apparel,60.0,525,315000.0,94500.0,0.3,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Street Footwear,54.99999999999999,775,426249.99999999994,149187.49999999997,0.35,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,64.99999999999999,650,422499.9999999999,147874.99999999994,0.35,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,80.0,650,520000.0,182000.0,0.35,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,80.0,525,420000.0,147000.0,0.35,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Apparel,90.0,400,360000.0,144000.0,0.4,In-store
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,105.0,700,735000.0,220500.0,0.3,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,85.0,850,722500.0,252874.99999999997,0.35,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,90.0,700,630000.0,220500.0,0.35,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,90.0,650,585000.0,204750.0,0.35,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,85.0,550,467500.0,163625.0,0.35,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,90.0,600,540000.0,216000.0,0.4,In-store
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,105.0,600,630000.0,189000.0,0.3,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Street Footwear,90.0,800,720000.0,251999.99999999997,0.35,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,80.0,775,620000.0,217000.0,0.35,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,70.0,650,455000.0,159250.0,0.35,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,70.0,425,297500.0,104125.0,0.35,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Apparel,70.0,425,297500.0,119000.0,0.4,In-store
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,75.0,250,187500.0,56250.0,0.3,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Street Footwear,50.000000000000014,450,225000.00000000006,78750.00000000001,0.35,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,55.000000000000014,450,247500.00000000006,86625.00000000001,0.35,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Street Footwear,50.000000000000014,250,125000.00000000003,43750.00000000001,0.35,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,50.000000000000014,200,100000.00000000003,35000.00000000001,0.35,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Apparel,60.00000000000001,225,135000.00000000003,54000.000000000015,0.4,In-store
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Apparel,44.99999999999999,250,112499.99999999999,33749.99999999999,0.3,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Street Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,55.000000000000014,525,288750.00000000006,101062.50000000001,0.35,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Street Footwear,50.000000000000014,350,175000.00000000006,61250.000000000015,0.35,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,45.00000000000001,325,146250.00000000003,51187.50000000001,0.35,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Apparel,55.00000000000001,300,165000.00000000003,66000.00000000001,0.4,In-store
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Apparel,60.00000000000001,350,210000.00000000003,63000.00000000001,0.3,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Street Footwear,45.00000000000001,575,258750.00000000003,90562.5,0.35,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,50.000000000000014,650,325000.0000000001,113750.00000000003,0.35,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Street Footwear,45.00000000000001,475,213750.00000000003,74812.5,0.35,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,55.000000000000014,450,247500.00000000006,86625.00000000001,0.35,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Apparel,75.00000000000001,425,318750.00000000006,127500.00000000003,0.4,In-store
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Apparel,80.00000000000001,550,440000.00000000006,132000.0,0.3,In-store
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Street Footwear,65.00000000000001,750,487500.0000000001,170625.00000000003,0.35,In-store
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,75.00000000000003,750,562500.0000000002,196875.00000000006,0.35,In-store
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,55.00000000000001,475,261250.00000000003,104500.00000000001,0.4,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,65.0,400,260000.0,91000.0,0.35,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,70.0,500,350000.0,87500.0,0.25,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,40.0,1025,410000.0,184500.0,0.45,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,825,330000.0,115499.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,30.000000000000004,825,247500.00000000003,61875.00000000001,0.25,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,35.0,675,236250.0,70875.0,0.3,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,50.0,725,362500.0,126874.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,40.0,825,330000.0,165000.0,0.5,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,40.0,1075,430000.0,193500.0,0.45,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,725,290000.0,101500.0,0.35,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,30.000000000000004,775,232500.00000000003,58125.00000000001,0.25,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,35.0,625,218750.0,65625.0,0.3,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Men's Apparel,50.0,700,350000.0,122499.99999999999,0.35,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Apparel,35.0,800,280000.0,140000.0,0.5,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,1020,357000.0,160650.0,0.45,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,700,245000.0,85750.0,0.35,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Street Footwear,25.0,725,181250.0,45312.5,0.25,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.999999999999993,575,172499.99999999997,51749.99999999999,0.3,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Apparel,45.00000000000001,625,281250.00000000006,98437.50000000001,0.35,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Apparel,35.0,725,253750.0,126875.0,0.5,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,975,341250.0,153562.5,0.45,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,675,236250.0,82687.5,0.35,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Street Footwear,25.0,675,168750.0,42187.5,0.25,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.999999999999993,600,179999.99999999997,53999.99999999999,0.3,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Apparel,50.0,625,312500.0,109375.0,0.35,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Apparel,40.0,775,310000.0,155000.0,0.5,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,1045,522500.0,235125.0,0.45,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.0,750,375000.0,131250.0,0.35,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Street Footwear,45.0,725,326250.0,81562.5,0.25,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.0,675,303750.0,91125.0,0.3,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Apparel,54.99999999999999,700,384999.99999999994,134749.99999999997,0.35,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Apparel,60.0,800,480000.0,240000.0,0.5,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,54.99999999999999,1050,577499.9999999999,259874.99999999994,0.45,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.0,800,400000.0,140000.0,0.35,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Street Footwear,50.0,775,387500.0,96875.0,0.25,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,50.0,750,375000.0,112500.0,0.3,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Apparel,65.0,750,487500.0,170625.0,0.35,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,70.0,925,647500.0,323750.0,0.5,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1150,747500.0,336375.0,0.45,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,127875.00000000001,0.3,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,65.0,800,520000.0,182000.0,0.35,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,70.0,975,682500.0,341250.0,0.5,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1125,731250.0,329062.5,0.45,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.0,775,348750.0,104625.0,0.3,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,60.00000000000001,925,555000.0000000001,277500.00000000006,0.5,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,1025,563750.0000000001,253687.50000000006,0.45,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.000000000000014,825,412500.0000000001,144375.00000000003,0.35,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Street Footwear,40.0,725,290000.0,72500.0,0.25,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,40.0,700,280000.0,84000.0,0.3,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Apparel,50.0,700,350000.0,122499.99999999999,0.35,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Apparel,55.00000000000001,800,440000.00000000006,220000.00000000003,0.5,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,975,536250.0000000001,241312.50000000006,0.45,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.000000000000014,800,360000.0000000001,126000.00000000003,0.35,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Street Footwear,45.000000000000014,675,303750.0000000001,75937.50000000003,0.25,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.000000000000014,650,292500.0000000001,87750.00000000003,0.3,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Apparel,55.00000000000001,650,357500.00000000006,125125.00000000001,0.35,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Apparel,60.0,775,465000.0,232500.0,0.5,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,925,508750.00000000006,228937.50000000003,0.45,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.000000000000014,750,337500.0000000001,118125.00000000003,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Street Footwear,45.000000000000014,695,312750.0000000001,78187.50000000003,0.25,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.000000000000014,750,412500.0000000001,123750.00000000003,0.3,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,70.0,725,507500.0,177625.0,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,75.0,825,618750.0,309375.0,0.5,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,70.0,1075,752500.0,338625.0,0.45,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,875,525000.0000000001,183750.00000000003,0.35,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,55.00000000000001,200,110000.00000000001,44000.00000000001,0.4,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Apparel,65.0,175,113750.0,39812.5,0.35,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Apparel,70.0,275,192500.0,77000.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Street Footwear,65.0,525,341250.0,136500.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,55.00000000000001,325,178750.00000000003,62562.50000000001,0.35,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Street Footwear,55.00000000000001,275,151250.00000000003,60500.000000000015,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,50.0,225,112500.0,45000.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Apparel,60.0,225,135000.0,47250.0,0.35,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Street Footwear,30.000000000000004,725,217500.00000000003,87000.00000000001,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Athletic Footwear,30.000000000000004,525,157500.00000000003,55125.00000000001,0.35,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Street Footwear,20.000000000000007,525,105000.00000000004,42000.00000000002,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Athletic Footwear,25.0,375,93750.0,37500.0,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Apparel,40.0,425,170000.0,59499.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Apparel,30.000000000000004,525,157500.00000000003,78750.00000000001,0.5,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Street Footwear,30.000000000000004,775,232500.00000000003,93000.00000000001,0.4,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Athletic Footwear,30.000000000000004,425,127500.00000000001,44625.0,0.35,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Women's Street Footwear,20.000000000000007,475,95000.00000000003,38000.000000000015,0.4,Online
+Foot Locker,1185732,2020-08-10,Southeast,Florida,Miami,Men's Apparel,50.0,195,9750.0,4875.0,0.5,Online
+Foot Locker,1185732,2020-08-11,Southeast,Florida,Miami,Women's Apparel,41.0,247,10127.0,6278.74,0.62,Online
+Foot Locker,1185732,2020-08-12,Southeast,Florida,Miami,Men's Street Footwear,43.0,319,13717.0,7818.6900000000005,0.5700000000000001,Online
+Foot Locker,1185732,2020-08-13,Southeast,Florida,Miami,Men's Athletic Footwear,43.0,195,8385.0,4108.65,0.49,Online
+Foot Locker,1185732,2020-08-14,Southeast,Florida,Miami,Women's Street Footwear,32.0,240,7680.0,2918.4,0.38,Online
+Foot Locker,1185732,2020-08-16,Southeast,Florida,Miami,Men's Apparel,53.0,218,11554.0,5545.92,0.48,Online
+Foot Locker,1185732,2020-08-17,Southeast,Florida,Miami,Women's Apparel,41.0,221,9061.0,5889.650000000001,0.65,Online
+Foot Locker,1185732,2020-08-18,Southeast,Florida,Miami,Men's Street Footwear,41.0,268,10988.0,6592.8,0.6,Online
+Foot Locker,1185732,2020-08-19,Southeast,Florida,Miami,Men's Athletic Footwear,42.0,225,9450.0,4536.0,0.48,Online
+Foot Locker,1185732,2020-08-20,Southeast,Florida,Miami,Women's Street Footwear,32.0,217,6944.0,2430.3999999999996,0.35,Online
+Foot Locker,1185732,2020-08-21,Southeast,Florida,Miami,Women's Athletic Footwear,36.0,175,6300.0,2520.0,0.4,Online
+Foot Locker,1185732,2020-08-22,Southeast,Florida,Miami,Men's Apparel,53.0,182,9646.0,4437.16,0.45999999999999996,Online
+Foot Locker,1185732,2020-08-23,Southeast,Florida,Miami,Women's Apparel,42.0,225,9450.0,6048.0,0.64,Online
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,42.0,256,10752.0,6236.160000000001,0.5800000000000001,Online
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,41.0,210,8610.0,4305.0,0.5,Online
+Foot Locker,1185732,2020-09-20,Southeast,Florida,Miami,Women's Athletic Footwear,44.0,233,10252.0,4100.8,0.4,Online
+Foot Locker,1185732,2020-09-21,Southeast,Florida,Miami,Men's Apparel,52.0,225,11700.0,5264.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,56.0,278,15568.0,9496.48,0.61,Online
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,53.0,284,15052.0,8278.6,0.55,Online
+Foot Locker,1185732,2020-09-24,Southeast,Florida,Miami,Men's Athletic Footwear,46.0,255,11730.0,5278.499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Men's Apparel,60.0,202,12120.0,5938.8,0.49,Online
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,64.0,219,14016.0,8830.08,0.63,Online
+Foot Locker,1185732,2020-10-17,Southeast,Florida,Miami,Men's Street Footwear,33.0,131,4323.0,1945.3500000000004,0.45000000000000007,Online
+Foot Locker,1185732,2020-10-18,Southeast,Florida,Miami,Men's Athletic Footwear,33.0,65,2145.0,858.0,0.4,Online
+Foot Locker,1185732,2020-10-19,Southeast,Florida,Miami,Women's Street Footwear,24.0,63,1512.0,665.28,0.44,Online
+Foot Locker,1185732,2020-10-20,Southeast,Florida,Miami,Women's Athletic Footwear,29.0,26,754.0,339.30000000000007,0.45000000000000007,Online
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,38.0,58,2204.0,1102.0,0.5,Online
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Men's Apparel,42.0,38,1596.0,877.8000000000001,0.55,Online
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Apparel,38.0,81,3078.0,1323.54,0.43,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Street Footwear,38.0,143,5434.0,2553.98,0.47,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,45.0,85,3825.0,1797.75,0.47,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Street Footwear,52.0,91,4732.0,2271.36,0.48,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,48.0,65,3120.0,1435.1999999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Apparel,51.0,30,1530.0,795.6,0.52,Online
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Apparel,49.0,78,3822.0,1605.24,0.42,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Street Footwear,52.0,124,6448.0,3095.04,0.48,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,59.0,69,4071.0,1954.08,0.48,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Street Footwear,57.0,85,4845.0,2374.05,0.49,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,42.0,56,2352.0,1105.4399999999998,0.47,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Apparel,49.0,35,1715.0,874.65,0.51,Online
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Apparel,64.0,78,4992.0,2196.48,0.44,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Street Footwear,46.0,125,5750.0,2645.0,0.45999999999999996,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,51.0,98,4998.0,2249.1,0.44999999999999996,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Street Footwear,50.0,88,4400.0,2200.0,0.5,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,47.0,69,3243.0,1621.5,0.5,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Apparel,44.0,49,2156.0,1164.24,0.54,Online
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Apparel,56.0,152,8512.0,3660.16,0.43,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Street Footwear,53.0,233,12349.0,5804.03,0.47,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,62.0,176,10912.0,5019.5199999999995,0.45999999999999996,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,73.0,195,14235.0,6832.8,0.48,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,72.0,142,10224.0,5009.76,0.49,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Apparel,81.0,104,8424.0,4296.24,0.51,Online
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,96.0,182,17472.0,6988.8,0.4,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,79.0,255,20145.0,10072.5,0.5,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,81.0,203,16443.0,8221.5,0.5,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,86.0,182,15652.0,7043.4,0.44999999999999996,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,82.0,149,12218.0,5620.28,0.45999999999999996,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,85.0,162,13770.0,7573.500000000001,0.55,Online
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,96.0,180,17280.0,6912.0,0.4,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Street Footwear,83.0,240,19920.0,8964.0,0.44999999999999996,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,76.0,202,15352.0,7368.96,0.48,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,69.0,189,13041.0,6259.679999999999,0.48,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,66.0,111,7326.0,3589.74,0.49,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Apparel,64.0,106,6784.0,3459.84,0.51,Online
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,73.0,75,5475.0,2299.5,0.42,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Street Footwear,46.0,113,5198.0,2599.0,0.5,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,52.0,113,5876.0,2702.9599999999996,0.45999999999999996,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Street Footwear,47.0,65,3055.0,1435.85,0.47,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,45.0,54,2430.0,1190.7,0.49,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Apparel,58.0,56,3248.0,1624.0,0.5,Online
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Apparel,42.0,70,2940.0,1264.2,0.43,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Street Footwear,38.0,102,3876.0,1744.1999999999998,0.44999999999999996,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,51.0,142,7242.0,3548.58,0.49,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Street Footwear,46.0,95,4370.0,2010.1999999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,41.0,98,4018.0,1968.82,0.49,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Apparel,53.0,87,4611.0,2489.94,0.54,Online
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Apparel,59.0,102,6018.0,2647.92,0.44,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Street Footwear,42.0,155,6510.0,3059.7,0.47,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,47.0,169,7943.0,3892.0699999999997,0.49,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Street Footwear,43.0,138,5934.0,2848.3199999999997,0.48,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,52.0,113,5876.0,2820.48,0.48,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Apparel,73.0,111,8103.0,4456.650000000001,0.55,Online
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Apparel,74.0,149,11026.0,4410.400000000001,0.4,Online
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Street Footwear,60.0,225,13500.0,6345.0,0.47,Online
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,74.0,225,16650.0,7492.499999999999,0.44999999999999996,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,53.0,138,7314.0,3657.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,51.0,128,6528.0,3264.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,64.0,116,7424.0,3712.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,64.0,135,8640.0,3024.0,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,39.0,256,9984.0,5790.720000000001,0.5800000000000001,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,37.0,206,7622.0,3429.8999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,29.0,248,7192.0,2804.88,0.39,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,34.0,203,6902.0,3036.88,0.44,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,47.0,189,8883.0,4175.01,0.47,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,37.0,239,8843.0,5305.8,0.6,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,38.0,312,11856.0,6995.040000000001,0.5900000000000001,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,39.0,218,8502.0,3910.9199999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,29.0,217,6293.0,2328.41,0.37,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,33.0,169,5577.0,2509.6499999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Men's Apparel,49.0,189,9261.0,4352.67,0.47,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Apparel,34.0,216,7344.0,4773.6,0.65,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,265,8745.0,5072.1,0.5800000000000001,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,32.0,210,6720.0,3292.7999999999997,0.49,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,181,4344.0,1650.72,0.38,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,27.0,144,3888.0,1632.96,0.42,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Apparel,41.0,181,7421.0,3562.08,0.48,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Apparel,32.0,189,6048.0,3810.2400000000002,0.63,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,283,9339.0,5323.2300000000005,0.5700000000000001,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,182,6188.0,2846.4799999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,182,4368.0,1659.84,0.38,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,27.0,180,4860.0,2089.8,0.43,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Apparel,47.0,188,8836.0,4418.0,0.5,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Apparel,39.0,209,8151.0,5135.13,0.63,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,48.0,282,13536.0,7444.8,0.55,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.0,188,8460.0,3806.9999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Street Footwear,41.0,210,8610.0,3185.7,0.37,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,43.0,182,7826.0,3286.92,0.42,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Apparel,53.0,196,10388.0,5194.0,0.5,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Apparel,59.0,200,11800.0,7080.0,0.6,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,51.0,273,13923.0,7796.880000000001,0.56,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,49.0,200,9800.0,4410.0,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Street Footwear,47.0,209,9823.0,3536.2799999999997,0.36,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,47.0,218,10246.0,4610.7,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Apparel,62.0,195,12090.0,5440.499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,65.0,250,16250.0,10400.0,0.64,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,63.0,311,19593.0,11559.87,0.5900000000000001,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,58.0,270,15660.0,7673.4,0.49,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Street Footwear,51.0,248,12648.0,4553.28,0.36,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,52.0,202,10504.0,4411.68,0.42,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,64.0,240,15360.0,6911.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,66.0,244,16104.0,10467.6,0.65,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,62.0,326,20212.0,11520.840000000002,0.5700000000000001,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,54.0,243,13122.0,6429.78,0.49,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Street Footwear,50.0,231,11550.0,4620.0,0.4,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,44.0,233,10252.0,4203.32,0.41,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,51.0,225,11475.0,5278.5,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,58.0,278,16124.0,9835.64,0.61,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,51.0,287,14637.0,8489.460000000001,0.5800000000000001,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,48.0,223,10704.0,5137.92,0.48,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Street Footwear,38.0,196,7448.0,2904.7200000000003,0.39,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,39.0,210,8190.0,3276.0,0.4,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Apparel,48.0,175,8400.0,3863.9999999999995,0.45999999999999996,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Apparel,52.0,232,12064.0,7238.4,0.6,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,244,12200.0,7320.0,0.6,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,42.0,208,8736.0,4368.0,0.5,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Street Footwear,41.0,176,7216.0,2814.2400000000002,0.39,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,41.0,176,7216.0,2886.4,0.4,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Apparel,52.0,189,9828.0,4717.44,0.48,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Apparel,56.0,225,12600.0,8190.0,0.65,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,278,13900.0,7923.000000000001,0.5700000000000001,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,44.0,188,8272.0,3722.3999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Street Footwear,43.0,202,8686.0,3040.1,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,53.0,225,11925.0,5008.5,0.42,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,66.0,196,12936.0,6079.92,0.47,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,74.0,206,15244.0,9603.72,0.63,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,67.0,290,19430.0,11658.0,0.6,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,58.0,219,12702.0,5715.9,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,52.0,52,2704.0,1352.0,0.5,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Apparel,59.0,53,3127.0,1500.96,0.48,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Apparel,66.0,80,5280.0,2851.2000000000003,0.54,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Street Footwear,59.0,158,9322.0,5127.1,0.55,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,52.0,98,5096.0,2446.08,0.48,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Street Footwear,51.0,74,3774.0,2075.7000000000003,0.55,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,49.0,68,3332.0,1765.96,0.53,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Apparel,54.0,68,3672.0,1725.84,0.47,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Apparel,64.0,98,6272.0,3324.1600000000003,0.53,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Street Footwear,29.0,189,5481.0,2959.7400000000002,0.54,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Athletic Footwear,29.0,142,4118.0,1853.1,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Street Footwear,18.0,158,2844.0,1564.2,0.55,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Athletic Footwear,23.0,101,2323.0,1231.19,0.53,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Apparel,38.0,115,4370.0,2097.6,0.48,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Apparel,29.0,158,4582.0,2840.84,0.62,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Street Footwear,28.0,225,6300.0,3276.0,0.52,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Athletic Footwear,27.0,106,2862.0,1373.76,0.48,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Women's Street Footwear,18.0,124,2232.0,1227.6000000000001,0.55,Online
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,28.0,64,1792.0,734.7199999999999,0.41,Outlet
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Men's Apparel,29.0,39,1131.0,508.95,0.45,Outlet
+Foot Locker,1128299,2021-02-24,Southeast,Virginia,Richmond,Women's Apparel,30.0,107,3210.0,1155.6,0.36,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Street Footwear,30.0,162,4860.0,1846.8,0.38,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,35.0,98,3430.0,1406.3,0.41,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Street Footwear,43.0,112,4816.0,1974.56,0.41,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,38.0,78,2964.0,1155.9599999999998,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Men's Apparel,43.0,33,1419.0,595.98,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-03-23,Southeast,Virginia,Richmond,Women's Apparel,35.0,102,3570.0,1285.2,0.36,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Street Footwear,38.0,147,5586.0,2066.82,0.37,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,44.0,85,3740.0,1533.3999999999999,0.41,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Street Footwear,41.0,114,4674.0,1729.3799999999999,0.37,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,32.0,68,2176.0,913.92,0.42,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Men's Apparel,40.0,40,1600.0,672.0000000000001,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-04-24,Southeast,Virginia,Richmond,Women's Apparel,47.0,90,4230.0,1522.8,0.36,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Street Footwear,39.0,175,6825.0,2730.0,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,40.0,105,4200.0,1722.0,0.41,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Street Footwear,37.0,109,4033.0,1492.21,0.37,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,33.0,85,2805.0,1065.9,0.38,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Men's Apparel,34.0,54,1836.0,789.4800000000001,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-05-25,Southeast,Virginia,Richmond,Women's Apparel,44.0,168,7392.0,2587.2,0.35,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Street Footwear,37.0,233,8621.0,3189.77,0.37,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,45.0,221,9945.0,4077.45,0.41,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,58.0,208,12064.0,4463.68,0.37,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,61.0,184,11224.0,4601.84,0.41,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Apparel,68.0,128,8704.0,4003.84,0.46,Outlet
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,82.0,231,18942.0,7008.54,0.37,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,60.0,272,16320.0,6038.4,0.37,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,60.0,224,13440.0,5107.2,0.38,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,62.0,208,12896.0,4900.4800000000005,0.38,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,65.0,187,12155.0,5105.099999999999,0.42,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,72.0,210,15120.0,6501.6,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,82.0,186,15252.0,5033.159999999999,0.32999999999999996,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Street Footwear,67.0,272,18224.0,7289.599999999999,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,53.0,240,12720.0,5342.4,0.42,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,53.0,215,11395.0,4216.15,0.37,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,52.0,136,7072.0,2758.08,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Apparel,51.0,132,6732.0,3029.4,0.45,Outlet
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,55.0,80,4400.0,1495.9999999999998,0.33999999999999997,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Street Footwear,35.0,149,5215.0,2190.2999999999997,0.42,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Athletic Footwear,43.0,153,6579.0,2565.81,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Street Footwear,34.0,78,2652.0,1060.8,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Athletic Footwear,37.0,70,2590.0,1036.0,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Men's Apparel,39.0,74,2886.0,1356.42,0.47000000000000003,Outlet
+Foot Locker,1128299,2021-09-25,Southeast,Virginia,Richmond,Women's Apparel,33.0,83,2739.0,986.04,0.36,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Street Footwear,28.0,119,3332.0,1332.8,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,39.0,173,6747.0,2563.86,0.38,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Street Footwear,39.0,119,4641.0,1949.22,0.42,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,31.0,101,3131.0,1158.47,0.37,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Men's Apparel,42.0,105,4410.0,2072.7000000000003,0.47000000000000003,Outlet
+Foot Locker,1128299,2021-10-24,Southeast,Virginia,Richmond,Women's Apparel,40.0,109,4360.0,1395.2,0.32,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Street Footwear,34.0,173,5882.0,2470.44,0.42,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,34.0,221,7514.0,2780.18,0.37,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Street Footwear,33.0,143,4719.0,1840.4099999999999,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,36.0,144,5184.0,2021.7599999999998,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Men's Apparel,56.0,136,7616.0,3351.04,0.44,Outlet
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Apparel,60.0,176,10560.0,3484.7999999999997,0.32999999999999996,Outlet
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Street Footwear,49.0,248,12152.0,4860.799999999999,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,54.0,225,12150.0,4981.5,0.41,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,36.0,147,5292.0,2222.64,0.42,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,40.0,143,5720.0,2459.6000000000004,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,44.0,120,5280.0,2006.4,0.38,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,47.0,160,7520.0,2256.0,0.3,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,26.0,349,9074.0,4264.780000000001,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,30.0,256,7680.0,3071.9999999999995,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,24.0,264,6336.0,2027.52,0.32,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,25.0,209,5225.0,1828.7499999999998,0.35,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,35.0,247,8645.0,3371.5499999999997,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,30.0,281,8430.0,4467.900000000001,0.53,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,31.0,376,11656.0,5594.88,0.48,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,27.0,247,6669.0,2534.2200000000003,0.38,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,21.0,248,5208.0,1562.3999999999999,0.3,Outlet

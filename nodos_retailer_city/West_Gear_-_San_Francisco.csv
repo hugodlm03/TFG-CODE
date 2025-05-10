@@ -1,0 +1,205 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-11-05,West,California,San Francisco,Men's Apparel,55.00000000000001,575,316250.00000000006,158125.00000000003,0.5,Outlet
+West Gear,1128299,2020-11-06,West,California,San Francisco,Women's Apparel,50.0,775,387500.0,58125.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2020-11-07,West,California,San Francisco,Men's Street Footwear,40.0,825,330000.0,115500.00000000001,0.35000000000000003,Outlet
+West Gear,1128299,2020-11-08,West,California,San Francisco,Men's Athletic Footwear,50.0,725,362500.0,72500.0,0.2,Outlet
+West Gear,1128299,2020-11-09,West,California,San Francisco,Women's Street Footwear,50.0,725,362500.0,126875.00000000001,0.35000000000000003,Outlet
+West Gear,1128299,2020-11-10,West,California,San Francisco,Women's Athletic Footwear,50.0,575,287500.0,86250.0,0.3,Outlet
+West Gear,1128299,2020-11-11,West,California,San Francisco,Men's Apparel,55.00000000000001,500,275000.00000000006,137500.00000000003,0.5,Outlet
+West Gear,1128299,2020-11-12,West,California,San Francisco,Women's Apparel,50.0,700,350000.0,52500.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2020-11-13,West,California,San Francisco,Men's Street Footwear,50.0,850,425000.0,148750.0,0.35000000000000003,Outlet
+West Gear,1128299,2020-11-14,West,California,San Francisco,Men's Athletic Footwear,60.0,700,420000.0,84000.0,0.2,Outlet
+West Gear,1128299,2020-11-15,West,California,San Francisco,Women's Street Footwear,60.0,700,420000.0,147000.0,0.35000000000000003,Outlet
+West Gear,1128299,2020-12-22,West,California,San Francisco,Women's Athletic Footwear,60.0,600,360000.0,108000.0,0.3,Outlet
+West Gear,1128299,2020-12-23,West,California,San Francisco,Men's Apparel,65.0,500,325000.0,162500.0,0.5,Outlet
+West Gear,1128299,2020-12-24,West,California,San Francisco,Women's Apparel,60.0,700,420000.0,63000.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2020-12-25,West,California,San Francisco,Men's Street Footwear,60.0,875,525000.0,183750.00000000003,0.35000000000000003,Outlet
+West Gear,1128299,2020-12-26,West,California,San Francisco,Men's Athletic Footwear,65.0,675,438750.0,87750.0,0.2,Outlet
+West Gear,1128299,2020-12-27,West,California,San Francisco,Women's Street Footwear,65.0,725,471250.0,164937.50000000003,0.35000000000000003,Outlet
+West Gear,1128299,2020-12-28,West,California,San Francisco,Women's Athletic Footwear,60.0,625,375000.0,112500.0,0.3,Outlet
+West Gear,1128299,2020-12-29,West,California,San Francisco,Men's Apparel,65.0,525,341250.0,170625.0,0.5,Outlet
+West Gear,1128299,2020-12-30,West,California,San Francisco,Women's Apparel,80.0,700,560000.0,84000.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2020-12-31,West,California,San Francisco,Men's Street Footwear,60.0,900,540000.0,216000.0,0.4,Outlet
+West Gear,1128299,2021-01-01,West,California,San Francisco,Men's Athletic Footwear,65.0,750,487500.0,121875.0,0.25,Outlet
+West Gear,1128299,2021-01-02,West,California,San Francisco,Women's Street Footwear,65.0,750,487500.0,195000.0,0.4,Outlet
+West Gear,1128299,2021-01-03,West,California,San Francisco,Women's Athletic Footwear,60.0,650,390000.0,136500.0,0.35,Outlet
+West Gear,1128299,2021-01-04,West,California,San Francisco,Men's Apparel,65.0,550,357500.0,196625.00000000003,0.55,Outlet
+West Gear,1128299,2021-01-05,West,California,San Francisco,Women's Apparel,80.0,725,580000.0,116000.0,0.2,Outlet
+West Gear,1128299,2021-01-06,West,California,San Francisco,Men's Street Footwear,60.0,975,585000.0,234000.0,0.4,Outlet
+West Gear,1128299,2021-01-07,West,California,San Francisco,Men's Athletic Footwear,65.0,825,536250.0,134062.5,0.25,Outlet
+West Gear,1128299,2021-01-08,West,California,San Francisco,Women's Street Footwear,65.0,825,536250.0,214500.0,0.4,Outlet
+West Gear,1128299,2021-01-09,West,California,San Francisco,Women's Athletic Footwear,60.0,700,420000.0,147000.0,0.35,Outlet
+West Gear,1128299,2021-01-10,West,California,San Francisco,Men's Apparel,65.0,575,373750.0,205562.50000000003,0.55,Outlet
+West Gear,1128299,2021-01-11,West,California,San Francisco,Women's Apparel,80.0,875,700000.0,140000.0,0.2,Outlet
+West Gear,1128299,2021-01-12,West,California,San Francisco,Men's Street Footwear,60.0,1025,615000.0,215250.00000000003,0.35000000000000003,Outlet
+West Gear,1128299,2021-01-13,West,California,San Francisco,Men's Athletic Footwear,65.0,875,568750.0,113750.0,0.2,Outlet
+West Gear,1128299,2021-01-14,West,California,San Francisco,Women's Street Footwear,65.0,825,536250.0,187687.50000000003,0.35000000000000003,Outlet
+West Gear,1128299,2021-01-15,West,California,San Francisco,Women's Athletic Footwear,60.0,725,435000.0,130500.0,0.3,Outlet
+West Gear,1128299,2021-01-16,West,California,San Francisco,Men's Apparel,65.0,775,503750.0,251875.0,0.5,Outlet
+West Gear,1128299,2021-01-17,West,California,San Francisco,Women's Apparel,80.0,775,620000.0,93000.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2021-01-18,West,California,San Francisco,Men's Street Footwear,65.0,975,633750.0,221812.50000000003,0.35000000000000003,Outlet
+West Gear,1128299,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,70.0,925,647500.0,129500.0,0.2,Outlet
+West Gear,1128299,2021-01-20,West,California,San Francisco,Women's Street Footwear,65.0,800,520000.0,182000.00000000003,0.35000000000000003,Outlet
+West Gear,1128299,2021-01-21,West,California,San Francisco,Women's Athletic Footwear,65.0,750,487500.0,146250.0,0.3,Outlet
+West Gear,1128299,2021-01-22,West,California,San Francisco,Men's Apparel,75.0,750,562500.0,281250.0,0.5,Outlet
+West Gear,1128299,2021-01-23,West,California,San Francisco,Women's Apparel,80.0,725,580000.0,87000.00000000001,0.15000000000000002,Outlet
+West Gear,1128299,2021-01-24,West,California,San Francisco,Men's Street Footwear,55.00000000000001,925,508750.00000000006,152625.00000000003,0.30000000000000004,Outlet
+West Gear,1128299,2021-01-25,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,925,555000.0000000001,83250.00000000001,0.15,Outlet
+West Gear,1128299,2021-01-26,West,California,San Francisco,Women's Street Footwear,55.00000000000001,775,426250.00000000006,127875.00000000004,0.30000000000000004,Outlet
+West Gear,1128299,2021-01-27,West,California,San Francisco,Women's Athletic Footwear,55.00000000000001,725,398750.00000000006,99687.5,0.24999999999999997,Outlet
+West Gear,1128299,2021-01-28,West,California,San Francisco,Men's Apparel,65.0,725,471250.0,212062.50000000003,0.45000000000000007,Outlet
+West Gear,1128299,2021-01-29,West,California,San Francisco,Women's Apparel,70.0,775,542500.0,54250.0,0.1,Outlet
+West Gear,1128299,2021-01-30,West,California,San Francisco,Men's Street Footwear,55.00000000000001,875,481250.00000000006,144375.00000000003,0.30000000000000004,Outlet
+West Gear,1128299,2021-01-31,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,875,525000.0000000001,78750.00000000001,0.15,Outlet
+West Gear,1128299,2021-02-01,West,California,San Francisco,Women's Street Footwear,55.00000000000001,700,385000.00000000006,115500.00000000003,0.30000000000000004,Outlet
+West Gear,1128299,2021-02-02,West,California,San Francisco,Women's Athletic Footwear,55.00000000000001,675,371250.00000000006,92812.5,0.24999999999999997,Outlet
+West Gear,1128299,2021-02-03,West,California,San Francisco,Men's Apparel,65.0,650,422500.0,190125.00000000003,0.45000000000000007,Outlet
+West Gear,1128299,2021-02-04,West,California,San Francisco,Women's Apparel,70.0,700,490000.0,49000.0,0.1,Outlet
+West Gear,1128299,2021-02-05,West,California,San Francisco,Men's Street Footwear,55.00000000000001,875,481250.00000000006,144375.00000000003,0.30000000000000004,Outlet
+West Gear,1128299,2021-02-06,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,875,525000.0000000001,78750.00000000001,0.15,Outlet
+West Gear,1128299,2021-02-07,West,California,San Francisco,Women's Street Footwear,55.00000000000001,725,398750.00000000006,119625.00000000003,0.30000000000000004,Outlet
+West Gear,1128299,2021-02-08,West,California,San Francisco,Women's Athletic Footwear,55.00000000000001,700,385000.00000000006,96250.0,0.24999999999999997,Outlet
+West Gear,1128299,2021-02-09,West,California,San Francisco,Men's Apparel,65.0,650,422500.0,190125.00000000003,0.45000000000000007,Outlet
+West Gear,1128299,2021-02-10,West,California,San Francisco,Women's Apparel,70.0,775,542500.0,54250.0,0.1,Outlet
+West Gear,1128299,2021-02-11,West,California,San Francisco,Men's Street Footwear,55.00000000000001,975,536250.0000000001,160875.00000000006,0.30000000000000004,Outlet
+West Gear,1128299,2021-02-12,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,975,585000.0000000001,87750.00000000001,0.15,Outlet
+West Gear,1128299,2021-02-13,West,California,San Francisco,Women's Street Footwear,55.00000000000001,775,426250.00000000006,127875.00000000004,0.30000000000000004,Outlet
+West Gear,1128299,2021-02-14,West,California,San Francisco,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,106562.5,0.24999999999999997,Outlet
+West Gear,1128299,2021-02-15,West,California,San Francisco,Men's Apparel,65.0,700,455000.0,204750.00000000003,0.45000000000000007,Outlet
+West Gear,1128299,2021-02-16,West,California,San Francisco,Women's Apparel,70.0,800,560000.0,56000.0,0.1,Outlet
+West Gear,1128299,2020-11-05,West,California,San Francisco,Men's Apparel,51.0,161,8211.0,5172.93,0.63,Online
+West Gear,1128299,2020-11-06,West,California,San Francisco,Women's Apparel,49.0,233,11417.0,2854.25,0.25,Online
+West Gear,1128299,2020-11-07,West,California,San Francisco,Men's Street Footwear,37.0,223,8251.0,4125.5,0.5,Online
+West Gear,1128299,2020-11-08,West,California,San Francisco,Men's Athletic Footwear,49.0,210,10290.0,3189.9,0.31,Online
+West Gear,1128299,2020-11-09,West,California,San Francisco,Women's Street Footwear,49.0,196,9604.0,4705.96,0.49000000000000005,Online
+West Gear,1128299,2020-11-10,West,California,San Francisco,Women's Athletic Footwear,47.0,150,7050.0,2961.0,0.42,Online
+West Gear,1128299,2020-11-11,West,California,San Francisco,Men's Apparel,50.0,140,7000.0,4270.0,0.61,Online
+West Gear,1128299,2020-11-12,West,California,San Francisco,Women's Apparel,46.0,182,8372.0,2344.1600000000003,0.28,Online
+West Gear,1128299,2020-11-13,West,California,San Francisco,Men's Street Footwear,49.0,230,11270.0,5071.500000000001,0.45000000000000007,Online
+West Gear,1128299,2020-11-14,West,California,San Francisco,Men's Athletic Footwear,58.0,175,10150.0,3045.0000000000005,0.30000000000000004,Online
+West Gear,1128299,2020-11-15,West,California,San Francisco,Women's Street Footwear,55.0,203,11165.0,5247.55,0.47000000000000003,Online
+West Gear,1128299,2020-12-22,West,California,San Francisco,Women's Athletic Footwear,58.0,174,10092.0,4339.5599999999995,0.43,Online
+West Gear,1128299,2020-12-23,West,California,San Francisco,Men's Apparel,62.0,145,8990.0,5663.7,0.63,Online
+West Gear,1128299,2020-12-24,West,California,San Francisco,Women's Apparel,54.0,210,11340.0,3061.8,0.27,Online
+West Gear,1128299,2020-12-25,West,California,San Francisco,Men's Street Footwear,56.0,228,12768.0,6000.96,0.47000000000000003,Online
+West Gear,1128299,2020-12-26,West,California,San Francisco,Men's Athletic Footwear,62.0,203,12586.0,3775.8000000000006,0.30000000000000004,Online
+West Gear,1128299,2020-12-27,West,California,San Francisco,Women's Street Footwear,64.0,210,13440.0,6720.0,0.5,Online
+West Gear,1128299,2020-12-28,West,California,San Francisco,Women's Athletic Footwear,54.0,188,10152.0,4162.32,0.41,Online
+West Gear,1128299,2020-12-29,West,California,San Francisco,Men's Apparel,59.0,152,8968.0,5829.2,0.65,Online
+West Gear,1128299,2020-12-30,West,California,San Francisco,Women's Apparel,72.0,203,14616.0,3946.32,0.27,Online
+West Gear,1128299,2020-12-31,West,California,San Francisco,Men's Street Footwear,56.0,252,14112.0,7056.0,0.5,Online
+West Gear,1128299,2021-01-01,West,California,San Francisco,Men's Athletic Footwear,64.0,225,14400.0,5184.0,0.36,Online
+West Gear,1128299,2021-01-02,West,California,San Francisco,Women's Street Footwear,60.0,218,13080.0,6670.8,0.51,Online
+West Gear,1128299,2021-01-03,West,California,San Francisco,Women's Athletic Footwear,56.0,182,10192.0,4586.4,0.44999999999999996,Online
+West Gear,1128299,2021-01-04,West,California,San Francisco,Men's Apparel,60.0,154,9240.0,6098.400000000001,0.66,Online
+West Gear,1128299,2021-01-05,West,California,San Francisco,Women's Apparel,72.0,189,13608.0,4490.64,0.33,Online
+West Gear,1128299,2021-01-06,West,California,San Francisco,Men's Street Footwear,56.0,273,15288.0,7644.0,0.5,Online
+West Gear,1128299,2021-01-07,West,California,San Francisco,Men's Athletic Footwear,63.0,248,15624.0,5780.88,0.37,Online
+West Gear,1128299,2021-01-08,West,California,San Francisco,Women's Street Footwear,64.0,206,13184.0,7251.200000000001,0.55,Online
+West Gear,1128299,2021-01-09,West,California,San Francisco,Women's Athletic Footwear,59.0,210,12390.0,6071.099999999999,0.49,Online
+West Gear,1128299,2021-01-10,West,California,San Francisco,Men's Apparel,62.0,155,9610.0,6342.6,0.66,Online
+West Gear,1128299,2021-01-11,West,California,San Francisco,Women's Apparel,72.0,219,15768.0,5518.799999999999,0.35,Online
+West Gear,1128299,2021-01-12,West,California,San Francisco,Men's Street Footwear,56.0,277,15512.0,6980.4000000000015,0.45000000000000007,Online
+West Gear,1128299,2021-01-13,West,California,San Francisco,Men's Athletic Footwear,59.0,245,14455.0,4914.700000000001,0.34,Online
+West Gear,1128299,2021-01-14,West,California,San Francisco,Women's Street Footwear,62.0,248,15376.0,7072.96,0.46,Online
+West Gear,1128299,2021-01-15,West,California,San Francisco,Women's Athletic Footwear,55.0,218,11990.0,4796.0,0.4,Online
+West Gear,1128299,2021-01-16,West,California,San Francisco,Men's Apparel,64.0,233,14912.0,9543.68,0.64,Online
+West Gear,1128299,2021-01-17,West,California,San Francisco,Women's Apparel,72.0,233,16776.0,4865.040000000001,0.29000000000000004,Online
+West Gear,1128299,2021-01-18,West,California,San Francisco,Men's Street Footwear,62.0,273,16926.0,7785.96,0.46,Online
+West Gear,1128299,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,66.0,259,17094.0,5128.200000000001,0.30000000000000004,Online
+West Gear,1128299,2021-01-20,West,California,San Francisco,Women's Street Footwear,60.0,200,12000.0,5640.0,0.47000000000000003,Online
+West Gear,1128299,2021-01-21,West,California,San Francisco,Women's Athletic Footwear,59.0,188,11092.0,4547.719999999999,0.41,Online
+West Gear,1128299,2021-01-22,West,California,San Francisco,Men's Apparel,69.0,188,12972.0,7912.92,0.61,Online
+West Gear,1128299,2021-01-23,West,California,San Francisco,Women's Apparel,76.0,181,13756.0,3439.0,0.25,Online
+West Gear,1128299,2021-01-24,West,California,San Francisco,Men's Street Footwear,51.0,241,12291.0,5162.22,0.42000000000000004,Online
+West Gear,1128299,2021-01-25,West,California,San Francisco,Men's Athletic Footwear,56.0,268,15008.0,4202.240000000001,0.28,Online
+West Gear,1128299,2021-01-26,West,California,San Francisco,Women's Street Footwear,52.0,225,11700.0,4680.0,0.4,Online
+West Gear,1128299,2021-01-27,West,California,San Francisco,Women's Athletic Footwear,53.0,203,10759.0,3765.6499999999996,0.35,Online
+West Gear,1128299,2021-01-28,West,California,San Francisco,Men's Apparel,63.0,218,13734.0,7965.720000000001,0.5800000000000001,Online
+West Gear,1128299,2021-01-29,West,California,San Francisco,Women's Apparel,65.0,217,14105.0,3385.2000000000003,0.24000000000000002,Online
+West Gear,1128299,2021-01-30,West,California,San Francisco,Men's Street Footwear,51.0,236,12036.0,5416.200000000001,0.45000000000000007,Online
+West Gear,1128299,2021-01-31,West,California,San Francisco,Men's Athletic Footwear,59.0,219,12921.0,3747.0900000000006,0.29000000000000004,Online
+West Gear,1128299,2021-02-01,West,California,San Francisco,Women's Street Footwear,50.0,182,9100.0,3822.0000000000005,0.42000000000000004,Online
+West Gear,1128299,2021-02-02,West,California,San Francisco,Women's Athletic Footwear,51.0,203,10353.0,3727.08,0.36,Online
+West Gear,1128299,2021-02-03,West,California,San Francisco,Men's Apparel,59.0,182,10738.0,6228.040000000001,0.5800000000000001,Online
+West Gear,1128299,2021-02-04,West,California,San Francisco,Women's Apparel,63.0,196,12348.0,2840.04,0.23,Online
+West Gear,1128299,2021-02-05,West,California,San Francisco,Men's Street Footwear,52.0,263,13676.0,6017.4400000000005,0.44000000000000006,Online
+West Gear,1128299,2021-02-06,West,California,San Francisco,Men's Athletic Footwear,58.0,236,13688.0,3422.0,0.25,Online
+West Gear,1128299,2021-02-07,West,California,San Francisco,Women's Street Footwear,50.0,210,10500.0,4200.0,0.4,Online
+West Gear,1128299,2021-02-08,West,California,San Francisco,Women's Athletic Footwear,53.0,210,11130.0,4452.0,0.39999999999999997,Online
+West Gear,1128299,2021-02-09,West,California,San Francisco,Men's Apparel,63.0,163,10269.0,5853.330000000001,0.5700000000000001,Online
+West Gear,1128299,2021-02-10,West,California,San Francisco,Women's Apparel,67.0,202,13534.0,2842.1400000000003,0.21000000000000002,Online
+West Gear,1128299,2021-02-11,West,California,San Francisco,Men's Street Footwear,51.0,293,14943.0,5977.200000000001,0.4,Online
+West Gear,1128299,2021-02-12,West,California,San Francisco,Men's Athletic Footwear,58.0,273,15834.0,4275.18,0.27,Online
+West Gear,1128299,2021-02-13,West,California,San Francisco,Women's Street Footwear,52.0,233,12116.0,4846.400000000001,0.4,Online
+West Gear,1128299,2021-02-14,West,California,San Francisco,Women's Athletic Footwear,51.0,194,9894.0,3957.5999999999995,0.39999999999999997,Online
+West Gear,1128299,2021-02-15,West,California,San Francisco,Men's Apparel,59.0,175,10325.0,6195.000000000001,0.6000000000000001,Online
+West Gear,1128299,2021-02-16,West,California,San Francisco,Women's Apparel,67.0,208,13936.0,3205.28,0.23,Online
+West Gear,1128299,2020-11-05,West,California,San Francisco,Men's Apparel,38.0,173,6574.0,3549.96,0.54,Outlet
+West Gear,1128299,2020-11-06,West,California,San Francisco,Women's Apparel,36.0,233,8388.0,1761.4800000000002,0.21000000000000002,Outlet
+West Gear,1128299,2020-11-07,West,California,San Francisco,Men's Street Footwear,28.0,289,8092.0,3398.6400000000003,0.42000000000000004,Outlet
+West Gear,1128299,2020-11-08,West,California,San Francisco,Men's Athletic Footwear,36.0,239,8604.0,2151.0,0.25,Outlet
+West Gear,1128299,2020-11-09,West,California,San Francisco,Women's Street Footwear,40.0,247,9880.0,4050.8,0.41000000000000003,Outlet
+West Gear,1128299,2020-11-10,West,California,San Francisco,Women's Athletic Footwear,39.0,190,7410.0,2519.3999999999996,0.33999999999999997,Outlet
+West Gear,1128299,2020-11-11,West,California,San Francisco,Men's Apparel,42.0,165,6930.0,3950.1000000000004,0.5700000000000001,Outlet
+West Gear,1128299,2020-11-12,West,California,San Francisco,Women's Apparel,33.0,210,6930.0,1524.6000000000001,0.22000000000000003,Outlet
+West Gear,1128299,2020-11-13,West,California,San Francisco,Men's Street Footwear,36.0,272,9792.0,3818.88,0.39,Outlet
+West Gear,1128299,2020-11-14,West,California,San Francisco,Men's Athletic Footwear,39.0,231,9009.0,2072.07,0.23,Outlet
+West Gear,1128299,2020-11-15,West,California,San Francisco,Women's Street Footwear,47.0,210,9870.0,4145.400000000001,0.42000000000000004,Outlet
+West Gear,1128299,2020-12-22,West,California,San Francisco,Women's Athletic Footwear,48.0,204,9792.0,3133.44,0.32,Outlet
+West Gear,1128299,2020-12-23,West,California,San Francisco,Men's Apparel,51.0,170,8670.0,4681.8,0.54,Outlet
+West Gear,1128299,2020-12-24,West,California,San Francisco,Women's Apparel,41.0,245,10045.0,2009.0,0.2,Outlet
+West Gear,1128299,2020-12-25,West,California,San Francisco,Men's Street Footwear,40.0,271,10840.0,4119.2,0.38,Outlet
+West Gear,1128299,2020-12-26,West,California,San Francisco,Men's Athletic Footwear,51.0,216,11016.0,2754.0,0.25,Outlet
+West Gear,1128299,2020-12-27,West,California,San Francisco,Women's Street Footwear,46.0,254,11684.0,4556.76,0.39,Outlet
+West Gear,1128299,2020-12-28,West,California,San Francisco,Women's Athletic Footwear,48.0,188,9024.0,3068.16,0.33999999999999997,Outlet
+West Gear,1128299,2020-12-29,West,California,San Francisco,Men's Apparel,47.0,158,7426.0,4158.56,0.56,Outlet
+West Gear,1128299,2020-12-30,West,California,San Francisco,Women's Apparel,62.0,245,15190.0,2886.1000000000004,0.19000000000000003,Outlet
+West Gear,1128299,2020-12-31,West,California,San Francisco,Men's Street Footwear,44.0,270,11880.0,5227.2,0.44,Outlet
+West Gear,1128299,2021-01-01,West,California,San Francisco,Men's Athletic Footwear,51.0,233,11883.0,3208.4100000000003,0.27,Outlet
+West Gear,1128299,2021-01-02,West,California,San Francisco,Women's Street Footwear,46.0,225,10350.0,4554.0,0.44,Outlet
+West Gear,1128299,2021-01-03,West,California,San Francisco,Women's Athletic Footwear,42.0,228,9576.0,4021.92,0.42,Outlet
+West Gear,1128299,2021-01-04,West,California,San Francisco,Men's Apparel,49.0,182,8918.0,5083.26,0.5700000000000001,Outlet
+West Gear,1128299,2021-01-05,West,California,San Francisco,Women's Apparel,58.0,225,13050.0,3001.5,0.23,Outlet
+West Gear,1128299,2021-01-06,West,California,San Francisco,Men's Street Footwear,41.0,341,13981.0,6011.830000000001,0.43000000000000005,Outlet
+West Gear,1128299,2021-01-07,West,California,San Francisco,Men's Athletic Footwear,50.0,256,12800.0,3840.0,0.3,Outlet
+West Gear,1128299,2021-01-08,West,California,San Francisco,Women's Street Footwear,42.0,281,11802.0,5310.900000000001,0.45,Outlet
+West Gear,1128299,2021-01-09,West,California,San Francisco,Women's Athletic Footwear,41.0,224,9184.0,3765.4399999999996,0.41,Outlet
+West Gear,1128299,2021-01-10,West,California,San Francisco,Men's Apparel,44.0,196,8624.0,5260.640000000001,0.6100000000000001,Outlet
+West Gear,1128299,2021-01-11,West,California,San Francisco,Women's Apparel,60.0,306,18360.0,4773.6,0.26,Outlet
+West Gear,1128299,2021-01-12,West,California,San Francisco,Men's Street Footwear,41.0,338,13858.0,5266.04,0.38,Outlet
+West Gear,1128299,2021-01-13,West,California,San Francisco,Men's Athletic Footwear,49.0,263,12887.0,3092.88,0.24000000000000002,Outlet
+West Gear,1128299,2021-01-14,West,California,San Francisco,Women's Street Footwear,46.0,264,12144.0,4857.6,0.4,Outlet
+West Gear,1128299,2021-01-15,West,California,San Francisco,Women's Athletic Footwear,46.0,247,11362.0,4090.3199999999997,0.36,Outlet
+West Gear,1128299,2021-01-16,West,California,San Francisco,Men's Apparel,44.0,240,10560.0,5913.6,0.56,Outlet
+West Gear,1128299,2021-01-17,West,California,San Francisco,Women's Apparel,56.0,264,14784.0,2808.9600000000005,0.19000000000000003,Outlet
+West Gear,1128299,2021-01-18,West,California,San Francisco,Men's Street Footwear,45.0,302,13590.0,5436.0,0.4,Outlet
+West Gear,1128299,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,47.0,278,13066.0,2874.52,0.22,Outlet
+West Gear,1128299,2021-01-20,West,California,San Francisco,Women's Street Footwear,51.0,248,12648.0,4932.72,0.39,Outlet
+West Gear,1128299,2021-01-21,West,California,San Francisco,Women's Athletic Footwear,52.0,255,13260.0,4508.4,0.33999999999999997,Outlet
+West Gear,1128299,2021-01-22,West,California,San Francisco,Men's Apparel,59.0,263,15517.0,8844.69,0.5700000000000001,Outlet
+West Gear,1128299,2021-01-23,West,California,San Francisco,Women's Apparel,60.0,254,15240.0,3352.8000000000006,0.22000000000000003,Outlet
+West Gear,1128299,2021-01-24,West,California,San Francisco,Men's Street Footwear,40.0,287,11480.0,4018.0000000000005,0.35000000000000003,Outlet
+West Gear,1128299,2021-01-25,West,California,San Francisco,Men's Athletic Footwear,42.0,287,12054.0,2049.18,0.16999999999999998,Outlet
+West Gear,1128299,2021-01-26,West,California,San Francisco,Women's Street Footwear,39.0,248,9672.0,3288.48,0.34,Outlet
+West Gear,1128299,2021-01-27,West,California,San Francisco,Women's Athletic Footwear,39.0,247,9633.0,2600.91,0.26999999999999996,Outlet
+West Gear,1128299,2021-01-28,West,California,San Francisco,Men's Apparel,43.0,225,9675.0,4644.000000000001,0.4800000000000001,Outlet
+West Gear,1128299,2021-01-29,West,California,San Francisco,Women's Apparel,51.0,264,13464.0,2019.6000000000004,0.15000000000000002,Outlet
+West Gear,1128299,2021-01-30,West,California,San Francisco,Men's Street Footwear,36.0,289,10404.0,3433.3200000000006,0.33000000000000007,Outlet
+West Gear,1128299,2021-01-31,West,California,San Francisco,Men's Athletic Footwear,39.0,280,10920.0,1965.6,0.18,Outlet
+West Gear,1128299,2021-02-01,West,California,San Francisco,Women's Street Footwear,42.0,210,8820.0,2910.600000000001,0.33000000000000007,Outlet
+West Gear,1128299,2021-02-02,West,California,San Francisco,Women's Athletic Footwear,42.0,223,9366.0,2903.4599999999996,0.30999999999999994,Outlet
+West Gear,1128299,2021-02-03,West,California,San Francisco,Men's Apparel,50.0,221,11050.0,5193.500000000001,0.4700000000000001,Outlet
+West Gear,1128299,2021-02-04,West,California,San Francisco,Women's Apparel,46.0,224,10304.0,1236.48,0.12000000000000001,Outlet
+West Gear,1128299,2021-02-05,West,California,San Francisco,Men's Street Footwear,39.0,263,10257.0,3589.9500000000003,0.35000000000000003,Outlet
+West Gear,1128299,2021-02-06,West,California,San Francisco,Men's Athletic Footwear,46.0,306,14076.0,2815.2000000000003,0.2,Outlet
+West Gear,1128299,2021-02-07,West,California,San Francisco,Women's Street Footwear,40.0,247,9880.0,3359.2000000000003,0.34,Outlet
+West Gear,1128299,2021-02-08,West,California,San Francisco,Women's Athletic Footwear,37.0,210,7770.0,2253.2999999999997,0.29,Outlet
+West Gear,1128299,2021-02-09,West,California,San Francisco,Men's Apparel,51.0,228,11628.0,5465.160000000001,0.4700000000000001,Outlet
+West Gear,1128299,2021-02-10,West,California,San Francisco,Women's Apparel,56.0,256,14336.0,2150.4000000000005,0.15000000000000002,Outlet
+West Gear,1128299,2021-02-11,West,California,San Francisco,Men's Street Footwear,40.0,322,12880.0,4250.400000000001,0.33000000000000007,Outlet
+West Gear,1128299,2021-02-12,West,California,San Francisco,Men's Athletic Footwear,46.0,332,15272.0,3207.12,0.21,Outlet
+West Gear,1128299,2021-02-13,West,California,San Francisco,Women's Street Footwear,44.0,256,11264.0,3717.120000000001,0.33000000000000007,Outlet
+West Gear,1128299,2021-02-14,West,California,San Francisco,Women's Athletic Footwear,40.0,271,10840.0,3252.0,0.3,Outlet
+West Gear,1128299,2021-02-15,West,California,San Francisco,Men's Apparel,43.0,245,10535.0,5478.2,0.52,Outlet
+West Gear,1128299,2021-02-16,West,California,San Francisco,Women's Apparel,50.0,256,12800.0,2176.0,0.17,Outlet

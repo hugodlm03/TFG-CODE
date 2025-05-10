@@ -1,0 +1,19 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Street Footwear,35.0,375,131250.0,32812.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Athletic Footwear,45.0,375,168750.0,33750.0,0.2,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Street Footwear,45.0,375,168750.0,42187.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Apparel,50.0,175,87500.0,13125.0,0.15,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Apparel,45.0,425,191250.0,76500.0,0.4,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Street Footwear,35.0,475,166250.0,41562.5,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Athletic Footwear,45.0,375,168750.0,33750.0,0.2,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Women's Street Footwear,45.0,375,168750.0,42187.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Street Footwear,33.0,109,3597.0,1366.8600000000001,0.38,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Athletic Footwear,43.0,109,4687.0,1546.71,0.33,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Street Footwear,41.0,113,4633.0,1667.8799999999999,0.36,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Athletic Footwear,43.0,56,2408.0,842.8,0.35,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Apparel,46.0,46,2116.0,634.8,0.3,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Apparel,42.0,123,5166.0,2789.6400000000003,0.54,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Street Footwear,33.0,143,4719.0,1698.84,0.36,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Athletic Footwear,42.0,98,4116.0,1317.1200000000001,0.32,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Women's Street Footwear,44.0,94,4136.0,1488.96,0.36,Online

@@ -1,0 +1,27 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Street Footwear,35.0,400,140000.0,49000.0,0.35,In-store
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,35.0,350,122500.0,49000.0,0.4,In-store
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Apparel,44.99999999999999,350,157499.99999999997,55124.999999999985,0.35,In-store
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Apparel,49.999999999999986,450,224999.99999999994,112499.99999999997,0.5,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Street Footwear,25.0,675,168750.0,67500.0,0.4,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Athletic Footwear,25.0,475,118750.0,41562.5,0.35,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Street Footwear,15.000000000000002,475,71250.00000000001,24937.500000000004,0.35,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Athletic Footwear,20.000000000000007,325,65000.00000000002,26000.00000000001,0.4,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Apparel,35.0,375,131250.0,45937.5,0.35,In-store
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Apparel,25.0,475,118750.0,59375.0,0.5,In-store
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Men's Street Footwear,25.0,725,181250.0,72500.0,0.4,In-store
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Men's Athletic Footwear,25.0,375,93750.0,32812.5,0.35,In-store
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Women's Street Footwear,15.000000000000002,425,63750.00000000001,22312.5,0.35,In-store
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Street Footwear,32.0,120,3840.0,1804.8,0.47,Online
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Athletic Footwear,34.0,88,2992.0,1555.8400000000001,0.52,Online
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Men's Apparel,42.0,88,3696.0,1848.0,0.5,Online
+West Gear,1185732,2021-12-17,Midwest,Missouri,St. Louis,Women's Apparel,47.0,126,5922.0,3612.42,0.61,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Street Footwear,23.0,196,4508.0,2479.4,0.55,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Athletic Footwear,23.0,133,3059.0,1437.73,0.47,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Street Footwear,14.0,143,2002.0,940.9399999999999,0.47,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Athletic Footwear,18.0,88,1584.0,823.6800000000001,0.52,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Men's Apparel,33.0,98,3234.0,1519.98,0.47,Online
+West Gear,1185732,2021-01-11,Midwest,Missouri,St. Louis,Women's Apparel,24.0,138,3312.0,2119.68,0.64,Online
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Men's Street Footwear,25.0,218,5450.0,2888.5,0.53,Online
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Men's Athletic Footwear,24.0,101,2424.0,1139.28,0.47,Online
+West Gear,1185732,2021-02-11,Midwest,Missouri,St. Louis,Women's Street Footwear,14.0,115,1610.0,724.4999999999999,0.44999999999999996,Online

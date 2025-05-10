@@ -1,0 +1,145 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-03-19,West,Colorado,Denver,Men's Apparel,45.0,225,101250.0,50625.0,0.5,In-store
+West Gear,1128299,2020-03-20,West,Colorado,Denver,Women's Apparel,40.0,475,190000.0,28500.000000000004,0.15000000000000002,In-store
+West Gear,1128299,2020-03-21,West,Colorado,Denver,Men's Street Footwear,30.0,525,157500.0,55125.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-22,West,Colorado,Denver,Men's Athletic Footwear,40.0,425,170000.0,34000.0,0.2,In-store
+West Gear,1128299,2020-03-23,West,Colorado,Denver,Women's Street Footwear,40.0,425,170000.0,59500.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-24,West,Colorado,Denver,Women's Athletic Footwear,40.0,275,110000.0,33000.0,0.3,In-store
+West Gear,1128299,2020-03-25,West,Colorado,Denver,Men's Apparel,45.0,200,90000.0,45000.0,0.5,In-store
+West Gear,1128299,2020-03-26,West,Colorado,Denver,Women's Apparel,40.0,400,160000.0,24000.000000000004,0.15000000000000002,In-store
+West Gear,1128299,2020-03-27,West,Colorado,Denver,Men's Street Footwear,40.0,550,220000.0,77000.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-28,West,Colorado,Denver,Men's Athletic Footwear,49.99999999999999,400,199999.99999999997,40000.0,0.2,In-store
+West Gear,1128299,2020-03-29,West,Colorado,Denver,Women's Street Footwear,54.99999999999999,400,219999.99999999997,77000.0,0.35000000000000003,In-store
+West Gear,1128299,2020-03-30,West,Colorado,Denver,Women's Athletic Footwear,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+West Gear,1128299,2020-03-31,West,Colorado,Denver,Men's Apparel,60.0,150,90000.0,45000.0,0.5,In-store
+West Gear,1128299,2020-04-01,West,Colorado,Denver,Women's Apparel,54.99999999999999,350,192499.99999999997,28875.0,0.15000000000000002,In-store
+West Gear,1128299,2020-04-02,West,Colorado,Denver,Men's Street Footwear,60.0,525,315000.0,110250.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-04-03,West,Colorado,Denver,Men's Athletic Footwear,65.0,325,211250.0,42250.0,0.2,In-store
+West Gear,1128299,2020-04-04,West,Colorado,Denver,Women's Street Footwear,65.0,375,243750.0,85312.50000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-04-05,West,Colorado,Denver,Women's Athletic Footwear,60.0,275,165000.0,49500.0,0.3,In-store
+West Gear,1128299,2020-04-06,West,Colorado,Denver,Men's Apparel,65.0,175,113750.0,56875.0,0.5,In-store
+West Gear,1128299,2020-04-07,West,Colorado,Denver,Women's Apparel,80.0,325,260000.0,39000.00000000001,0.15000000000000002,In-store
+West Gear,1128299,2020-04-08,West,Colorado,Denver,Men's Street Footwear,60.0,525,315000.0,157500.0,0.5,In-store
+West Gear,1128299,2020-04-09,West,Colorado,Denver,Men's Athletic Footwear,65.0,375,243750.0,85312.5,0.35,In-store
+West Gear,1128299,2020-04-10,West,Colorado,Denver,Women's Street Footwear,65.0,375,243750.0,121875.0,0.5,In-store
+West Gear,1128299,2020-04-11,West,Colorado,Denver,Women's Athletic Footwear,60.0,275,165000.0,74249.99999999999,0.44999999999999996,In-store
+West Gear,1128299,2020-04-12,West,Colorado,Denver,Men's Apparel,65.0,175,113750.0,73937.50000000001,0.6500000000000001,In-store
+West Gear,1128299,2020-04-13,West,Colorado,Denver,Women's Apparel,80.0,475,380000.0,114000.0,0.3,In-store
+West Gear,1128299,2020-04-14,West,Colorado,Denver,Men's Street Footwear,60.0,725,435000.0,217500.0,0.5,In-store
+West Gear,1128299,2020-04-15,West,Colorado,Denver,Men's Athletic Footwear,65.0,575,373750.0,130812.49999999999,0.35,In-store
+West Gear,1128299,2020-04-16,West,Colorado,Denver,Women's Street Footwear,65.0,575,373750.0,186875.0,0.5,In-store
+West Gear,1128299,2020-04-17,West,Colorado,Denver,Women's Athletic Footwear,65.0,450,292500.0,131625.0,0.44999999999999996,In-store
+West Gear,1128299,2020-04-18,West,Colorado,Denver,Men's Apparel,70.0,325,227500.0,147875.00000000003,0.6500000000000001,In-store
+West Gear,1128299,2020-04-19,West,Colorado,Denver,Women's Apparel,85.00000000000001,625,531250.0000000001,159375.00000000003,0.3,In-store
+West Gear,1128299,2020-04-20,West,Colorado,Denver,Men's Street Footwear,65.0,775,503750.0,226687.5,0.45,In-store
+West Gear,1128299,2020-04-21,West,Colorado,Denver,Men's Athletic Footwear,70.0,625,437500.0,131250.0,0.3,In-store
+West Gear,1128299,2020-04-22,West,Colorado,Denver,Women's Street Footwear,70.0,575,402500.0,181125.0,0.45,In-store
+West Gear,1128299,2020-04-23,West,Colorado,Denver,Women's Athletic Footwear,65.0,475,308750.0,123499.99999999999,0.39999999999999997,In-store
+West Gear,1128299,2020-04-24,West,Colorado,Denver,Men's Apparel,70.0,525,367500.0,220500.00000000003,0.6000000000000001,In-store
+West Gear,1128299,2020-04-25,West,Colorado,Denver,Women's Apparel,85.00000000000001,525,446250.00000000006,111562.50000000001,0.25,In-store
+West Gear,1128299,2020-04-26,West,Colorado,Denver,Men's Street Footwear,70.0,725,507500.0,228375.0,0.45,In-store
+West Gear,1128299,2020-04-27,West,Colorado,Denver,Men's Athletic Footwear,75.00000000000001,675,506250.0000000001,151875.00000000003,0.3,In-store
+West Gear,1128299,2020-04-28,West,Colorado,Denver,Women's Street Footwear,70.0,550,385000.0,173250.0,0.45,In-store
+West Gear,1128299,2020-04-29,West,Colorado,Denver,Women's Athletic Footwear,70.0,500,350000.0,140000.0,0.39999999999999997,In-store
+West Gear,1128299,2020-04-30,West,Colorado,Denver,Men's Apparel,75.0,500,375000.0,225000.00000000003,0.6000000000000001,In-store
+West Gear,1128299,2020-05-01,West,Colorado,Denver,Women's Apparel,80.0,400,320000.0,80000.0,0.25,In-store
+West Gear,1128299,2020-05-02,West,Colorado,Denver,Men's Street Footwear,65.00000000000001,600,390000.00000000006,156000.00000000003,0.4,In-store
+West Gear,1128299,2020-05-03,West,Colorado,Denver,Men's Athletic Footwear,70.00000000000001,600,420000.00000000006,105000.00000000001,0.25,In-store
+West Gear,1128299,2020-05-04,West,Colorado,Denver,Women's Street Footwear,65.00000000000001,450,292500.00000000006,117000.00000000003,0.4,In-store
+West Gear,1128299,2020-05-05,West,Colorado,Denver,Women's Athletic Footwear,65.00000000000001,400,260000.00000000006,91000.00000000001,0.35,In-store
+West Gear,1128299,2020-05-06,West,Colorado,Denver,Men's Apparel,75.00000000000001,400,300000.00000000006,165000.0000000001,0.5500000000000002,In-store
+West Gear,1128299,2020-05-07,West,Colorado,Denver,Women's Apparel,70.0,425,297500.0,59500.0,0.2,In-store
+West Gear,1128299,2020-05-08,West,Colorado,Denver,Men's Street Footwear,55.00000000000001,525,288750.00000000006,115500.00000000003,0.4,In-store
+West Gear,1128299,2020-05-09,West,Colorado,Denver,Men's Athletic Footwear,60.00000000000001,525,315000.00000000006,78750.00000000001,0.25,In-store
+West Gear,1128299,2020-05-10,West,Colorado,Denver,Women's Street Footwear,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,In-store
+West Gear,1128299,2020-05-11,West,Colorado,Denver,Women's Athletic Footwear,55.00000000000001,325,178750.00000000003,62562.50000000001,0.35,In-store
+West Gear,1128299,2020-05-12,West,Colorado,Denver,Men's Apparel,65.0,300,195000.0,107250.00000000003,0.5500000000000002,In-store
+West Gear,1128299,2020-05-13,West,Colorado,Denver,Women's Apparel,70.0,350,245000.0,49000.0,0.2,In-store
+West Gear,1128299,2020-05-14,West,Colorado,Denver,Men's Street Footwear,55.00000000000001,575,316250.00000000006,126500.00000000003,0.4,In-store
+West Gear,1128299,2020-05-15,West,Colorado,Denver,Men's Athletic Footwear,60.00000000000001,575,345000.00000000006,86250.00000000001,0.25,In-store
+West Gear,1128299,2020-05-16,West,Colorado,Denver,Women's Street Footwear,55.00000000000001,425,233750.00000000003,93500.00000000001,0.4,In-store
+West Gear,1128299,2020-05-17,West,Colorado,Denver,Women's Athletic Footwear,65.00000000000001,400,260000.00000000006,91000.00000000001,0.35,In-store
+West Gear,1128299,2020-05-18,West,Colorado,Denver,Men's Apparel,75.00000000000001,375,281250.00000000006,154687.5000000001,0.5500000000000002,In-store
+West Gear,1128299,2020-05-19,West,Colorado,Denver,Women's Apparel,80.00000000000001,500,400000.00000000006,80000.00000000001,0.2,In-store
+West Gear,1128299,2020-05-20,West,Colorado,Denver,Men's Street Footwear,65.00000000000001,700,455000.0000000001,182000.00000000006,0.4,In-store
+West Gear,1128299,2020-05-21,West,Colorado,Denver,Men's Athletic Footwear,70.00000000000001,700,490000.0000000001,122500.00000000003,0.25,In-store
+West Gear,1128299,2020-05-22,West,Colorado,Denver,Women's Street Footwear,65.00000000000001,500,325000.00000000006,130000.00000000003,0.4,In-store
+West Gear,1128299,2020-05-23,West,Colorado,Denver,Women's Athletic Footwear,65.00000000000001,500,325000.00000000006,113750.00000000001,0.35,In-store
+West Gear,1128299,2020-05-24,West,Colorado,Denver,Men's Apparel,75.00000000000001,425,318750.00000000006,175312.5000000001,0.5500000000000002,In-store
+West Gear,1128299,2020-05-25,West,Colorado,Denver,Women's Apparel,80.00000000000001,525,420000.00000000006,84000.00000000001,0.2,In-store
+West Gear,1128299,2020-05-26,West,Colorado,Denver,Men's Street Footwear,40.0,450,180000.0,54000.0,0.3,In-store
+West Gear,1128299,2020-05-27,West,Colorado,Denver,Men's Athletic Footwear,50.0,450,225000.0,56250.0,0.25,In-store
+West Gear,1128299,2020-05-28,West,Colorado,Denver,Women's Street Footwear,50.0,450,225000.0,56250.0,0.25,In-store
+West Gear,1128299,2020-05-29,West,Colorado,Denver,Women's Athletic Footwear,50.0,300,150000.0,45000.0,0.3,In-store
+West Gear,1128299,2020-03-19,West,Colorado,Denver,Men's Apparel,41.0,56,2296.0,1469.44,0.64,Online
+West Gear,1128299,2020-03-20,West,Colorado,Denver,Women's Apparel,37.0,128,4736.0,1231.3600000000001,0.26,Online
+West Gear,1128299,2020-03-21,West,Colorado,Denver,Men's Street Footwear,27.0,131,3537.0,1697.7600000000002,0.48000000000000004,Online
+West Gear,1128299,2020-03-22,West,Colorado,Denver,Men's Athletic Footwear,38.0,111,4218.0,1265.4,0.30000000000000004,Online
+West Gear,1128299,2020-03-23,West,Colorado,Denver,Women's Street Footwear,38.0,123,4674.0,2337.0,0.5,Online
+West Gear,1128299,2020-03-24,West,Colorado,Denver,Women's Athletic Footwear,36.0,72,2592.0,1166.3999999999999,0.44999999999999996,Online
+West Gear,1128299,2020-03-25,West,Colorado,Denver,Men's Apparel,43.0,58,2494.0,1546.28,0.62,Online
+West Gear,1128299,2020-03-26,West,Colorado,Denver,Women's Apparel,37.0,116,4292.0,1158.8400000000001,0.27,Online
+West Gear,1128299,2020-03-27,West,Colorado,Denver,Men's Street Footwear,37.0,165,6105.0,2930.4,0.48000000000000004,Online
+West Gear,1128299,2020-03-28,West,Colorado,Denver,Men's Athletic Footwear,48.0,112,5376.0,1827.8400000000001,0.34,Online
+West Gear,1128299,2020-03-29,West,Colorado,Denver,Women's Street Footwear,51.0,116,5916.0,2898.84,0.49000000000000005,Online
+West Gear,1128299,2020-03-30,West,Colorado,Denver,Women's Athletic Footwear,51.0,90,4590.0,1973.7,0.43,Online
+West Gear,1128299,2020-03-31,West,Colorado,Denver,Men's Apparel,56.0,39,2184.0,1310.3999999999999,0.6,Online
+West Gear,1128299,2020-04-01,West,Colorado,Denver,Women's Apparel,52.0,95,4940.0,1432.6000000000001,0.29000000000000004,Online
+West Gear,1128299,2020-04-02,West,Colorado,Denver,Men's Street Footwear,55.0,131,7205.0,3386.3500000000004,0.47000000000000003,Online
+West Gear,1128299,2020-04-03,West,Colorado,Denver,Men's Athletic Footwear,59.0,94,5546.0,1941.1,0.35,Online
+West Gear,1128299,2020-04-04,West,Colorado,Denver,Women's Street Footwear,61.0,113,6893.0,3446.5,0.5,Online
+West Gear,1128299,2020-04-05,West,Colorado,Denver,Women's Athletic Footwear,56.0,74,4144.0,1781.92,0.43,Online
+West Gear,1128299,2020-04-06,West,Colorado,Denver,Men's Apparel,62.0,44,2728.0,1664.08,0.61,Online
+West Gear,1128299,2020-04-07,West,Colorado,Denver,Women's Apparel,72.0,98,7056.0,1764.0,0.25,Online
+West Gear,1128299,2020-04-08,West,Colorado,Denver,Men's Street Footwear,55.0,131,7205.0,4395.05,0.61,Online
+West Gear,1128299,2020-04-09,West,Colorado,Denver,Men's Athletic Footwear,60.0,105,6300.0,2898.0,0.45999999999999996,Online
+West Gear,1128299,2020-04-10,West,Colorado,Denver,Women's Street Footwear,59.0,98,5782.0,3469.2,0.6,Online
+West Gear,1128299,2020-04-11,West,Colorado,Denver,Women's Athletic Footwear,58.0,69,4002.0,2361.18,0.59,Online
+West Gear,1128299,2020-04-12,West,Colorado,Denver,Men's Apparel,63.0,44,2772.0,2106.7200000000003,0.7600000000000001,Online
+West Gear,1128299,2020-04-13,West,Colorado,Denver,Women's Apparel,74.0,133,9842.0,4232.0599999999995,0.43,Online
+West Gear,1128299,2020-04-14,West,Colorado,Denver,Men's Street Footwear,54.0,189,10206.0,6531.84,0.64,Online
+West Gear,1128299,2020-04-15,West,Colorado,Denver,Men's Athletic Footwear,59.0,144,8496.0,4248.0,0.5,Online
+West Gear,1128299,2020-04-16,West,Colorado,Denver,Women's Street Footwear,64.0,150,9600.0,6144.0,0.64,Online
+West Gear,1128299,2020-04-17,West,Colorado,Denver,Women's Athletic Footwear,62.0,135,8370.0,5022.0,0.6,Online
+West Gear,1128299,2020-04-18,West,Colorado,Denver,Men's Apparel,66.0,91,6006.0,4624.620000000001,0.7700000000000001,Online
+West Gear,1128299,2020-04-19,West,Colorado,Denver,Women's Apparel,83.0,181,15023.0,6459.89,0.43,Online
+West Gear,1128299,2020-04-20,West,Colorado,Denver,Men's Street Footwear,64.0,202,12928.0,7756.799999999999,0.6,Online
+West Gear,1128299,2020-04-21,West,Colorado,Denver,Men's Athletic Footwear,67.0,188,12596.0,5038.400000000001,0.4,Online
+West Gear,1128299,2020-04-22,West,Colorado,Denver,Women's Street Footwear,67.0,161,10787.0,5932.85,0.55,Online
+West Gear,1128299,2020-04-23,West,Colorado,Denver,Women's Athletic Footwear,61.0,143,8723.0,4535.96,0.52,Online
+West Gear,1128299,2020-04-24,West,Colorado,Denver,Men's Apparel,67.0,131,8777.0,6143.900000000001,0.7000000000000001,Online
+West Gear,1128299,2020-04-25,West,Colorado,Denver,Women's Apparel,78.0,137,10686.0,4274.400000000001,0.4,Online
+West Gear,1128299,2020-04-26,West,Colorado,Denver,Men's Street Footwear,63.0,196,12348.0,7285.320000000001,0.5900000000000001,Online
+West Gear,1128299,2020-04-27,West,Colorado,Denver,Men's Athletic Footwear,73.0,189,13797.0,5794.74,0.42,Online
+West Gear,1128299,2020-04-28,West,Colorado,Denver,Women's Street Footwear,67.0,143,9581.0,5461.170000000001,0.5700000000000001,Online
+West Gear,1128299,2020-04-29,West,Colorado,Denver,Women's Athletic Footwear,63.0,135,8505.0,4592.700000000001,0.54,Online
+West Gear,1128299,2020-04-30,West,Colorado,Denver,Men's Apparel,74.0,140,10360.0,7562.800000000001,0.7300000000000001,Online
+West Gear,1128299,2020-05-01,West,Colorado,Denver,Women's Apparel,74.0,100,7400.0,2590.0,0.35,Online
+West Gear,1128299,2020-05-02,West,Colorado,Denver,Men's Street Footwear,59.0,162,9558.0,5065.740000000001,0.53,Online
+West Gear,1128299,2020-05-03,West,Colorado,Denver,Men's Athletic Footwear,69.0,168,11592.0,4173.12,0.36,Online
+West Gear,1128299,2020-05-04,West,Colorado,Denver,Women's Street Footwear,60.0,113,6780.0,3390.0,0.5,Online
+West Gear,1128299,2020-05-05,West,Colorado,Denver,Women's Athletic Footwear,59.0,100,5900.0,2832.0,0.48,Online
+West Gear,1128299,2020-05-06,West,Colorado,Denver,Men's Apparel,74.0,120,8880.0,6127.200000000002,0.6900000000000002,Online
+West Gear,1128299,2020-05-07,West,Colorado,Denver,Women's Apparel,65.0,106,6890.0,2135.9,0.31,Online
+West Gear,1128299,2020-05-08,West,Colorado,Denver,Men's Street Footwear,51.0,137,6987.0,3493.5,0.5,Online
+West Gear,1128299,2020-05-09,West,Colorado,Denver,Men's Athletic Footwear,54.0,152,8208.0,2872.7999999999997,0.35,Online
+West Gear,1128299,2020-05-10,West,Colorado,Denver,Women's Street Footwear,51.0,102,5202.0,2601.0,0.5,Online
+West Gear,1128299,2020-05-11,West,Colorado,Denver,Women's Athletic Footwear,53.0,85,4505.0,2072.2999999999997,0.45999999999999996,Online
+West Gear,1128299,2020-05-12,West,Colorado,Denver,Men's Apparel,64.0,75,4800.0,3168.000000000001,0.6600000000000001,Online
+West Gear,1128299,2020-05-13,West,Colorado,Denver,Women's Apparel,65.0,105,6825.0,2047.5000000000002,0.30000000000000004,Online
+West Gear,1128299,2020-05-14,West,Colorado,Denver,Men's Street Footwear,52.0,150,7800.0,4290.0,0.55,Online
+West Gear,1128299,2020-05-15,West,Colorado,Denver,Men's Athletic Footwear,55.0,150,8250.0,3052.5,0.37,Online
+West Gear,1128299,2020-05-16,West,Colorado,Denver,Women's Street Footwear,51.0,128,6528.0,3459.84,0.53,Online
+West Gear,1128299,2020-05-17,West,Colorado,Denver,Women's Athletic Footwear,60.0,116,6960.0,3340.7999999999997,0.48,Online
+West Gear,1128299,2020-05-18,West,Colorado,Denver,Men's Apparel,68.0,105,7140.0,4926.600000000001,0.6900000000000002,Online
+West Gear,1128299,2020-05-19,West,Colorado,Denver,Women's Apparel,73.0,130,9490.0,2941.9,0.31,Online
+West Gear,1128299,2020-05-20,West,Colorado,Denver,Men's Street Footwear,59.0,203,11977.0,6228.04,0.52,Online
+West Gear,1128299,2020-05-21,West,Colorado,Denver,Men's Athletic Footwear,64.0,182,11648.0,4426.24,0.38,Online
+West Gear,1128299,2020-05-22,West,Colorado,Denver,Women's Street Footwear,60.0,125,7500.0,4125.0,0.55,Online
+West Gear,1128299,2020-05-23,West,Colorado,Denver,Women's Athletic Footwear,63.0,125,7875.0,3543.7499999999995,0.44999999999999996,Online
+West Gear,1128299,2020-05-24,West,Colorado,Denver,Men's Apparel,68.0,115,7820.0,5239.4000000000015,0.6700000000000002,Online
+West Gear,1128299,2020-05-25,West,Colorado,Denver,Women's Apparel,75.0,137,10275.0,3390.75,0.33,Online
+West Gear,1128299,2020-05-26,West,Colorado,Denver,Men's Street Footwear,36.0,117,4212.0,1726.9199999999998,0.41,Online
+West Gear,1128299,2020-05-27,West,Colorado,Denver,Men's Athletic Footwear,48.0,131,6288.0,2515.2000000000003,0.4,Online
+West Gear,1128299,2020-05-28,West,Colorado,Denver,Women's Street Footwear,46.0,135,6210.0,2173.5,0.35,Online
+West Gear,1128299,2020-05-29,West,Colorado,Denver,Women's Athletic Footwear,49.0,78,3822.0,1567.02,0.41,Online

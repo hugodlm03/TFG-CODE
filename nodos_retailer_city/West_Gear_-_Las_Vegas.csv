@@ -1,0 +1,217 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-01-06,West,Nevada,Las Vegas,Men's Apparel,50.0,250,125000.0,68750.0,0.55,Outlet
+West Gear,1128299,2020-01-07,West,Nevada,Las Vegas,Women's Apparel,45.0,475,213750.0,42750.0,0.2,Outlet
+West Gear,1128299,2020-01-08,West,Nevada,Las Vegas,Men's Street Footwear,35.0,525,183750.0,73500.0,0.4,Outlet
+West Gear,1128299,2020-01-09,West,Nevada,Las Vegas,Men's Athletic Footwear,45.0,425,191250.0,47812.5,0.25,Outlet
+West Gear,1128299,2020-01-10,West,Nevada,Las Vegas,Women's Street Footwear,45.0,425,191250.0,76500.0,0.4,Outlet
+West Gear,1128299,2020-01-11,West,Nevada,Las Vegas,Women's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,Outlet
+West Gear,1128299,2020-01-12,West,Nevada,Las Vegas,Men's Apparel,50.0,200,100000.0,55000.00000000001,0.55,Outlet
+West Gear,1128299,2020-01-13,West,Nevada,Las Vegas,Women's Apparel,45.0,400,180000.0,36000.0,0.2,Outlet
+West Gear,1128299,2020-01-14,West,Nevada,Las Vegas,Men's Street Footwear,45.0,550,247500.0,99000.0,0.4,Outlet
+West Gear,1128299,2020-01-15,West,Nevada,Las Vegas,Men's Athletic Footwear,54.99999999999999,400,219999.99999999997,54999.99999999999,0.25,Outlet
+West Gear,1128299,2020-01-16,West,Nevada,Las Vegas,Women's Street Footwear,54.99999999999999,400,219999.99999999997,88000.0,0.4,Outlet
+West Gear,1128299,2020-01-17,West,Nevada,Las Vegas,Women's Athletic Footwear,54.99999999999999,300,164999.99999999997,57749.999999999985,0.35,Outlet
+West Gear,1128299,2020-01-18,West,Nevada,Las Vegas,Men's Apparel,60.0,175,105000.0,57750.00000000001,0.55,Outlet
+West Gear,1128299,2020-01-19,West,Nevada,Las Vegas,Women's Apparel,54.99999999999999,375,206249.99999999997,41250.0,0.2,Outlet
+West Gear,1128299,2020-01-20,West,Nevada,Las Vegas,Men's Street Footwear,60.0,550,330000.0,132000.0,0.4,Outlet
+West Gear,1128299,2020-01-21,West,Nevada,Las Vegas,Men's Athletic Footwear,65.0,350,227500.0,56875.0,0.25,Outlet
+West Gear,1128299,2020-01-22,West,Nevada,Las Vegas,Women's Street Footwear,65.0,400,260000.0,104000.0,0.4,Outlet
+West Gear,1128299,2020-01-23,West,Nevada,Las Vegas,Women's Athletic Footwear,60.0,300,180000.0,62999.99999999999,0.35,Outlet
+West Gear,1128299,2020-01-24,West,Nevada,Las Vegas,Men's Apparel,65.0,200,130000.0,71500.0,0.55,Outlet
+West Gear,1128299,2020-01-25,West,Nevada,Las Vegas,Women's Apparel,80.0,350,280000.0,56000.0,0.2,Outlet
+West Gear,1128299,2020-01-26,West,Nevada,Las Vegas,Men's Street Footwear,60.0,550,330000.0,148500.0,0.45,Outlet
+West Gear,1128299,2020-01-27,West,Nevada,Las Vegas,Men's Athletic Footwear,65.0,400,260000.0,78000.0,0.3,Outlet
+West Gear,1128299,2020-01-28,West,Nevada,Las Vegas,Women's Street Footwear,65.0,400,260000.0,117000.0,0.45,Outlet
+West Gear,1128299,2020-01-29,West,Nevada,Las Vegas,Women's Athletic Footwear,60.0,300,180000.0,72000.0,0.39999999999999997,Outlet
+West Gear,1128299,2020-01-30,West,Nevada,Las Vegas,Men's Apparel,65.0,200,130000.0,78000.00000000001,0.6000000000000001,Outlet
+West Gear,1128299,2020-01-31,West,Nevada,Las Vegas,Women's Apparel,80.0,450,360000.0,90000.0,0.25,Outlet
+West Gear,1128299,2020-02-01,West,Nevada,Las Vegas,Men's Street Footwear,60.0,700,420000.0,189000.0,0.45,Outlet
+West Gear,1128299,2020-02-02,West,Nevada,Las Vegas,Men's Athletic Footwear,65.0,550,357500.0,107250.0,0.3,Outlet
+West Gear,1128299,2020-02-03,West,Nevada,Las Vegas,Women's Street Footwear,65.0,550,357500.0,160875.0,0.45,Outlet
+West Gear,1128299,2020-02-04,West,Nevada,Las Vegas,Women's Athletic Footwear,60.0,425,255000.0,101999.99999999999,0.39999999999999997,Outlet
+West Gear,1128299,2020-02-05,West,Nevada,Las Vegas,Men's Apparel,65.0,300,195000.0,117000.00000000001,0.6000000000000001,Outlet
+West Gear,1128299,2020-02-06,West,Nevada,Las Vegas,Women's Apparel,80.0,600,480000.0,120000.0,0.25,Outlet
+West Gear,1128299,2020-02-07,West,Nevada,Las Vegas,Men's Street Footwear,60.0,750,450000.0,180000.0,0.4,Outlet
+West Gear,1128299,2020-02-08,West,Nevada,Las Vegas,Men's Athletic Footwear,65.0,600,390000.0,97500.0,0.25,Outlet
+West Gear,1128299,2020-02-09,West,Nevada,Las Vegas,Women's Street Footwear,65.0,550,357500.0,143000.0,0.4,In-store
+West Gear,1128299,2020-02-10,West,Nevada,Las Vegas,Women's Athletic Footwear,60.0,450,270000.0,94500.0,0.35,In-store
+West Gear,1128299,2020-02-11,West,Nevada,Las Vegas,Men's Apparel,65.0,500,325000.0,178750.0,0.55,In-store
+West Gear,1128299,2020-02-12,West,Nevada,Las Vegas,Women's Apparel,80.0,500,400000.0,80000.0,0.2,In-store
+West Gear,1128299,2020-02-13,West,Nevada,Las Vegas,Men's Street Footwear,65.0,700,455000.0,182000.0,0.4,In-store
+West Gear,1128299,2020-02-14,West,Nevada,Las Vegas,Men's Athletic Footwear,70.0,650,455000.0,113750.0,0.25,In-store
+West Gear,1128299,2020-02-15,West,Nevada,Las Vegas,Women's Street Footwear,65.0,525,341250.0,136500.0,0.4,In-store
+West Gear,1128299,2020-02-16,West,Nevada,Las Vegas,Women's Athletic Footwear,65.0,475,308750.0,108062.5,0.35,In-store
+West Gear,1128299,2020-02-17,West,Nevada,Las Vegas,Men's Apparel,75.0,475,356250.0,195937.50000000003,0.55,In-store
+West Gear,1128299,2020-02-18,West,Nevada,Las Vegas,Women's Apparel,80.0,400,320000.0,64000.0,0.2,In-store
+West Gear,1128299,2020-02-19,West,Nevada,Las Vegas,Men's Street Footwear,60.00000000000001,600,360000.00000000006,126000.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-02-20,West,Nevada,Las Vegas,Men's Athletic Footwear,65.00000000000001,600,390000.00000000006,78000.00000000001,0.2,In-store
+West Gear,1128299,2020-02-21,West,Nevada,Las Vegas,Women's Street Footwear,60.00000000000001,450,270000.00000000006,94500.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-02-22,West,Nevada,Las Vegas,Women's Athletic Footwear,60.00000000000001,400,240000.00000000003,72000.0,0.3,In-store
+West Gear,1128299,2020-02-23,West,Nevada,Las Vegas,Men's Apparel,70.0,400,280000.0,140000.00000000003,0.5000000000000001,In-store
+West Gear,1128299,2020-02-24,West,Nevada,Las Vegas,Women's Apparel,75.00000000000001,450,337500.00000000006,50625.000000000015,0.15000000000000002,In-store
+West Gear,1128299,2020-02-25,West,Nevada,Las Vegas,Men's Street Footwear,60.00000000000001,550,330000.00000000006,115500.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-02-26,West,Nevada,Las Vegas,Men's Athletic Footwear,65.00000000000001,550,357500.00000000006,71500.00000000001,0.2,In-store
+West Gear,1128299,2020-02-27,West,Nevada,Las Vegas,Women's Street Footwear,60.00000000000001,375,225000.00000000003,78750.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-02-28,West,Nevada,Las Vegas,Women's Athletic Footwear,60.00000000000001,350,210000.00000000003,63000.00000000001,0.3,In-store
+West Gear,1128299,2020-03-01,West,Nevada,Las Vegas,Men's Apparel,70.0,325,227500.0,113750.00000000003,0.5000000000000001,In-store
+West Gear,1128299,2020-03-02,West,Nevada,Las Vegas,Women's Apparel,75.00000000000001,375,281250.00000000006,42187.500000000015,0.15000000000000002,In-store
+West Gear,1128299,2020-03-03,West,Nevada,Las Vegas,Men's Street Footwear,60.00000000000001,575,345000.00000000006,120750.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-03-04,West,Nevada,Las Vegas,Men's Athletic Footwear,65.00000000000001,575,373750.00000000006,74750.00000000001,0.2,In-store
+West Gear,1128299,2020-03-05,West,Nevada,Las Vegas,Women's Street Footwear,60.00000000000001,425,255000.00000000003,89250.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-06,West,Nevada,Las Vegas,Women's Athletic Footwear,60.00000000000001,400,240000.00000000003,72000.0,0.3,In-store
+West Gear,1128299,2020-03-07,West,Nevada,Las Vegas,Men's Apparel,70.0,350,245000.0,122500.00000000003,0.5000000000000001,In-store
+West Gear,1128299,2020-03-08,West,Nevada,Las Vegas,Women's Apparel,75.00000000000001,475,356250.00000000006,53437.500000000015,0.15000000000000002,In-store
+West Gear,1128299,2020-03-09,West,Nevada,Las Vegas,Men's Street Footwear,60.00000000000001,675,405000.00000000006,141750.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-03-10,West,Nevada,Las Vegas,Men's Athletic Footwear,65.00000000000001,675,438750.0000000001,87750.00000000003,0.2,In-store
+West Gear,1128299,2020-03-11,West,Nevada,Las Vegas,Women's Street Footwear,60.00000000000001,475,285000.00000000006,99750.00000000003,0.35000000000000003,In-store
+West Gear,1128299,2020-03-12,West,Nevada,Las Vegas,Women's Athletic Footwear,60.00000000000001,475,285000.00000000006,85500.00000000001,0.3,In-store
+West Gear,1128299,2020-03-13,West,Nevada,Las Vegas,Men's Apparel,70.0,400,280000.0,140000.00000000003,0.5000000000000001,In-store
+West Gear,1128299,2020-03-14,West,Nevada,Las Vegas,Women's Apparel,75.00000000000001,500,375000.00000000006,56250.000000000015,0.15000000000000002,In-store
+West Gear,1128299,2020-03-15,West,Nevada,Las Vegas,Men's Street Footwear,30.0,425,127500.0,44625.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-16,West,Nevada,Las Vegas,Men's Athletic Footwear,40.0,425,170000.0,34000.0,0.2,In-store
+West Gear,1128299,2020-03-17,West,Nevada,Las Vegas,Women's Street Footwear,40.0,425,170000.0,59500.00000000001,0.35000000000000003,In-store
+West Gear,1128299,2020-03-18,West,Nevada,Las Vegas,Women's Athletic Footwear,40.0,275,110000.0,33000.0,0.3,In-store
+West Gear,1128299,2020-01-06,West,Nevada,Las Vegas,Men's Apparel,47.0,70,3290.0,2138.5,0.65,Online
+West Gear,1128299,2020-01-07,West,Nevada,Las Vegas,Women's Apparel,41.0,128,5248.0,1574.4000000000003,0.30000000000000004,Online
+West Gear,1128299,2020-01-08,West,Nevada,Las Vegas,Men's Street Footwear,34.0,158,5372.0,2686.0,0.5,Online
+West Gear,1128299,2020-01-09,West,Nevada,Las Vegas,Men's Athletic Footwear,43.0,128,5504.0,2201.6,0.4,Online
+West Gear,1128299,2020-01-10,West,Nevada,Las Vegas,Women's Street Footwear,41.0,119,4879.0,2585.8700000000003,0.53,Online
+West Gear,1128299,2020-01-11,West,Nevada,Las Vegas,Women's Athletic Footwear,44.0,74,3256.0,1497.76,0.45999999999999996,Online
+West Gear,1128299,2020-01-12,West,Nevada,Las Vegas,Men's Apparel,46.0,52,2392.0,1674.4,0.7000000000000001,Online
+West Gear,1128299,2020-01-13,West,Nevada,Las Vegas,Women's Apparel,41.0,116,4756.0,1617.0400000000002,0.34,Online
+West Gear,1128299,2020-01-14,West,Nevada,Las Vegas,Men's Street Footwear,43.0,160,6880.0,3784.0000000000005,0.55,Online
+West Gear,1128299,2020-01-15,West,Nevada,Las Vegas,Men's Athletic Footwear,50.0,120,6000.0,2400.0,0.4,Online
+West Gear,1128299,2020-01-16,West,Nevada,Las Vegas,Women's Street Footwear,52.0,104,5408.0,2866.2400000000002,0.53,Online
+West Gear,1128299,2020-01-17,West,Nevada,Las Vegas,Women's Athletic Footwear,50.0,84,4200.0,1974.0,0.47,Online
+West Gear,1128299,2020-01-18,West,Nevada,Las Vegas,Men's Apparel,55.0,47,2585.0,1809.5000000000002,0.7000000000000001,Online
+West Gear,1128299,2020-01-19,West,Nevada,Las Vegas,Women's Apparel,54.0,94,5076.0,1725.8400000000001,0.34,Online
+West Gear,1128299,2020-01-20,West,Nevada,Las Vegas,Men's Street Footwear,58.0,143,8294.0,4229.9400000000005,0.51,Online
+West Gear,1128299,2020-01-21,West,Nevada,Las Vegas,Men's Athletic Footwear,62.0,102,6324.0,2403.12,0.38,Online
+West Gear,1128299,2020-01-22,West,Nevada,Las Vegas,Women's Street Footwear,61.0,120,7320.0,3879.6000000000004,0.53,Online
+West Gear,1128299,2020-01-23,West,Nevada,Las Vegas,Women's Athletic Footwear,59.0,75,4425.0,2035.4999999999998,0.45999999999999996,Online
+West Gear,1128299,2020-01-24,West,Nevada,Las Vegas,Men's Apparel,63.0,52,3276.0,2162.1600000000003,0.66,Online
+West Gear,1128299,2020-01-25,West,Nevada,Las Vegas,Women's Apparel,78.0,95,7410.0,2519.4,0.34,Online
+West Gear,1128299,2020-01-26,West,Nevada,Las Vegas,Men's Street Footwear,58.0,149,8642.0,5012.360000000001,0.5800000000000001,Online
+West Gear,1128299,2020-01-27,West,Nevada,Las Vegas,Men's Athletic Footwear,60.0,104,6240.0,2683.2,0.43,Online
+West Gear,1128299,2020-01-28,West,Nevada,Las Vegas,Women's Street Footwear,63.0,116,7308.0,4165.56,0.5700000000000001,Online
+West Gear,1128299,2020-01-29,West,Nevada,Las Vegas,Women's Athletic Footwear,57.0,90,5130.0,2565.0,0.5,Online
+West Gear,1128299,2020-01-30,West,Nevada,Las Vegas,Men's Apparel,60.0,60,3600.0,2520.0000000000005,0.7000000000000001,Online
+West Gear,1128299,2020-01-31,West,Nevada,Las Vegas,Women's Apparel,78.0,131,10218.0,3576.2999999999997,0.35,Online
+West Gear,1128299,2020-02-01,West,Nevada,Las Vegas,Men's Street Footwear,56.0,189,10584.0,6032.880000000001,0.5700000000000001,Online
+West Gear,1128299,2020-02-02,West,Nevada,Las Vegas,Men's Athletic Footwear,62.0,165,10230.0,4194.3,0.41,Online
+West Gear,1128299,2020-02-03,West,Nevada,Las Vegas,Women's Street Footwear,62.0,165,10230.0,6035.700000000001,0.5900000000000001,Online
+West Gear,1128299,2020-02-04,West,Nevada,Las Vegas,Women's Athletic Footwear,58.0,111,6438.0,3283.38,0.51,Online
+West Gear,1128299,2020-02-05,West,Nevada,Las Vegas,Men's Apparel,59.0,81,4779.0,3536.4600000000005,0.7400000000000001,Online
+West Gear,1128299,2020-02-06,West,Nevada,Las Vegas,Women's Apparel,73.0,174,12702.0,5080.8,0.4,Online
+West Gear,1128299,2020-02-07,West,Nevada,Las Vegas,Men's Street Footwear,58.0,218,12644.0,6701.320000000001,0.53,Online
+West Gear,1128299,2020-02-08,West,Nevada,Las Vegas,Men's Athletic Footwear,61.0,174,10614.0,3821.04,0.36,Online
+West Gear,1128299,2020-02-09,West,Nevada,Las Vegas,Women's Street Footwear,61.0,143,8723.0,4623.1900000000005,0.53,Online
+West Gear,1128299,2020-02-10,West,Nevada,Las Vegas,Women's Athletic Footwear,55.0,117,6435.0,3153.15,0.49,Online
+West Gear,1128299,2020-02-11,West,Nevada,Las Vegas,Men's Apparel,60.0,130,7800.0,5460.000000000001,0.7000000000000001,Online
+West Gear,1128299,2020-02-12,West,Nevada,Las Vegas,Women's Apparel,78.0,145,11310.0,3393.0000000000005,0.30000000000000004,Online
+West Gear,1128299,2020-02-13,West,Nevada,Las Vegas,Men's Street Footwear,62.0,210,13020.0,6900.6,0.53,Online
+West Gear,1128299,2020-02-14,West,Nevada,Las Vegas,Men's Athletic Footwear,64.0,182,11648.0,4542.72,0.39,Online
+West Gear,1128299,2020-02-15,West,Nevada,Las Vegas,Women's Street Footwear,60.0,152,9120.0,4742.400000000001,0.52,Online
+West Gear,1128299,2020-02-16,West,Nevada,Las Vegas,Women's Athletic Footwear,64.0,124,7936.0,3729.9199999999996,0.47,Online
+West Gear,1128299,2020-02-17,West,Nevada,Las Vegas,Men's Apparel,68.0,138,9384.0,6381.120000000001,0.68,Online
+West Gear,1128299,2020-02-18,West,Nevada,Las Vegas,Women's Apparel,78.0,108,8424.0,2864.1600000000003,0.34,Online
+West Gear,1128299,2020-02-19,West,Nevada,Las Vegas,Men's Street Footwear,56.0,174,9744.0,4677.120000000001,0.48000000000000004,Online
+West Gear,1128299,2020-02-20,West,Nevada,Las Vegas,Men's Athletic Footwear,61.0,162,9882.0,3359.88,0.34,Online
+West Gear,1128299,2020-02-21,West,Nevada,Las Vegas,Women's Street Footwear,57.0,117,6669.0,3334.5,0.5,Online
+West Gear,1128299,2020-02-22,West,Nevada,Las Vegas,Women's Athletic Footwear,58.0,112,6496.0,2858.2400000000002,0.44,Online
+West Gear,1128299,2020-02-23,West,Nevada,Las Vegas,Men's Apparel,67.0,120,8040.0,4904.400000000001,0.6100000000000001,Online
+West Gear,1128299,2020-02-24,West,Nevada,Las Vegas,Women's Apparel,74.0,113,8362.0,2508.6000000000004,0.30000000000000004,Online
+West Gear,1128299,2020-02-25,West,Nevada,Las Vegas,Men's Street Footwear,56.0,138,7728.0,3786.7200000000003,0.49000000000000005,Online
+West Gear,1128299,2020-02-26,West,Nevada,Las Vegas,Men's Athletic Footwear,59.0,165,9735.0,3407.25,0.35,Online
+West Gear,1128299,2020-02-27,West,Nevada,Las Vegas,Women's Street Footwear,54.0,109,5886.0,2648.7000000000003,0.45000000000000007,Online
+West Gear,1128299,2020-02-28,West,Nevada,Las Vegas,Women's Athletic Footwear,54.0,105,5670.0,2381.4,0.42,Online
+West Gear,1128299,2020-03-01,West,Nevada,Las Vegas,Men's Apparel,63.0,81,5103.0,3112.8300000000004,0.6100000000000001,Online
+West Gear,1128299,2020-03-02,West,Nevada,Las Vegas,Women's Apparel,68.0,94,6392.0,1598.0,0.25,Online
+West Gear,1128299,2020-03-03,West,Nevada,Las Vegas,Men's Street Footwear,57.0,155,8835.0,4240.8,0.48000000000000004,Online
+West Gear,1128299,2020-03-04,West,Nevada,Las Vegas,Men's Athletic Footwear,64.0,150,9600.0,3264.0000000000005,0.34,Online
+West Gear,1128299,2020-03-05,West,Nevada,Las Vegas,Women's Street Footwear,55.0,106,5830.0,2681.8,0.46,Online
+West Gear,1128299,2020-03-06,West,Nevada,Las Vegas,Women's Athletic Footwear,56.0,108,6048.0,2479.68,0.41,Online
+West Gear,1128299,2020-03-07,West,Nevada,Las Vegas,Men's Apparel,64.0,88,5632.0,3604.4800000000005,0.6400000000000001,Online
+West Gear,1128299,2020-03-08,West,Nevada,Las Vegas,Women's Apparel,68.0,133,9044.0,2351.44,0.26,Online
+West Gear,1128299,2020-03-09,West,Nevada,Las Vegas,Men's Street Footwear,58.0,196,11368.0,5342.96,0.47000000000000003,Online
+West Gear,1128299,2020-03-10,West,Nevada,Las Vegas,Men's Athletic Footwear,62.0,189,11718.0,3984.1200000000003,0.34,Online
+West Gear,1128299,2020-03-11,West,Nevada,Las Vegas,Women's Street Footwear,59.0,119,7021.0,3299.8700000000003,0.47000000000000003,Online
+West Gear,1128299,2020-03-12,West,Nevada,Las Vegas,Women's Athletic Footwear,57.0,133,7581.0,3335.64,0.44,Online
+West Gear,1128299,2020-03-13,West,Nevada,Las Vegas,Men's Apparel,69.0,112,7728.0,4636.800000000001,0.6000000000000001,Online
+West Gear,1128299,2020-03-14,West,Nevada,Las Vegas,Women's Apparel,74.0,150,11100.0,2997.0,0.27,Online
+West Gear,1128299,2020-03-15,West,Nevada,Las Vegas,Men's Street Footwear,28.0,123,3444.0,1722.0,0.5,Online
+West Gear,1128299,2020-03-16,West,Nevada,Las Vegas,Men's Athletic Footwear,38.0,123,4674.0,1542.42,0.33,Online
+West Gear,1128299,2020-03-17,West,Nevada,Las Vegas,Women's Street Footwear,39.0,115,4485.0,2063.1,0.46,Online
+West Gear,1128299,2020-03-18,West,Nevada,Las Vegas,Women's Athletic Footwear,38.0,72,2736.0,1231.1999999999998,0.44999999999999996,Online
+West Gear,1128299,2020-01-06,West,Nevada,Las Vegas,Men's Apparel,37.0,80,2960.0,1687.2000000000003,0.5700000000000001,Outlet
+West Gear,1128299,2020-01-07,West,Nevada,Las Vegas,Women's Apparel,36.0,166,5976.0,1434.24,0.24000000000000002,Outlet
+West Gear,1128299,2020-01-08,West,Nevada,Las Vegas,Men's Street Footwear,27.0,173,4671.0,2008.5300000000002,0.43000000000000005,Outlet
+West Gear,1128299,2020-01-09,West,Nevada,Las Vegas,Men's Athletic Footwear,35.0,145,5075.0,1573.25,0.31,Outlet
+West Gear,1128299,2020-01-10,West,Nevada,Las Vegas,Women's Street Footwear,31.0,140,4340.0,1866.2000000000003,0.43000000000000005,Outlet
+West Gear,1128299,2020-01-11,West,Nevada,Las Vegas,Women's Athletic Footwear,30.0,85,2550.0,1045.5,0.41,Outlet
+West Gear,1128299,2020-01-12,West,Nevada,Las Vegas,Men's Apparel,37.0,70,2590.0,1579.9000000000003,0.6100000000000001,Outlet
+West Gear,1128299,2020-01-13,West,Nevada,Las Vegas,Women's Apparel,31.0,140,4340.0,998.2,0.23,Outlet
+West Gear,1128299,2020-01-14,West,Nevada,Las Vegas,Men's Street Footwear,31.0,182,5642.0,2538.9,0.45,Outlet
+West Gear,1128299,2020-01-15,West,Nevada,Las Vegas,Men's Athletic Footwear,42.0,124,5208.0,1666.56,0.32,Outlet
+West Gear,1128299,2020-01-16,West,Nevada,Las Vegas,Women's Street Footwear,43.0,128,5504.0,2586.88,0.47000000000000003,Outlet
+West Gear,1128299,2020-01-17,West,Nevada,Las Vegas,Women's Athletic Footwear,41.0,93,3813.0,1563.33,0.41,Outlet
+West Gear,1128299,2020-01-18,West,Nevada,Las Vegas,Men's Apparel,44.0,60,2640.0,1636.8000000000002,0.6200000000000001,Outlet
+West Gear,1128299,2020-01-19,West,Nevada,Las Vegas,Women's Apparel,39.0,124,4836.0,1257.3600000000001,0.26,Outlet
+West Gear,1128299,2020-01-20,West,Nevada,Las Vegas,Men's Street Footwear,41.0,171,7011.0,2944.6200000000003,0.42000000000000004,Outlet
+West Gear,1128299,2020-01-21,West,Nevada,Las Vegas,Men's Athletic Footwear,46.0,116,5336.0,1547.4399999999998,0.29,Outlet
+West Gear,1128299,2020-01-22,West,Nevada,Las Vegas,Women's Street Footwear,47.0,120,5640.0,2538.0,0.45,Outlet
+West Gear,1128299,2020-01-23,West,Nevada,Las Vegas,Women's Athletic Footwear,40.0,90,3600.0,1476.0,0.41,Outlet
+West Gear,1128299,2020-01-24,West,Nevada,Las Vegas,Men's Apparel,47.0,62,2914.0,1777.5400000000002,0.6100000000000001,Outlet
+West Gear,1128299,2020-01-25,West,Nevada,Las Vegas,Women's Apparel,54.0,123,6642.0,1793.3400000000001,0.27,Outlet
+West Gear,1128299,2020-01-26,West,Nevada,Las Vegas,Men's Street Footwear,43.0,171,7353.0,3529.44,0.48,Outlet
+West Gear,1128299,2020-01-27,West,Nevada,Las Vegas,Men's Athletic Footwear,43.0,120,5160.0,1805.9999999999998,0.35,Outlet
+West Gear,1128299,2020-01-28,West,Nevada,Las Vegas,Women's Street Footwear,49.0,132,6468.0,3039.96,0.47000000000000003,Outlet
+West Gear,1128299,2020-01-29,West,Nevada,Las Vegas,Women's Athletic Footwear,47.0,105,4935.0,2270.1,0.45999999999999996,Outlet
+West Gear,1128299,2020-01-30,West,Nevada,Las Vegas,Men's Apparel,43.0,66,2838.0,1873.0800000000004,0.6600000000000001,Outlet
+West Gear,1128299,2020-01-31,West,Nevada,Las Vegas,Women's Apparel,54.0,140,7560.0,2419.2000000000003,0.32,Outlet
+West Gear,1128299,2020-02-01,West,Nevada,Las Vegas,Men's Street Footwear,47.0,245,11515.0,5757.5,0.5,Outlet
+West Gear,1128299,2020-02-02,West,Nevada,Las Vegas,Men's Athletic Footwear,51.0,182,9282.0,3341.52,0.36,Outlet
+West Gear,1128299,2020-02-03,West,Nevada,Las Vegas,Women's Street Footwear,46.0,176,8096.0,3886.08,0.48,Outlet
+West Gear,1128299,2020-02-04,West,Nevada,Las Vegas,Women's Athletic Footwear,47.0,145,6815.0,3066.7499999999995,0.44999999999999996,Outlet
+West Gear,1128299,2020-02-05,West,Nevada,Las Vegas,Men's Apparel,47.0,105,4935.0,3207.7500000000005,0.6500000000000001,Outlet
+West Gear,1128299,2020-02-06,West,Nevada,Las Vegas,Women's Apparel,57.0,192,10944.0,3064.32,0.28,Outlet
+West Gear,1128299,2020-02-07,West,Nevada,Las Vegas,Men's Street Footwear,48.0,233,11184.0,4920.96,0.44,Outlet
+West Gear,1128299,2020-02-08,West,Nevada,Las Vegas,Men's Athletic Footwear,46.0,204,9384.0,2533.6800000000003,0.27,Outlet
+West Gear,1128299,2020-02-09,West,Nevada,Las Vegas,Women's Street Footwear,47.0,171,8037.0,3616.65,0.45,Outlet
+West Gear,1128299,2020-02-10,West,Nevada,Las Vegas,Women's Athletic Footwear,46.0,140,6440.0,2704.7999999999997,0.42,Outlet
+West Gear,1128299,2020-02-11,West,Nevada,Las Vegas,Men's Apparel,47.0,150,7050.0,4159.500000000001,0.5900000000000001,Outlet
+West Gear,1128299,2020-02-12,West,Nevada,Las Vegas,Women's Apparel,61.0,170,10370.0,2799.9,0.27,Outlet
+West Gear,1128299,2020-02-13,West,Nevada,Las Vegas,Men's Street Footwear,44.0,238,10472.0,4817.12,0.46,Outlet
+West Gear,1128299,2020-02-14,West,Nevada,Las Vegas,Men's Athletic Footwear,56.0,208,11648.0,3377.9199999999996,0.29,Outlet
+West Gear,1128299,2020-02-15,West,Nevada,Las Vegas,Women's Street Footwear,44.0,179,7876.0,3307.9200000000005,0.42000000000000004,Outlet
+West Gear,1128299,2020-02-16,West,Nevada,Las Vegas,Women's Athletic Footwear,42.0,152,6384.0,2681.2799999999997,0.42,Outlet
+West Gear,1128299,2020-02-17,West,Nevada,Las Vegas,Men's Apparel,50.0,152,7600.0,4484.000000000001,0.5900000000000001,Outlet
+West Gear,1128299,2020-02-18,West,Nevada,Las Vegas,Women's Apparel,55.0,128,7040.0,1830.4,0.26,Outlet
+West Gear,1128299,2020-02-19,West,Nevada,Las Vegas,Men's Street Footwear,41.0,186,7626.0,2897.88,0.38,Outlet
+West Gear,1128299,2020-02-20,West,Nevada,Las Vegas,Men's Athletic Footwear,51.0,180,9180.0,2478.6000000000004,0.27,Outlet
+West Gear,1128299,2020-02-21,West,Nevada,Las Vegas,Women's Street Footwear,46.0,144,6624.0,2715.84,0.41000000000000003,Outlet
+West Gear,1128299,2020-02-22,West,Nevada,Las Vegas,Women's Athletic Footwear,43.0,124,5332.0,1866.1999999999998,0.35,Outlet
+West Gear,1128299,2020-02-23,West,Nevada,Las Vegas,Men's Apparel,53.0,128,6784.0,3595.520000000001,0.5300000000000001,Outlet
+West Gear,1128299,2020-02-24,West,Nevada,Las Vegas,Women's Apparel,54.0,140,7560.0,1587.6000000000001,0.21000000000000002,Outlet
+West Gear,1128299,2020-02-25,West,Nevada,Las Vegas,Men's Street Footwear,47.0,171,8037.0,3214.8,0.4,Outlet
+West Gear,1128299,2020-02-26,West,Nevada,Las Vegas,Men's Athletic Footwear,50.0,193,9650.0,2412.5,0.25,Outlet
+West Gear,1128299,2020-02-27,West,Nevada,Las Vegas,Women's Street Footwear,47.0,113,5311.0,2230.6200000000003,0.42000000000000004,Outlet
+West Gear,1128299,2020-02-28,West,Nevada,Las Vegas,Women's Athletic Footwear,43.0,119,5117.0,1688.61,0.32999999999999996,Outlet
+West Gear,1128299,2020-03-01,West,Nevada,Las Vegas,Men's Apparel,48.0,107,5136.0,2773.440000000001,0.5400000000000001,Outlet
+West Gear,1128299,2020-03-02,West,Nevada,Las Vegas,Women's Apparel,53.0,120,6360.0,1399.2000000000003,0.22000000000000003,Outlet
+West Gear,1128299,2020-03-03,West,Nevada,Las Vegas,Men's Street Footwear,47.0,196,9212.0,3869.0400000000004,0.42000000000000004,Outlet
+West Gear,1128299,2020-03-04,West,Nevada,Las Vegas,Men's Athletic Footwear,52.0,201,10452.0,2613.0,0.25,Outlet
+West Gear,1128299,2020-03-05,West,Nevada,Las Vegas,Women's Street Footwear,44.0,140,6160.0,2587.2000000000003,0.42000000000000004,Outlet
+West Gear,1128299,2020-03-06,West,Nevada,Las Vegas,Women's Athletic Footwear,43.0,132,5676.0,1986.6,0.35,Outlet
+West Gear,1128299,2020-03-07,West,Nevada,Las Vegas,Men's Apparel,46.0,119,5474.0,2955.960000000001,0.5400000000000001,Outlet
+West Gear,1128299,2020-03-08,West,Nevada,Las Vegas,Women's Apparel,51.0,162,8262.0,1735.0200000000002,0.21000000000000002,Outlet
+West Gear,1128299,2020-03-09,West,Nevada,Las Vegas,Men's Street Footwear,47.0,216,10152.0,3756.2400000000007,0.37000000000000005,Outlet
+West Gear,1128299,2020-03-10,West,Nevada,Las Vegas,Men's Athletic Footwear,50.0,209,10450.0,2612.5,0.25,Outlet
+West Gear,1128299,2020-03-11,West,Nevada,Las Vegas,Women's Street Footwear,47.0,166,7802.0,3276.84,0.42000000000000004,Outlet
+West Gear,1128299,2020-03-12,West,Nevada,Las Vegas,Women's Athletic Footwear,40.0,166,6640.0,2390.4,0.36,Outlet
+West Gear,1128299,2020-03-13,West,Nevada,Las Vegas,Men's Apparel,49.0,136,6664.0,3598.560000000001,0.5400000000000001,Outlet
+West Gear,1128299,2020-03-14,West,Nevada,Las Vegas,Women's Apparel,56.0,170,9520.0,1713.6000000000001,0.18000000000000002,Outlet
+West Gear,1128299,2020-03-15,West,Nevada,Las Vegas,Men's Street Footwear,20.0,149,2980.0,1192.0,0.4,Outlet
+West Gear,1128299,2020-03-16,West,Nevada,Las Vegas,Men's Athletic Footwear,31.0,145,4495.0,1123.75,0.25,Outlet
+West Gear,1128299,2020-03-17,West,Nevada,Las Vegas,Women's Street Footwear,26.0,128,3328.0,1397.7600000000002,0.42000000000000004,Outlet
+West Gear,1128299,2020-03-18,West,Nevada,Las Vegas,Women's Athletic Footwear,26.0,96,2496.0,848.6399999999999,0.33999999999999997,Outlet

@@ -1,0 +1,151 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Street Footwear,65.0,550,357500.0,107250.0,0.3,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Athletic Footwear,70.0,350,245000.0,61250.0,0.25,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Street Footwear,70.0,400,280000.0,84000.0,0.3,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Apparel,60.00000000000001,200,120000.00000000001,24000.000000000004,0.2,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Apparel,75.00000000000001,375,281250.00000000006,126562.50000000003,0.45,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Street Footwear,60.0,575,345000.0,103500.0,0.3,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Athletic Footwear,65.0,425,276250.0,69062.5,0.25,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Street Footwear,65.0,425,276250.0,82875.0,0.3,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Athletic Footwear,60.0,325,195000.0,58500.0,0.3,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Apparel,54.99999999999999,225,123749.99999999999,24750.0,0.2,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Apparel,70.0,575,402500.0,181125.0,0.45,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Street Footwear,64.99999999999999,825,536249.9999999999,160874.99999999997,0.3,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Athletic Footwear,70.0,700,490000.0,122500.0,0.25,In-store
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Street Footwear,85.0,700,595000.0,178500.0,0.3,In-store
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Athletic Footwear,85.0,575,488750.0,146625.0,0.3,In-store
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Apparel,95.0,450,427500.0,85500.0,0.2,In-store
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Apparel,110.00000000000001,750,825000.0000000001,371250.00000000006,0.45,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Street Footwear,90.0,900,810000.0,243000.0,0.3,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Athletic Footwear,95.0,750,712500.0,178125.0,0.25,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Street Footwear,95.0,700,665000.0,199500.0,0.3,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Athletic Footwear,90.0,600,540000.0,162000.0,0.3,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Apparel,95.0,650,617500.0,123500.0,0.2,In-store
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Apparel,110.00000000000001,650,715000.0000000001,321750.00000000006,0.45,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Street Footwear,95.0,850,807500.0,242250.0,0.3,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Athletic Footwear,85.00000000000001,825,701250.0000000001,175312.50000000003,0.25,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Street Footwear,80.0,700,560000.0,168000.0,0.3,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Athletic Footwear,80.0,475,380000.0,114000.0,0.3,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Apparel,80.0,475,380000.0,76000.0,0.2,In-store
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Apparel,85.0,300,255000.0,114750.0,0.45,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Street Footwear,60.00000000000001,500,300000.00000000006,90000.00000000001,0.3,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Athletic Footwear,65.00000000000001,500,325000.00000000006,81250.00000000001,0.25,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Street Footwear,60.00000000000001,300,180000.00000000003,54000.00000000001,0.3,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Athletic Footwear,60.00000000000001,250,150000.00000000003,45000.00000000001,0.3,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Apparel,70.0,275,192500.0,38500.0,0.2,In-store
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Apparel,54.99999999999999,300,164999.99999999997,74249.99999999999,0.45,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Street Footwear,50.0,400,200000.0,60000.0,0.3,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Athletic Footwear,65.00000000000001,575,373750.00000000006,93437.50000000001,0.25,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Street Footwear,60.00000000000001,400,240000.00000000003,72000.0,0.3,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Athletic Footwear,55.00000000000001,375,206250.00000000003,61875.00000000001,0.3,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Apparel,65.0,350,227500.0,45500.0,0.2,In-store
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Apparel,70.0,400,280000.0,126000.0,0.45,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Street Footwear,55.00000000000001,625,343750.00000000006,103125.00000000001,0.3,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Athletic Footwear,60.00000000000001,700,420000.00000000006,105000.00000000001,0.25,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Street Footwear,55.00000000000001,525,288750.00000000006,86625.00000000001,0.3,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Athletic Footwear,65.00000000000001,500,325000.00000000006,97500.00000000001,0.3,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Apparel,85.00000000000001,475,403750.00000000006,80750.00000000001,0.2,In-store
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Apparel,90.00000000000001,600,540000.0000000001,243000.00000000006,0.45,In-store
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Street Footwear,75.00000000000001,800,600000.0000000001,180000.00000000003,0.3,In-store
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Athletic Footwear,85.00000000000001,800,680000.0000000001,170000.00000000003,0.25,In-store
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Street Footwear,62.0,138,8556.0,3593.52,0.42,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Athletic Footwear,66.0,98,6468.0,2263.7999999999997,0.35,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Street Footwear,66.0,120,7920.0,3247.2,0.41,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Athletic Footwear,52.0,84,4368.0,1965.6,0.44999999999999996,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Apparel,59.0,58,3422.0,1197.6999999999998,0.35,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Apparel,72.0,109,7848.0,4708.8,0.6,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Street Footwear,58.0,155,8990.0,3865.7,0.43,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Athletic Footwear,60.0,128,7680.0,3072.0,0.4,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Street Footwear,59.0,119,7021.0,3159.45,0.44999999999999996,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Athletic Footwear,59.0,88,5192.0,2232.56,0.43,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Apparel,52.0,68,3536.0,1131.52,0.32,Online
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Apparel,67.0,173,11591.0,6722.780000000001,0.5800000000000001,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Street Footwear,61.0,223,13603.0,6121.349999999999,0.44999999999999996,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Athletic Footwear,64.0,203,12992.0,4547.2,0.35,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Street Footwear,80.0,210,16800.0,7224.0,0.43,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Athletic Footwear,77.0,155,11935.0,5012.7,0.42,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Apparel,89.0,126,11214.0,3588.48,0.32,Online
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Apparel,103.0,218,22454.0,12574.240000000002,0.56,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Street Footwear,83.0,261,21663.0,9531.72,0.44,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Athletic Footwear,88.0,225,19800.0,7920.0,0.4,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Street Footwear,86.0,189,16254.0,7151.76,0.44,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Athletic Footwear,82.0,180,14760.0,6346.8,0.43,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Apparel,89.0,195,17355.0,5553.6,0.32,Online
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Apparel,101.0,163,16463.0,9383.910000000002,0.5700000000000001,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Street Footwear,87.0,213,18531.0,7597.709999999999,0.41,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Athletic Footwear,77.0,206,15862.0,5551.7,0.35,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Street Footwear,78.0,189,14742.0,6339.0599999999995,0.43,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Athletic Footwear,77.0,143,11011.0,4624.62,0.42,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Apparel,74.0,143,10582.0,3280.42,0.31,Online
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Apparel,81.0,87,7047.0,4087.2600000000007,0.5800000000000001,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Street Footwear,58.0,140,8120.0,3248.0,0.4,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Athletic Footwear,60.0,135,8100.0,2997.0,0.37,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Street Footwear,54.0,75,4050.0,1822.4999999999998,0.44999999999999996,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Athletic Footwear,54.0,65,3510.0,1544.4,0.44,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Apparel,64.0,74,4736.0,1468.16,0.31,Online
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Apparel,51.0,75,3825.0,2103.75,0.55,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Street Footwear,47.0,100,4700.0,2068.0,0.44,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Athletic Footwear,59.0,144,8496.0,3228.48,0.38,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Street Footwear,55.0,112,6160.0,2525.6,0.41,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Athletic Footwear,51.0,113,5763.0,2362.83,0.41,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Apparel,59.0,98,5782.0,1792.42,0.31,Online
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Apparel,65.0,104,6760.0,3920.8000000000006,0.5800000000000001,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Street Footwear,52.0,169,8788.0,3515.2000000000003,0.4,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Athletic Footwear,54.0,175,9450.0,3591.0,0.38,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Street Footwear,53.0,147,7791.0,3194.31,0.41,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Athletic Footwear,64.0,150,9600.0,4128.0,0.43,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Apparel,77.0,124,9548.0,2864.4000000000005,0.30000000000000004,Online
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Apparel,86.0,162,13932.0,8219.880000000001,0.5900000000000001,Online
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Street Footwear,72.0,216,15552.0,6220.8,0.4,Online
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Athletic Footwear,82.0,200,16400.0,5740.0,0.35,Online
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Street Footwear,47.0,171,8037.0,2893.3199999999997,0.36,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Athletic Footwear,51.0,105,5355.0,1445.8500000000001,0.27,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Street Footwear,49.0,132,6468.0,2199.12,0.33999999999999997,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Athletic Footwear,41.0,90,3690.0,1291.5,0.35,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Men's Apparel,47.0,60,2820.0,620.4,0.22,Outlet
+Walmart,1128299,2021-04-17,Southeast,Florida,Orlando,Women's Apparel,57.0,113,6441.0,3220.5,0.5,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Street Footwear,44.0,201,8844.0,2918.5199999999995,0.32999999999999996,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Athletic Footwear,46.0,132,6072.0,1700.16,0.28,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Street Footwear,46.0,132,6072.0,2185.92,0.36,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Athletic Footwear,39.0,107,4173.0,1418.82,0.33999999999999997,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Men's Apparel,42.0,68,2856.0,714.0,0.25,Outlet
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Apparel,48.0,173,8304.0,3902.88,0.47000000000000003,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Street Footwear,50.0,272,13600.0,4352.0,0.32,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Athletic Footwear,53.0,224,11872.0,3442.8799999999997,0.29,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Street Footwear,60.0,238,14280.0,4712.4,0.32999999999999996,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Athletic Footwear,66.0,196,12936.0,4786.32,0.37,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Apparel,71.0,153,10863.0,2389.86,0.22,Outlet
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Apparel,74.0,248,18352.0,8625.44,0.47000000000000003,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Street Footwear,68.0,297,20196.0,7472.5199999999995,0.37,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Athletic Footwear,74.0,263,19462.0,5449.360000000001,0.28,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Street Footwear,72.0,238,17136.0,5826.24,0.33999999999999997,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Athletic Footwear,59.0,186,10974.0,3621.4199999999996,0.32999999999999996,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Apparel,68.0,208,14144.0,3111.68,0.22,Outlet
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Apparel,75.0,195,14625.0,6873.75,0.47000000000000003,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Street Footwear,68.0,255,17340.0,6242.4,0.36,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Athletic Footwear,60.0,272,16320.0,4406.400000000001,0.27,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Street Footwear,62.0,231,14322.0,4726.259999999999,0.32999999999999996,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Athletic Footwear,64.0,147,9408.0,3104.6399999999994,0.32999999999999996,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Apparel,63.0,166,10458.0,2509.92,0.24000000000000002,Outlet
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Apparel,60.0,96,5760.0,2822.4,0.49,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Street Footwear,44.0,155,6820.0,2523.4,0.37,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Athletic Footwear,45.0,150,6750.0,2092.5,0.31,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Street Footwear,39.0,96,3744.0,1235.5199999999998,0.32999999999999996,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Athletic Footwear,44.0,78,3432.0,1269.84,0.37,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Men's Apparel,54.0,94,5076.0,1167.48,0.23,Outlet
+Walmart,1128299,2021-09-18,Southeast,Florida,Orlando,Women's Apparel,42.0,99,4158.0,2037.42,0.49,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Street Footwear,39.0,140,5460.0,2020.2,0.37,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Athletic Footwear,43.0,190,8170.0,2369.2999999999997,0.29,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Street Footwear,43.0,128,5504.0,1871.36,0.33999999999999997,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Athletic Footwear,40.0,120,4800.0,1680.0,0.35,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Men's Apparel,47.0,116,5452.0,1199.44,0.22,Outlet
+Walmart,1128299,2021-10-17,Southeast,Florida,Orlando,Women's Apparel,53.0,140,7420.0,3858.4,0.52,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Street Footwear,41.0,188,7708.0,2620.72,0.33999999999999997,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Athletic Footwear,46.0,231,10626.0,3400.32,0.32,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Street Footwear,44.0,173,7612.0,2816.44,0.37,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Athletic Footwear,47.0,170,7990.0,2716.6,0.33999999999999997,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Apparel,58.0,147,8526.0,2302.02,0.27,Outlet
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Apparel,66.0,198,13068.0,6534.0,0.5,Outlet
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Street Footwear,58.0,280,16240.0,5846.4,0.36,Outlet
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Athletic Footwear,55.0,256,14080.0,4364.8,0.31,Outlet

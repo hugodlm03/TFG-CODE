@@ -1,0 +1,41 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,175,87499.99999999999,26249.999999999996,0.3,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,350,192499.99999999997,57749.99999999999,0.3,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Street Footwear,49.99999999999999,500,249999.99999999997,100000.0,0.4,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,125,62499.99999999999,18749.999999999996,0.3,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.99999999999999,425,212499.99999999997,85000.0,0.4,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,125,50000.0,17500.0,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,100,40000.0,14000.0,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,100,49999.99999999999,14999.999999999996,0.3,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,200,109999.99999999999,32999.99999999999,0.3,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Street Footwear,54.99999999999999,375,206249.99999999997,82500.0,0.4,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Athletic Footwear,50.0,200,100000.0,35000.0,0.35,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Street Footwear,50.0,100,50000.0,17500.0,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,42.0,72,3024.0,1451.52,0.48,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Street Footwear,37.0,60,2220.0,1087.8,0.49,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,36.0,45,1620.0,761.4,0.47,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Apparel,46.0,51,2346.0,1055.6999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Apparel,54.0,102,5508.0,2313.36,0.42,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Street Footwear,48.0,135,6480.0,3434.4,0.53,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,41.0,83,3403.0,1701.5,0.5,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Street Footwear,39.0,60,2340.0,1170.0,0.5,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,37.0,44,1628.0,748.88,0.45999999999999996,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Apparel,47.0,38,1786.0,803.6999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Apparel,53.0,81,4293.0,1845.99,0.43,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.0,128,6272.0,3198.7200000000003,0.51,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,44.0,63,2772.0,1247.3999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Street Footwear,38.0,36,1368.0,684.0,0.5,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,36.0,25,900.0,404.99999999999994,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Apparel,48.0,30,1440.0,619.2,0.43,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Apparel,54.0,50,2700.0,1080.0,0.4,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Street Footwear,52.0,113,5876.0,3173.0400000000004,0.54,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Athletic Footwear,48.0,58,2784.0,1280.6399999999999,0.45999999999999996,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Street Footwear,49.0,25,1225.0,563.5,0.45999999999999996,Online

@@ -1,0 +1,53 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-08-10,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-08-11,Southeast,Florida,Miami,Women's Apparel,45.0,850,382500.0,191250.0,0.5,In-store
+Foot Locker,1185732,2020-08-12,Southeast,Florida,Miami,Men's Street Footwear,45.0,1100,495000.0,222750.0,0.45,In-store
+Foot Locker,1185732,2020-08-13,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,750,337500.0,118124.99999999999,0.35,In-store
+Foot Locker,1185732,2020-08-14,Southeast,Florida,Miami,Women's Street Footwear,35.0,800,280000.0,70000.0,0.25,In-store
+Foot Locker,1185732,2020-08-16,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-08-17,Southeast,Florida,Miami,Women's Apparel,45.0,850,382500.0,191250.0,0.5,In-store
+Foot Locker,1185732,2020-08-18,Southeast,Florida,Miami,Men's Street Footwear,45.0,1070,481500.0,216675.0,0.45,In-store
+Foot Locker,1185732,2020-08-19,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,750,337500.0,118124.99999999999,0.35,In-store
+Foot Locker,1185732,2020-08-20,Southeast,Florida,Miami,Women's Street Footwear,35.0,775,271250.0,67812.5,0.25,In-store
+Foot Locker,1185732,2020-08-21,Southeast,Florida,Miami,Women's Athletic Footwear,40.0,625,250000.0,75000.0,0.3,In-store
+Foot Locker,1185732,2020-08-22,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,675,371250.00000000006,129937.50000000001,0.35,In-store
+Foot Locker,1185732,2020-08-23,Southeast,Florida,Miami,Women's Apparel,45.0,775,348750.0,174375.0,0.5,In-store
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,45.0,1025,461250.0,207562.5,0.45,In-store
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,725,326250.0,114187.5,0.35,In-store
+Foot Locker,1185732,2020-09-20,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,775,348750.0,104625.0,0.3,In-store
+Foot Locker,1185732,2020-09-21,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,In-store
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,60.00000000000001,925,555000.0000000001,277500.00000000006,0.5,In-store
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,55.00000000000001,1050,577500.0000000001,259875.00000000006,0.45,In-store
+Foot Locker,1185732,2020-09-24,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,850,425000.0000000001,148750.00000000003,0.35,In-store
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Men's Apparel,65.0,775,503750.0,176312.5,0.35,In-store
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,70.0,875,612500.0,306250.0,0.5,In-store
+Foot Locker,1185732,2020-10-17,Southeast,Florida,Miami,Men's Street Footwear,35.0,450,157500.0,55125.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-10-18,Southeast,Florida,Miami,Men's Athletic Footwear,35.0,250,87500.0,26250.0,0.3,In-store
+Foot Locker,1185732,2020-10-19,Southeast,Florida,Miami,Women's Street Footwear,25.0,250,62500.0,18750.0,0.3,In-store
+Foot Locker,1185732,2020-10-20,Southeast,Florida,Miami,Women's Athletic Footwear,30.000000000000004,100,30000.000000000004,10500.000000000002,0.35000000000000003,In-store
+Foot Locker,1185732,2020-08-10,Southeast,Florida,Miami,Men's Apparel,50.0,195,9750.0,4875.0,0.5,Online
+Foot Locker,1185732,2020-08-11,Southeast,Florida,Miami,Women's Apparel,41.0,247,10127.0,6278.74,0.62,Online
+Foot Locker,1185732,2020-08-12,Southeast,Florida,Miami,Men's Street Footwear,43.0,319,13717.0,7818.6900000000005,0.5700000000000001,Online
+Foot Locker,1185732,2020-08-13,Southeast,Florida,Miami,Men's Athletic Footwear,43.0,195,8385.0,4108.65,0.49,Online
+Foot Locker,1185732,2020-08-14,Southeast,Florida,Miami,Women's Street Footwear,32.0,240,7680.0,2918.4,0.38,Online
+Foot Locker,1185732,2020-08-16,Southeast,Florida,Miami,Men's Apparel,53.0,218,11554.0,5545.92,0.48,Online
+Foot Locker,1185732,2020-08-17,Southeast,Florida,Miami,Women's Apparel,41.0,221,9061.0,5889.650000000001,0.65,Online
+Foot Locker,1185732,2020-08-18,Southeast,Florida,Miami,Men's Street Footwear,41.0,268,10988.0,6592.8,0.6,Online
+Foot Locker,1185732,2020-08-19,Southeast,Florida,Miami,Men's Athletic Footwear,42.0,225,9450.0,4536.0,0.48,Online
+Foot Locker,1185732,2020-08-20,Southeast,Florida,Miami,Women's Street Footwear,32.0,217,6944.0,2430.3999999999996,0.35,Online
+Foot Locker,1185732,2020-08-21,Southeast,Florida,Miami,Women's Athletic Footwear,36.0,175,6300.0,2520.0,0.4,Online
+Foot Locker,1185732,2020-08-22,Southeast,Florida,Miami,Men's Apparel,53.0,182,9646.0,4437.16,0.45999999999999996,Online
+Foot Locker,1185732,2020-08-23,Southeast,Florida,Miami,Women's Apparel,42.0,225,9450.0,6048.0,0.64,Online
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,42.0,256,10752.0,6236.160000000001,0.5800000000000001,Online
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,41.0,210,8610.0,4305.0,0.5,Online
+Foot Locker,1185732,2020-09-20,Southeast,Florida,Miami,Women's Athletic Footwear,44.0,233,10252.0,4100.8,0.4,Online
+Foot Locker,1185732,2020-09-21,Southeast,Florida,Miami,Men's Apparel,52.0,225,11700.0,5264.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,56.0,278,15568.0,9496.48,0.61,Online
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,53.0,284,15052.0,8278.6,0.55,Online
+Foot Locker,1185732,2020-09-24,Southeast,Florida,Miami,Men's Athletic Footwear,46.0,255,11730.0,5278.499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Men's Apparel,60.0,202,12120.0,5938.8,0.49,Online
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,64.0,219,14016.0,8830.08,0.63,Online
+Foot Locker,1185732,2020-10-17,Southeast,Florida,Miami,Men's Street Footwear,33.0,131,4323.0,1945.3500000000004,0.45000000000000007,Online
+Foot Locker,1185732,2020-10-18,Southeast,Florida,Miami,Men's Athletic Footwear,33.0,65,2145.0,858.0,0.4,Online
+Foot Locker,1185732,2020-10-19,Southeast,Florida,Miami,Women's Street Footwear,24.0,63,1512.0,665.28,0.44,Online
+Foot Locker,1185732,2020-10-20,Southeast,Florida,Miami,Women's Athletic Footwear,29.0,26,754.0,339.30000000000007,0.45000000000000007,Online

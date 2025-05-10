@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-11-01,South,Texas,Houston,Men's Street Footwear,40.0,775,310000.0,108500.00000000001,0.35000000000000003,Outlet
+West Gear,1128299,2020-11-02,South,Texas,Houston,Men's Athletic Footwear,50.0,775,387500.0,77500.0,0.2,Outlet
+West Gear,1128299,2020-11-03,South,Texas,Houston,Women's Street Footwear,50.0,775,387500.0,135625.0,0.35000000000000003,Outlet
+West Gear,1128299,2020-11-04,South,Texas,Houston,Women's Athletic Footwear,50.0,625,312500.0,93750.0,0.3,Outlet
+West Gear,1128299,2020-11-01,South,Texas,Houston,Men's Street Footwear,37.0,209,7733.0,3479.8500000000004,0.45000000000000007,Online
+West Gear,1128299,2020-11-02,South,Texas,Houston,Men's Athletic Footwear,49.0,194,9506.0,2946.86,0.31,Online
+West Gear,1128299,2020-11-03,South,Texas,Houston,Women's Street Footwear,46.0,217,9982.0,4491.900000000001,0.45000000000000007,Online
+West Gear,1128299,2020-11-04,South,Texas,Houston,Women's Athletic Footwear,48.0,175,8400.0,3360.0,0.4,Online
+West Gear,1128299,2020-11-01,South,Texas,Houston,Men's Street Footwear,30.0,264,7920.0,3088.8,0.39,Outlet
+West Gear,1128299,2020-11-02,South,Texas,Houston,Men's Athletic Footwear,33.0,248,8184.0,1882.3200000000002,0.23,Outlet
+West Gear,1128299,2020-11-03,South,Texas,Houston,Women's Street Footwear,33.0,271,8943.0,3756.0600000000004,0.42000000000000004,Outlet
+West Gear,1128299,2020-11-04,South,Texas,Houston,Women's Athletic Footwear,35.0,219,7665.0,2759.4,0.36,Outlet

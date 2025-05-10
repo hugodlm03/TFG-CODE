@@ -1,0 +1,145 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,45.0,425,191250.0,105187.50000000001,0.55,Outlet
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,Outlet
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,35.0,225,78750.0,31499.999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,40.0,75,30000.0,11999.999999999998,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-05-21,South,Tennessee,Knoxville,Men's Street Footwear,35.0,425,148750.0,59500.0,0.4,Outlet
+Foot Locker,1185732,2021-05-22,South,Tennessee,Knoxville,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,Outlet
+Foot Locker,1185732,2021-05-23,South,Tennessee,Knoxville,Women's Street Footwear,25.0,225,56250.0,19687.5,0.35,Outlet
+Foot Locker,1185732,2021-05-24,South,Tennessee,Knoxville,Women's Athletic Footwear,30.000000000000004,75,22500.000000000004,9000.000000000002,0.4,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,75.00000000000003,600,450000.0000000002,180000.00000000006,0.39999999999999997,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,75.00000000000003,600,450000.0000000002,180000.00000000006,0.39999999999999997,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,85.00000000000001,525,446250.00000000006,200812.50000000003,0.45,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,90.00000000000003,625,562500.0000000002,196875.00000000006,0.35,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,20.0,675,135000.0,40500.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,30.0,675,202500.0,60750.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,30.0,475,142500.0,42750.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,35.0,475,166250.0,66500.0,0.4,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,40.0,325,130000.0,32500.0,0.25,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,25.0,625,156250.0,46875.0,0.3,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,35.0,600,210000.0,63000.0,0.3,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,35.0,425,148750.0,44625.0,0.3,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Athletic Footwear,25.0,325,81250.0,32500.0,0.4,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Men's Apparel,40.0,400,160000.0,56000.0,0.35,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Apparel,25.0,500,125000.0,62500.0,0.5,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Street Footwear,25.0,720,180000.0,72000.0,0.4,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Athletic Footwear,25.0,400,100000.0,35000.0,0.35,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Street Footwear,15.000000000000002,425,63750.00000000001,25500.000000000004,0.4,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Athletic Footwear,19.999999999999996,275,54999.99999999999,22000.0,0.4,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Apparel,35.00000000000001,325,113750.00000000003,39812.50000000001,0.35,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Apparel,25.0,425,106250.0,53125.0,0.5,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Street Footwear,25.0,675,168750.0,67500.0,0.4,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Athletic Footwear,25.0,375,93750.0,32812.5,0.35,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Street Footwear,15.000000000000002,375,56250.00000000001,22500.000000000004,0.4,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Athletic Footwear,19.999999999999996,300,59999.99999999999,24000.0,0.4,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Apparel,40.0,325,130000.0,45500.0,0.35,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Apparel,30.000000000000004,475,142500.00000000003,71250.00000000001,0.5,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Street Footwear,40.0,745,298000.0,119200.0,0.4,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Athletic Footwear,40.0,450,180000.0,62999.99999999999,0.35,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Street Footwear,35.0,425,148750.0,59500.0,0.4,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Athletic Footwear,35.0,375,131250.0,52500.0,0.4,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Apparel,44.99999999999999,400,179999.99999999997,62999.999999999985,0.35,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Apparel,49.99999999999999,500,249999.99999999997,124999.99999999999,0.5,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Street Footwear,44.99999999999999,750,337499.99999999994,134999.99999999997,0.4,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Athletic Footwear,40.0,500,200000.0,70000.0,0.35,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Street Footwear,45.0,475,213750.0,85500.0,0.4,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Athletic Footwear,45.0,450,202500.0,81000.0,0.4,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Apparel,60.0,450,270000.0,94500.0,0.35,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Apparel,65.0,625,406250.0,203125.0,0.5,Online
+Foot Locker,1185732,2021-07-16,South,Mississippi,Jackson,Men's Street Footwear,60.0,850,510000.0,204000.0,0.4,Online
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,44.0,111,4884.0,3418.8,0.7000000000000001,Online
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,41.0,68,2788.0,1310.36,0.47,Online
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,33.0,56,1848.0,942.48,0.51,Online
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,38.0,19,722.0,368.22,0.51,Online
+Foot Locker,1185732,2021-05-21,South,Tennessee,Knoxville,Men's Street Footwear,32.0,119,3808.0,1904.0,0.5,Online
+Foot Locker,1185732,2021-05-22,South,Tennessee,Knoxville,Men's Athletic Footwear,32.0,56,1792.0,878.0799999999999,0.49,Online
+Foot Locker,1185732,2021-05-23,South,Tennessee,Knoxville,Women's Street Footwear,24.0,65,1560.0,748.8,0.48,Online
+Foot Locker,1185732,2021-05-24,South,Tennessee,Knoxville,Women's Athletic Footwear,27.0,19,513.0,271.89,0.53,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,69.0,162,11178.0,5812.56,0.52,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,72.0,156,11232.0,6065.280000000001,0.54,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,82.0,131,10742.0,6230.360000000001,0.5800000000000001,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,87.0,175,15225.0,6851.249999999999,0.44999999999999996,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,19.0,182,3458.0,1486.94,0.43,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,28.0,196,5488.0,2469.6,0.44999999999999996,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,28.0,119,3332.0,1332.8000000000002,0.4,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,33.0,133,4389.0,2326.17,0.53,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,36.0,85,3060.0,1132.2,0.37,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,23.0,163,3749.0,1499.6000000000001,0.4,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,32.0,174,5568.0,2338.56,0.42,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,34.0,128,4352.0,1784.32,0.41,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Athletic Footwear,25.0,91,2275.0,1137.5,0.5,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Men's Apparel,39.0,108,4212.0,1937.5199999999998,0.45999999999999996,Online
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Apparel,24.0,125,3000.0,1800.0,0.6,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Street Footwear,23.0,187,4301.0,2365.55,0.55,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Athletic Footwear,24.0,100,2400.0,1128.0,0.47,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Street Footwear,14.0,128,1792.0,949.76,0.53,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Athletic Footwear,19.0,80,1520.0,790.4,0.52,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Apparel,32.0,81,2592.0,1192.32,0.45999999999999996,Online
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Apparel,24.0,123,2952.0,1830.24,0.62,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Street Footwear,23.0,169,3887.0,2098.98,0.54,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Athletic Footwear,23.0,109,2507.0,1253.5,0.5,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Street Footwear,14.0,101,1414.0,777.7,0.55,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Athletic Footwear,19.0,75,1425.0,741.0,0.52,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Apparel,38.0,81,3078.0,1477.44,0.48,Online
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Apparel,28.0,124,3472.0,2117.92,0.61,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Street Footwear,39.0,194,7566.0,4161.3,0.55,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Athletic Footwear,37.0,131,4847.0,2181.1499999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Street Footwear,33.0,119,3927.0,2120.58,0.54,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Athletic Footwear,33.0,101,3333.0,1699.83,0.51,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Apparel,41.0,116,4756.0,2235.3199999999997,0.47,Online
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Apparel,47.0,140,6580.0,4211.2,0.64,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Street Footwear,44.0,210,9240.0,4804.8,0.52,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Athletic Footwear,37.0,125,4625.0,2173.75,0.47,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Street Footwear,41.0,143,5863.0,3224.65,0.55,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Athletic Footwear,43.0,117,5031.0,2515.5,0.5,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Apparel,57.0,135,7695.0,3462.7499999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Apparel,60.0,188,11280.0,7106.4,0.63,Online
+Foot Locker,1185732,2021-07-16,South,Mississippi,Jackson,Men's Street Footwear,58.0,221,12818.0,6537.18,0.51,Online
+Foot Locker,1185732,2021-10-22,South,Texas,Dallas,Men's Street Footwear,34.0,128,4352.0,2698.2400000000007,0.6200000000000001,Outlet
+Foot Locker,1185732,2021-10-23,South,Texas,Dallas,Men's Athletic Footwear,34.0,68,2312.0,901.68,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-10-24,South,Texas,Dallas,Women's Street Footwear,28.0,72,2016.0,846.7199999999999,0.42,Outlet
+Foot Locker,1185732,2021-10-25,South,Texas,Dallas,Women's Athletic Footwear,28.0,23,644.0,276.91999999999996,0.42999999999999994,Outlet
+Foot Locker,1185732,2021-05-21,South,Tennessee,Knoxville,Men's Street Footwear,27.0,140,3780.0,1663.2,0.44,Outlet
+Foot Locker,1185732,2021-05-22,South,Tennessee,Knoxville,Men's Athletic Footwear,23.0,70,1610.0,660.0999999999999,0.41,Outlet
+Foot Locker,1185732,2021-05-23,South,Tennessee,Knoxville,Women's Street Footwear,19.0,74,1406.0,548.3399999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-05-24,South,Tennessee,Knoxville,Women's Athletic Footwear,22.0,23,506.0,217.58,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,53.0,192,10176.0,4375.679999999999,0.42999999999999994,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,53.0,192,10176.0,4782.719999999999,0.47,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,55.0,168,9240.0,4435.2,0.48,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,59.0,194,11446.0,4578.4,0.39999999999999997,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,14.0,223,3122.0,1061.4799999999998,0.33999999999999997,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,20.0,209,4180.0,1504.8,0.36,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,21.0,162,3402.0,1258.74,0.37,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,26.0,166,4316.0,1812.7200000000003,0.42000000000000004,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,28.0,111,3108.0,870.2400000000001,0.28,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,18.0,200,3600.0,1152.0,0.32,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,28.0,180,5040.0,1663.1999999999998,0.32999999999999996,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,28.0,128,3584.0,1254.3999999999999,0.35,Outlet
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Athletic Footwear,19.0,98,1862.0,856.52,0.46,Outlet
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Men's Apparel,26.0,136,3536.0,1379.04,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-02-18,South,Mississippi,Jackson,Women's Apparel,20.0,160,3200.0,1824.0000000000002,0.5700000000000001,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Street Footwear,20.0,223,4460.0,2051.6,0.46,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Athletic Footwear,20.0,128,2560.0,998.3999999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Street Footwear,11.0,136,1496.0,703.12,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Athletic Footwear,15.0,85,1275.0,573.75,0.45,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Men's Apparel,25.0,104,2600.0,962.0,0.37,Outlet
+Foot Locker,1185732,2021-03-16,South,Mississippi,Jackson,Women's Apparel,17.0,136,2312.0,1248.48,0.54,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Street Footwear,19.0,223,4237.0,1864.28,0.44,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Athletic Footwear,20.0,116,2320.0,927.9999999999999,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Street Footwear,11.0,124,1364.0,613.8000000000001,0.45,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Athletic Footwear,16.0,96,1536.0,660.48,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Men's Apparel,30.0,98,2940.0,1176.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-04-17,South,Mississippi,Jackson,Women's Apparel,22.0,147,3234.0,1714.02,0.53,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Street Footwear,27.0,238,6426.0,2698.92,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Athletic Footwear,28.0,140,3920.0,1607.1999999999998,0.41,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Street Footwear,26.0,136,3536.0,1520.4800000000002,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Athletic Footwear,24.0,116,2784.0,1280.64,0.46,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Men's Apparel,34.0,132,4488.0,1795.1999999999998,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-05-16,South,Mississippi,Jackson,Women's Apparel,35.0,150,5250.0,2940.0000000000005,0.56,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Street Footwear,31.0,263,8153.0,3587.32,0.44,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Athletic Footwear,29.0,150,4350.0,1696.4999999999998,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Street Footwear,33.0,157,5181.0,2383.26,0.46,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Athletic Footwear,34.0,149,5066.0,2178.38,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Men's Apparel,47.0,135,6345.0,2411.1,0.38,Outlet
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Apparel,51.0,219,11169.0,5919.570000000001,0.53,Outlet
+Foot Locker,1185732,2021-07-16,South,Mississippi,Jackson,Men's Street Footwear,47.0,289,13583.0,6248.18,0.46,Outlet

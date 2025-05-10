@@ -1,0 +1,151 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Walmart,1197831,2020-08-10,South,Texas,Houston,Men's Apparel,45.0,525,236250.0,70875.0,0.3,Outlet
+Walmart,1197831,2020-08-11,South,Texas,Houston,Women's Apparel,40.0,800,320000.0,160000.0,0.5,Outlet
+Walmart,1197831,2020-08-12,South,Texas,Houston,Men's Street Footwear,30.0,925,277500.0,97125.0,0.35,Outlet
+Walmart,1197831,2020-08-13,South,Texas,Houston,Men's Athletic Footwear,40.0,925,370000.0,129499.99999999999,0.35,Outlet
+Walmart,1197831,2020-08-14,South,Texas,Houston,Women's Street Footwear,35.0,775,271250.0,94937.5,0.35,Outlet
+Walmart,1197831,2020-08-15,South,Texas,Houston,Women's Athletic Footwear,40.0,700,280000.0,126000.0,0.45,Outlet
+Walmart,1197831,2020-08-16,South,Texas,Houston,Men's Apparel,45.0,600,270000.0,81000.0,0.3,Outlet
+Walmart,1197831,2020-08-17,South,Texas,Houston,Women's Apparel,40.0,950,380000.0,190000.0,0.5,Outlet
+Walmart,1197831,2020-08-18,South,Texas,Houston,Men's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Walmart,1197831,2020-08-19,South,Texas,Houston,Men's Athletic Footwear,45.0,950,427500.0,149625.0,0.35,Outlet
+Walmart,1197831,2020-08-20,South,Texas,Houston,Women's Street Footwear,40.0,800,320000.0,112000.0,0.35,Outlet
+Walmart,1197831,2020-08-21,South,Texas,Houston,Women's Athletic Footwear,40.0,750,300000.0,135000.0,0.45,Outlet
+Walmart,1197831,2020-08-22,South,Texas,Houston,Men's Apparel,45.0,650,292500.0,87750.0,0.3,Outlet
+Walmart,1197831,2020-08-23,South,Texas,Houston,Women's Apparel,50.0,1000,500000.0,250000.0,0.5,Outlet
+Walmart,1197831,2020-08-24,South,Texas,Houston,Men's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Walmart,1197831,2020-08-25,South,Texas,Houston,Men's Athletic Footwear,45.0,950,427500.0,149625.0,0.35,Outlet
+Walmart,1197831,2020-08-26,South,Texas,Houston,Women's Street Footwear,40.0,1100,440000.0,154000.0,0.35,Outlet
+Walmart,1197831,2020-08-27,South,Texas,Houston,Women's Athletic Footwear,40.0,700,280000.0,126000.0,0.45,Outlet
+Walmart,1197831,2020-08-28,South,Texas,Houston,Men's Apparel,45.0,700,315000.0,94500.0,0.3,Outlet
+Walmart,1197831,2020-08-29,South,Texas,Houston,Women's Apparel,50.0,975,487500.0,243750.0,0.5,Outlet
+Walmart,1197831,2020-08-30,South,Texas,Houston,Men's Street Footwear,40.0,925,370000.0,129499.99999999999,0.35,Outlet
+Walmart,1197831,2020-08-31,South,Texas,Houston,Men's Athletic Footwear,45.0,925,416250.0,145687.5,0.35,Outlet
+Walmart,1197831,2020-09-01,South,Texas,Houston,Women's Street Footwear,40.0,1100,440000.0,154000.0,0.35,Outlet
+Walmart,1197831,2020-09-02,South,Texas,Houston,Women's Athletic Footwear,40.0,650,260000.0,117000.0,0.45,Outlet
+Walmart,1197831,2020-09-03,South,Texas,Houston,Men's Apparel,45.0,650,292500.0,87750.0,0.3,Outlet
+Walmart,1197831,2020-09-04,South,Texas,Houston,Women's Apparel,50.0,900,450000.0,225000.0,0.5,Outlet
+Walmart,1197831,2020-09-05,South,Texas,Houston,Men's Street Footwear,45.0,850,382500.0,133875.0,0.35,Outlet
+Walmart,1197831,2020-09-06,South,Texas,Houston,Men's Athletic Footwear,45.0,850,382500.0,133875.0,0.35,Outlet
+Walmart,1197831,2020-09-07,South,Texas,Houston,Women's Street Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Walmart,1197831,2020-09-08,South,Texas,Houston,Women's Athletic Footwear,50.0,625,312500.0,140625.0,0.45,Outlet
+Walmart,1197831,2020-09-09,South,Texas,Houston,Men's Apparel,45.0,625,281250.0,84375.0,0.3,Outlet
+Walmart,1197831,2020-09-10,South,Texas,Houston,Women's Apparel,55.00000000000001,850,467500.00000000006,233750.00000000003,0.5,Outlet
+Walmart,1197831,2020-09-11,South,Texas,Houston,Men's Street Footwear,45.0,800,360000.0,125999.99999999999,0.35,Outlet
+Walmart,1197831,2020-09-12,South,Texas,Houston,Men's Athletic Footwear,45.0,800,360000.0,125999.99999999999,0.35,Outlet
+Walmart,1197831,2020-09-13,South,Texas,Houston,Women's Street Footwear,50.0,750,375000.0,131250.0,0.35,Outlet
+Walmart,1197831,2020-09-14,South,Texas,Houston,Women's Athletic Footwear,50.0,600,300000.0,135000.0,0.45,Outlet
+Walmart,1197831,2020-09-15,South,Texas,Houston,Men's Apparel,45.0,575,258750.0,77625.0,0.3,Outlet
+Walmart,1197831,2020-09-16,South,Texas,Houston,Women's Apparel,55.00000000000001,750,412500.00000000006,206250.00000000003,0.5,Outlet
+Walmart,1197831,2020-10-20,South,Texas,Houston,Men's Street Footwear,45.0,900,405000.0,141750.0,0.35,Outlet
+Walmart,1197831,2020-10-21,South,Texas,Houston,Men's Athletic Footwear,45.0,900,405000.0,141750.0,0.35,Outlet
+Walmart,1197831,2020-10-22,South,Texas,Houston,Women's Street Footwear,50.0,825,412500.0,144375.0,0.35,Outlet
+Walmart,1197831,2020-10-23,South,Texas,Houston,Women's Athletic Footwear,50.0,675,337500.0,151875.0,0.45,Outlet
+Walmart,1197831,2020-10-24,South,Texas,Houston,Men's Apparel,45.0,650,292500.0,87750.0,0.3,Outlet
+Walmart,1197831,2020-10-25,South,Texas,Houston,Women's Apparel,55.00000000000001,850,467500.00000000006,233750.00000000003,0.5,Outlet
+Walmart,1197831,2020-10-26,South,Texas,Houston,Men's Street Footwear,45.0,950,427500.0,149625.0,0.35,Outlet
+Walmart,1197831,2020-10-27,South,Texas,Houston,Men's Athletic Footwear,45.0,950,427500.0,149625.0,0.35,Outlet
+Walmart,1197831,2020-10-28,South,Texas,Houston,Women's Street Footwear,50.0,850,425000.0,148750.0,0.35,Outlet
+Walmart,1197831,2020-10-29,South,Texas,Houston,Women's Athletic Footwear,50.0,700,350000.0,157500.0,0.45,Outlet
+Walmart,1197831,2020-10-30,South,Texas,Houston,Men's Apparel,45.0,650,292500.0,87750.0,0.3,Outlet
+Walmart,1197831,2020-10-31,South,Texas,Houston,Women's Apparel,55.00000000000001,900,495000.00000000006,247500.00000000003,0.5,Outlet
+Walmart,1197831,2020-08-10,South,Texas,Houston,Men's Apparel,42.0,147,6174.0,2593.08,0.42,Online
+Walmart,1197831,2020-08-11,South,Texas,Houston,Women's Apparel,39.0,232,9048.0,5519.28,0.61,Online
+Walmart,1197831,2020-08-12,South,Texas,Houston,Men's Street Footwear,29.0,268,7772.0,3730.56,0.48,Online
+Walmart,1197831,2020-08-13,South,Texas,Houston,Men's Athletic Footwear,38.0,259,9842.0,4527.32,0.45999999999999996,Online
+Walmart,1197831,2020-08-14,South,Texas,Houston,Women's Street Footwear,33.0,225,7425.0,3564.0,0.48,Online
+Walmart,1197831,2020-08-15,South,Texas,Houston,Women's Athletic Footwear,39.0,189,7371.0,4275.18,0.5800000000000001,Online
+Walmart,1197831,2020-08-16,South,Texas,Houston,Men's Apparel,42.0,168,7056.0,2822.4,0.4,Online
+Walmart,1197831,2020-08-17,South,Texas,Houston,Women's Apparel,37.0,276,10212.0,6433.56,0.63,Online
+Walmart,1197831,2020-08-18,South,Texas,Houston,Men's Street Footwear,39.0,238,9282.0,4362.54,0.47,Online
+Walmart,1197831,2020-08-19,South,Texas,Houston,Men's Athletic Footwear,42.0,238,9996.0,4498.2,0.44999999999999996,Online
+Walmart,1197831,2020-08-20,South,Texas,Houston,Women's Street Footwear,37.0,232,8584.0,4206.16,0.49,Online
+Walmart,1197831,2020-08-21,South,Texas,Houston,Women's Athletic Footwear,38.0,203,7714.0,4396.9800000000005,0.5700000000000001,Online
+Walmart,1197831,2020-08-22,South,Texas,Houston,Men's Apparel,41.0,169,6929.0,3118.0499999999997,0.44999999999999996,Online
+Walmart,1197831,2020-08-23,South,Texas,Houston,Women's Apparel,47.0,250,11750.0,7520.0,0.64,Online
+Walmart,1197831,2020-08-24,South,Texas,Houston,Men's Street Footwear,37.0,238,8806.0,3962.7,0.44999999999999996,Online
+Walmart,1197831,2020-08-25,South,Texas,Houston,Men's Athletic Footwear,42.0,238,9996.0,4598.16,0.45999999999999996,Online
+Walmart,1197831,2020-08-26,South,Texas,Houston,Women's Street Footwear,37.0,319,11803.0,5311.349999999999,0.44999999999999996,Online
+Walmart,1197831,2020-08-27,South,Texas,Houston,Women's Athletic Footwear,36.0,210,7560.0,4536.0,0.6,Online
+Walmart,1197831,2020-08-28,South,Texas,Houston,Men's Apparel,41.0,196,8036.0,3214.4,0.4,Online
+Walmart,1197831,2020-08-29,South,Texas,Houston,Women's Apparel,47.0,293,13771.0,8675.73,0.63,Online
+Walmart,1197831,2020-08-30,South,Texas,Houston,Men's Street Footwear,37.0,268,9916.0,4858.84,0.49,Online
+Walmart,1197831,2020-08-31,South,Texas,Houston,Men's Athletic Footwear,41.0,259,10619.0,4778.549999999999,0.44999999999999996,Online
+Walmart,1197831,2020-09-01,South,Texas,Houston,Women's Street Footwear,39.0,297,11583.0,5328.179999999999,0.45999999999999996,Online
+Walmart,1197831,2020-09-02,South,Texas,Houston,Women's Athletic Footwear,38.0,189,7182.0,4237.380000000001,0.5900000000000001,Online
+Walmart,1197831,2020-09-03,South,Texas,Houston,Men's Apparel,41.0,169,6929.0,2771.6000000000004,0.4,Online
+Walmart,1197831,2020-09-04,South,Texas,Houston,Women's Apparel,46.0,225,10350.0,6727.5,0.65,Online
+Walmart,1197831,2020-09-05,South,Texas,Houston,Men's Street Footwear,44.0,255,11220.0,5385.599999999999,0.48,Online
+Walmart,1197831,2020-09-06,South,Texas,Houston,Men's Athletic Footwear,41.0,213,8733.0,4017.18,0.45999999999999996,Online
+Walmart,1197831,2020-09-07,South,Texas,Houston,Women's Street Footwear,46.0,234,10764.0,5274.36,0.49,Online
+Walmart,1197831,2020-09-08,South,Texas,Houston,Women's Athletic Footwear,47.0,181,8507.0,4678.85,0.55,Online
+Walmart,1197831,2020-09-09,South,Texas,Houston,Men's Apparel,44.0,175,7700.0,3311.0,0.43,Online
+Walmart,1197831,2020-09-10,South,Texas,Houston,Women's Apparel,50.0,213,10650.0,6816.0,0.64,Online
+Walmart,1197831,2020-09-11,South,Texas,Houston,Men's Street Footwear,44.0,240,10560.0,5280.0,0.5,Online
+Walmart,1197831,2020-09-12,South,Texas,Houston,Men's Athletic Footwear,43.0,216,9288.0,4365.36,0.47,Online
+Walmart,1197831,2020-09-13,South,Texas,Houston,Women's Street Footwear,48.0,188,9024.0,4241.28,0.47,Online
+Walmart,1197831,2020-09-14,South,Texas,Houston,Women's Athletic Footwear,45.0,168,7560.0,4384.8,0.5800000000000001,Online
+Walmart,1197831,2020-09-15,South,Texas,Houston,Men's Apparel,42.0,150,6300.0,2583.0,0.41,Online
+Walmart,1197831,2020-09-16,South,Texas,Houston,Women's Apparel,53.0,210,11130.0,6900.6,0.62,Online
+Walmart,1197831,2020-10-20,South,Texas,Houston,Men's Street Footwear,43.0,234,10062.0,4930.38,0.49,Online
+Walmart,1197831,2020-10-21,South,Texas,Houston,Men's Athletic Footwear,43.0,243,10449.0,5120.01,0.49,Online
+Walmart,1197831,2020-10-22,South,Texas,Houston,Women's Street Footwear,47.0,206,9682.0,4647.36,0.48,Online
+Walmart,1197831,2020-10-23,South,Texas,Houston,Women's Athletic Footwear,48.0,203,9744.0,5359.200000000001,0.55,Online
+Walmart,1197831,2020-10-24,South,Texas,Houston,Men's Apparel,42.0,195,8190.0,3685.4999999999995,0.44999999999999996,Online
+Walmart,1197831,2020-10-25,South,Texas,Houston,Women's Apparel,51.0,247,12597.0,7810.14,0.62,Online
+Walmart,1197831,2020-10-26,South,Texas,Houston,Men's Street Footwear,41.0,238,9758.0,4683.84,0.48,Online
+Walmart,1197831,2020-10-27,South,Texas,Houston,Men's Athletic Footwear,44.0,285,12540.0,6019.2,0.48,Online
+Walmart,1197831,2020-10-28,South,Texas,Houston,Women's Street Footwear,47.0,255,11985.0,5872.65,0.49,Online
+Walmart,1197831,2020-10-29,South,Texas,Houston,Women's Athletic Footwear,47.0,182,8554.0,4961.320000000001,0.5800000000000001,Online
+Walmart,1197831,2020-10-30,South,Texas,Houston,Men's Apparel,42.0,169,7098.0,3194.1,0.44999999999999996,Online
+Walmart,1197831,2020-10-31,South,Texas,Houston,Women's Apparel,53.0,261,13833.0,8576.46,0.62,Online
+Walmart,1197831,2020-08-10,South,Texas,Houston,Men's Apparel,34.0,179,6086.0,2069.24,0.33999999999999997,Outlet
+Walmart,1197831,2020-08-11,South,Texas,Houston,Women's Apparel,27.0,272,7344.0,4039.2000000000003,0.55,Outlet
+Walmart,1197831,2020-08-12,South,Texas,Houston,Men's Street Footwear,24.0,315,7560.0,2948.3999999999996,0.38999999999999996,Outlet
+Walmart,1197831,2020-08-13,South,Texas,Houston,Men's Athletic Footwear,30.0,287,8610.0,3616.2,0.42,Outlet
+Walmart,1197831,2020-08-14,South,Texas,Houston,Women's Street Footwear,23.0,240,5520.0,2042.3999999999999,0.37,Outlet
+Walmart,1197831,2020-08-15,South,Texas,Houston,Women's Athletic Footwear,31.0,245,7595.0,3873.4500000000003,0.51,Outlet
+Walmart,1197831,2020-08-16,South,Texas,Houston,Men's Apparel,35.0,180,6300.0,2205.0,0.35,Outlet
+Walmart,1197831,2020-08-17,South,Texas,Houston,Women's Apparel,32.0,295,9440.0,5380.8,0.5700000000000001,Outlet
+Walmart,1197831,2020-08-18,South,Texas,Houston,Men's Street Footwear,28.0,295,8260.0,3386.6,0.41,Outlet
+Walmart,1197831,2020-08-19,South,Texas,Houston,Men's Athletic Footwear,33.0,323,10659.0,4476.78,0.42,Outlet
+Walmart,1197831,2020-08-20,South,Texas,Houston,Women's Street Footwear,27.0,264,7128.0,2851.2,0.39999999999999997,Outlet
+Walmart,1197831,2020-08-21,South,Texas,Houston,Women's Athletic Footwear,26.0,263,6838.0,3282.24,0.48,Outlet
+Walmart,1197831,2020-08-22,South,Texas,Houston,Men's Apparel,29.0,221,6409.0,2050.88,0.32,Outlet
+Walmart,1197831,2020-08-23,South,Texas,Houston,Women's Apparel,38.0,350,13300.0,7581.000000000001,0.5700000000000001,Outlet
+Walmart,1197831,2020-08-24,South,Texas,Houston,Men's Street Footwear,29.0,295,8555.0,3421.9999999999995,0.39999999999999997,Outlet
+Walmart,1197831,2020-08-25,South,Texas,Houston,Men's Athletic Footwear,32.0,285,9120.0,3830.3999999999996,0.42,Outlet
+Walmart,1197831,2020-08-26,South,Texas,Houston,Women's Street Footwear,29.0,374,10846.0,4446.86,0.41,Outlet
+Walmart,1197831,2020-08-27,South,Texas,Houston,Women's Athletic Footwear,28.0,224,6272.0,3261.44,0.52,Outlet
+Walmart,1197831,2020-08-28,South,Texas,Houston,Men's Apparel,33.0,217,7161.0,2577.96,0.36,Outlet
+Walmart,1197831,2020-08-29,South,Texas,Houston,Women's Apparel,36.0,302,10872.0,5653.4400000000005,0.52,Outlet
+Walmart,1197831,2020-08-30,South,Texas,Houston,Men's Street Footwear,27.0,305,8235.0,3046.95,0.37,Outlet
+Walmart,1197831,2020-08-31,South,Texas,Houston,Men's Athletic Footwear,33.0,305,10065.0,3824.7,0.38,Outlet
+Walmart,1197831,2020-09-01,South,Texas,Houston,Women's Street Footwear,29.0,374,10846.0,4446.86,0.41,Outlet
+Walmart,1197831,2020-09-02,South,Texas,Houston,Women's Athletic Footwear,30.0,215,6450.0,3096.0,0.48,Outlet
+Walmart,1197831,2020-09-03,South,Texas,Houston,Men's Apparel,35.0,228,7980.0,2713.2,0.33999999999999997,Outlet
+Walmart,1197831,2020-09-04,South,Texas,Houston,Women's Apparel,39.0,270,10530.0,5686.200000000001,0.54,Outlet
+Walmart,1197831,2020-09-05,South,Texas,Houston,Men's Street Footwear,33.0,264,8712.0,3659.04,0.42,Outlet
+Walmart,1197831,2020-09-06,South,Texas,Houston,Men's Athletic Footwear,32.0,255,8160.0,3019.2,0.37,Outlet
+Walmart,1197831,2020-09-07,South,Texas,Houston,Women's Street Footwear,36.0,315,11340.0,4309.2,0.38,Outlet
+Walmart,1197831,2020-09-08,South,Texas,Houston,Women's Athletic Footwear,37.0,200,7400.0,3700.0,0.5,Outlet
+Walmart,1197831,2020-09-09,South,Texas,Houston,Men's Apparel,36.0,206,7416.0,2669.7599999999998,0.36,Outlet
+Walmart,1197831,2020-09-10,South,Texas,Houston,Women's Apparel,42.0,298,12516.0,7134.120000000001,0.5700000000000001,Outlet
+Walmart,1197831,2020-09-11,South,Texas,Houston,Men's Street Footwear,31.0,272,8432.0,3288.4799999999996,0.38999999999999996,Outlet
+Walmart,1197831,2020-09-12,South,Texas,Houston,Men's Athletic Footwear,29.0,248,7192.0,2804.8799999999997,0.38999999999999996,Outlet
+Walmart,1197831,2020-09-13,South,Texas,Houston,Women's Street Footwear,39.0,255,9945.0,3679.65,0.37,Outlet
+Walmart,1197831,2020-09-14,South,Texas,Houston,Women's Athletic Footwear,36.0,204,7344.0,3451.6800000000003,0.47000000000000003,Outlet
+Walmart,1197831,2020-09-15,South,Texas,Houston,Men's Apparel,35.0,184,6440.0,2382.8,0.37,Outlet
+Walmart,1197831,2020-09-16,South,Texas,Houston,Women's Apparel,43.0,233,10019.0,5410.26,0.54,Outlet
+Walmart,1197831,2020-10-20,South,Texas,Houston,Men's Street Footwear,34.0,270,9180.0,3488.4,0.38,Outlet
+Walmart,1197831,2020-10-21,South,Texas,Houston,Men's Athletic Footwear,31.0,306,9486.0,3794.3999999999996,0.39999999999999997,Outlet
+Walmart,1197831,2020-10-22,South,Texas,Houston,Women's Street Footwear,34.0,281,9554.0,3726.0599999999995,0.38999999999999996,Outlet
+Walmart,1197831,2020-10-23,South,Texas,Houston,Women's Athletic Footwear,36.0,230,8280.0,4140.0,0.5,Outlet
+Walmart,1197831,2020-10-24,South,Texas,Houston,Men's Apparel,30.0,195,5850.0,1872.0,0.32,Outlet
+Walmart,1197831,2020-10-25,South,Texas,Houston,Women's Apparel,44.0,289,12716.0,7248.120000000001,0.5700000000000001,Outlet
+Walmart,1197831,2020-10-26,South,Texas,Houston,Men's Street Footwear,32.0,333,10656.0,4262.4,0.39999999999999997,Outlet
+Walmart,1197831,2020-10-27,South,Texas,Houston,Men's Athletic Footwear,34.0,333,11322.0,4755.24,0.42,Outlet
+Walmart,1197831,2020-10-28,South,Texas,Houston,Women's Street Footwear,38.0,298,11324.0,4303.12,0.38,Outlet
+Walmart,1197831,2020-10-29,South,Texas,Houston,Women's Athletic Footwear,36.0,210,7560.0,3931.2000000000003,0.52,Outlet
+Walmart,1197831,2020-10-30,South,Texas,Houston,Men's Apparel,30.0,208,6240.0,2246.4,0.36,Outlet
+Walmart,1197831,2020-10-31,South,Texas,Houston,Women's Apparel,41.0,306,12546.0,6900.3,0.55,Outlet

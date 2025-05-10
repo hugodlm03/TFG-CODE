@@ -1,0 +1,139 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50.0,1200,600000.0,300000.0,0.5,In-store
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,50.0,1000,500000.0,150000.0,0.3,In-store
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,40.0,1000,400000.0,140000.0,0.35,In-store
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,45.0,850,382500.0,133875.0,0.35,In-store
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,In-store
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,50.0,1000,500000.0,125000.0,0.25,In-store
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,50.0,1250,625000.0,312500.0,0.5,In-store
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,450000.0,135000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,45.0,825,371250.0,129937.49999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,50.0,1000,500000.0,125000.0,0.25,Outlet
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,50.0,1220,610000.0,305000.0,0.5,Outlet
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,50.0,925,462500.0,138750.0,0.3,Outlet
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,45.0,800,360000.0,125999.99999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,60.0,850,510000.0,153000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,50.0,950,475000.0,118750.0,0.25,Outlet
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,50.0,1200,600000.0,300000.0,0.5,Outlet
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,450000.0,135000.0,0.3,Outlet
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,40.0,900,360000.0,125999.99999999999,0.35,Outlet
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,45.0,825,371250.0,129937.49999999999,0.35,Outlet
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,60.0,825,495000.0,148500.0,0.3,Outlet
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,50.0,950,475000.0,118750.0,0.25,Outlet
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,60.0,1220,732000.0,366000.0,0.5,Outlet
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,925,508750.00000000006,152625.0,0.3,Outlet
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,50.0,850,425000.0,148750.0,0.35,Outlet
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,60.0,875,525000.0,157500.0,0.3,Outlet
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,65.0,1000,650000.0,162500.0,0.25,Outlet
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,60.0,1250,750000.0,375000.0,0.5,Outlet
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1000,550000.0000000001,165000.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,50.0,925,462500.0,161875.0,0.35,Outlet
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,Outlet
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,65.0,1050,682500.0,170625.0,0.25,Outlet
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,60.0,1275,765000.0,382500.0,0.5,Outlet
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025,563750.0000000001,169125.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,50.0,950,475000.0,166250.0,0.35,Outlet
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,60.0,925,555000.0,166500.0,0.3,Outlet
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,65.0,1100,715000.0,178750.0,0.25,Outlet
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,60.0,1250,750000.0,375000.0,0.5,Outlet
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025,563750.0000000001,169125.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,50.0,950,475000.0,166250.0,0.35,Outlet
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,50.0,925,462500.0,161875.0,0.35,Outlet
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,47.0,336,15792.0,9633.119999999999,0.61,Online
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,47.0,260,12220.0,5132.4,0.42,Online
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,36.0,250,9000.0,4140.0,0.45999999999999996,Online
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,41.0,247,10127.0,4658.42,0.45999999999999996,Online
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,55.0,234,12870.0,5148.0,0.4,Online
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,46.0,260,11960.0,4425.2,0.37,Online
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,46.0,313,14398.0,8926.76,0.62,Online
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,46.0,261,12006.0,5282.64,0.44,Online
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,36.0,276,9936.0,4669.92,0.47,Online
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,44.0,206,9064.0,4441.36,0.49,Online
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,58.0,243,14094.0,6060.42,0.43,Online
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,48.0,290,13920.0,5289.6,0.38,Online
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,46.0,354,16284.0,10258.92,0.63,Online
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,48.0,259,12432.0,5345.76,0.43,Online
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,39.0,247,9633.0,4720.17,0.49,Online
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,43.0,216,9288.0,4644.0,0.5,Online
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,59.0,230,13570.0,5699.4,0.42,Online
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,45.0,238,10710.0,3748.4999999999995,0.35,Online
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,45.0,300,13500.0,8370.0,0.62,Online
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,47.0,234,10998.0,4509.179999999999,0.41,Online
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,39.0,252,9828.0,4914.0,0.5,Online
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,41.0,239,9799.0,4801.51,0.49,Online
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,56.0,215,12040.0,5056.8,0.42,Online
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,49.0,238,11662.0,4314.94,0.37,Online
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,54.0,317,17118.0,10955.52,0.64,Online
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,50.0,259,12950.0,5180.0,0.4,Online
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,46.0,261,12006.0,5642.82,0.47,Online
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,46.0,230,10580.0,5078.4,0.48,Online
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,59.0,245,14455.0,6504.749999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,59.0,290,17110.0,6159.599999999999,0.36,Online
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,55.0,313,17215.0,10501.15,0.61,Online
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,54.0,270,14580.0,5977.799999999999,0.41,Online
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,46.0,278,12788.0,6138.24,0.48,Online
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,47.0,261,12267.0,5520.15,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,55.0,252,13860.0,6236.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,64.0,305,19520.0,7612.8,0.39,Online
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,59.0,319,18821.0,11292.6,0.6,Online
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,53.0,267,14151.0,5943.42,0.42,Online
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,46.0,247,11362.0,5112.9,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,46.0,243,11178.0,5141.879999999999,0.45999999999999996,Online
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,58.0,231,13398.0,5761.14,0.43,Online
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,61.0,286,17446.0,6978.400000000001,0.4,Online
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,58.0,325,18850.0,11498.5,0.61,Online
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,53.0,308,16324.0,6692.839999999999,0.41,Online
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,45.0,257,11565.0,5319.9,0.45999999999999996,Online
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,47.0,241,11327.0,5323.69,0.47,Online
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,34.0,384,13056.0,6789.12,0.52,Outlet
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,36.0,320,11520.0,4031.9999999999995,0.35,Outlet
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,32.0,350,11200.0,4144.0,0.37,Outlet
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,36.0,281,10116.0,3742.92,0.37,Outlet
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,43.0,306,13158.0,4868.46,0.37,Outlet
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,38.0,330,12540.0,4012.8,0.32,Outlet
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,33.0,388,12804.0,6658.08,0.52,Outlet
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,39.0,315,12285.0,4054.0499999999997,0.32999999999999996,Outlet
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,32.0,323,10336.0,3927.68,0.38,Outlet
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,32.0,248,7936.0,3015.68,0.38,Outlet
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,43.0,306,13158.0,4605.299999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,36.0,350,12600.0,3653.9999999999995,0.29,Outlet
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,40.0,390,15600.0,8112.0,0.52,Outlet
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,35.0,315,11025.0,3969.0,0.36,Outlet
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,27.0,314,8478.0,3475.98,0.41,Outlet
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,31.0,240,7440.0,2975.9999999999995,0.39999999999999997,Outlet
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,43.0,289,12427.0,3976.64,0.32,Outlet
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,36.0,323,11628.0,3139.5600000000004,0.27,Outlet
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,33.0,372,12276.0,6629.040000000001,0.54,Outlet
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,35.0,315,11025.0,3638.2499999999995,0.32999999999999996,Outlet
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,28.0,315,8820.0,3351.6,0.38,Outlet
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,31.0,289,8959.0,3314.83,0.37,Outlet
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,44.0,281,12364.0,4451.04,0.36,Outlet
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,39.0,333,12987.0,3506.4900000000002,0.27,Outlet
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,44.0,366,16104.0,8374.08,0.52,Outlet
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,37.0,296,10952.0,3833.2,0.35,Outlet
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,36.0,288,10368.0,4354.5599999999995,0.42,Outlet
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,33.0,289,9537.0,3814.7999999999997,0.39999999999999997,Outlet
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,47.0,280,13160.0,4606.0,0.35,Outlet
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,44.0,320,14080.0,4083.2,0.29,Outlet
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,47.0,400,18800.0,9776.0,0.52,Outlet
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,41.0,340,13940.0,4739.599999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,37.0,296,10952.0,4490.32,0.41,Outlet
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,38.0,297,11286.0,4288.68,0.38,Outlet
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,45.0,288,12960.0,4406.4,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,46.0,347,15962.0,5107.84,0.32,Outlet
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,44.0,434,19096.0,9929.92,0.52,Outlet
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,41.0,318,13038.0,4824.0599999999995,0.37,Outlet
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,35.0,295,10325.0,4336.5,0.42,Outlet
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,35.0,270,9450.0,3496.5,0.37,Outlet
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,46.0,278,12788.0,4347.919999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,47.0,352,16544.0,4466.88,0.27,Outlet
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,41.0,375,15375.0,7995.0,0.52,Outlet
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,37.0,359,13283.0,4516.219999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,37.0,314,11618.0,4298.66,0.37,Outlet
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,40.0,324,12960.0,5184.0,0.39999999999999997,Outlet

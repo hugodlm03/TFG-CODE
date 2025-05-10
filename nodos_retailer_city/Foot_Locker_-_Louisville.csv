@@ -1,0 +1,37 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,55.00000000000001,200,110000.00000000001,44000.00000000001,0.4,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Apparel,65.0,175,113750.0,39812.5,0.35,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Apparel,70.0,275,192500.0,77000.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Street Footwear,65.0,525,341250.0,136500.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,55.00000000000001,325,178750.00000000003,62562.50000000001,0.35,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Street Footwear,55.00000000000001,275,151250.00000000003,60500.000000000015,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,50.0,225,112500.0,45000.0,0.4,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Apparel,60.0,225,135000.0,47250.0,0.35,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Street Footwear,30.000000000000004,725,217500.00000000003,87000.00000000001,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Athletic Footwear,30.000000000000004,525,157500.00000000003,55125.00000000001,0.35,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Street Footwear,20.000000000000007,525,105000.00000000004,42000.00000000002,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Athletic Footwear,25.0,375,93750.0,37500.0,0.4,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Apparel,40.0,425,170000.0,59499.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Apparel,30.000000000000004,525,157500.00000000003,78750.00000000001,0.5,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Street Footwear,30.000000000000004,775,232500.00000000003,93000.00000000001,0.4,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Athletic Footwear,30.000000000000004,425,127500.00000000001,44625.0,0.35,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Women's Street Footwear,20.000000000000007,475,95000.00000000003,38000.000000000015,0.4,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,52.0,52,2704.0,1352.0,0.5,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Apparel,59.0,53,3127.0,1500.96,0.48,Online
+Foot Locker,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Apparel,66.0,80,5280.0,2851.2000000000003,0.54,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Street Footwear,59.0,158,9322.0,5127.1,0.55,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,52.0,98,5096.0,2446.08,0.48,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Street Footwear,51.0,74,3774.0,2075.7000000000003,0.55,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,49.0,68,3332.0,1765.96,0.53,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Men's Apparel,54.0,68,3672.0,1725.84,0.47,Online
+Foot Locker,1185732,2021-12-21,Southeast,Kentucky,Louisville,Women's Apparel,64.0,98,6272.0,3324.1600000000003,0.53,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Street Footwear,29.0,189,5481.0,2959.7400000000002,0.54,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Athletic Footwear,29.0,142,4118.0,1853.1,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Street Footwear,18.0,158,2844.0,1564.2,0.55,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Athletic Footwear,23.0,101,2323.0,1231.19,0.53,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Men's Apparel,38.0,115,4370.0,2097.6,0.48,Online
+Foot Locker,1185732,2021-01-20,Southeast,Kentucky,Louisville,Women's Apparel,29.0,158,4582.0,2840.84,0.62,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Street Footwear,28.0,225,6300.0,3276.0,0.52,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Men's Athletic Footwear,27.0,106,2862.0,1373.76,0.48,Online
+Foot Locker,1185732,2021-02-18,Southeast,Kentucky,Louisville,Women's Street Footwear,18.0,124,2232.0,1227.6000000000001,0.55,Online

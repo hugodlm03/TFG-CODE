@@ -1,0 +1,101 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,35.0,100,35000.0,10500.0,0.3,Online
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,49.99999999999999,175,87499.99999999999,30624.999999999993,0.35,Online
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,35.0,275,96250.0,38500.0,0.4,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,40.0,495,198000.0,69300.0,0.35,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,40.0,200,80000.0,24000.0,0.3,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,30.000000000000004,225,67500.00000000001,20250.000000000004,0.3,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,35.0,75,26250.0,7875.0,0.3,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,50.0,125,62500.0,21875.0,0.35,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,40.0,225,90000.0,36000.0,0.4,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,40.0,450,180000.0,62999.99999999999,0.35,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,40.0,150,60000.0,18000.0,0.3,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,30.000000000000004,150,45000.00000000001,13500.000000000002,0.3,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,35.0,75,26250.0,7875.0,0.3,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,60.0,100,60000.0,21000.0,0.35,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,50.0,225,112500.0,45000.0,0.4,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,60.0,495,297000.0,103950.0,0.35,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,50.0,200,100000.0,30000.0,0.3,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,45.0,175,78750.0,23625.0,0.3,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,45.0,100,45000.0,13500.0,0.3,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Apparel,54.99999999999999,125,68749.99999999999,24062.499999999993,0.35,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Apparel,60.0,250,150000.0,60000.0,0.4,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,45.0,500,225000.0,78750.0,0.35,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,40.00000000000001,250,100000.00000000001,30000.000000000004,0.3,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,35.0,200,70000.0,21000.0,0.3,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,35.0,175,61250.0,18375.0,0.3,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,45.0,175,78750.0,27562.5,0.35,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,55.00000000000001,325,178750.00000000003,71500.00000000001,0.4,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,50.0,550,275000.0,96250.0,0.35,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,40.0,175,70000.0,21000.0,0.3,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,50.0,200,100000.0,35000.0,0.35,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,50.0,525,262500.0,91875.0,0.35,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,40.0,200,80000.0,24000.0,0.3,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,50.0,175,87500.0,30624.999999999996,0.35,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,45.0,475,213750.0,74812.5,0.35,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,40.00000000000001,275,110000.00000000001,33000.0,0.3,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,35.0,175,61250.0,18375.0,0.3,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,35.0,150,52500.0,15750.0,0.3,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Apparel,45.0,150,67500.0,23625.0,0.35,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Apparel,50.0,225,112500.0,45000.0,0.4,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,54.99999999999999,400,219999.99999999997,76999.99999999999,0.35,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.0,250,112500.0,33750.0,0.3,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,45.0,150,67500.0,20250.0,0.3,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,45.0,125,56250.0,16875.0,0.3,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,54.99999999999999,125,68749.99999999999,24062.499999999993,0.35,Online
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,33.0,25,825.0,363.0,0.44,Online
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,48.0,46,2208.0,993.5999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-02-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,32.0,80,2560.0,1408.0,0.55,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,39.0,124,4836.0,2369.64,0.49,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,37.0,50,1850.0,777.0,0.42,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,27.0,59,1593.0,669.06,0.42,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,33.0,23,759.0,333.96,0.44,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,47.0,31,1457.0,728.5,0.5,Online
+Foot Locker,1185732,2021-03-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,37.0,59,2183.0,1156.99,0.53,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,38.0,113,4294.0,1975.2399999999998,0.45999999999999996,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,39.0,42,1638.0,671.5799999999999,0.41,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,29.0,45,1305.0,522.0,0.4,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,34.0,20,680.0,292.4,0.43,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,56.0,29,1624.0,747.04,0.45999999999999996,Online
+Foot Locker,1185732,2021-04-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,48.0,61,2928.0,1551.8400000000001,0.53,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,58.0,139,8062.0,3789.14,0.47,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.0,60,2700.0,1214.9999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,43.0,46,1978.0,830.76,0.42,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,43.0,26,1118.0,503.09999999999997,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Men's Apparel,51.0,38,1938.0,969.0,0.5,Online
+Foot Locker,1185732,2021-05-13,Midwest,South Dakota,Sioux Falls,Women's Apparel,58.0,68,3944.0,2011.44,0.51,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,41.0,135,5535.0,2546.1,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,39.0,70,2730.0,1092.0,0.4,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,32.0,54,1728.0,743.04,0.43,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,32.0,49,1568.0,705.5999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,41.0,51,2091.0,940.9499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,50.0,94,4700.0,2491.0,0.53,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,47.0,154,7238.0,3329.4799999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,44.0,81,3564.0,1603.8,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,37.0,61,2257.0,947.9399999999999,0.42,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,38.0,44,1672.0,718.96,0.43,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,49.0,52,2548.0,1172.08,0.45999999999999996,Online
+Foot Locker,1185732,2021-07-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,53.0,94,4982.0,2640.46,0.53,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,49.0,131,6419.0,3081.12,0.48,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,42.0,78,3276.0,1474.1999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,36.0,65,2340.0,936.0,0.4,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,38.0,58,2204.0,947.72,0.43,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,47.0,46,2162.0,994.5199999999999,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,53.0,88,4664.0,2332.0,0.5,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,42.0,138,5796.0,2608.2,0.44999999999999996,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,39.0,80,3120.0,1248.0,0.4,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,32.0,53,1696.0,678.4000000000001,0.4,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,34.0,39,1326.0,530.4,0.4,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Men's Apparel,41.0,42,1722.0,861.0,0.5,Online
+Foot Locker,1185732,2021-09-13,Midwest,South Dakota,Sioux Falls,Women's Apparel,46.0,65,2990.0,1495.0,0.5,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,54.0,104,5616.0,2583.3599999999997,0.45999999999999996,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,41.0,75,3075.0,1291.5,0.42,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,43.0,42,1806.0,722.4000000000001,0.4,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,43.0,36,1548.0,696.5999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,54.0,38,2052.0,964.4399999999999,0.47,Online

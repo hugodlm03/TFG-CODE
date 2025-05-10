@@ -1,0 +1,37 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,75.00000000000003,600,450000.0000000002,180000.00000000006,0.39999999999999997,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,75.00000000000003,600,450000.0000000002,180000.00000000006,0.39999999999999997,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,85.00000000000001,525,446250.00000000006,200812.50000000003,0.45,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,90.00000000000003,625,562500.0000000002,196875.00000000006,0.35,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,20.0,675,135000.0,40500.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,30.0,675,202500.0,60750.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,30.0,475,142500.0,42750.0,0.3,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,35.0,475,166250.0,66500.0,0.4,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,40.0,325,130000.0,32500.0,0.25,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,25.0,625,156250.0,46875.0,0.3,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,35.0,600,210000.0,63000.0,0.3,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,35.0,425,148750.0,44625.0,0.3,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,69.0,162,11178.0,5812.56,0.52,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,72.0,156,11232.0,6065.280000000001,0.54,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,82.0,131,10742.0,6230.360000000001,0.5800000000000001,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,87.0,175,15225.0,6851.249999999999,0.44999999999999996,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,19.0,182,3458.0,1486.94,0.43,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,28.0,196,5488.0,2469.6,0.44999999999999996,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,28.0,119,3332.0,1332.8000000000002,0.4,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,33.0,133,4389.0,2326.17,0.53,Online
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,36.0,85,3060.0,1132.2,0.37,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,23.0,163,3749.0,1499.6000000000001,0.4,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,32.0,174,5568.0,2338.56,0.42,Online
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,34.0,128,4352.0,1784.32,0.41,Online
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,53.0,192,10176.0,4375.679999999999,0.42999999999999994,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,53.0,192,10176.0,4782.719999999999,0.47,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,55.0,168,9240.0,4435.2,0.48,Outlet
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,59.0,194,11446.0,4578.4,0.39999999999999997,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Street Footwear,14.0,223,3122.0,1061.4799999999998,0.33999999999999997,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Athletic Footwear,20.0,209,4180.0,1504.8,0.36,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Street Footwear,21.0,162,3402.0,1258.74,0.37,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Women's Athletic Footwear,26.0,166,4316.0,1812.7200000000003,0.42000000000000004,Outlet
+Foot Locker,1197831,2021-01-05,South,Louisiana,New Orleans,Men's Apparel,28.0,111,3108.0,870.2400000000001,0.28,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Street Footwear,18.0,200,3600.0,1152.0,0.32,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Men's Athletic Footwear,28.0,180,5040.0,1663.1999999999998,0.32999999999999996,Outlet
+Foot Locker,1197831,2021-02-04,South,Louisiana,New Orleans,Women's Street Footwear,28.0,128,3584.0,1254.3999999999999,0.35,Outlet

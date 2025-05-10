@@ -1,0 +1,836 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50.0,1200,600000.0,300000.0,0.5,In-store
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,50.0,1000,500000.0,150000.0,0.3,In-store
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,40.0,1000,400000.0,140000.0,0.35,In-store
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,45.0,850,382500.0,133875.0,0.35,In-store
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,In-store
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,50.0,1000,500000.0,125000.0,0.25,In-store
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,50.0,1250,625000.0,312500.0,0.5,In-store
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,450000.0,135000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,45.0,825,371250.0,129937.49999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,50.0,1000,500000.0,125000.0,0.25,Outlet
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,50.0,1220,610000.0,305000.0,0.5,Outlet
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,50.0,925,462500.0,138750.0,0.3,Outlet
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,40.0,950,380000.0,133000.0,0.35,Outlet
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,45.0,800,360000.0,125999.99999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,60.0,850,510000.0,153000.0,0.3,Outlet
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,50.0,950,475000.0,118750.0,0.25,Outlet
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,50.0,1200,600000.0,300000.0,0.5,Outlet
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,450000.0,135000.0,0.3,Outlet
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,40.0,900,360000.0,125999.99999999999,0.35,Outlet
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,45.0,825,371250.0,129937.49999999999,0.35,Outlet
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,60.0,825,495000.0,148500.0,0.3,Outlet
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,50.0,950,475000.0,118750.0,0.25,Outlet
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,60.0,1220,732000.0,366000.0,0.5,Outlet
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,925,508750.00000000006,152625.0,0.3,Outlet
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,50.0,850,425000.0,148750.0,0.35,Outlet
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,60.0,875,525000.0,157500.0,0.3,Outlet
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,65.0,1000,650000.0,162500.0,0.25,Outlet
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,60.0,1250,750000.0,375000.0,0.5,Outlet
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1000,550000.0000000001,165000.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,50.0,925,462500.0,161875.0,0.35,Outlet
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,60.0,900,540000.0,162000.0,0.3,Outlet
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,65.0,1050,682500.0,170625.0,0.25,Outlet
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,60.0,1275,765000.0,382500.0,0.5,Outlet
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025,563750.0000000001,169125.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,50.0,950,475000.0,166250.0,0.35,Outlet
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,50.0,900,450000.0,157500.0,0.35,Outlet
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,60.0,925,555000.0,166500.0,0.3,Outlet
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,65.0,1100,715000.0,178750.0,0.25,Outlet
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,60.0,1250,750000.0,375000.0,0.5,Outlet
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025,563750.0000000001,169125.00000000003,0.3,Outlet
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,50.0,950,475000.0,166250.0,0.35,Outlet
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,50.0,925,462500.0,161875.0,0.35,Outlet
+Foot Locker,1185732,2021-10-26,Northeast,Pennsylvania,Philadelphia,Men's Apparel,54.99999999999999,125,68749.99999999999,24062.499999999993,0.35,Outlet
+Foot Locker,1185732,2021-10-27,Northeast,Pennsylvania,Philadelphia,Women's Apparel,45.0,225,101250.0,30375.0,0.3,Outlet
+Foot Locker,1185732,2021-10-28,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,45.0,475,213750.0,117562.50000000001,0.55,Outlet
+Foot Locker,1185732,2021-10-29,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,45.0,125,56250.0,19687.5,0.35,Outlet
+Foot Locker,1185732,2021-10-30,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,35.0,175,61250.0,24499.999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-31,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,40.0,50,20000.0,7999.999999999999,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,54.99999999999999,125,68749.99999999999,24062.499999999993,0.35,Outlet
+Foot Locker,1185732,2021-11-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,45.0,225,101250.0,30375.0,0.3,Outlet
+Foot Locker,1185732,2021-11-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,50.0,445,222500.0,122375.00000000001,0.55,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,50.0,150,75000.0,26250.0,0.35,Outlet
+Foot Locker,1185732,2021-11-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,40.0,175,70000.0,27999.999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,45.0,25,11250.0,4500.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,60.0,75,45000.0,13500.0,0.3,Outlet
+Foot Locker,1185732,2021-11-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,50.0,175,87500.0,21875.0,0.25,Outlet
+Foot Locker,1185732,2021-11-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,50.0,450,225000.0,112500.0,0.5,Outlet
+Foot Locker,1185732,2021-11-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,50.0,150,75000.0,22500.0,0.3,Outlet
+Foot Locker,1185732,2021-11-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,40.0,150,60000.0,21000.0,0.35,Outlet
+Foot Locker,1185732,2021-11-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,45.0,75,33750.0,11812.5,0.35,Outlet
+Foot Locker,1185732,2021-11-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,60.0,75,45000.0,13500.0,0.3,Outlet
+Foot Locker,1185732,2021-11-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,50.0,200,100000.0,25000.0,0.25,Outlet
+Foot Locker,1185732,2021-11-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,60.0,470,282000.0,141000.0,0.5,Outlet
+Foot Locker,1185732,2021-11-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,175,105000.00000000001,31500.000000000004,0.3,Outlet
+Foot Locker,1185732,2021-11-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.00000000000001,150,82500.00000000001,28875.000000000004,0.35,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,55.00000000000001,100,55000.00000000001,19250.0,0.35,Outlet
+Foot Locker,1185732,2021-11-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,65.0,125,81250.0,24375.0,0.3,Outlet
+Foot Locker,1185732,2021-11-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,70.0,250,175000.0,52500.0,0.3,Outlet
+Foot Locker,1185732,2021-11-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,65.0,500,325000.0,178750.0,0.55,Outlet
+Foot Locker,1185732,2021-11-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,250,150000.00000000003,52500.00000000001,0.35,Outlet
+Foot Locker,1185732,2021-11-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.00000000000001,175,96250.00000000001,38500.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,55.00000000000001,150,82500.00000000001,33000.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,65.0,150,97500.0,34125.0,0.35,Outlet
+Foot Locker,1185732,2021-11-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,70.0,300,210000.0,63000.0,0.3,Outlet
+Foot Locker,1185732,2021-11-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,65.0,500,325000.0,178750.0,0.55,Outlet
+Foot Locker,1185732,2021-11-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,300,180000.00000000003,63000.00000000001,0.35,Outlet
+Foot Locker,1185732,2021-11-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.00000000000001,225,123750.00000000001,49500.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,55.00000000000001,175,96250.00000000001,38500.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,65.0,200,130000.0,45500.0,0.35,Outlet
+Foot Locker,1185732,2021-12-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,70.0,375,262500.0,78750.0,0.3,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,65.0,525,341250.0,187687.50000000003,0.55,Outlet
+Foot Locker,1185732,2021-12-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,300,180000.00000000003,63000.00000000001,0.35,Outlet
+Foot Locker,1185732,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.00000000000001,225,123750.00000000001,49500.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,55.00000000000001,200,110000.00000000001,44000.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,65.0,175,113750.0,39812.5,0.35,Outlet
+Foot Locker,1185732,2021-12-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,70.0,350,245000.0,73500.0,0.3,Outlet
+Foot Locker,1185732,2021-12-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,65.0,475,308750.0,154375.0,0.5,Outlet
+Foot Locker,1185732,2021-12-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,50.0,275,137500.0,41250.0,0.3,Outlet
+Foot Locker,1185732,2021-12-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,45.0,200,90000.0,31499.999999999996,0.35,Outlet
+Foot Locker,1185732,2021-12-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,45.0,175,78750.0,27562.5,0.35,Outlet
+Foot Locker,1185732,2021-12-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,54.99999999999999,125,68749.99999999999,20624.999999999996,0.3,Outlet
+Foot Locker,1185732,2021-12-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,60.0,225,135000.0,33750.0,0.25,Outlet
+Foot Locker,1185732,2021-12-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,60.0,400,240000.0,120000.0,0.5,Outlet
+Foot Locker,1185732,2021-12-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,50.0,225,112500.0,33750.0,0.3,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,50.0,125,62500.0,21875.0,0.35,Outlet
+Foot Locker,1185732,2021-12-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,50.0,100,50000.0,17500.0,0.35,Outlet
+Foot Locker,1185732,2021-12-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,60.0,100,60000.0,18000.0,0.3,Outlet
+Foot Locker,1185732,2021-12-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,64.99999999999999,225,146249.99999999997,36562.49999999999,0.25,Outlet
+Foot Locker,1185732,2021-12-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,70.0,375,262500.0,144375.0,0.55,Outlet
+Foot Locker,1185732,2021-12-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,200,120000.00000000001,42000.0,0.35,Outlet
+Foot Locker,1185732,2021-12-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,60.00000000000001,195,117000.00000000001,46800.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,60.00000000000001,175,105000.00000000001,42000.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,70.0,150,105000.0,36750.0,0.35,Outlet
+Foot Locker,1185732,2021-12-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,75.0,250,187500.0,56250.0,0.3,Outlet
+Foot Locker,1185732,2021-12-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,70.0,475,332500.0,182875.00000000003,0.55,Outlet
+Foot Locker,1185732,2021-12-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,60.00000000000001,275,165000.00000000003,57750.00000000001,0.35,Outlet
+Foot Locker,1185732,2021-12-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,60.00000000000001,225,135000.00000000003,54000.00000000001,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,60.00000000000001,175,105000.00000000001,42000.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-31,Northeast,Pennsylvania,Philadelphia,Men's Apparel,70.0,175,122500.0,42875.0,0.35,Outlet
+Foot Locker,1185732,2020-01-01,Northeast,Pennsylvania,Philadelphia,Women's Apparel,75.0,275,206250.0,61875.0,0.3,Outlet
+Foot Locker,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Apparel,49.999999999999986,300,149999.99999999997,59999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Street Footwear,44.99999999999999,450,202499.99999999997,81000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,350,122500.0,49000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Street Footwear,35.0,295,103250.0,41300.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,40.0,325,130000.0,52000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Apparel,65.0,300,195000.0,78000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Apparel,70.0,400,280000.0,112000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Street Footwear,65.0,650,422500.0,169000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,55.00000000000001,450,247500.00000000003,99000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Apparel,65.0,350,227500.0,91000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Apparel,70.0,450,315000.0,126000.0,0.4,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Street Footwear,35.0,425,148750.0,59500.0,0.4,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Street Footwear,25.000000000000007,225,56250.000000000015,19687.500000000004,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Athletic Footwear,30.0,75,22500.0,7874.999999999999,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Apparel,35.0,225,78750.0,23625.0,0.3,In-store
+Foot Locker,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Street Footwear,35.0,475,166250.0,66500.0,0.4,In-store
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,175,70000.0,24500.0,0.35,In-store
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,150,74999.99999999999,22499.999999999996,0.3,In-store
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Foot Locker,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.99999999999999,525,262499.99999999994,104999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Athletic Footwear,50.0,75,37500.0,13125.0,0.35,In-store
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Apparel,60.0,75,45000.0,13500.0,0.3,In-store
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Apparel,64.99999999999999,200,129999.99999999997,38999.99999999999,0.3,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Street Footwear,60.0,350,210000.0,84000.0,0.4,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,50.0,175,87500.0,30624.999999999996,0.35,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Street Footwear,50.0,170,85000.0,29749.999999999996,0.35,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,50.0,150,75000.0,26250.0,0.35,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Apparel,60.0,125,75000.0,22500.0,0.3,In-store
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Apparel,64.99999999999999,225,146249.99999999997,43874.99999999999,0.3,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Street Footwear,60.0,450,270000.0,108000.0,0.4,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Street Footwear,50.0,225,112500.0,39375.0,0.35,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,50.0,175,87500.0,30624.999999999996,0.35,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Apparel,60.0,175,105000.0,31500.0,0.3,In-store
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Apparel,64.99999999999999,275,178749.99999999997,53624.99999999999,0.3,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Street Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Athletic Footwear,40.0,325,130000.0,45500.0,0.35,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Street Footwear,30.000000000000004,325,97500.00000000001,39000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Athletic Footwear,35.0,175,61250.0,24500.0,0.4,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Apparel,50.0,225,112500.0,33750.0,0.3,In-store
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Apparel,40.0,325,130000.0,52000.0,0.4,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Men's Street Footwear,40.0,575,230000.0,80500.0,0.35,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Men's Athletic Footwear,40.0,225,90000.0,31499.999999999996,0.35,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Women's Street Footwear,30.000000000000004,275,82500.00000000001,33000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,150,52500.0,21000.0,0.4,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Men's Apparel,50.0,225,112500.0,33750.0,0.3,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Apparel,40.0,325,130000.0,52000.0,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Street Footwear,40.0,545,218000.0,76300.0,0.35,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,40.0,250,100000.0,35000.0,0.35,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Street Footwear,30.000000000000004,275,82500.00000000001,33000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,125,43750.0,17500.0,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,175,87500.0,26250.0,0.3,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Apparel,40.0,275,110000.0,44000.0,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Street Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,40.0,225,90000.0,31499.999999999996,0.35,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Street Footwear,30.000000000000004,225,67500.00000000001,27000.000000000007,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,150,52500.0,21000.0,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Apparel,50.0,150,75000.0,22500.0,0.3,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Apparel,40.0,300,120000.0,48000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,570,313499.99999999994,109724.99999999997,0.35,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,275,137500.0,48125.0,0.35,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,250,112500.0,45000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,275,151249.99999999997,45374.99999999999,0.3,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,400,240000.0,96000.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,650,357499.99999999994,125124.99999999997,0.35,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,400,200000.0,70000.0,0.35,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,325,146250.0,58500.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Apparel,60.0,450,270000.0,108000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,675,371249.99999999994,129937.49999999997,0.35,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,425,212500.0,74375.0,0.35,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,350,157500.0,63000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,325,178749.99999999997,53624.99999999999,0.3,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,500,300000.0,120000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,650,357499.99999999994,125124.99999999997,0.35,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,425,212500.0,74375.0,0.35,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,350,157500.0,63000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,250,112500.0,45000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,225,123749.99999999999,37124.99999999999,0.3,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Apparel,60.0,400,240000.0,96000.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,525,288749.99999999994,101062.49999999997,0.35,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,225,101250.0,40500.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,200,90000.0,36000.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,200,109999.99999999999,32999.99999999999,0.3,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,300,180000.0,72000.0,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Street Footwear,60.0,475,285000.0,99750.0,0.35,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,57750.00000000001,0.35,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Street Footwear,55.00000000000001,200,110000.00000000001,44000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,55.00000000000001,175,96250.00000000001,38500.00000000001,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Apparel,65.0,175,113750.0,34125.0,0.3,In-store
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,70.0,275,192500.0,67375.0,0.35,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,65.0,425,276250.0,110500.0,0.4,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,66000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,55.00000000000001,295,162250.00000000003,48675.00000000001,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,55.00000000000001,275,151250.00000000003,45375.00000000001,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,65.0,250,162500.0,48750.0,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,70.0,350,245000.0,85750.0,0.35,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,65.0,575,373750.0,149500.0,0.4,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,55.00000000000001,350,192500.00000000003,57750.00000000001,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,65.0,300,195000.0,58500.0,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,70.0,400,280000.0,98000.0,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,25.000000000000007,225,56250.000000000015,22500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,30.0,75,22500.0,9000.0,0.4,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,35.0,475,166250.0,58187.49999999999,0.35,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,35.0,125,43750.0,15312.499999999998,0.35,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,25.000000000000007,175,43750.000000000015,17500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,50,15000.0,6000.0,0.4,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,35.0,445,155750.0,54512.5,0.35,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,150,52500.0,18375.0,0.35,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,25.000000000000007,175,43750.000000000015,17500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,25,7500.0,3000.0,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,45.0,75,33750.0,10125.0,0.3,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,35.0,175,61250.0,24500.0,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,125,43750.0,15312.499999999998,0.35,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,25.000000000000007,125,31250.000000000007,12500.000000000004,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,50,15000.0,6000.0,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,45.0,50,22500.0,6750.0,0.3,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,35.0,200,70000.0,28000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,470,234999.99999999997,82249.99999999999,0.35,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,175,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,150,60000.0,24000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,175,87499.99999999999,26249.999999999996,0.3,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,300,164999.99999999997,65999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,550,274999.99999999994,96249.99999999997,0.35,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,300,135000.0,47250.0,0.35,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,225,90000.0,36000.0,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,200,99999.99999999999,29999.999999999993,0.3,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,350,192499.99999999997,76999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,575,287499.99999999994,100624.99999999997,0.35,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,325,146250.0,51187.5,0.35,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,225,112499.99999999999,33749.99999999999,0.3,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,400,219999.99999999997,88000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,550,274999.99999999994,96249.99999999997,0.35,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,325,146250.0,51187.5,0.35,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,150,60000.0,24000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,125,62499.99999999999,18749.999999999996,0.3,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,300,164999.99999999997,65999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,425,212499.99999999997,74374.99999999999,0.35,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,125,50000.0,20000.0,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,100,40000.0,16000.0,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,100,49999.99999999999,14999.999999999996,0.3,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,200,109999.99999999999,44000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,54.99999999999999,375,206249.99999999997,72187.49999999999,0.35,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,200,100000.0,35000.0,0.35,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,100,50000.0,20000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,75,37500.0,15000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,60.0,75,45000.0,13500.0,0.3,In-store
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Street Footwear,70.0,475,332500.0,133000.0,0.4,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,65.00000000000001,300,195000.00000000003,78000.00000000001,0.4,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Street Footwear,65.00000000000001,200,130000.00000000003,39000.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,65.00000000000001,175,113750.00000000003,34125.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Apparel,75.00000000000001,175,131250.00000000003,39375.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Apparel,80.0,300,240000.0,84000.0,0.35,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Street Footwear,75.00000000000001,450,337500.00000000006,135000.00000000003,0.4,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,65.00000000000001,325,211250.00000000006,84500.00000000003,0.4,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Street Footwear,65.00000000000001,345,224250.00000000006,67275.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,65.00000000000001,325,211250.00000000006,63375.000000000015,0.3,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Apparel,75.00000000000001,300,225000.00000000003,67500.0,0.3,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Apparel,80.0,400,320000.0,112000.0,0.35,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Street Footwear,75.00000000000001,625,468750.0000000001,187500.00000000006,0.4,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,65.00000000000001,425,276250.00000000006,110500.00000000003,0.4,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Street Footwear,65.00000000000001,400,260000.00000000006,78000.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,65.00000000000001,350,227500.00000000006,68250.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Apparel,75.00000000000001,350,262500.00000000006,78750.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Apparel,80.0,450,360000.0,125999.99999999999,0.35,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Street Footwear,55.00000000000001,500,275000.00000000006,96250.00000000003,0.35000000000000003,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,57750.000000000015,0.35000000000000003,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Street Footwear,45.0,300,135000.0,33750.0,0.25,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,49.99999999999999,150,74999.99999999999,18749.999999999996,0.25,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Apparel,65.00000000000001,200,130000.00000000003,32500.000000000007,0.25,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Apparel,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Street Footwear,55.00000000000001,575,316250.00000000006,110687.50000000003,0.35000000000000003,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,55.00000000000001,225,123750.00000000001,43312.50000000001,0.35000000000000003,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Women's Street Footwear,45.0,275,123750.0,30937.5,0.25,Outlet
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,47.0,336,15792.0,9633.119999999999,0.61,Online
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,47.0,260,12220.0,5132.4,0.42,Online
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,36.0,250,9000.0,4140.0,0.45999999999999996,Online
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,41.0,247,10127.0,4658.42,0.45999999999999996,Online
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,55.0,234,12870.0,5148.0,0.4,Online
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,46.0,260,11960.0,4425.2,0.37,Online
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,46.0,313,14398.0,8926.76,0.62,Online
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,46.0,261,12006.0,5282.64,0.44,Online
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,36.0,276,9936.0,4669.92,0.47,Online
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,44.0,206,9064.0,4441.36,0.49,Online
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,58.0,243,14094.0,6060.42,0.43,Online
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,48.0,290,13920.0,5289.6,0.38,Online
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,46.0,354,16284.0,10258.92,0.63,Online
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,48.0,259,12432.0,5345.76,0.43,Online
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,39.0,247,9633.0,4720.17,0.49,Online
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,43.0,216,9288.0,4644.0,0.5,Online
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,59.0,230,13570.0,5699.4,0.42,Online
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,45.0,238,10710.0,3748.4999999999995,0.35,Online
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,45.0,300,13500.0,8370.0,0.62,Online
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,47.0,234,10998.0,4509.179999999999,0.41,Online
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,39.0,252,9828.0,4914.0,0.5,Online
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,41.0,239,9799.0,4801.51,0.49,Online
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,56.0,215,12040.0,5056.8,0.42,Online
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,49.0,238,11662.0,4314.94,0.37,Online
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,54.0,317,17118.0,10955.52,0.64,Online
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,50.0,259,12950.0,5180.0,0.4,Online
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,46.0,261,12006.0,5642.82,0.47,Online
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,46.0,230,10580.0,5078.4,0.48,Online
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,59.0,245,14455.0,6504.749999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,59.0,290,17110.0,6159.599999999999,0.36,Online
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,55.0,313,17215.0,10501.15,0.61,Online
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,54.0,270,14580.0,5977.799999999999,0.41,Online
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,46.0,278,12788.0,6138.24,0.48,Online
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,47.0,261,12267.0,5520.15,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,55.0,252,13860.0,6236.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,64.0,305,19520.0,7612.8,0.39,Online
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,59.0,319,18821.0,11292.6,0.6,Online
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,53.0,267,14151.0,5943.42,0.42,Online
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,46.0,247,11362.0,5112.9,0.44999999999999996,Online
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,46.0,243,11178.0,5141.879999999999,0.45999999999999996,Online
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,58.0,231,13398.0,5761.14,0.43,Online
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,61.0,286,17446.0,6978.400000000001,0.4,Online
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,58.0,325,18850.0,11498.5,0.61,Online
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,53.0,308,16324.0,6692.839999999999,0.41,Online
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,45.0,257,11565.0,5319.9,0.45999999999999996,Online
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,47.0,241,11327.0,5323.69,0.47,Online
+Foot Locker,1185732,2021-10-26,Northeast,Pennsylvania,Philadelphia,Men's Apparel,54.0,36,1944.0,874.8,0.44999999999999996,Online
+Foot Locker,1185732,2021-10-27,Northeast,Pennsylvania,Philadelphia,Women's Apparel,43.0,61,2623.0,1154.1200000000001,0.44,Online
+Foot Locker,1185732,2021-10-28,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,42.0,119,4998.0,3348.6600000000003,0.67,Online
+Foot Locker,1185732,2021-10-29,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,44.0,35,1540.0,739.1999999999999,0.48,Online
+Foot Locker,1185732,2021-10-30,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,34.0,46,1564.0,813.28,0.52,Online
+Foot Locker,1185732,2021-10-31,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,39.0,13,507.0,263.64,0.52,Online
+Foot Locker,1185732,2021-11-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,51.0,36,1836.0,844.56,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,44.0,68,2992.0,1346.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,49.0,120,5880.0,4116.0,0.7000000000000001,Online
+Foot Locker,1185732,2021-11-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,47.0,38,1786.0,875.14,0.49,Online
+Foot Locker,1185732,2021-11-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,36.0,51,1836.0,991.44,0.54,Online
+Foot Locker,1185732,2021-11-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43.0,8,344.0,175.44,0.51,Online
+Foot Locker,1185732,2021-11-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,58.0,20,1160.0,464.0,0.4,Online
+Foot Locker,1185732,2021-11-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,47.0,44,2068.0,723.8,0.35,Online
+Foot Locker,1185732,2021-11-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,46.0,122,5612.0,3535.56,0.63,Online
+Foot Locker,1185732,2021-11-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,45.0,45,2025.0,850.5,0.42,Online
+Foot Locker,1185732,2021-11-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,38.0,38,1444.0,664.2399999999999,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,42.0,20,840.0,386.4,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,55.0,22,1210.0,508.2,0.42,Online
+Foot Locker,1185732,2021-11-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,48.0,54,2592.0,933.12,0.36,Online
+Foot Locker,1185732,2021-11-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,58.0,136,7888.0,4969.44,0.63,Online
+Foot Locker,1185732,2021-11-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,54.0,53,2862.0,1144.8,0.4,Online
+Foot Locker,1185732,2021-11-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,52.0,42,2184.0,1004.6399999999999,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,51.0,29,1479.0,695.13,0.47,Online
+Foot Locker,1185732,2021-11-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,59.0,31,1829.0,768.18,0.42,Online
+Foot Locker,1185732,2021-11-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,64.0,63,4032.0,1814.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,64.0,135,8640.0,5616.0,0.65,Online
+Foot Locker,1185732,2021-11-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,59.0,70,4130.0,1899.8,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,52.0,44,2288.0,1144.0,0.5,Online
+Foot Locker,1185732,2021-11-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,52.0,39,2028.0,1074.8400000000001,0.53,Online
+Foot Locker,1185732,2021-11-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,60.0,45,2700.0,1242.0,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,65.0,81,5265.0,2211.2999999999997,0.42,Online
+Foot Locker,1185732,2021-11-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,60.0,145,8700.0,5829.0,0.67,Online
+Foot Locker,1185732,2021-11-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,55.0,90,4950.0,2475.0,0.5,Online
+Foot Locker,1185732,2021-11-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,51.0,59,3009.0,1504.5,0.5,Online
+Foot Locker,1185732,2021-11-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,51.0,44,2244.0,1189.3200000000002,0.53,Online
+Foot Locker,1185732,2021-12-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,64.0,60,3840.0,1843.1999999999998,0.48,Online
+Foot Locker,1185732,2021-12-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,64.0,98,6272.0,2634.24,0.42,Online
+Foot Locker,1185732,2021-12-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,60.0,158,9480.0,6256.8,0.66,Online
+Foot Locker,1185732,2021-12-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,54.0,75,4050.0,1903.5,0.47,Online
+Foot Locker,1185732,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,54.0,61,3294.0,1811.6999999999998,0.5499999999999999,Online
+Foot Locker,1185732,2021-12-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,53.0,58,3074.0,1659.96,0.54,Online
+Foot Locker,1185732,2021-12-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,61.0,46,2806.0,1290.76,0.45999999999999996,Online
+Foot Locker,1185732,2021-12-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,64.0,95,6080.0,2614.4,0.43,Online
+Foot Locker,1185732,2021-12-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,62.0,143,8866.0,5319.599999999999,0.6,Online
+Foot Locker,1185732,2021-12-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,48.0,80,3840.0,1536.0,0.4,Online
+Foot Locker,1185732,2021-12-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,41.0,50,2050.0,922.4999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,41.0,53,2173.0,1021.31,0.47,Online
+Foot Locker,1185732,2021-12-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,50.0,36,1800.0,809.9999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,55.0,61,3355.0,1342.0,0.4,Online
+Foot Locker,1185732,2021-12-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,55.0,104,5720.0,3546.4,0.62,Online
+Foot Locker,1185732,2021-12-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,47.0,63,2961.0,1243.62,0.42,Online
+Foot Locker,1185732,2021-12-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,48.0,34,1632.0,734.4,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,48.0,29,1392.0,626.4,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,56.0,27,1512.0,650.16,0.43,Online
+Foot Locker,1185732,2021-12-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,60.0,63,3780.0,1474.2,0.39,Online
+Foot Locker,1185732,2021-12-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,66.0,113,7458.0,4847.7,0.65,Online
+Foot Locker,1185732,2021-12-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,55.0,60,3300.0,1551.0,0.47,Online
+Foot Locker,1185732,2021-12-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.0,55,3025.0,1603.25,0.53,Online
+Foot Locker,1185732,2021-12-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,56.0,44,2464.0,1256.64,0.51,Online
+Foot Locker,1185732,2021-12-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,64.0,42,2688.0,1290.24,0.48,Online
+Foot Locker,1185732,2021-12-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,71.0,65,4615.0,2030.6,0.44,Online
+Foot Locker,1185732,2021-12-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,67.0,124,8308.0,5732.52,0.6900000000000001,Online
+Foot Locker,1185732,2021-12-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,55.0,69,3795.0,1707.7499999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.0,65,3575.0,1894.75,0.53,Online
+Foot Locker,1185732,2021-12-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,57.0,53,3021.0,1601.13,0.53,Online
+Foot Locker,1185732,2021-12-31,Northeast,Pennsylvania,Philadelphia,Men's Apparel,63.0,47,2961.0,1362.06,0.45999999999999996,Online
+Foot Locker,1185732,2020-01-01,Northeast,Pennsylvania,Philadelphia,Women's Apparel,68.0,83,5644.0,2426.92,0.43,Online
+Foot Locker,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Apparel,47.0,84,3948.0,1974.0,0.5,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Street Footwear,44.0,117,5148.0,2676.96,0.52,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,33.0,95,3135.0,1661.5500000000002,0.53,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Street Footwear,32.0,77,2464.0,1232.0,0.5,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,38.0,91,3458.0,1901.9,0.55,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Apparel,62.0,78,4836.0,2563.08,0.53,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Apparel,64.0,100,6400.0,3264.0,0.51,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Street Footwear,60.0,176,10560.0,5491.2,0.52,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,52.0,135,7020.0,3650.4,0.52,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,53.0,102,5406.0,2757.06,0.51,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Apparel,61.0,95,5795.0,2897.5,0.5,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Apparel,68.0,122,8296.0,4562.8,0.55,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Street Footwear,33.0,106,3498.0,1749.0,0.5,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Athletic Footwear,34.0,68,2312.0,1086.6399999999999,0.47,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Street Footwear,24.0,63,1512.0,695.52,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Athletic Footwear,28.0,20,560.0,280.0,0.5,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Apparel,42.0,33,1386.0,595.98,0.43,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Apparel,33.0,59,1947.0,778.8000000000001,0.4,Online
+Foot Locker,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Street Footwear,32.0,138,4416.0,2340.48,0.53,Online
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Street Footwear,37.0,47,1739.0,869.5,0.5,Online
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Athletic Footwear,37.0,44,1628.0,814.0,0.5,Online
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Men's Apparel,49.0,42,2058.0,905.52,0.44,Online
+Foot Locker,1185732,2021-06-22,Northeast,Maryland,Baltimore,Women's Apparel,53.0,84,4452.0,2003.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.0,131,6419.0,3337.88,0.52,Online
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Athletic Footwear,49.0,21,1029.0,514.5,0.5,Online
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Apparel,56.0,20,1120.0,448.0,0.4,Online
+Foot Locker,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Apparel,60.0,52,3120.0,1248.0,0.4,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Street Footwear,58.0,88,5104.0,2807.2000000000003,0.55,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,51,2295.0,1078.6499999999999,0.47,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Street Footwear,49.0,48,2352.0,1176.0,0.5,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,48.0,41,1968.0,905.28,0.45999999999999996,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Men's Apparel,56.0,31,1736.0,763.84,0.44,Online
+Foot Locker,1185732,2021-11-21,Northeast,Maryland,Baltimore,Women's Apparel,62.0,63,3906.0,1679.58,0.43,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Street Footwear,57.0,122,6954.0,3477.0,0.5,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,46.0,65,2990.0,1495.0,0.5,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Street Footwear,45.0,65,2925.0,1374.75,0.47,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,49.0,44,2156.0,1013.3199999999999,0.47,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Men's Apparel,54.0,51,2754.0,1129.1399999999999,0.41,Online
+Foot Locker,1185732,2021-12-20,Northeast,Maryland,Baltimore,Women's Apparel,61.0,72,4392.0,1844.6399999999999,0.42,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Street Footwear,36.0,137,4932.0,2219.3999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Athletic Footwear,38.0,81,3078.0,1539.0,0.5,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Street Footwear,29.0,91,2639.0,1398.67,0.53,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Athletic Footwear,32.0,47,1504.0,827.2,0.55,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Men's Apparel,49.0,59,2891.0,1214.22,0.42,Online
+Foot Locker,1185732,2021-01-17,Northeast,Maryland,Baltimore,Women's Apparel,36.0,81,2916.0,1487.16,0.51,Online
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Men's Street Footwear,39.0,144,5616.0,2808.0,0.5,Online
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Men's Athletic Footwear,37.0,61,2257.0,1038.22,0.45999999999999996,Online
+Foot Locker,1185732,2021-02-15,Northeast,Maryland,Baltimore,Women's Street Footwear,27.0,69,1863.0,950.13,0.51,Online
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,33.0,45,1485.0,816.7500000000001,0.55,Online
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Men's Apparel,45.0,65,2925.0,1199.25,0.41,Online
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Apparel,39.0,98,3822.0,2025.66,0.53,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Street Footwear,36.0,158,5688.0,2616.48,0.45999999999999996,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,39.0,68,2652.0,1193.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Street Footwear,29.0,69,2001.0,1080.54,0.54,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,32.0,31,992.0,525.76,0.53,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Apparel,46.0,49,2254.0,924.14,0.41,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Apparel,39.0,72,2808.0,1404.0,0.5,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Street Footwear,36.0,131,4716.0,2358.0,0.5,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,38.0,61,2318.0,1089.46,0.47,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Street Footwear,27.0,59,1593.0,876.1500000000001,0.55,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,32.0,44,1408.0,718.08,0.51,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Apparel,47.0,45,2115.0,951.7499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Apparel,38.0,78,2964.0,1600.5600000000002,0.54,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Street Footwear,51.0,160,8160.0,3916.7999999999997,0.48,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,69,3243.0,1459.35,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Street Footwear,41.0,81,3321.0,1726.92,0.52,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,65,2665.0,1385.8,0.52,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,74,3700.0,1554.0,0.42,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Apparel,54.0,104,5616.0,3088.8,0.55,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Street Footwear,51.0,189,9639.0,4433.94,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,48.0,120,5760.0,2591.9999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Street Footwear,43.0,85,3655.0,1937.15,0.53,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,75,3075.0,1691.2500000000002,0.55,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Apparel,50.0,75,3750.0,1500.0,0.4,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Apparel,56.0,135,7560.0,4006.8,0.53,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Street Footwear,53.0,182,9646.0,4823.0,0.5,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,119,5593.0,2516.85,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Street Footwear,41.0,102,4182.0,2258.28,0.54,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,43.0,90,3870.0,2051.1,0.53,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Apparel,51.0,94,4794.0,1965.54,0.41,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Apparel,55.0,145,7975.0,3987.5,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Street Footwear,50.0,163,8150.0,3993.5,0.49,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,128,6016.0,2767.3599999999997,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Street Footwear,42.0,105,4410.0,2205.0,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,63,2583.0,1291.5,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Apparel,50.0,63,3150.0,1417.4999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Apparel,59.0,120,7080.0,3681.6,0.52,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Street Footwear,50.0,142,7100.0,3479.0,0.49,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,85,3995.0,1797.7499999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Street Footwear,43.0,61,2623.0,1337.73,0.51,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,60,2460.0,1254.6,0.51,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,60,3000.0,1320.0,0.44,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Apparel,58.0,84,4872.0,2630.88,0.54,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Street Footwear,56.0,128,7168.0,3225.5999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,51.0,90,4590.0,2111.3999999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Street Footwear,50.0,52,2600.0,1430.0000000000002,0.55,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,52.0,44,2288.0,1144.0,0.5,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Apparel,62.0,49,3038.0,1215.2,0.4,Online
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,63.0,74,4662.0,2331.0,0.5,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,60.0,111,6660.0,3330.0,0.5,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,51.0,84,4284.0,2227.6800000000003,0.52,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,51.0,80,4080.0,1835.9999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,50.0,80,4000.0,1680.0,0.42,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,60.0,68,4080.0,1795.2,0.44,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,67.0,95,6365.0,2991.5499999999997,0.47,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,59.0,150,8850.0,4513.5,0.51,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,51.0,101,5151.0,2627.01,0.51,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,50.0,88,4400.0,1979.9999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,53.0,87,4611.0,1936.62,0.42,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,60.0,78,4680.0,2106.0,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,67.0,112,7504.0,3451.8399999999997,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,34.0,115,3910.0,1798.6,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,34.0,63,2142.0,963.8999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,24.0,63,1512.0,831.6,0.55,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,29.0,20,580.0,307.40000000000003,0.53,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,44.0,33,1452.0,580.8000000000001,0.4,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,33.0,63,2079.0,1122.66,0.54,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,34.0,119,4046.0,1982.54,0.49,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,34.0,36,1224.0,575.28,0.47,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,24.0,49,1176.0,588.0,0.5,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,13,377.0,203.58,0.54,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,41.0,35,1435.0,588.3499999999999,0.41,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,33.0,65,2145.0,1136.8500000000001,0.53,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,34.0,111,3774.0,1887.0,0.5,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,34.0,44,1496.0,673.1999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,23.0,51,1173.0,609.96,0.52,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,8,232.0,116.0,0.5,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,44.0,20,880.0,395.99999999999994,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,32.0,51,1632.0,881.2800000000001,0.54,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,32.0,111,3552.0,1740.48,0.49,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,33,1056.0,528.0,0.5,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,24.0,36,864.0,449.28000000000003,0.52,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,13,377.0,199.81,0.53,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,44.0,15,660.0,264.0,0.4,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,33.0,50,1650.0,858.0,0.52,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.0,122,5978.0,2989.0,0.5,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,43.0,49,2107.0,948.1499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,39.0,60,2340.0,1263.6000000000001,0.54,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,44,1716.0,892.32,0.52,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,49.0,46,2254.0,901.6,0.4,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,52.0,81,4212.0,2232.36,0.53,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,47.0,138,6486.0,2918.7,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,41.0,90,3690.0,1808.1,0.49,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,39.0,65,2535.0,1394.25,0.55,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,60,2340.0,1263.6000000000001,0.54,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,48.0,58,2784.0,1141.4399999999998,0.41,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,51.0,88,4488.0,2288.88,0.51,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,46.0,167,7682.0,3456.8999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,41.0,81,3321.0,1660.5,0.5,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,37.0,65,2405.0,1250.6000000000001,0.52,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,37.0,58,2146.0,1115.92,0.52,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,47.0,63,2961.0,1184.4,0.4,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,50.0,116,5800.0,2900.0,0.5,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,46.0,143,6578.0,3157.44,0.48,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,42.0,91,3822.0,1796.34,0.47,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,38.0,75,2850.0,1567.5000000000002,0.55,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,37.0,39,1443.0,764.7900000000001,0.53,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,45.0,31,1395.0,558.0,0.4,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,52.0,87,4524.0,2442.96,0.54,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,45.0,111,4995.0,2247.75,0.44999999999999996,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,43.0,56,2408.0,1155.84,0.48,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,36.0,38,1368.0,697.6800000000001,0.51,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,27,1053.0,568.62,0.54,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,47.0,27,1269.0,520.29,0.41,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,52.0,58,3016.0,1538.16,0.51,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,53.0,94,4982.0,2491.0,0.5,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,46.0,56,2576.0,1262.24,0.49,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,45.0,29,1305.0,678.6,0.52,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,47.0,23,1081.0,540.5,0.5,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,55.0,19,1045.0,418.0,0.4,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Street Footwear,64.0,119,7616.0,4036.48,0.53,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,62.0,84,5208.0,2760.2400000000002,0.53,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Street Footwear,59.0,54,3186.0,1401.84,0.44,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,62.0,47,2914.0,1253.02,0.43,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Apparel,71.0,46,3266.0,1404.3799999999999,0.43,Online
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Apparel,72.0,81,5832.0,2799.3599999999997,0.48,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Street Footwear,68.0,117,7956.0,4216.68,0.53,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,62.0,98,6076.0,3159.52,0.52,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Street Footwear,63.0,104,6552.0,2948.3999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,64.0,85,5440.0,2176.0,0.4,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Apparel,71.0,81,5751.0,2415.42,0.42,Online
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Apparel,78.0,116,9048.0,4252.5599999999995,0.47,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Street Footwear,71.0,169,11999.0,6599.450000000001,0.55,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,59.0,115,6785.0,3731.7500000000005,0.55,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Street Footwear,62.0,108,6696.0,2812.3199999999997,0.42,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,62.0,88,5456.0,2400.64,0.44,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Apparel,74.0,105,7770.0,3341.1,0.43,Online
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Apparel,74.0,117,8658.0,4242.42,0.49,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Street Footwear,52.0,145,7540.0,3468.4,0.46,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,50.0,84,4200.0,1974.0000000000002,0.47000000000000003,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Street Footwear,44.0,90,3960.0,1386.0,0.35,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,49.0,39,1911.0,707.0699999999999,0.37,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Apparel,60.0,54,3240.0,1198.8,0.37,Online
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Apparel,54.0,78,4212.0,1895.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Street Footwear,52.0,173,8996.0,4048.2000000000007,0.45000000000000007,Online
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,53.0,59,3127.0,1438.42,0.46,Online
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Women's Street Footwear,43.0,83,3569.0,1427.6000000000001,0.4,Online
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,34.0,384,13056.0,6789.12,0.52,Outlet
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,36.0,320,11520.0,4031.9999999999995,0.35,Outlet
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,32.0,350,11200.0,4144.0,0.37,Outlet
+Foot Locker,1185732,2020-01-04,Northeast,New York,New York,Women's Athletic Footwear,36.0,281,10116.0,3742.92,0.37,Outlet
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,43.0,306,13158.0,4868.46,0.37,Outlet
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,38.0,330,12540.0,4012.8,0.32,Outlet
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,33.0,388,12804.0,6658.08,0.52,Outlet
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,39.0,315,12285.0,4054.0499999999997,0.32999999999999996,Outlet
+Foot Locker,1185732,2020-01-21,Northeast,New York,New York,Women's Street Footwear,32.0,323,10336.0,3927.68,0.38,Outlet
+Foot Locker,1185732,2020-01-22,Northeast,New York,New York,Women's Athletic Footwear,32.0,248,7936.0,3015.68,0.38,Outlet
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,43.0,306,13158.0,4605.299999999999,0.35,Outlet
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,36.0,350,12600.0,3653.9999999999995,0.29,Outlet
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,40.0,390,15600.0,8112.0,0.52,Outlet
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,35.0,315,11025.0,3969.0,0.36,Outlet
+Foot Locker,1185732,2020-01-27,Northeast,New York,New York,Women's Street Footwear,27.0,314,8478.0,3475.98,0.41,Outlet
+Foot Locker,1185732,2020-01-28,Northeast,New York,New York,Women's Athletic Footwear,31.0,240,7440.0,2975.9999999999995,0.39999999999999997,Outlet
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,43.0,289,12427.0,3976.64,0.32,Outlet
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,36.0,323,11628.0,3139.5600000000004,0.27,Outlet
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,33.0,372,12276.0,6629.040000000001,0.54,Outlet
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,35.0,315,11025.0,3638.2499999999995,0.32999999999999996,Outlet
+Foot Locker,1185732,2020-02-02,Northeast,New York,New York,Women's Street Footwear,28.0,315,8820.0,3351.6,0.38,Outlet
+Foot Locker,1185732,2020-02-03,Northeast,New York,New York,Women's Athletic Footwear,31.0,289,8959.0,3314.83,0.37,Outlet
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,44.0,281,12364.0,4451.04,0.36,Outlet
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,39.0,333,12987.0,3506.4900000000002,0.27,Outlet
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,44.0,366,16104.0,8374.08,0.52,Outlet
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,37.0,296,10952.0,3833.2,0.35,Outlet
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,36.0,288,10368.0,4354.5599999999995,0.42,Outlet
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,33.0,289,9537.0,3814.7999999999997,0.39999999999999997,Outlet
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,47.0,280,13160.0,4606.0,0.35,Outlet
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,44.0,320,14080.0,4083.2,0.29,Outlet
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,47.0,400,18800.0,9776.0,0.52,Outlet
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,41.0,340,13940.0,4739.599999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,37.0,296,10952.0,4490.32,0.41,Outlet
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,38.0,297,11286.0,4288.68,0.38,Outlet
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,45.0,288,12960.0,4406.4,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,46.0,347,15962.0,5107.84,0.32,Outlet
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,44.0,434,19096.0,9929.92,0.52,Outlet
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,41.0,318,13038.0,4824.0599999999995,0.37,Outlet
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,35.0,295,10325.0,4336.5,0.42,Outlet
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,35.0,270,9450.0,3496.5,0.37,Outlet
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,46.0,278,12788.0,4347.919999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,47.0,352,16544.0,4466.88,0.27,Outlet
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,41.0,375,15375.0,7995.0,0.52,Outlet
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,37.0,359,13283.0,4516.219999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,37.0,314,11618.0,4298.66,0.37,Outlet
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,40.0,324,12960.0,5184.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-26,Northeast,Pennsylvania,Philadelphia,Men's Apparel,42.0,41,1722.0,706.02,0.41,Outlet
+Foot Locker,1185732,2021-10-27,Northeast,Pennsylvania,Philadelphia,Women's Apparel,32.0,70,2240.0,761.5999999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-10-28,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,32.0,166,5312.0,3187.2000000000003,0.6000000000000001,Outlet
+Foot Locker,1185732,2021-10-29,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,32.0,44,1408.0,563.1999999999999,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-10-30,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,25.0,54,1350.0,607.4999999999999,0.44999999999999996,Outlet
+Foot Locker,1185732,2021-10-31,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,28.0,17,476.0,199.92,0.42,Outlet
+Foot Locker,1185732,2021-11-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,39.0,40,1560.0,577.2,0.37,Outlet
+Foot Locker,1185732,2021-11-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,30.0,74,2220.0,777.0,0.35,Outlet
+Foot Locker,1185732,2021-11-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,39.0,156,6084.0,3528.7200000000003,0.5800000000000001,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,33.0,53,1749.0,647.13,0.37,Outlet
+Foot Locker,1185732,2021-11-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,29.0,58,1682.0,756.9,0.44999999999999996,Outlet
+Foot Locker,1185732,2021-11-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,32.0,8,256.0,112.63999999999999,0.43999999999999995,Outlet
+Foot Locker,1185732,2021-11-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,41.0,24,984.0,334.55999999999995,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-11-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,38.0,61,2318.0,718.58,0.31,Outlet
+Foot Locker,1185732,2021-11-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,35.0,140,4900.0,2793.0000000000005,0.5700000000000001,Outlet
+Foot Locker,1185732,2021-11-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,37.0,51,1887.0,603.84,0.32,Outlet
+Foot Locker,1185732,2021-11-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,27.0,51,1377.0,578.34,0.42,Outlet
+Foot Locker,1185732,2021-11-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,36.0,24,864.0,328.32,0.38,Outlet
+Foot Locker,1185732,2021-11-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,45.0,26,1170.0,432.9,0.37,Outlet
+Foot Locker,1185732,2021-11-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,39.0,64,2496.0,673.9200000000001,0.27,Outlet
+Foot Locker,1185732,2021-11-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,44.0,150,6600.0,3432.0,0.52,Outlet
+Foot Locker,1185732,2021-11-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,40.0,54,2160.0,712.8,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-11-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,38.0,53,2014.0,745.18,0.37,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,42.0,34,1428.0,571.1999999999999,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-11-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,51.0,39,1989.0,735.93,0.37,Outlet
+Foot Locker,1185732,2021-11-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,51.0,78,3978.0,1471.86,0.37,Outlet
+Foot Locker,1185732,2021-11-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,49.0,170,8330.0,4748.1,0.5700000000000001,Outlet
+Foot Locker,1185732,2021-11-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,41.0,85,3485.0,1359.1499999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-11-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,42.0,54,2268.0,975.2399999999999,0.42999999999999994,Outlet
+Foot Locker,1185732,2021-11-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43.0,53,2279.0,1071.1299999999999,0.47,Outlet
+Foot Locker,1185732,2021-11-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,43.0,48,2064.0,866.88,0.42,Outlet
+Foot Locker,1185732,2021-11-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,52.0,105,5460.0,1910.9999999999998,0.35,Outlet
+Foot Locker,1185732,2021-11-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,49.0,175,8575.0,4887.750000000001,0.5700000000000001,Outlet
+Foot Locker,1185732,2021-11-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,45.0,99,4455.0,1737.4499999999998,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-11-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,43.0,72,3096.0,1331.2799999999997,0.42999999999999994,Outlet
+Foot Locker,1185732,2021-11-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,39.0,56,2184.0,1026.48,0.47,Outlet
+Foot Locker,1185732,2021-12-01,Northeast,Pennsylvania,Philadelphia,Men's Apparel,50.0,64,3200.0,1280.0,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-02,Northeast,Pennsylvania,Philadelphia,Women's Apparel,50.0,116,5800.0,2088.0,0.36,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,51.0,179,9129.0,5294.820000000001,0.5800000000000001,Outlet
+Foot Locker,1185732,2021-12-04,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,44.0,102,4488.0,1884.96,0.42,Outlet
+Foot Locker,1185732,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,38.0,79,3002.0,1410.9399999999998,0.47,Outlet
+Foot Locker,1185732,2021-12-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43.0,62,2666.0,1226.36,0.45999999999999996,Outlet
+Foot Locker,1185732,2021-12-07,Northeast,Pennsylvania,Philadelphia,Men's Apparel,46.0,54,2484.0,968.7599999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-12-08,Northeast,Pennsylvania,Philadelphia,Women's Apparel,49.0,123,6027.0,2169.72,0.36,Outlet
+Foot Locker,1185732,2021-12-09,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,46.0,162,7452.0,3875.04,0.52,Outlet
+Foot Locker,1185732,2021-12-10,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,40.0,91,3640.0,1237.6,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-12-11,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,32.0,60,1920.0,767.9999999999999,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-12-12,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,32.0,53,1696.0,695.36,0.41,Outlet
+Foot Locker,1185732,2021-12-13,Northeast,Pennsylvania,Philadelphia,Men's Apparel,36.0,41,1476.0,501.84,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-12-14,Northeast,Pennsylvania,Philadelphia,Women's Apparel,48.0,79,3792.0,1175.52,0.31,Outlet
+Foot Locker,1185732,2021-12-15,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,47.0,124,5828.0,3088.84,0.53,Outlet
+Foot Locker,1185732,2021-12-16,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,35.0,68,2380.0,761.6,0.32,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,38.0,38,1444.0,548.72,0.38,Outlet
+Foot Locker,1185732,2021-12-18,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,40.0,34,1360.0,516.8,0.38,Outlet
+Foot Locker,1185732,2021-12-19,Northeast,Pennsylvania,Philadelphia,Men's Apparel,43.0,30,1290.0,425.69999999999993,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-12-20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,42.0,74,3108.0,994.5600000000001,0.32,Outlet
+Foot Locker,1185732,2021-12-21,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,48.0,124,5952.0,3571.2000000000007,0.6000000000000001,Outlet
+Foot Locker,1185732,2021-12-22,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,43.0,68,2924.0,1228.08,0.42,Outlet
+Foot Locker,1185732,2021-12-23,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,47.0,66,3102.0,1364.8799999999999,0.43999999999999995,Outlet
+Foot Locker,1185732,2021-12-24,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43.0,60,2580.0,1186.8,0.45999999999999996,Outlet
+Foot Locker,1185732,2021-12-25,Northeast,Pennsylvania,Philadelphia,Men's Apparel,51.0,48,2448.0,954.7199999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-12-26,Northeast,Pennsylvania,Philadelphia,Women's Apparel,53.0,75,3975.0,1431.0,0.36,Outlet
+Foot Locker,1185732,2021-12-27,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,53.0,143,7579.0,4623.1900000000005,0.6100000000000001,Outlet
+Foot Locker,1185732,2021-12-28,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,47.0,85,3995.0,1637.9499999999998,0.41,Outlet
+Foot Locker,1185732,2021-12-29,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,44.0,79,3476.0,1529.4399999999998,0.43999999999999995,Outlet
+Foot Locker,1185732,2021-12-30,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,40.0,53,2120.0,953.9999999999999,0.44999999999999996,Outlet
+Foot Locker,1185732,2021-12-31,Northeast,Pennsylvania,Philadelphia,Men's Apparel,46.0,56,2576.0,1004.6399999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2020-01-01,Northeast,Pennsylvania,Philadelphia,Women's Apparel,53.0,83,4399.0,1407.68,0.32,Outlet
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,46.0,94,4324.0,1816.08,0.42,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,51.0,149,7599.0,3267.57,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,37.0,105,3885.0,1787.1000000000001,0.46,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,36.0,103,3708.0,1371.96,0.37,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,39.0,83,3237.0,1197.69,0.37,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,44.0,88,3872.0,1393.9199999999998,0.36,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,52.0,116,6032.0,2352.4799999999996,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,45.0,173,7785.0,3269.7000000000003,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,37.0,131,4847.0,2181.15,0.45,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,43.0,116,4988.0,1646.0399999999997,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,38.0,96,3648.0,1276.8,0.35,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,42.0,99,4158.0,1455.3,0.35,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,52.0,120,6240.0,2308.8,0.37,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,23.0,149,3427.0,1439.34,0.42,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,28.0,79,2212.0,884.8,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,19.0,72,1368.0,574.5600000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,24.0,24,576.0,264.96000000000004,0.46,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,34.0,44,1496.0,538.56,0.36,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,26.0,72,1872.0,879.84,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,24.0,162,3888.0,1555.1999999999998,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,24.0,41,984.0,383.75999999999993,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,18.0,53,954.0,410.22,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,20.0,16,320.0,144.0,0.45,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,34.0,40,1360.0,489.59999999999997,0.36,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,27.0,77,2079.0,977.1300000000001,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,26.0,156,4056.0,1500.72,0.37,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,27.0,45,1215.0,473.84999999999997,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,17.0,56,952.0,447.44000000000005,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,20.0,8,160.0,75.2,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,33.0,25,825.0,297.0,0.36,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,25.0,58,1450.0,638.0,0.44,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,28.0,132,3696.0,1552.32,0.42,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,23.0,40,920.0,367.99999999999994,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,16.0,44,704.0,295.68,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,21.0,17,357.0,160.65,0.45,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,33.0,15,495.0,158.4,0.32,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,26.0,60,1560.0,686.4,0.44,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,39.0,150,5850.0,2398.5,0.41,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,58,1856.0,686.72,0.37,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,32.0,60,1920.0,806.4000000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,27.0,51,1377.0,633.4200000000001,0.46,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,40.0,54,2160.0,799.2,0.37,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,36.0,93,3348.0,1473.1200000000001,0.44,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,36.0,176,6336.0,2534.3999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,105,3675.0,1433.2499999999998,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,32.0,74,2368.0,994.5600000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,26.0,70,1820.0,837.2,0.46,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,39.0,66,2574.0,900.9,0.35,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,43.0,119,5117.0,2302.65,0.45,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,173,6574.0,2498.12,0.38,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,114,3648.0,1349.76,0.37,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,27.0,78,2106.0,947.7,0.45,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,31.0,60,1860.0,855.6,0.46,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,33.0,68,2244.0,762.9599999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,38.0,136,5168.0,2170.5600000000004,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,182,6916.0,2835.56,0.41,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,31.0,111,3441.0,1307.58,0.38,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,30.0,85,2550.0,1096.5000000000002,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,47,1363.0,586.09,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,37.0,40,1480.0,532.8,0.36,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,38.0,96,3648.0,1714.5600000000002,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,39.0,128,4992.0,2096.64,0.42,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,30.0,79,2370.0,876.9,0.37,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,29.0,39,1131.0,486.33000000000004,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,32,960.0,441.6,0.46,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,34.0,33,1122.0,403.91999999999996,0.36,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,41.0,64,2624.0,1180.8,0.45,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,37.0,113,4181.0,1714.2099999999998,0.41,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,68,2584.0,981.92,0.38,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,30,1200.0,528.0,0.44,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,23,897.0,403.65000000000003,0.45,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,40.0,23,920.0,303.59999999999997,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Street Footwear,52.0,162,8424.0,3538.0800000000004,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,44.0,99,4356.0,1916.64,0.44,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Street Footwear,52.0,60,3120.0,1029.6,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,44.0,61,2684.0,858.88,0.32,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Men's Apparel,50.0,58,2900.0,928.0,0.32,Outlet
+Foot Locker,1185732,2021-10-19,Northeast,New Hampshire,Manchester,Women's Apparel,64.0,90,5760.0,2246.3999999999996,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Street Footwear,59.0,149,8791.0,3780.1300000000006,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,42.0,114,4788.0,2058.84,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Street Footwear,51.0,114,5814.0,2034.8999999999999,0.35,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,43.0,114,4902.0,1666.6799999999998,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Men's Apparel,59.0,96,5664.0,1925.7599999999998,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-11-18,Northeast,New Hampshire,Manchester,Women's Apparel,61.0,120,7320.0,3001.2,0.41,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Street Footwear,49.0,200,9800.0,4606.0,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,49.0,128,6272.0,2634.2400000000002,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Street Footwear,47.0,128,6016.0,2165.7599999999998,0.36,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,49.0,116,5684.0,1989.3999999999999,0.35,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Apparel,50.0,123,6150.0,2275.5,0.37,Outlet
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Women's Apparel,61.0,144,8784.0,3513.6,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Street Footwear,36.0,165,5940.0,2197.8,0.37000000000000005,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,36.0,93,3348.0,1339.2,0.4,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Street Footwear,35.0,99,3465.0,935.5500000000001,0.27,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Athletic Footwear,33.0,51,1683.0,471.24000000000007,0.28,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Men's Apparel,50.0,64,3200.0,896.0000000000001,0.28,Outlet
+Foot Locker,1185732,2021-01-24,Northeast,New Hampshire,Manchester,Women's Apparel,41.0,105,4305.0,1377.6000000000001,0.32,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Street Footwear,41.0,184,7544.0,2791.28,0.37000000000000005,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Men's Athletic Footwear,42.0,70,2940.0,1234.8000000000002,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-02-22,Northeast,New Hampshire,Manchester,Women's Street Footwear,29.0,83,2407.0,649.89,0.27,Outlet

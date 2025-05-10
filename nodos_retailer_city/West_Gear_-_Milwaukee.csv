@@ -1,0 +1,145 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,25.000000000000007,75,18750.000000000004,5625.000000000001,0.3,In-store
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,40.0,150,60000.0,30000.0,0.5,In-store
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,14.999999999999996,250,37499.99999999999,14999.999999999998,0.4,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,20.000000000000004,470,94000.00000000001,28200.000000000004,0.3,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,20.000000000000004,175,35000.00000000001,12250.000000000002,0.35,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,10.000000000000004,225,22500.000000000007,6750.000000000002,0.3,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,14.999999999999996,75,11249.999999999998,3374.9999999999995,0.3,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,30.000000000000004,125,37500.00000000001,18750.000000000004,0.5,In-store
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,20.000000000000004,225,45000.00000000001,18000.000000000004,0.4,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,20.000000000000004,450,90000.00000000001,27000.000000000004,0.3,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,20.000000000000004,150,30000.000000000004,10500.0,0.35,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,10.000000000000004,150,15000.000000000005,4500.000000000002,0.3,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,14.999999999999996,75,11249.999999999998,3374.9999999999995,0.3,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,60.0,100,60000.0,30000.0,0.5,In-store
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,50.0,225,112500.0,45000.0,0.4,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,60.0,495,297000.0,89100.0,0.3,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,35.0,175,61250.0,18375.0,0.3,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,35.0,150,52500.0,15750.0,0.3,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Apparel,44.99999999999999,175,78749.99999999999,39374.99999999999,0.5,In-store
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Apparel,49.99999999999999,300,149999.99999999997,59999.99999999999,0.4,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,35.0,550,192500.0,57750.0,0.3,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,30.00000000000001,300,90000.00000000003,31500.000000000007,0.35,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,25.000000000000007,200,50000.000000000015,15000.000000000004,0.3,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,25.000000000000007,175,43750.000000000015,13125.000000000004,0.3,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,35.0,175,61250.0,30625.0,0.5,In-store
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,55.00000000000001,325,178750.00000000003,71500.00000000001,0.4,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,50.0,550,275000.0,82500.0,0.3,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,47250.00000000001,0.35,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,40.0,175,70000.0,21000.0,0.3,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,50.0,200,100000.0,50000.0,0.5,In-store
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,50.0,525,262500.0,78750.0,0.3,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,47250.00000000001,0.35,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,40.0,200,80000.0,24000.0,0.3,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,50.0,175,87500.0,43750.0,0.5,In-store
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,35.0,475,166250.0,49875.0,0.3,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,30.00000000000001,250,75000.00000000003,26250.000000000007,0.35,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,25.000000000000007,150,37500.00000000001,11250.000000000002,0.3,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,25.000000000000007,125,31250.000000000007,9375.000000000002,0.3,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Apparel,35.0,125,43750.0,21875.0,0.5,In-store
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Apparel,40.0,200,80000.0,32000.0,0.4,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,44.99999999999999,375,168749.99999999997,50624.99999999999,0.3,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,35.0,125,43750.0,13125.0,0.3,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,35.0,125,43750.0,13125.0,0.3,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,44.99999999999999,125,56249.99999999999,28124.999999999996,0.5,In-store
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,49.999999999999986,250,124999.99999999997,49999.99999999999,0.4,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,44.99999999999999,400,179999.99999999997,53999.99999999999,0.3,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,35.0,300,105000.0,36750.0,0.35,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,35.0,245,85750.0,25725.0,0.3,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,35.0,225,78750.0,23625.0,0.3,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,60.0,200,120000.0,60000.0,0.5,In-store
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,64.99999999999999,300,194999.99999999997,77999.99999999999,0.4,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,60.0,550,330000.0,99000.0,0.3,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,50.0,350,175000.0,61249.99999999999,0.35,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,50.0,300,150000.0,45000.0,0.3,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,50.0,250,125000.0,37500.0,0.3,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,60.0,250,150000.0,75000.0,0.5,In-store
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,64.99999999999999,350,227499.99999999994,90999.99999999999,0.4,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,35.0,500,175000.0,70000.0,0.4,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,35.0,300,105000.0,42000.0,0.4,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,25.000000000000007,300,75000.00000000001,26250.000000000004,0.35,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,30.000000000000004,150,45000.00000000001,15750.000000000002,0.35,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Apparel,44.99999999999999,200,89999.99999999999,26999.999999999996,0.3,In-store
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Apparel,35.0,300,105000.0,42000.0,0.4,In-store
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,35.0,550,192500.0,77000.0,0.4,In-store
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,35.0,200,70000.0,28000.0,0.4,In-store
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,25.000000000000007,250,62500.000000000015,21875.000000000004,0.35,In-store
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,23.0,20,460.0,197.79999999999998,0.43,Online
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,38.0,38,1444.0,880.84,0.61,Online
+West Gear,1185732,2021-02-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,14.0,65,910.0,464.1,0.51,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,19.0,141,2679.0,1098.3899999999999,0.41,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,19.0,44,836.0,418.0,0.5,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,9.0,59,531.0,233.64000000000001,0.44,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,14.0,20,280.0,114.8,0.41,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,29.0,34,986.0,601.46,0.61,Online
+West Gear,1185732,2021-03-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,18.0,63,1134.0,612.36,0.54,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,18.0,122,2196.0,900.3599999999999,0.41,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,20.0,39,780.0,358.79999999999995,0.45999999999999996,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,9.0,41,369.0,158.67,0.43,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,15.0,22,330.0,135.29999999999998,0.41,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,55.0,26,1430.0,886.6,0.62,Online
+West Gear,1185732,2021-04-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,49.0,61,2989.0,1643.95,0.55,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,58.0,134,7772.0,3186.52,0.41,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,39.0,50,1950.0,955.5,0.49,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,33.0,49,1617.0,727.65,0.44999999999999996,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,32.0,38,1216.0,535.04,0.44,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Men's Apparel,44.0,53,2332.0,1422.52,0.61,Online
+West Gear,1185732,2021-05-04,Midwest,Wisconsin,Milwaukee,Women's Apparel,47.0,90,4230.0,2157.3,0.51,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,32.0,160,5120.0,2252.8,0.44,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,27.0,90,2430.0,1190.7,0.49,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,24.0,52,1248.0,549.12,0.44,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,24.0,47,1128.0,462.47999999999996,0.41,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,34.0,46,1564.0,938.4,0.6,Online
+West Gear,1185732,2021-06-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,51.0,98,4998.0,2748.9,0.55,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,45.0,149,6705.0,2816.1,0.42,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,42.0,87,3654.0,1790.46,0.49,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,38.0,61,2318.0,996.74,0.43,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,38.0,51,1938.0,813.9599999999999,0.42,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,48.0,50,2400.0,1488.0,0.62,Online
+West Gear,1185732,2021-07-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,52.0,94,4888.0,2639.52,0.54,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,46.0,158,7268.0,3052.56,0.42,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,43.0,84,3612.0,1697.6399999999999,0.47,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,39.0,56,2184.0,873.6,0.4,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,39.0,50,1950.0,877.4999999999999,0.44999999999999996,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,48.0,46,2208.0,1435.2,0.65,Online
+West Gear,1185732,2021-08-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,52.0,102,5304.0,2705.04,0.51,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,33.0,143,4719.0,1934.79,0.41,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,29.0,65,1885.0,848.2499999999999,0.44999999999999996,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,24.0,44,1056.0,475.19999999999993,0.44999999999999996,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,23.0,34,782.0,351.9,0.44999999999999996,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Men's Apparel,33.0,33,1089.0,707.85,0.65,Online
+West Gear,1185732,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Apparel,38.0,52,1976.0,988.0,0.5,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,43.0,113,4859.0,2040.78,0.42,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,33.0,68,2244.0,1077.12,0.48,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,34.0,33,1122.0,482.46,0.43,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,32.0,33,1056.0,432.96,0.41,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,44.0,33,1452.0,914.76,0.63,Online
+West Gear,1185732,2021-10-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,46.0,65,2990.0,1524.9,0.51,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,41.0,104,4264.0,1833.52,0.43,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,32.0,78,2496.0,1173.12,0.47,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,33.0,69,2277.0,956.3399999999999,0.42,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,33.0,65,2145.0,965.2499999999999,0.44999999999999996,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Men's Apparel,58.0,56,3248.0,2013.76,0.62,Online
+West Gear,1185732,2021-11-03,Midwest,Wisconsin,Milwaukee,Women's Apparel,61.0,75,4575.0,2333.25,0.51,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,58.0,138,8004.0,3281.64,0.41,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,49.0,102,4998.0,2349.06,0.47,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,45.0,87,3915.0,1722.6,0.44,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,48.0,73,3504.0,1576.8,0.44999999999999996,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Men's Apparel,57.0,73,4161.0,2496.6,0.6,Online
+West Gear,1185732,2021-12-02,Midwest,Wisconsin,Milwaukee,Women's Apparel,59.0,88,5192.0,2699.84,0.52,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,32.0,140,4480.0,2329.6,0.52,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,32.0,78,2496.0,1272.96,0.51,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,24.0,87,2088.0,939.5999999999999,0.44999999999999996,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Athletic Footwear,28.0,44,1232.0,591.36,0.48,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Men's Apparel,41.0,58,2378.0,1046.32,0.44,Online
+West Gear,1185732,2021-01-10,Midwest,Wisconsin,Milwaukee,Women's Apparel,32.0,84,2688.0,1344.0,0.5,Online
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Men's Street Footwear,34.0,160,5440.0,2992.0000000000005,0.55,Online
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Men's Athletic Footwear,34.0,52,1768.0,901.6800000000001,0.51,Online
+West Gear,1185732,2021-02-10,Midwest,Wisconsin,Milwaukee,Women's Street Footwear,24.0,73,1752.0,876.0,0.5,Online

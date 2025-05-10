@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-08-06,West,Washington,Seattle,Men's Street Footwear,45.0,1050,472500.0,212625.0,0.45,In-store
+Foot Locker,1185732,2020-08-07,West,Washington,Seattle,Men's Athletic Footwear,45.0,850,382500.0,133875.0,0.35,In-store
+Foot Locker,1185732,2020-08-08,West,Washington,Seattle,Women's Street Footwear,35.0,850,297500.0,74375.0,0.25,In-store
+Foot Locker,1185732,2020-08-09,West,Washington,Seattle,Women's Athletic Footwear,40.0,700,280000.0,84000.0,0.3,In-store
+Foot Locker,1185732,2020-08-06,West,Washington,Seattle,Men's Street Footwear,44.0,273,12012.0,6606.6,0.55,Online
+Foot Locker,1185732,2020-08-07,West,Washington,Seattle,Men's Athletic Footwear,41.0,221,9061.0,4439.89,0.49,Online
+Foot Locker,1185732,2020-08-08,West,Washington,Seattle,Women's Street Footwear,34.0,230,7820.0,3049.8,0.39,Online
+Foot Locker,1185732,2020-08-09,West,Washington,Seattle,Women's Athletic Footwear,38.0,175,6650.0,2660.0,0.4,Online

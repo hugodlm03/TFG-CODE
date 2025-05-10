@@ -1,0 +1,151 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,20.0,175,35000.0,14000.0,0.4,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Men's Apparel,35.0,250,87500.0,30624.999999999996,0.35,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Apparel,20.0,350,70000.0,28000.0,0.4,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,20.0,570,114000.0,45600.0,0.4,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,20.0,250,50000.0,17500.0,0.35,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,10.000000000000002,275,27500.000000000004,11000.000000000002,0.4,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,19.999999999999996,125,24999.999999999996,10000.0,0.4,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Apparel,35.00000000000001,175,61250.000000000015,21437.500000000004,0.35,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Apparel,25.0,275,68750.0,27500.0,0.4,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,25.0,525,131250.0,52500.0,0.4,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,25.0,225,56250.0,19687.5,0.35,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,15.000000000000002,225,33750.00000000001,13500.000000000004,0.4,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,19.999999999999996,150,29999.999999999996,12000.0,0.4,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Apparel,40.0,175,70000.0,24500.0,0.35,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Apparel,30.000000000000004,325,97500.00000000001,39000.00000000001,0.4,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,40.0,595,238000.0,95200.0,0.4,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,40.0,300,120000.0,42000.0,0.35,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,35.0,275,96250.0,38500.0,0.4,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,35.0,225,78750.0,31500.0,0.4,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Apparel,44.99999999999999,250,112499.99999999999,39374.99999999999,0.35,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Apparel,44.99999999999999,350,157499.99999999997,62999.99999999999,0.4,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,40.0,600,240000.0,96000.0,0.4,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,35.0,350,122500.0,42875.0,0.35,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,40.0,325,130000.0,52000.0,0.4,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,40.0,300,120000.0,48000.0,0.4,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Apparel,54.99999999999999,300,164999.99999999997,57749.999999999985,0.35,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Apparel,60.0,475,285000.0,114000.0,0.4,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,54.99999999999999,700,384999.99999999994,153999.99999999997,0.4,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,50.0,450,225000.0,78750.0,0.35,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,45.0,375,168750.0,67500.0,0.4,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,45.0,325,146250.0,58500.0,0.4,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Apparel,60.0,350,210000.0,73500.0,0.35,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Apparel,65.0,525,341250.0,136500.0,0.4,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,60.0,675,405000.0,162000.0,0.4,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,55.00000000000001,450,247500.00000000003,86625.0,0.35,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,50.0,375,187500.0,75000.0,0.4,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,40.0,325,130000.0,52000.0,0.4,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Apparel,50.0,300,150000.0,52500.0,0.35,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Apparel,55.00000000000001,475,261250.00000000003,104500.00000000001,0.4,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,50.0,575,287500.0,115000.0,0.4,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,40.000000000000014,375,150000.00000000006,52500.000000000015,0.35,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,15.000000000000007,275,41250.00000000002,16500.00000000001,0.4,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,15.000000000000007,250,37500.000000000015,15000.000000000007,0.4,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Apparel,25.000000000000007,250,62500.000000000015,21875.000000000004,0.35,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Apparel,30.00000000000001,350,105000.00000000004,42000.00000000002,0.4,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,30.00000000000001,525,157500.00000000006,63000.00000000003,0.4,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,20.00000000000001,350,70000.00000000004,24500.000000000015,0.35,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,20.00000000000001,225,45000.00000000002,18000.00000000001,0.4,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,20.00000000000001,200,40000.00000000002,16000.00000000001,0.4,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Apparel,30.00000000000001,200,60000.00000000002,21000.000000000007,0.35,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,19.0,49,931.0,474.81,0.51,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Men's Apparel,34.0,75,2550.0,1198.5,0.47,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Apparel,18.0,98,1764.0,899.64,0.51,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,19.0,154,2926.0,1463.0,0.5,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,19.0,73,1387.0,665.76,0.48,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,9.0,80,720.0,360.0,0.5,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,20.0,34,680.0,340.0,0.5,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Apparel,34.0,49,1666.0,783.02,0.47,Online
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Apparel,23.0,69,1587.0,856.98,0.54,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,24.0,152,3648.0,1933.44,0.53,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,23.0,65,1495.0,717.6,0.48,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,14.0,68,952.0,504.56,0.53,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,18.0,45,810.0,429.3,0.53,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Apparel,38.0,53,2014.0,1007.0,0.5,Online
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Apparel,28.0,94,2632.0,1447.6000000000001,0.55,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,36.0,167,6012.0,3246.48,0.54,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,39.0,87,3393.0,1526.85,0.44999999999999996,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,34.0,72,2448.0,1272.96,0.52,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,34.0,59,2006.0,1103.3000000000002,0.55,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Apparel,43.0,75,3225.0,1451.2499999999998,0.44999999999999996,Online
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Apparel,42.0,98,4116.0,2140.32,0.52,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,38.0,156,5928.0,3023.28,0.51,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,33.0,88,2904.0,1306.8,0.44999999999999996,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,36.0,88,3168.0,1647.3600000000001,0.52,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,38.0,87,3306.0,1653.0,0.5,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Apparel,51.0,87,4437.0,2085.39,0.47,Online
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Apparel,55.0,124,6820.0,3478.2000000000003,0.51,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,50.0,182,9100.0,4732.0,0.52,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,45.0,117,5265.0,2632.5,0.5,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,44.0,94,4136.0,2233.44,0.54,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,41.0,85,3485.0,1847.0500000000002,0.53,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Apparel,59.0,98,5782.0,2659.72,0.45999999999999996,Online
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Apparel,61.0,142,8662.0,4677.4800000000005,0.54,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,56.0,189,10584.0,5397.84,0.51,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,51.0,113,5763.0,2708.6099999999997,0.47,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,47.0,113,5311.0,2814.83,0.53,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,37.0,88,3256.0,1693.1200000000001,0.52,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Apparel,47.0,81,3807.0,1713.1499999999999,0.44999999999999996,Online
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Apparel,50.0,124,6200.0,3224.0,0.52,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,49.0,150,7350.0,3969.0000000000005,0.54,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,38.0,98,3724.0,1675.7999999999997,0.44999999999999996,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,14.0,69,966.0,492.66,0.51,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,14.0,63,882.0,449.82,0.51,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Apparel,23.0,68,1564.0,703.8,0.44999999999999996,Online
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Apparel,28.0,91,2548.0,1324.96,0.52,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,29.0,137,3973.0,2145.42,0.54,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,19.0,88,1672.0,769.1199999999999,0.45999999999999996,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,20.0,56,1120.0,571.2,0.51,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,18.0,52,936.0,486.72,0.52,Online
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Apparel,29.0,50,1450.0,696.0,0.48,Online
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,15.0,58,870.0,400.20000000000005,0.46,Outlet
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Men's Apparel,24.0,85,2040.0,815.9999999999999,0.39999999999999997,Outlet
+West Gear,1197831,2021-02-21,South,Oklahoma,Oklahoma City,Women's Apparel,14.0,112,1568.0,721.2800000000001,0.46,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,14.0,182,2548.0,1172.0800000000002,0.46,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,15.0,78,1170.0,479.7,0.41,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,7.0,83,581.0,261.45,0.45,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,16.0,39,624.0,293.28000000000003,0.47000000000000003,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Men's Apparel,26.0,61,1586.0,666.12,0.42,Outlet
+West Gear,1197831,2021-03-19,South,Oklahoma,Oklahoma City,Women's Apparel,18.0,88,1584.0,728.64,0.46,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,20.0,184,3680.0,1692.8000000000002,0.46,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,18.0,79,1422.0,554.5799999999999,0.38999999999999996,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,10.0,70,700.0,322.0,0.46,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,15.0,47,705.0,303.15000000000003,0.43000000000000005,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Men's Apparel,27.0,54,1458.0,568.6199999999999,0.38999999999999996,Outlet
+West Gear,1197831,2021-04-20,South,Oklahoma,Oklahoma City,Women's Apparel,22.0,111,2442.0,1050.0600000000002,0.43000000000000005,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,28.0,179,5012.0,2155.1600000000003,0.43000000000000005,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,29.0,93,2697.0,1024.86,0.38,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,27.0,88,2376.0,997.9200000000001,0.42000000000000004,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,26.0,74,1924.0,808.08,0.42000000000000004,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Men's Apparel,33.0,80,2640.0,1082.3999999999999,0.41,Outlet
+West Gear,1197831,2021-05-19,South,Oklahoma,Oklahoma City,Women's Apparel,33.0,116,3828.0,1722.6000000000001,0.45,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,32.0,192,6144.0,2826.2400000000002,0.46,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,25.0,123,3075.0,1199.2499999999998,0.38999999999999996,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,27.0,107,2889.0,1242.2700000000002,0.43000000000000005,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,29.0,102,2958.0,1331.1000000000001,0.45,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Men's Apparel,41.0,105,4305.0,1635.9,0.38,Outlet
+West Gear,1197831,2021-06-21,South,Oklahoma,Oklahoma City,Women's Apparel,40.0,143,5720.0,2402.4,0.42000000000000004,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,43.0,238,10234.0,4298.280000000001,0.42000000000000004,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,35.0,135,4725.0,1795.5,0.38,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,33.0,131,4323.0,1858.89,0.43000000000000005,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,36.0,107,3852.0,1771.92,0.46,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Men's Apparel,43.0,116,4988.0,2045.08,0.41,Outlet
+West Gear,1197831,2021-07-19,South,Oklahoma,Oklahoma City,Women's Apparel,45.0,163,7335.0,3447.4500000000003,0.47000000000000003,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,41.0,230,9430.0,3960.6000000000004,0.42000000000000004,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,37.0,140,5180.0,2175.6,0.42,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Street Footwear,38.0,113,4294.0,2018.18,0.47000000000000003,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,32.0,111,3552.0,1491.8400000000001,0.42000000000000004,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Apparel,40.0,105,4200.0,1554.0,0.37,Outlet
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Women's Apparel,40.0,166,6640.0,3120.8,0.47000000000000003,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,35.0,196,6860.0,3155.6000000000004,0.46,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,28.0,128,3584.0,1469.4399999999998,0.41,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,12.0,91,1092.0,458.64000000000004,0.42000000000000004,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,12.0,83,996.0,418.32000000000005,0.42000000000000004,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Men's Apparel,20.0,78,1560.0,592.8,0.38,Outlet
+West Gear,1197831,2021-09-19,South,Oklahoma,Oklahoma City,Women's Apparel,23.0,119,2737.0,1286.39,0.47000000000000003,Outlet
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Street Footwear,20.0,173,3460.0,1626.2,0.47000000000000003,Outlet
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Athletic Footwear,14.0,112,1568.0,658.56,0.42,Outlet
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Street Footwear,14.0,74,1036.0,435.12000000000006,0.42000000000000004,Outlet
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Women's Athletic Footwear,15.0,62,930.0,390.6,0.42000000000000004,Outlet
+West Gear,1197831,2021-10-21,South,Oklahoma,Oklahoma City,Men's Apparel,22.0,68,1496.0,568.48,0.38,Outlet

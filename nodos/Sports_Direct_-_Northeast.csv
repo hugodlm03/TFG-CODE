@@ -1,0 +1,463 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2020-07-19,Northeast,New York,New York,Men's Street Footwear,25.0,900,225000.0,78750.0,0.35,Outlet
+Sports Direct,1197831,2020-07-20,Northeast,New York,New York,Men's Athletic Footwear,35.0,900,315000.0,110250.0,0.35,Outlet
+Sports Direct,1197831,2020-07-21,Northeast,New York,New York,Women's Street Footwear,35.0,700,245000.0,85750.0,0.35,Outlet
+Sports Direct,1197831,2020-07-22,Northeast,New York,New York,Women's Athletic Footwear,35.0,700,245000.0,110250.0,0.45,Outlet
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,175,87499.99999999999,26249.999999999996,0.3,In-store
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,350,192499.99999999997,57749.99999999999,0.3,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Street Footwear,49.99999999999999,500,249999.99999999997,100000.0,0.4,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,125,62499.99999999999,18749.999999999996,0.3,In-store
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.99999999999999,425,212499.99999999997,85000.0,0.4,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Street Footwear,40.0,125,50000.0,17500.0,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,40.0,100,40000.0,14000.0,0.35,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Apparel,49.99999999999999,100,49999.99999999999,14999.999999999996,0.3,In-store
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Apparel,54.99999999999999,200,109999.99999999999,32999.99999999999,0.3,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Street Footwear,54.99999999999999,375,206249.99999999997,82500.0,0.4,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Athletic Footwear,50.0,200,100000.0,35000.0,0.35,In-store
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Street Footwear,50.0,100,50000.0,17500.0,0.35,In-store
+Sports Direct,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Apparel,64.99999999999999,250,162499.99999999997,64999.99999999999,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Street Footwear,60.0,400,240000.0,84000.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,50.0,275,137500.0,48125.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Street Footwear,50.0,270,135000.0,54000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,50.0,250,125000.0,50000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Apparel,60.0,225,135000.0,40500.0,0.3,In-store
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Street Footwear,60.0,550,330000.0,115499.99999999999,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,50.0,350,175000.0,61249.99999999999,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Street Footwear,50.0,325,162500.0,65000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,50.0,275,137500.0,55000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Apparel,60.0,275,165000.0,49500.0,0.3,In-store
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Apparel,64.99999999999999,375,243749.99999999994,97499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Street Footwear,40.0,500,200000.0,80000.0,0.4,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,40.0,300,120000.0,48000.0,0.4,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Street Footwear,30.000000000000004,300,90000.00000000001,27000.000000000004,0.3,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,35.0,150,52500.0,15750.0,0.3,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Apparel,50.0,200,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Apparel,40.0,300,120000.0,42000.0,0.35,In-store
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Men's Street Footwear,40.0,550,220000.0,88000.0,0.4,In-store
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Men's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Women's Street Footwear,30.000000000000004,250,75000.00000000001,22500.000000000004,0.3,In-store
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,35.0,125,43750.0,13125.0,0.3,In-store
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Men's Apparel,50.0,200,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Apparel,40.0,300,120000.0,42000.0,0.35,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Street Footwear,40.0,520,208000.0,83200.0,0.4,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,40.0,225,90000.0,36000.0,0.4,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Street Footwear,30.000000000000004,250,75000.00000000001,22500.000000000004,0.3,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,35.0,100,35000.0,10500.0,0.3,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Apparel,50.0,150,75000.0,22500.0,0.3,In-store
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Apparel,40.0,250,100000.0,35000.0,0.35,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Street Footwear,40.0,500,200000.0,80000.0,0.4,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Street Footwear,30.000000000000004,200,60000.00000000001,18000.0,0.3,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,35.0,125,43750.0,13125.0,0.3,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Apparel,50.0,125,62500.0,18750.0,0.3,In-store
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Apparel,40.0,275,110000.0,38500.0,0.35,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Street Footwear,54.99999999999999,545,299749.99999999994,119899.99999999999,0.4,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,50.0,250,125000.0,50000.0,0.4,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Street Footwear,45.0,275,123750.0,37125.0,0.3,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,45.0,225,101250.0,30375.0,0.3,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Apparel,54.99999999999999,250,137499.99999999997,41249.99999999999,0.3,In-store
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Apparel,60.0,375,225000.0,78750.0,0.35,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Street Footwear,54.99999999999999,625,343749.99999999994,137499.99999999997,0.4,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,50.0,375,187500.0,75000.0,0.4,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Street Footwear,45.0,300,135000.0,40500.0,0.3,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,45.0,275,123750.0,37125.0,0.3,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Apparel,54.99999999999999,275,151249.99999999997,45374.99999999999,0.3,In-store
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Apparel,60.0,425,255000.0,89250.0,0.35,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Street Footwear,54.99999999999999,650,357499.99999999994,142999.99999999997,0.4,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,50.0,400,200000.0,80000.0,0.4,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Street Footwear,45.0,325,146250.0,43875.0,0.3,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,45.0,275,123750.0,37125.0,0.3,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Apparel,60.0,475,285000.0,99750.0,0.35,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Street Footwear,54.99999999999999,625,343749.99999999994,137499.99999999997,0.4,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,50.0,400,200000.0,80000.0,0.4,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Street Footwear,45.0,325,146250.0,43875.0,0.3,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,45.0,225,101250.0,30375.0,0.3,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Apparel,54.99999999999999,200,109999.99999999999,32999.99999999999,0.3,In-store
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Apparel,60.0,375,225000.0,78750.0,0.35,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Street Footwear,54.99999999999999,500,274999.99999999994,109999.99999999999,0.4,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,50.0,300,150000.0,60000.0,0.4,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Street Footwear,45.0,200,90000.0,27000.0,0.3,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,45.0,175,78750.0,23625.0,0.3,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Apparel,54.99999999999999,175,96249.99999999999,28874.999999999996,0.3,In-store
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Apparel,60.0,275,165000.0,57749.99999999999,0.35,In-store
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Street Footwear,60.0,450,270000.0,108000.0,0.4,In-store
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,55.00000000000001,275,151250.00000000003,60500.000000000015,0.4,In-store
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Street Footwear,55.00000000000001,175,96250.00000000001,28875.000000000004,0.3,In-store
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,55.00000000000001,150,82500.00000000001,24750.000000000004,0.3,In-store
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Apparel,65.0,150,97500.0,29250.0,0.3,In-store
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,200,129999.99999999997,51999.99999999999,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,60.0,350,210000.0,73500.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,225,112500.0,39375.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,220,110000.0,44000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,200,100000.0,40000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,60.0,175,105000.0,31500.0,0.3,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,275,178749.99999999997,71499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,60.0,500,300000.0,105000.0,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,300,150000.0,52500.0,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,275,137500.0,55000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,225,112500.0,45000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,60.0,225,135000.0,40500.0,0.3,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,450,180000.0,54000.0,0.3,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,30.000000000000004,250,75000.00000000001,18750.000000000004,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,35.0,100,35000.0,8750.0,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,50.0,150,75000.0,18750.0,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,500,200000.0,60000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,150,60000.0,18000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,30.000000000000004,200,60000.00000000001,15000.000000000002,0.25,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,35.0,250,87500.0,21875.0,0.25,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Men's Apparel,50.0,150,75000.0,18750.0,0.25,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Apparel,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Street Footwear,40.0,470,188000.0,56400.0,0.3,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,40.0,175,70000.0,21000.0,0.3,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Street Footwear,30.000000000000004,200,60000.00000000001,15000.000000000002,0.25,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,35.0,300,105000.0,26250.0,0.25,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Apparel,50.0,100,50000.0,12500.0,0.25,In-store
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Apparel,40.0,200,80000.0,24000.0,0.3,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Street Footwear,40.0,450,180000.0,54000.0,0.3,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,40.0,150,60000.0,18000.0,0.3,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Street Footwear,30.000000000000004,150,45000.00000000001,11250.000000000002,0.25,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,35.0,125,43750.0,10937.5,0.25,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Apparel,50.0,125,62500.0,15625.0,0.25,In-store
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Apparel,40.0,275,110000.0,33000.0,0.3,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Street Footwear,54.99999999999999,495,272249.99999999994,81674.99999999999,0.3,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,50.0,200,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Street Footwear,45.0,225,101250.0,25312.5,0.25,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,45.0,175,78750.0,19687.5,0.25,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Apparel,54.99999999999999,200,109999.99999999999,27499.999999999996,0.25,In-store
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Apparel,60.0,325,195000.0,58500.0,0.3,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Street Footwear,54.99999999999999,575,316249.99999999994,94874.99999999999,0.3,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,50.0,325,162500.0,48750.0,0.3,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Street Footwear,45.0,250,112500.0,28125.0,0.25,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Apparel,54.99999999999999,225,123749.99999999999,30937.499999999996,0.25,In-store
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Apparel,60.0,375,225000.0,67500.0,0.3,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Street Footwear,54.99999999999999,600,329999.99999999994,98999.99999999999,0.3,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,50.0,350,175000.0,52500.0,0.3,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Street Footwear,45.0,275,123750.0,30937.5,0.25,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Apparel,54.99999999999999,250,137499.99999999997,34374.99999999999,0.25,In-store
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Apparel,60.0,425,255000.0,76500.0,0.3,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Street Footwear,54.99999999999999,575,316249.99999999994,94874.99999999999,0.3,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,50.0,350,175000.0,52500.0,0.3,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Street Footwear,45.0,275,123750.0,30937.5,0.25,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,45.0,175,78750.0,19687.5,0.25,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Apparel,54.99999999999999,150,82499.99999999999,20624.999999999996,0.25,In-store
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Apparel,60.0,325,195000.0,58500.0,0.3,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Street Footwear,54.99999999999999,450,247499.99999999997,74249.99999999999,0.3,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,50.0,250,125000.0,37500.0,0.3,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Street Footwear,45.0,150,67500.0,16875.0,0.25,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,45.0,125,56250.0,14062.5,0.25,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Apparel,54.99999999999999,125,68749.99999999999,17187.499999999996,0.25,In-store
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Apparel,60.0,225,135000.0,40500.0,0.3,In-store
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Street Footwear,60.0,400,240000.0,72000.0,0.3,In-store
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,55.00000000000001,225,123750.00000000001,37125.0,0.3,In-store
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Street Footwear,55.00000000000001,125,68750.00000000001,17187.500000000004,0.25,In-store
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,55.00000000000001,100,55000.00000000001,13750.000000000002,0.25,In-store
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Apparel,65.0,100,65000.0,16250.0,0.25,In-store
+Sports Direct,1197831,2020-07-19,Northeast,New York,New York,Men's Street Footwear,24.0,234,5616.0,2639.52,0.47,Online
+Sports Direct,1197831,2020-07-20,Northeast,New York,New York,Men's Athletic Footwear,34.0,225,7650.0,3748.5,0.49,Online
+Sports Direct,1197831,2020-07-21,Northeast,New York,New York,Women's Street Footwear,33.0,210,6930.0,3187.7999999999997,0.45999999999999996,Online
+Sports Direct,1197831,2020-07-22,Northeast,New York,New York,Women's Athletic Footwear,34.0,175,5950.0,3272.5000000000005,0.55,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,42.0,72,3024.0,1451.52,0.48,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Street Footwear,37.0,60,2220.0,1087.8,0.49,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,36.0,45,1620.0,761.4,0.47,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Men's Apparel,46.0,51,2346.0,1055.6999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-07-20,Northeast,Maryland,Baltimore,Women's Apparel,54.0,102,5508.0,2313.36,0.42,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Street Footwear,48.0,135,6480.0,3434.4,0.53,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Athletic Footwear,41.0,83,3403.0,1701.5,0.5,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Street Footwear,39.0,60,2340.0,1170.0,0.5,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Athletic Footwear,37.0,44,1628.0,748.88,0.45999999999999996,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Men's Apparel,47.0,38,1786.0,803.6999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-08-21,Northeast,Maryland,Baltimore,Women's Apparel,53.0,81,4293.0,1845.99,0.43,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Street Footwear,49.0,128,6272.0,3198.7200000000003,0.51,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Athletic Footwear,44.0,63,2772.0,1247.3999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Street Footwear,38.0,36,1368.0,684.0,0.5,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Athletic Footwear,36.0,25,900.0,404.99999999999994,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Men's Apparel,48.0,30,1440.0,619.2,0.43,Online
+Sports Direct,1185732,2021-09-20,Northeast,Maryland,Baltimore,Women's Apparel,54.0,50,2700.0,1080.0,0.4,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Street Footwear,52.0,113,5876.0,3173.0400000000004,0.54,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Men's Athletic Footwear,48.0,58,2784.0,1280.6399999999999,0.45999999999999996,Online
+Sports Direct,1185732,2021-10-22,Northeast,Maryland,Baltimore,Women's Street Footwear,49.0,25,1225.0,563.5,0.45999999999999996,Online
+Sports Direct,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Apparel,62.0,68,4216.0,2234.48,0.53,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Street Footwear,59.0,108,6372.0,3058.56,0.48,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,46.0,80,3680.0,1803.2,0.49,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Street Footwear,48.0,68,3264.0,1664.64,0.51,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,49.0,65,3185.0,1751.7500000000002,0.55,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Men's Apparel,55.0,59,3245.0,1427.8,0.44,Online
+Sports Direct,1185732,2021-11-07,Northeast,New Jersey,Newark,Women's Apparel,59.0,91,5369.0,2845.57,0.53,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Street Footwear,55.0,149,8195.0,3933.6,0.48,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,49.0,105,5145.0,2469.6,0.48,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Street Footwear,49.0,91,4459.0,2229.5,0.5,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,47.0,83,3901.0,1989.51,0.51,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Men's Apparel,55.0,83,4565.0,2054.25,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-06,Northeast,New Jersey,Newark,Women's Apparel,59.0,101,5959.0,3217.86,0.54,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Street Footwear,38.0,125,4750.0,2422.5,0.51,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,37.0,87,3219.0,1673.88,0.52,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Street Footwear,28.0,90,2520.0,1008.0,0.4,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,33.0,42,1386.0,609.84,0.44,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Men's Apparel,49.0,60,2940.0,1205.3999999999999,0.41,Online
+Sports Direct,1185732,2021-01-07,Northeast,New Jersey,Newark,Women's Apparel,37.0,81,2997.0,1498.5,0.5,Online
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Men's Street Footwear,39.0,149,5811.0,2905.5,0.5,Online
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Men's Athletic Footwear,37.0,54,1998.0,999.0,0.5,Online
+Sports Direct,1185732,2021-02-05,Northeast,New Jersey,Newark,Women's Street Footwear,29.0,65,1885.0,848.2499999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,32.0,34,1088.0,478.72,0.44,Online
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Men's Apparel,49.0,60,2940.0,1293.6,0.44,Online
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Apparel,39.0,84,3276.0,1474.1999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Street Footwear,39.0,130,5070.0,2535.0,0.5,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,38.0,56,2128.0,1149.1200000000001,0.54,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Street Footwear,29.0,68,1972.0,887.3999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,32.0,30,960.0,403.2,0.42,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Apparel,48.0,39,1872.0,748.8000000000001,0.4,Online
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Apparel,38.0,73,2774.0,1359.26,0.49,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Street Footwear,36.0,150,5400.0,2700.0,0.5,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,38.0,58,2204.0,1212.2,0.55,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Street Footwear,29.0,56,1624.0,698.3199999999999,0.43,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,32.0,38,1216.0,547.1999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Apparel,46.0,35,1610.0,724.4999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Apparel,36.0,69,2484.0,1242.0,0.5,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Street Footwear,54.0,142,7668.0,3910.6800000000003,0.51,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,48.0,73,3504.0,1857.1200000000001,0.53,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Street Footwear,43.0,74,3182.0,1272.8000000000002,0.4,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,44.0,63,2772.0,1136.52,0.41,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Apparel,50.0,70,3500.0,1540.0,0.44,Online
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Apparel,55.0,113,6215.0,3045.35,0.49,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Street Footwear,50.0,175,8750.0,4812.5,0.55,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,48.0,94,4512.0,2256.0,0.5,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Street Footwear,42.0,87,3654.0,1644.2999999999997,0.44999999999999996,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,42.0,80,3360.0,1411.2,0.42,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Apparel,53.0,74,3922.0,1725.68,0.44,Online
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Apparel,56.0,123,6888.0,3375.12,0.49,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Street Footwear,54.0,189,10206.0,5511.240000000001,0.54,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,48.0,112,5376.0,2849.28,0.53,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Street Footwear,44.0,81,3564.0,1568.16,0.44,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,42.0,80,3360.0,1478.4,0.44,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Apparel,53.0,81,4293.0,1888.92,0.44,Online
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Apparel,56.0,143,8008.0,3843.8399999999997,0.48,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Street Footwear,51.0,163,8313.0,4572.150000000001,0.55,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,48.0,108,5184.0,2851.2000000000003,0.55,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Street Footwear,41.0,85,3485.0,1463.7,0.42,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,41.0,68,2788.0,1143.08,0.41,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Apparel,51.0,52,2652.0,1166.88,0.44,Online
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Apparel,55.0,105,5775.0,2887.5,0.5,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Street Footwear,52.0,125,6500.0,3510.0000000000005,0.54,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,47.0,75,3525.0,1833.0,0.52,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Street Footwear,41.0,60,2460.0,1082.4,0.44,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,41.0,46,1886.0,848.6999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Apparel,50.0,51,2550.0,1071.0,0.42,Online
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Apparel,54.0,83,4482.0,2196.18,0.49,Online
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Street Footwear,59.0,113,6667.0,3666.8500000000004,0.55,Online
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,52.0,72,3744.0,1872.0,0.5,Online
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Street Footwear,53.0,49,2597.0,1116.71,0.43,Online
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,50.0,38,1900.0,760.0,0.4,Online
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Apparel,64.0,42,2688.0,1128.96,0.42,Online
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,64.0,58,3712.0,1893.1200000000001,0.51,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,55.0,95,5225.0,2560.25,0.49,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,46.0,63,2898.0,1304.1,0.44999999999999996,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,48.0,64,3072.0,1658.88,0.54,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,48.0,58,2784.0,1531.2,0.55,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,58.0,44,2552.0,1122.88,0.44,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,60.0,77,4620.0,2402.4,0.52,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,54.0,135,7290.0,3645.0,0.5,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,78,3510.0,1684.8,0.48,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,47.0,74,3478.0,1773.78,0.51,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,48.0,65,3120.0,1560.0,0.5,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,56.0,68,3808.0,1637.44,0.43,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,60.0,85,5100.0,2805.0,0.55,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,126,4788.0,2058.84,0.43,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,68,2584.0,1136.96,0.44,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,27.0,73,1971.0,709.56,0.36,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,34.0,26,884.0,335.92,0.38,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,48.0,41,1968.0,767.52,0.39,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,38.0,70,2660.0,1090.6,0.41,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,36.0,140,5040.0,2066.4,0.41,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,41,1558.0,654.36,0.42,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,29.0,60,1740.0,661.2,0.38,Online
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,32.0,68,2176.0,826.88,0.38,Online
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Men's Apparel,48.0,41,1968.0,747.84,0.38,Online
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Apparel,38.0,75,2850.0,1254.0,0.44,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Street Footwear,38.0,127,4826.0,2123.44,0.44,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,38.0,47,1786.0,803.6999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Street Footwear,28.0,50,1400.0,546.0,0.39,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,34.0,87,2958.0,1064.8799999999999,0.36,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Apparel,46.0,29,1334.0,520.26,0.39,Online
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Apparel,39.0,54,2106.0,863.4599999999999,0.41,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Street Footwear,38.0,117,4446.0,2000.6999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,37.0,45,1665.0,732.6,0.44,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Street Footwear,29.0,41,1189.0,416.15,0.35,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,32.0,35,1120.0,436.8,0.39,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Apparel,49.0,33,1617.0,614.46,0.38,Online
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Apparel,39.0,83,3237.0,1424.28,0.44,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Street Footwear,53.0,129,6837.0,2939.91,0.43,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,47.0,54,2538.0,1091.34,0.43,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Street Footwear,41.0,56,2296.0,918.4000000000001,0.4,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,44.0,47,2068.0,806.52,0.39,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Apparel,50.0,54,2700.0,1026.0,0.38,Online
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Apparel,55.0,88,4840.0,1984.3999999999999,0.41,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Street Footwear,51.0,155,7905.0,3320.1,0.42,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,47.0,94,4418.0,1855.56,0.42,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Street Footwear,42.0,68,2856.0,1028.1599999999999,0.36,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,41.0,65,2665.0,932.7499999999999,0.35,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Apparel,51.0,59,3009.0,1143.42,0.38,Online
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Apparel,54.0,101,5454.0,2181.6,0.4,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Street Footwear,52.0,150,7800.0,3276.0,0.42,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,49.0,105,5145.0,2212.35,0.43,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Street Footwear,41.0,77,3157.0,1168.09,0.37,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,44.0,56,2464.0,887.04,0.36,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Apparel,53.0,68,3604.0,1405.56,0.39,Online
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Apparel,55.0,128,7040.0,2956.7999999999997,0.42,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Street Footwear,50.0,161,8050.0,3542.0,0.44,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,47.0,88,4136.0,1695.76,0.41,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Street Footwear,42.0,69,2898.0,1014.3,0.35,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,42.0,51,2142.0,771.12,0.36,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Apparel,50.0,44,2200.0,814.0,0.37,Online
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Apparel,58.0,91,5278.0,2375.1,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Street Footwear,53.0,135,7155.0,3005.1,0.42,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,49.0,63,3087.0,1234.8000000000002,0.4,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Street Footwear,41.0,39,1599.0,591.63,0.37,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,42.0,36,1512.0,604.8000000000001,0.4,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Apparel,52.0,34,1768.0,636.48,0.36,Online
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Apparel,57.0,63,3591.0,1615.9499999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Street Footwear,57.0,120,6840.0,3077.9999999999995,0.44999999999999996,Online
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,53.0,56,2968.0,1335.6,0.44999999999999996,Online
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Street Footwear,53.0,34,1802.0,630.6999999999999,0.35,Online
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,54.0,27,1458.0,554.04,0.38,Online
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Apparel,62.0,27,1674.0,585.9,0.35,Online
+Sports Direct,1197831,2020-07-19,Northeast,New York,New York,Men's Street Footwear,20.0,270,5400.0,2105.9999999999995,0.38999999999999996,Outlet
+Sports Direct,1197831,2020-07-20,Northeast,New York,New York,Men's Athletic Footwear,26.0,270,7020.0,2597.4,0.37,Outlet
+Sports Direct,1197831,2020-07-21,Northeast,New York,New York,Women's Street Footwear,27.0,238,6426.0,2506.14,0.38999999999999996,Outlet
+Sports Direct,1197831,2020-07-22,Northeast,New York,New York,Women's Athletic Footwear,27.0,210,5670.0,2948.4,0.52,Outlet
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,24.0,39,936.0,308.87999999999994,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Men's Apparel,39.0,66,2574.0,952.38,0.37,Outlet
+Sports Direct,1185732,2021-02-05,Northeast,Connecticut,Hartford,Women's Apparel,32.0,96,3072.0,1198.08,0.38999999999999996,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Street Footwear,26.0,182,4732.0,2034.7600000000002,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,32.0,68,2176.0,979.2,0.45,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Street Footwear,23.0,75,1725.0,552.0,0.32,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,27.0,34,918.0,293.76,0.32,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Men's Apparel,39.0,53,2067.0,702.78,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-03-03,Northeast,Connecticut,Hartford,Women's Apparel,29.0,85,2465.0,961.3499999999999,0.38999999999999996,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Street Footwear,28.0,155,4340.0,1996.4,0.46,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,30.0,64,1920.0,844.8,0.44,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Street Footwear,20.0,64,1280.0,460.79999999999995,0.36,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,26.0,41,1066.0,341.12,0.32,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Men's Apparel,37.0,40,1480.0,503.19999999999993,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-04-04,Northeast,Connecticut,Hartford,Women's Apparel,26.0,94,2444.0,1026.48,0.42,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Street Footwear,40.0,191,7640.0,3361.6,0.44,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,35.0,83,2905.0,1278.2,0.44,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Street Footwear,32.0,83,2656.0,903.04,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,32.0,74,2368.0,781.4399999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Men's Apparel,37.0,83,3071.0,1074.85,0.35,Outlet
+Sports Direct,1185732,2021-05-03,Northeast,Connecticut,Hartford,Women's Apparel,41.0,128,5248.0,2204.16,0.42,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Street Footwear,40.0,206,8240.0,3872.8,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,38.0,124,4712.0,2214.6400000000003,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Street Footwear,35.0,96,3360.0,1108.8,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,35.0,85,2975.0,1041.25,0.35,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Men's Apparel,36.0,91,3276.0,1048.32,0.32,Outlet
+Sports Direct,1185732,2021-06-05,Northeast,Connecticut,Hartford,Women's Apparel,39.0,128,4992.0,1946.8799999999999,0.38999999999999996,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Street Footwear,42.0,195,8190.0,3685.5,0.45,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,38.0,120,4560.0,1915.2000000000003,0.42000000000000004,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Street Footwear,29.0,111,3219.0,1094.4599999999998,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,34.0,94,3196.0,1150.56,0.36,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Men's Apparel,43.0,93,3999.0,1319.6699999999998,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-07-03,Northeast,Connecticut,Hartford,Women's Apparel,40.0,152,6080.0,2310.4,0.38,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Street Footwear,40.0,194,7760.0,3259.2000000000003,0.42000000000000004,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,34.0,128,4352.0,1871.3600000000001,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Street Footwear,36.0,107,3852.0,1348.1999999999998,0.35,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,32.0,72,2304.0,760.3199999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Men's Apparel,43.0,62,2666.0,879.7799999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-08-04,Northeast,Connecticut,Hartford,Women's Apparel,44.0,124,5456.0,2073.28,0.38,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Street Footwear,43.0,170,7310.0,3435.7000000000003,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,40.0,93,3720.0,1748.4,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Street Footwear,33.0,64,2112.0,675.84,0.32,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,30.0,58,1740.0,591.5999999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Men's Apparel,41.0,58,2378.0,856.0799999999999,0.36,Outlet
+Sports Direct,1185732,2021-09-03,Northeast,Connecticut,Hartford,Women's Apparel,45.0,83,3735.0,1568.7,0.42,Outlet
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Street Footwear,46.0,153,7038.0,2955.9600000000005,0.42000000000000004,Outlet
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Athletic Footwear,39.0,94,3666.0,1613.04,0.44,Outlet
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Street Footwear,36.0,61,2196.0,812.52,0.37,Outlet
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Athletic Footwear,43.0,45,1935.0,696.6,0.36,Outlet
+Sports Direct,1185732,2021-10-05,Northeast,Connecticut,Hartford,Men's Apparel,50.0,45,2250.0,742.4999999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,47.0,66,3102.0,1364.88,0.44,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,105,4200.0,1764.0,0.42,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,74,2960.0,1243.2,0.42,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,37.0,68,2516.0,1132.2,0.45,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,36.0,68,2448.0,1101.6000000000001,0.45,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,43.0,61,2623.0,865.5899999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,46.0,83,3818.0,1679.92,0.44,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,48.0,160,7680.0,2995.2,0.38999999999999996,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,37.0,102,3774.0,1396.3799999999999,0.37,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,88,3520.0,1654.4,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,34.0,77,2618.0,1125.7400000000002,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,41.0,74,3034.0,1122.58,0.37,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,51.0,111,5661.0,2434.2300000000005,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,28.0,140,3920.0,1293.6,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,28.0,88,2464.0,837.7599999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,22.0,75,1650.0,478.49999999999994,0.29,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,25.0,33,825.0,255.75,0.31,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,39.0,47,1833.0,586.5600000000001,0.32,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,26.0,83,2158.0,733.7199999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,26.0,155,4030.0,1491.1,0.37,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,31.0,53,1643.0,575.05,0.35,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,24.0,70,1680.0,487.2,0.29,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,27.0,75,2025.0,648.0,0.32,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Men's Apparel,36.0,53,1908.0,515.1600000000001,0.27,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Massachusetts,Boston,Women's Apparel,30.0,80,2400.0,768.0,0.32,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Street Footwear,28.0,155,4340.0,1475.6,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,31.0,61,1891.0,642.9399999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Street Footwear,23.0,60,1380.0,441.6,0.32,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,25.0,93,2325.0,651.0000000000001,0.28,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Men's Apparel,36.0,31,1116.0,334.8,0.3,Outlet
+Sports Direct,1185732,2021-03-13,Northeast,Massachusetts,Boston,Women's Apparel,31.0,68,2108.0,779.96,0.37,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Street Footwear,28.0,149,4172.0,1376.7599999999998,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,28.0,51,1428.0,514.0799999999999,0.36,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Street Footwear,22.0,51,1122.0,347.82,0.31,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,23.0,39,897.0,251.16000000000003,0.28,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Men's Apparel,33.0,44,1452.0,392.04,0.27,Outlet
+Sports Direct,1185732,2021-04-14,Northeast,Massachusetts,Boston,Women's Apparel,30.0,94,2820.0,1015.1999999999999,0.36,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Street Footwear,41.0,173,7093.0,2553.48,0.36,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,34.0,68,2312.0,832.3199999999999,0.36,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Street Footwear,30.0,68,2040.0,632.4,0.31,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,32.0,54,1728.0,518.4,0.3,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Men's Apparel,39.0,60,2340.0,655.2,0.28,Outlet
+Sports Direct,1185732,2021-05-13,Northeast,Massachusetts,Boston,Women's Apparel,43.0,104,4472.0,1520.4799999999998,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Street Footwear,39.0,196,7644.0,2675.3999999999996,0.35,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,36.0,114,4104.0,1313.28,0.32,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Street Footwear,36.0,75,2700.0,837.0,0.31,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,34.0,72,2448.0,685.44,0.28,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Men's Apparel,39.0,74,2886.0,923.52,0.32,Outlet
+Sports Direct,1185732,2021-06-15,Northeast,Massachusetts,Boston,Women's Apparel,47.0,120,5640.0,1973.9999999999998,0.35,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Street Footwear,37.0,180,6660.0,2197.7999999999997,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,36.0,105,3780.0,1398.6,0.37,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Street Footwear,32.0,88,2816.0,844.8,0.3,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,34.0,77,2618.0,837.76,0.32,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Men's Apparel,41.0,80,3280.0,1016.8,0.31,Outlet
+Sports Direct,1185732,2021-07-13,Northeast,Massachusetts,Boston,Women's Apparel,41.0,132,5412.0,1731.8400000000001,0.32,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Street Footwear,40.0,196,7840.0,2587.2,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Athletic Footwear,33.0,112,3696.0,1182.72,0.32,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Street Footwear,29.0,85,2465.0,764.15,0.31,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Athletic Footwear,31.0,58,1798.0,503.44000000000005,0.28,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Men's Apparel,40.0,51,2040.0,550.8000000000001,0.27,Outlet
+Sports Direct,1185732,2021-08-14,Northeast,Massachusetts,Boston,Women's Apparel,46.0,98,4508.0,1577.8,0.35,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Street Footwear,36.0,153,5508.0,1872.7199999999998,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Athletic Footwear,35.0,88,3080.0,1139.6,0.37,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Street Footwear,30.0,47,1410.0,423.0,0.3,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Athletic Footwear,34.0,39,1326.0,358.02000000000004,0.27,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Men's Apparel,39.0,41,1599.0,495.69,0.31,Outlet
+Sports Direct,1185732,2021-09-13,Northeast,Massachusetts,Boston,Women's Apparel,41.0,77,3157.0,1041.81,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Street Footwear,40.0,132,5280.0,1742.3999999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Athletic Footwear,37.0,68,2516.0,880.5999999999999,0.35,Outlet
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Street Footwear,41.0,38,1558.0,467.4,0.3,Outlet
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Women's Athletic Footwear,38.0,32,1216.0,328.32000000000005,0.27,Outlet
+Sports Direct,1185732,2021-10-15,Northeast,Massachusetts,Boston,Men's Apparel,51.0,34,1734.0,485.52000000000004,0.28,Outlet

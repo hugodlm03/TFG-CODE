@@ -1,0 +1,287 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-08-11,Midwest,Illinois,Chicago,Men's Street Footwear,20.0,725,145000.0,43500.0,0.3,Outlet
+Sports Direct,1197831,2021-08-12,Midwest,Illinois,Chicago,Men's Athletic Footwear,30.0,725,217500.0,65250.0,0.3,Outlet
+Sports Direct,1197831,2021-08-13,Midwest,Illinois,Chicago,Women's Street Footwear,30.0,525,157500.0,47250.0,0.3,Outlet
+Sports Direct,1197831,2021-08-14,Midwest,Illinois,Chicago,Women's Athletic Footwear,35.0,525,183750.0,73500.0,0.4,Outlet
+Sports Direct,1197831,2021-03-10,Midwest,Montana,Billings,Men's Street Footwear,20.0,700,140000.0,49000.0,0.35,Outlet
+Sports Direct,1197831,2021-03-11,Midwest,Montana,Billings,Men's Athletic Footwear,30.0,700,210000.0,73500.0,0.35,Outlet
+Sports Direct,1197831,2021-03-12,Midwest,Montana,Billings,Women's Street Footwear,30.0,500,150000.0,52500.0,0.35,Outlet
+Sports Direct,1197831,2021-03-13,Midwest,Montana,Billings,Women's Athletic Footwear,35.0,500,175000.0,78750.0,0.45,Outlet
+Sports Direct,1197831,2021-08-01,Midwest,Nebraska,Omaha,Men's Street Footwear,20.0,675,135000.0,53999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-02,Midwest,Nebraska,Omaha,Men's Athletic Footwear,30.0,675,202500.0,81000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-03,Midwest,Nebraska,Omaha,Women's Street Footwear,30.0,475,142500.0,56999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-04,Midwest,Nebraska,Omaha,Women's Athletic Footwear,35.0,475,166250.0,83125.0,0.5,Outlet
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,29.999999999999993,375,112499.99999999997,39374.999999999985,0.35,In-store
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Men's Apparel,45.00000000000001,450,202500.00000000003,81000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Women's Apparel,35.0,550,192500.0,105875.00000000001,0.55,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Street Footwear,35.0,770,269500.0,134750.0,0.5,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,35.0,450,157500.0,62999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Street Footwear,25.0,475,118750.0,35625.0,0.3,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,29.999999999999993,325,97499.99999999997,34124.999999999985,0.35,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Apparel,45.00000000000001,375,168750.00000000003,67500.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Apparel,35.0,475,166250.0,91437.50000000001,0.55,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Street Footwear,35.0,725,253750.0,126875.0,0.5,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,40.0,425,170000.0,68000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Street Footwear,30.000000000000004,450,135000.00000000003,40500.00000000001,0.3,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,35.0,375,131250.0,45937.5,0.35,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Apparel,50.0,400,200000.0,80000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Apparel,40.0,525,210000.0,115500.00000000001,0.55,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Street Footwear,50.0,795,397500.0,198750.0,0.5,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,50.0,500,250000.0,99999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Street Footwear,45.0,475,213750.0,64125.0,0.3,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,45.0,450,202500.0,70875.0,0.35,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Apparel,54.99999999999999,475,261249.99999999997,104499.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Apparel,60.0,575,345000.0,189750.00000000003,0.55,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Street Footwear,54.99999999999999,825,453749.99999999994,226874.99999999997,0.5,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Athletic Footwear,50.0,575,287500.0,114999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Street Footwear,45.0,550,247500.0,74250.0,0.3,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,45.0,525,236250.0,82687.5,0.35,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Apparel,60.0,525,315000.0,125999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Apparel,65.0,675,438750.0,241312.50000000003,0.55,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Street Footwear,60.0,900,540000.0,270000.0,0.5,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,55.00000000000001,650,357500.00000000006,143000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Street Footwear,50.0,575,287500.0,86250.0,0.3,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,50.0,525,262500.0,91875.0,0.35,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Apparel,60.0,550,330000.0,132000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Apparel,65.0,725,471250.0,259187.50000000003,0.55,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Street Footwear,60.0,875,525000.0,262500.0,0.5,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,55.00000000000001,650,357500.00000000006,143000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Street Footwear,45.00000000000001,575,258750.00000000003,77625.0,0.3,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,35.0,525,183750.0,64312.49999999999,0.35,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Apparel,45.00000000000001,500,225000.00000000003,90000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Apparel,50.000000000000014,675,337500.0000000001,185625.0000000001,0.55,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Street Footwear,45.00000000000001,800,360000.00000000006,180000.00000000003,0.5,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,40.000000000000014,600,240000.0000000001,96000.00000000003,0.39999999999999997,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Street Footwear,35.0,500,175000.0,52500.0,0.3,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,35.0,475,166250.0,58187.49999999999,0.35,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Apparel,45.00000000000001,475,213750.00000000003,85500.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Apparel,50.000000000000014,575,287500.00000000006,158125.00000000006,0.55,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Street Footwear,50.000000000000014,750,375000.0000000001,187500.00000000006,0.5,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Athletic Footwear,40.000000000000014,575,230000.0000000001,92000.00000000003,0.39999999999999997,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Street Footwear,40.000000000000014,425,170000.00000000006,51000.000000000015,0.3,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,40.000000000000014,400,160000.00000000006,56000.000000000015,0.35,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Apparel,50.000000000000014,400,200000.00000000006,80000.00000000001,0.39999999999999997,In-store
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Apparel,55.00000000000001,525,288750.00000000006,158812.50000000006,0.55,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Street Footwear,50.000000000000014,675,337500.0000000001,168750.00000000006,0.5,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,45.000000000000014,500,225000.00000000006,90000.00000000001,0.39999999999999997,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Street Footwear,45.000000000000014,445,200250.00000000006,60075.000000000015,0.3,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,45.000000000000014,475,213750.00000000006,74812.50000000001,0.35,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Apparel,60.0,450,270000.0,107999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Apparel,64.99999999999999,625,406249.9999999999,223437.49999999994,0.55,In-store
+Sports Direct,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Street Footwear,60.0,850,510000.0,255000.0,0.5,In-store
+Sports Direct,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,50.0,650,325000.0,129999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,59.999999999999986,250,149999.99999999997,59999.99999999999,0.4,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,54.99999999999999,400,219999.99999999997,76999.99999999999,0.35,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.0,250,112500.0,33750.0,0.3,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,45.0,195,87750.0,26325.0,0.3,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,45.0,175,78750.0,23625.0,0.3,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,60.0,150,90000.0,31499.999999999996,0.35,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,64.99999999999999,250,162499.99999999997,64999.99999999999,0.4,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,60.0,500,300000.0,105000.0,0.35,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,50.0,300,150000.0,45000.0,0.3,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,50.0,250,125000.0,37500.0,0.3,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,50.0,200,100000.0,30000.0,0.3,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,60.0,200,120000.0,42000.0,0.35,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,64.99999999999999,300,194999.99999999997,77999.99999999999,0.4,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,35.0,475,166250.0,58187.49999999999,0.35,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,35.0,275,96250.0,28875.0,0.3,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,25.000000000000007,275,68750.00000000001,20625.000000000004,0.3,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,30.000000000000004,125,37500.00000000001,11250.000000000002,0.3,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Apparel,44.99999999999999,175,78749.99999999999,27562.499999999993,0.35,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Apparel,35.0,275,96250.0,38500.0,0.4,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,35.0,525,183750.0,64312.49999999999,0.35,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,35.0,175,61250.0,18375.0,0.3,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,25.000000000000007,225,56250.000000000015,16875.000000000004,0.3,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,30.000000000000004,100,30000.000000000004,9000.0,0.3,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Men's Apparel,44.99999999999999,175,78749.99999999999,27562.499999999993,0.35,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Women's Apparel,24.999999999999996,275,68749.99999999999,27499.999999999996,0.4,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Street Footwear,30.000000000000004,495,148500.00000000003,51975.00000000001,0.35,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Athletic Footwear,30.000000000000004,200,60000.00000000001,18000.0,0.3,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Street Footwear,20.000000000000004,225,45000.00000000001,13500.000000000002,0.3,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Athletic Footwear,24.999999999999996,75,18749.999999999996,5624.999999999999,0.3,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Apparel,40.0,125,50000.0,17500.0,0.35,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Apparel,30.000000000000004,225,67500.00000000001,27000.000000000007,0.4,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Street Footwear,30.000000000000004,450,135000.00000000003,47250.00000000001,0.35,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,30.000000000000004,150,45000.00000000001,13500.000000000002,0.3,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Street Footwear,20.000000000000004,150,30000.000000000004,9000.0,0.3,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,24.999999999999996,75,18749.999999999996,5624.999999999999,0.3,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Apparel,60.0,100,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Apparel,50.0,225,112500.0,45000.0,0.4,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Street Footwear,60.0,495,297000.0,103950.0,0.35,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Athletic Footwear,45.0,200,90000.0,27000.0,0.3,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Street Footwear,40.0,175,70000.0,21000.0,0.3,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Athletic Footwear,40.0,100,40000.0,12000.0,0.3,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Apparel,49.99999999999999,125,62499.99999999999,21874.999999999996,0.35,In-store
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Apparel,54.99999999999999,250,137499.99999999997,54999.99999999999,0.4,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Street Footwear,40.0,500,200000.0,70000.0,0.35,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,35.00000000000001,250,87500.00000000001,26250.000000000004,0.3,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Street Footwear,30.000000000000004,200,60000.00000000001,18000.0,0.3,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,30.000000000000004,175,52500.00000000001,15750.000000000002,0.3,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Apparel,40.0,175,70000.0,24500.0,0.35,In-store
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Apparel,55.00000000000001,325,178750.00000000003,71500.00000000001,0.4,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Street Footwear,50.0,550,275000.0,96250.0,0.35,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Athletic Footwear,40.0,175,70000.0,21000.0,0.3,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Apparel,50.0,200,100000.0,35000.0,0.35,In-store
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Apparel,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Street Footwear,50.0,525,262500.0,91875.0,0.35,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,40.0,200,80000.0,24000.0,0.3,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Apparel,50.0,175,87500.0,30624.999999999996,0.35,In-store
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Apparel,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Street Footwear,40.0,475,190000.0,66500.0,0.35,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Athletic Footwear,35.00000000000001,275,96250.00000000001,28875.000000000004,0.3,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Street Footwear,30.000000000000004,175,52500.00000000001,15750.000000000002,0.3,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Athletic Footwear,30.000000000000004,150,45000.00000000001,13500.000000000002,0.3,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Apparel,40.0,150,60000.0,21000.0,0.35,In-store
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Apparel,45.0,225,101250.0,40500.0,0.4,In-store
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Street Footwear,49.99999999999999,400,199999.99999999997,69999.99999999999,0.35,In-store
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Women's Street Footwear,40.0,150,60000.0,18000.0,0.3,In-store
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,40.0,125,50000.0,15000.0,0.3,In-store
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Apparel,49.99999999999999,125,62499.99999999999,21874.999999999996,0.35,In-store
+Sports Direct,1197831,2021-08-11,Midwest,Illinois,Chicago,Men's Street Footwear,20.0,189,3780.0,1512.0,0.4,Online
+Sports Direct,1197831,2021-08-12,Midwest,Illinois,Chicago,Men's Athletic Footwear,28.0,196,5488.0,2195.2000000000003,0.4,Online
+Sports Direct,1197831,2021-08-13,Midwest,Illinois,Chicago,Women's Street Footwear,27.0,158,4266.0,1749.06,0.41,Online
+Sports Direct,1197831,2021-08-14,Midwest,Illinois,Chicago,Women's Athletic Footwear,34.0,152,5168.0,2635.68,0.51,Online
+Sports Direct,1197831,2021-03-10,Midwest,Montana,Billings,Men's Street Footwear,18.0,210,3780.0,1890.0,0.5,Online
+Sports Direct,1197831,2021-03-11,Midwest,Montana,Billings,Men's Athletic Footwear,29.0,182,5278.0,2427.8799999999997,0.45999999999999996,Online
+Sports Direct,1197831,2021-03-12,Midwest,Montana,Billings,Women's Street Footwear,27.0,130,3510.0,1579.4999999999998,0.44999999999999996,Online
+Sports Direct,1197831,2021-03-13,Midwest,Montana,Billings,Women's Athletic Footwear,32.0,135,4320.0,2462.4,0.5700000000000001,Online
+Sports Direct,1197831,2021-08-01,Midwest,Nebraska,Omaha,Men's Street Footwear,19.0,203,3857.0,2044.21,0.53,Online
+Sports Direct,1197831,2021-08-02,Midwest,Nebraska,Omaha,Men's Athletic Footwear,29.0,196,5684.0,3069.36,0.54,Online
+Sports Direct,1197831,2021-08-03,Midwest,Nebraska,Omaha,Women's Street Footwear,28.0,138,3864.0,2125.2,0.5499999999999999,Online
+Sports Direct,1197831,2021-08-04,Midwest,Nebraska,Omaha,Women's Athletic Footwear,33.0,138,4554.0,2914.56,0.64,Online
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,28.0,109,3052.0,1495.48,0.49,Online
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Men's Apparel,41.0,126,5166.0,2841.2999999999997,0.5499999999999999,Online
+Sports Direct,1185732,2021-02-17,Midwest,Michigan,Detroit,Women's Apparel,33.0,138,4554.0,3051.1800000000003,0.67,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Street Footwear,34.0,216,7344.0,4479.84,0.61,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,32.0,126,4032.0,2177.28,0.54,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Street Footwear,25.0,124,3100.0,1240.0,0.4,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,29.0,91,2639.0,1266.72,0.48,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Men's Apparel,43.0,94,4042.0,2101.84,0.52,Online
+Sports Direct,1185732,2021-03-15,Midwest,Michigan,Detroit,Women's Apparel,33.0,143,4719.0,3256.11,0.6900000000000001,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Street Footwear,32.0,181,5792.0,3475.2,0.6,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,38.0,111,4218.0,2235.54,0.53,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Street Footwear,27.0,135,3645.0,1530.8999999999999,0.42,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,32.0,109,3488.0,1604.4799999999998,0.45999999999999996,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Men's Apparel,45.0,120,5400.0,2700.0,0.5,Online
+Sports Direct,1185732,2021-04-16,Midwest,Michigan,Detroit,Women's Apparel,37.0,152,5624.0,3880.5600000000004,0.6900000000000001,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Street Footwear,48.0,207,9936.0,6060.96,0.61,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,47.0,150,7050.0,3877.4999999999995,0.5499999999999999,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Street Footwear,44.0,133,5852.0,2340.8,0.4,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,42.0,126,5292.0,2646.0,0.5,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Men's Apparel,52.0,124,6448.0,3417.44,0.53,Online
+Sports Direct,1185732,2021-05-15,Midwest,Michigan,Detroit,Women's Apparel,55.0,150,8250.0,5775.000000000001,0.7000000000000001,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Street Footwear,52.0,206,10712.0,6641.44,0.62,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Athletic Footwear,46.0,167,7682.0,4148.280000000001,0.54,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Street Footwear,41.0,138,5658.0,2489.52,0.44,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,43.0,158,6794.0,3261.12,0.48,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Apparel,57.0,152,8664.0,4765.2,0.5499999999999999,Online
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Apparel,60.0,169,10140.0,6591.0,0.65,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Street Footwear,57.0,225,12825.0,7695.0,0.6,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,53.0,189,10017.0,5108.67,0.51,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Street Footwear,46.0,173,7958.0,3581.0999999999995,0.44999999999999996,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,47.0,158,7426.0,3341.7,0.44999999999999996,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Apparel,54.0,143,7722.0,3938.2200000000003,0.51,Online
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Apparel,62.0,210,13020.0,8983.800000000001,0.6900000000000001,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Street Footwear,55.0,263,14465.0,9257.6,0.64,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,50.0,195,9750.0,4875.0,0.5,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Street Footwear,42.0,144,6048.0,2540.16,0.42,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,34.0,142,4828.0,2172.6,0.44999999999999996,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Apparel,42.0,135,5670.0,3005.1000000000004,0.53,Online
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Women's Apparel,45.0,176,7920.0,5385.6,0.68,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Street Footwear,42.0,232,9744.0,6138.72,0.63,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,37.0,174,6438.0,3283.38,0.51,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Street Footwear,34.0,145,4930.0,2070.6,0.42,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,34.0,119,4046.0,1820.6999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Men's Apparel,41.0,128,5248.0,2624.0,0.5,Online
+Sports Direct,1185732,2021-09-15,Midwest,Michigan,Detroit,Women's Apparel,48.0,173,8304.0,5397.6,0.65,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Street Footwear,49.0,225,11025.0,6725.25,0.61,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Athletic Footwear,37.0,167,6179.0,3151.29,0.51,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Street Footwear,37.0,123,4551.0,2047.9499999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Athletic Footwear,38.0,116,4408.0,2204.0,0.5,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Men's Apparel,48.0,112,5376.0,2956.7999999999997,0.5499999999999999,Online
+Sports Direct,1185732,2021-10-17,Midwest,Michigan,Detroit,Women's Apparel,52.0,137,7124.0,4986.8,0.7000000000000001,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Street Footwear,49.0,196,9604.0,6050.52,0.63,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Athletic Footwear,42.0,145,6090.0,3349.4999999999995,0.5499999999999999,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Street Footwear,43.0,120,5160.0,2321.9999999999995,0.44999999999999996,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Athletic Footwear,41.0,138,5658.0,2772.42,0.49,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Men's Apparel,59.0,126,7434.0,4088.6999999999994,0.5499999999999999,Online
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Apparel,59.0,169,9971.0,6879.990000000001,0.6900000000000001,Online
+Sports Direct,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Street Footwear,55.0,255,14025.0,8555.25,0.61,Online
+Sports Direct,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Athletic Footwear,46.0,176,8096.0,4290.88,0.53,Online
+Sports Direct,1185732,2021-10-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,55.0,70,3850.0,2117.5,0.55,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,53.0,104,5512.0,2700.88,0.49,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,41.0,63,2583.0,1059.03,0.41,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,43.0,57,2451.0,1078.44,0.44,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,43.0,44,1892.0,832.48,0.44,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Men's Apparel,59.0,45,2655.0,1221.3,0.45999999999999996,Online
+Sports Direct,1185732,2021-11-12,Midwest,South Dakota,Sioux Falls,Women's Apparel,61.0,65,3965.0,1982.5,0.5,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,58.0,140,8120.0,3735.2,0.45999999999999996,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,45.0,75,3375.0,1451.25,0.43,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,45.0,73,3285.0,1379.7,0.42,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,45.0,50,2250.0,1012.4999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Men's Apparel,56.0,50,2800.0,1259.9999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-11,Midwest,South Dakota,Sioux Falls,Women's Apparel,64.0,75,4800.0,2496.0,0.52,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,33.0,128,4224.0,1900.7999999999997,0.44999999999999996,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,32.0,74,2368.0,1041.92,0.44,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,25.0,74,1850.0,740.0,0.4,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Athletic Footwear,28.0,33,924.0,415.79999999999995,0.44999999999999996,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Men's Apparel,43.0,49,2107.0,1032.43,0.49,Online
+Sports Direct,1185732,2021-01-09,Midwest,South Dakota,Sioux Falls,Women's Apparel,33.0,72,2376.0,1211.76,0.51,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Men's Street Footwear,34.0,152,5168.0,2325.6,0.44999999999999996,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Men's Athletic Footwear,34.0,51,1734.0,745.62,0.43,Online
+Sports Direct,1185732,2021-02-09,Midwest,South Dakota,Sioux Falls,Women's Street Footwear,24.0,68,1632.0,685.4399999999999,0.42,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,29.0,30,870.0,391.49999999999994,0.44999999999999996,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Men's Apparel,42.0,51,2142.0,1049.58,0.49,Online
+Sports Direct,1185732,2021-02-09,Midwest,North Dakota,Fargo,Women's Apparel,23.0,69,1587.0,809.37,0.51,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Street Footwear,29.0,134,3886.0,1826.4199999999998,0.47,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Athletic Footwear,27.0,58,1566.0,657.72,0.42,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Street Footwear,19.0,56,1064.0,446.88,0.42,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Athletic Footwear,25.0,22,550.0,231.0,0.42,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Men's Apparel,36.0,36,1296.0,648.0,0.5,Online
+Sports Direct,1185732,2021-03-08,Midwest,North Dakota,Fargo,Women's Apparel,28.0,63,1764.0,917.2800000000001,0.52,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Street Footwear,28.0,113,3164.0,1550.36,0.49,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,28.0,44,1232.0,529.76,0.43,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Street Footwear,19.0,41,779.0,327.18,0.42,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,24.0,22,528.0,227.04,0.43,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Men's Apparel,58.0,30,1740.0,835.1999999999999,0.48,Online
+Sports Direct,1185732,2021-04-09,Midwest,North Dakota,Fargo,Women's Apparel,49.0,68,3332.0,1765.96,0.53,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Street Footwear,55.0,129,7095.0,3405.6,0.48,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Athletic Footwear,41.0,54,2214.0,974.16,0.44,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Street Footwear,37.0,51,1887.0,811.41,0.43,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Athletic Footwear,36.0,26,936.0,411.84,0.44,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Men's Apparel,46.0,31,1426.0,684.48,0.48,Online
+Sports Direct,1185732,2021-05-10,Midwest,North Dakota,Fargo,Women's Apparel,52.0,75,3900.0,1989.0,0.51,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Street Footwear,36.0,125,4500.0,2024.9999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,32.0,65,2080.0,894.4,0.43,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Street Footwear,27.0,60,1620.0,648.0,0.4,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,29.0,51,1479.0,621.18,0.42,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Men's Apparel,38.0,47,1786.0,821.56,0.45999999999999996,Online
+Sports Direct,1185732,2021-06-09,Midwest,North Dakota,Fargo,Women's Apparel,51.0,91,4641.0,2506.1400000000003,0.54,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Street Footwear,48.0,160,7680.0,3763.2,0.49,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Athletic Footwear,44.0,84,3696.0,1589.28,0.43,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Street Footwear,37.0,59,2183.0,873.2,0.4,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Athletic Footwear,38.0,53,2014.0,866.02,0.43,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Men's Apparel,49.0,60,2940.0,1352.3999999999999,0.45999999999999996,Online
+Sports Direct,1185732,2021-07-08,Midwest,North Dakota,Fargo,Women's Apparel,54.0,98,5292.0,2857.6800000000003,0.54,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Street Footwear,46.0,147,6762.0,3313.38,0.49,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,42.0,90,3780.0,1512.0,0.4,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Street Footwear,37.0,63,2331.0,955.7099999999999,0.41,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,38.0,52,1976.0,810.16,0.41,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Men's Apparel,46.0,44,2024.0,931.04,0.45999999999999996,Online
+Sports Direct,1185732,2021-08-09,Midwest,North Dakota,Fargo,Women's Apparel,54.0,95,5130.0,2718.9,0.53,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Street Footwear,36.0,133,4788.0,2394.0,0.5,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Athletic Footwear,34.0,72,2448.0,1052.6399999999999,0.43,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Street Footwear,27.0,51,1377.0,605.88,0.44,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Athletic Footwear,28.0,44,1232.0,505.11999999999995,0.41,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Men's Apparel,36.0,42,1512.0,740.88,0.49,Online
+Sports Direct,1185732,2021-09-10,Midwest,North Dakota,Fargo,Women's Apparel,44.0,63,2772.0,1524.6000000000001,0.55,Online
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Street Footwear,49.0,116,5684.0,2671.48,0.47,Online
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Athletic Footwear,36.0,73,2628.0,1077.48,0.41,Online
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Women's Street Footwear,39.0,39,1521.0,669.24,0.44,Online
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Women's Athletic Footwear,38.0,33,1254.0,501.6,0.4,Online
+Sports Direct,1185732,2021-10-09,Midwest,North Dakota,Fargo,Men's Apparel,45.0,34,1530.0,719.0999999999999,0.47,Online

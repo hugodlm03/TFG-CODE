@@ -1,0 +1,135 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,60.00000000000001,725,435000.00000000006,174000.00000000003,0.4,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,60.00000000000001,675,405000.00000000006,162000.00000000003,0.4,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Apparel,70.0,675,472500.0,165375.0,0.35,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Apparel,75.0,775,581250.0,290625.0,0.5,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Street Footwear,35.0,775,271250.0,108500.0,0.4,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,35.0,575,201250.0,70437.5,0.35,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Street Footwear,25.000000000000007,575,143750.00000000003,57500.000000000015,0.4,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,30.0,425,127500.0,51000.0,0.4,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Apparel,45.0,475,213750.0,74812.5,0.35,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Apparel,35.0,575,201250.0,100625.0,0.5,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Men's Street Footwear,35.0,825,288750.0,115500.0,0.4,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,35.0,475,166250.0,58187.49999999999,0.35,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Women's Street Footwear,25.000000000000007,525,131250.00000000003,52500.000000000015,0.4,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,35.0,125,43750.0,17500.0,0.4,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Men's Apparel,49.99999999999999,200,99999.99999999999,34999.99999999999,0.35,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Women's Apparel,40.0,300,120000.0,48000.0,0.4,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Street Footwear,45.0,520,234000.0,93600.0,0.4,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Street Footwear,35.0,250,87500.0,35000.0,0.4,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,40.0,100,40000.0,16000.0,0.4,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Apparel,54.99999999999999,150,82499.99999999999,28874.999999999993,0.35,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Apparel,45.0,250,112500.0,45000.0,0.4,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Street Footwear,45.0,475,213750.0,85500.0,0.4,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.0,175,78750.0,27562.5,0.35,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Street Footwear,40.0,175,70000.0,28000.0,0.4,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,45.0,100,45000.0,18000.0,0.4,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Apparel,50.0,125,62500.0,21875.0,0.35,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Apparel,40.0,250,100000.0,40000.0,0.4,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Street Footwear,50.0,520,260000.0,104000.0,0.4,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.00000000000001,225,101250.00000000001,35437.5,0.35,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Street Footwear,40.0,200,80000.0,32000.0,0.4,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Athletic Footwear,40.0,125,50000.0,20000.0,0.4,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Apparel,50.0,150,75000.0,26250.0,0.35,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Apparel,55.00000000000001,275,151250.00000000003,60500.000000000015,0.4,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Street Footwear,40.0,525,210000.0,84000.0,0.4,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,35.00000000000001,275,96250.00000000001,33687.5,0.35,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Street Footwear,30.000000000000004,225,67500.00000000001,27000.000000000007,0.4,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,30.000000000000004,200,60000.00000000001,24000.000000000004,0.4,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Apparel,50.0,200,100000.0,35000.0,0.35,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Apparel,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Street Footwear,50.0,600,300000.0,120000.0,0.4,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.00000000000001,350,157500.00000000003,55125.00000000001,0.35,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Street Footwear,40.0,275,110000.0,44000.0,0.4,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,40.0,225,90000.0,36000.0,0.4,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Apparel,50.0,250,125000.0,43750.0,0.35,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Apparel,55.00000000000001,425,233750.00000000003,93500.00000000001,0.4,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Street Footwear,50.0,575,287500.0,115000.0,0.4,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.00000000000001,350,157500.00000000003,55125.00000000001,0.35,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Street Footwear,40.0,275,110000.0,44000.0,0.4,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,40.0,250,100000.0,40000.0,0.4,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Apparel,50.0,225,112500.0,39375.0,0.35,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Apparel,55.00000000000001,400,220000.00000000003,88000.00000000001,0.4,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Street Footwear,50.0,525,262500.0,105000.0,0.4,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.00000000000001,325,146250.00000000003,51187.50000000001,0.35,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Street Footwear,35.0,225,78750.0,31500.0,0.4,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Athletic Footwear,35.0,200,70000.0,28000.0,0.4,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Apparel,45.0,200,90000.0,31499.999999999996,0.35,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Apparel,50.0,275,137500.0,55000.0,0.4,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Street Footwear,54.99999999999999,450,247499.99999999997,99000.0,0.4,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Street Footwear,45.0,175,78750.0,31500.0,0.4,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,45.0,150,67500.0,27000.0,0.4,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Apparel,54.99999999999999,150,82499.99999999999,28874.999999999993,0.35,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Apparel,54.99999999999999,275,151249.99999999997,60499.99999999999,0.4,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Street Footwear,50.0,425,212500.0,85000.0,0.4,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,40.0,275,110000.0,38500.0,0.35,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Street Footwear,45.0,220,99000.0,39600.0,0.4,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,55.0,218,11990.0,6114.900000000001,0.51,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,55.0,196,10780.0,5821.200000000001,0.54,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Apparel,65.0,169,10985.0,5382.65,0.49,Online
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Apparel,69.0,225,15525.0,10091.25,0.65,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Street Footwear,32.0,194,6208.0,3228.1600000000003,0.52,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,33.0,150,4950.0,2475.0,0.5,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Street Footwear,24.0,167,4008.0,2164.32,0.54,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,29.0,123,3567.0,1854.8400000000001,0.52,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Men's Apparel,44.0,128,5632.0,2816.0,0.5,Online
+Amazon,1185732,2021-01-13,Southeast,North Carolina,Charlotte,Women's Apparel,32.0,173,5536.0,3598.4,0.65,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Men's Street Footwear,32.0,231,7392.0,3696.0,0.5,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,33.0,143,4719.0,2359.5,0.5,Online
+Amazon,1185732,2021-02-11,Southeast,North Carolina,Charlotte,Women's Street Footwear,23.0,158,3634.0,1817.0,0.5,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,34.0,34,1156.0,624.24,0.54,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Men's Apparel,48.0,54,2592.0,1218.24,0.47,Online
+Amazon,1185732,2021-02-22,Southeast,Kentucky,Louisville,Women's Apparel,39.0,78,3042.0,1551.42,0.51,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Street Footwear,41.0,156,6396.0,3261.96,0.51,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,41.0,59,2419.0,1185.31,0.49,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Street Footwear,34.0,73,2482.0,1241.0,0.5,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,36.0,27,972.0,505.44,0.52,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Men's Apparel,52.0,44,2288.0,1052.48,0.45999999999999996,Online
+Amazon,1185732,2021-03-21,Southeast,Kentucky,Louisville,Women's Apparel,42.0,65,2730.0,1392.3,0.51,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Street Footwear,41.0,119,4879.0,2683.4500000000003,0.55,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,41.0,49,2009.0,964.3199999999999,0.48,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Street Footwear,38.0,49,1862.0,1024.1000000000001,0.55,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,42.0,29,1218.0,609.0,0.5,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Men's Apparel,47.0,35,1645.0,806.05,0.49,Online
+Amazon,1185732,2021-04-22,Southeast,Kentucky,Louisville,Women's Apparel,36.0,75,2700.0,1350.0,0.5,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Street Footwear,49.0,156,7644.0,3898.44,0.51,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Athletic Footwear,42.0,68,2856.0,1428.0,0.5,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Street Footwear,38.0,58,2204.0,1146.08,0.52,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Athletic Footwear,38.0,38,1444.0,779.7600000000001,0.54,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Men's Apparel,46.0,42,1932.0,888.7199999999999,0.45999999999999996,Online
+Amazon,1185732,2021-05-23,Southeast,Kentucky,Louisville,Women's Apparel,51.0,83,4233.0,2158.83,0.51,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Street Footwear,36.0,142,5112.0,2556.0,0.5,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,33.0,77,2541.0,1245.09,0.49,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Street Footwear,28.0,56,1568.0,862.4000000000001,0.55,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,29.0,52,1508.0,829.4000000000001,0.55,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Men's Apparel,49.0,54,2646.0,1296.54,0.49,Online
+Amazon,1185732,2021-06-22,Southeast,Kentucky,Louisville,Women's Apparel,52.0,101,5252.0,2731.04,0.52,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Street Footwear,47.0,168,7896.0,4342.8,0.55,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Athletic Footwear,44.0,95,4180.0,2048.2,0.49,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Street Footwear,38.0,69,2622.0,1363.44,0.52,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Athletic Footwear,37.0,63,2331.0,1258.74,0.54,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Men's Apparel,46.0,75,3450.0,1586.9999999999998,0.45999999999999996,Online
+Amazon,1185732,2021-07-21,Southeast,Kentucky,Louisville,Women's Apparel,50.0,115,5750.0,3105.0,0.54,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Street Footwear,46.0,167,7682.0,4148.280000000001,0.54,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,41.0,91,3731.0,1753.57,0.47,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Street Footwear,36.0,80,2880.0,1555.2,0.54,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,38.0,75,2850.0,1425.0,0.5,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Men's Apparel,49.0,65,3185.0,1560.6499999999999,0.49,Online
+Amazon,1185732,2021-08-22,Southeast,Kentucky,Louisville,Women's Apparel,51.0,120,6120.0,3304.8,0.54,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Street Footwear,48.0,137,6576.0,3485.28,0.53,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Athletic Footwear,44.0,94,4136.0,2026.6399999999999,0.49,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Street Footwear,33.0,65,2145.0,1136.8500000000001,0.53,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Athletic Footwear,32.0,54,1728.0,881.28,0.51,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Men's Apparel,43.0,58,2494.0,1172.1799999999998,0.47,Online
+Amazon,1185732,2021-09-23,Southeast,Kentucky,Louisville,Women's Apparel,49.0,74,3626.0,1885.52,0.52,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Street Footwear,53.0,126,6678.0,3672.9,0.55,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,41.0,83,3403.0,1701.5,0.5,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Street Footwear,43.0,47,2021.0,1091.3400000000001,0.54,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Athletic Footwear,41.0,42,1722.0,895.44,0.52,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Men's Apparel,53.0,41,2173.0,1064.77,0.49,Online
+Amazon,1185732,2021-10-22,Southeast,Kentucky,Louisville,Women's Apparel,53.0,83,4399.0,2199.5,0.5,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Street Footwear,48.0,123,5904.0,3070.08,0.52,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Men's Athletic Footwear,39.0,72,2808.0,1319.76,0.47,Online
+Amazon,1185732,2021-11-22,Southeast,Kentucky,Louisville,Women's Street Footwear,41.0,57,2337.0,1191.8700000000001,0.51,Online

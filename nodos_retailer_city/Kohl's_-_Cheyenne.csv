@@ -1,0 +1,119 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Men's Apparel,50.0,500,250000.0,75000.0,0.3,In-store
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Women's Apparel,40.0,600,240000.0,60000.0,0.25,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Street Footwear,40.0,820,328000.0,164000.0,0.5,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,40.0,525,210000.0,63000.0,0.3,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Street Footwear,30.000000000000004,550,165000.00000000003,57750.00000000001,0.35,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,35.0,400,140000.0,49000.0,0.35,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Apparel,50.0,450,225000.0,67500.0,0.3,In-store
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Apparel,40.0,550,220000.0,55000.0,0.25,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Street Footwear,40.0,800,320000.0,160000.0,0.5,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,40.0,500,200000.0,60000.0,0.3,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Street Footwear,30.000000000000004,500,150000.00000000003,52500.00000000001,0.35,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Apparel,50.0,425,212500.0,63750.0,0.3,In-store
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Apparel,40.0,550,220000.0,55000.0,0.25,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,820,410000.0,205000.0,0.5,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,525,236250.00000000003,70875.0,0.3,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,500,200000.0,70000.0,0.35,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,450,180000.0,62999.99999999999,0.35,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Apparel,50.0,475,237500.0,71250.0,0.3,In-store
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Apparel,55.00000000000001,600,330000.00000000006,82500.00000000001,0.25,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,850,425000.0,212500.0,0.5,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,600,270000.00000000006,81000.00000000001,0.3,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,500,200000.0,70000.0,0.35,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Apparel,50.0,500,250000.0,75000.0,0.3,In-store
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Apparel,55.00000000000001,650,357500.00000000006,89375.00000000001,0.25,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,875,437500.0,218750.0,0.5,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,625,281250.00000000006,84375.00000000001,0.3,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,550,220000.0,77000.0,0.35,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,500,200000.0,70000.0,0.35,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Apparel,50.0,525,262500.0,78750.0,0.3,In-store
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Apparel,55.00000000000001,700,385000.00000000006,96250.00000000001,0.25,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,850,425000.0,212500.0,0.5,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,625,281250.00000000006,84375.00000000001,0.3,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,550,220000.0,77000.0,0.35,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Apparel,50.0,500,250000.0,75000.0,0.3,In-store
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Apparel,55.00000000000001,675,371250.00000000006,92812.50000000001,0.25,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,800,400000.0,200000.0,0.5,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,600,270000.00000000006,81000.00000000001,0.3,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,500,200000.0,70000.0,0.35,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Apparel,50.0,500,250000.0,75000.0,0.3,In-store
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Apparel,55.00000000000001,600,330000.00000000006,82500.00000000001,0.25,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Street Footwear,55.00000000000001,775,426250.00000000006,213125.00000000003,0.5,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,600,270000.00000000006,81000.00000000001,0.3,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Street Footwear,45.00000000000001,500,225000.00000000003,78750.0,0.35,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,45.00000000000001,475,213750.00000000003,74812.5,0.35,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Apparel,55.00000000000001,475,261250.00000000003,78375.0,0.3,In-store
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Apparel,60.0,600,360000.0,90000.0,0.25,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Street Footwear,55.00000000000001,750,412500.00000000006,206250.00000000003,0.5,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,575,258750.00000000003,77625.0,0.3,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Street Footwear,45.00000000000001,520,234000.00000000003,81900.0,0.35,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,45.00000000000001,500,225000.00000000003,78750.0,0.35,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Apparel,55.00000000000001,475,261250.00000000003,78375.0,0.3,In-store
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Apparel,60.0,575,345000.0,86250.0,0.25,In-store
+Kohl's,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Street Footwear,55.00000000000001,800,440000.00000000006,220000.00000000003,0.5,In-store
+Kohl's,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,45.00000000000001,600,270000.00000000006,81000.00000000001,0.3,In-store
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,32.0,123,3936.0,1889.28,0.48,Online
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Men's Apparel,47.0,145,6815.0,2794.1499999999996,0.41,Online
+Kohl's,1185732,2021-02-12,West,Wyoming,Cheyenne,Women's Apparel,38.0,174,6612.0,2578.6800000000003,0.39,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Street Footwear,38.0,246,9348.0,5608.8,0.6,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,37.0,131,4847.0,2132.68,0.44,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Street Footwear,27.0,149,4023.0,1810.35,0.44999999999999996,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,33.0,112,3696.0,1737.12,0.47,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Men's Apparel,47.0,126,5922.0,2664.8999999999996,0.44999999999999996,Online
+Kohl's,1185732,2021-03-10,West,Wyoming,Cheyenne,Women's Apparel,37.0,165,6105.0,2258.85,0.37,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Street Footwear,39.0,208,8112.0,5029.44,0.62,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,39.0,140,5460.0,2456.9999999999995,0.44999999999999996,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Street Footwear,28.0,145,4060.0,1867.6,0.45999999999999996,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,33.0,119,3927.0,1845.6899999999998,0.47,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Men's Apparel,47.0,106,4982.0,2092.44,0.42,Online
+Kohl's,1185732,2021-04-11,West,Wyoming,Cheyenne,Women's Apparel,36.0,149,5364.0,1877.3999999999999,0.35,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Street Footwear,45.0,246,11070.0,7195.5,0.65,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,41.0,152,6232.0,2492.8,0.4,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Street Footwear,39.0,145,5655.0,2770.95,0.49,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,39.0,131,5109.0,2554.5,0.5,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Apparel,45.0,133,5985.0,2513.7,0.42,Online
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Women's Apparel,52.0,156,8112.0,3244.8,0.4,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Street Footwear,46.0,247,11362.0,7158.06,0.63,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Athletic Footwear,42.0,168,7056.0,2892.96,0.41,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Street Footwear,38.0,131,4978.0,2240.1,0.44999999999999996,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,38.0,140,5320.0,2500.3999999999996,0.47,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Apparel,49.0,135,6615.0,2910.6,0.44,Online
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Women's Apparel,50.0,163,8150.0,3015.5,0.37,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Street Footwear,48.0,228,10944.0,7004.16,0.64,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,44.0,163,7172.0,3083.96,0.43,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Street Footwear,38.0,149,5662.0,2717.7599999999998,0.48,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,39.0,150,5850.0,2749.5,0.47,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Apparel,48.0,137,6576.0,2761.92,0.42,Online
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Women's Apparel,51.0,196,9996.0,3598.56,0.36,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Street Footwear,47.0,255,11985.0,7670.400000000001,0.64,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,43.0,163,7009.0,2873.69,0.41,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Street Footwear,38.0,143,5434.0,2445.2999999999997,0.44999999999999996,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,38.0,147,5586.0,2737.14,0.49,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Apparel,47.0,140,6580.0,2697.7999999999997,0.41,Online
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Women's Apparel,52.0,196,10192.0,4076.8,0.4,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Street Footwear,48.0,208,9984.0,6389.76,0.64,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,44.0,150,6600.0,2838.0,0.43,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Street Footwear,38.0,137,5206.0,2394.7599999999998,0.45999999999999996,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,38.0,135,5130.0,2513.7,0.49,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Apparel,48.0,125,6000.0,2580.0,0.43,Online
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Women's Apparel,52.0,174,9048.0,3619.2000000000003,0.4,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Street Footwear,50.0,202,10100.0,6464.0,0.64,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Athletic Footwear,44.0,174,7656.0,3062.4,0.4,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Street Footwear,42.0,125,5250.0,2415.0,0.45999999999999996,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Athletic Footwear,41.0,119,4879.0,2244.3399999999997,0.45999999999999996,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Apparel,54.0,128,6912.0,3041.28,0.44,Online
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Women's Apparel,55.0,150,8250.0,3052.5,0.37,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Street Footwear,53.0,218,11554.0,7047.94,0.61,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Athletic Footwear,42.0,167,7014.0,3016.02,0.43,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Street Footwear,42.0,146,6132.0,3066.0,0.5,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Athletic Footwear,42.0,135,5670.0,2778.2999999999997,0.49,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Apparel,51.0,143,7293.0,2990.1299999999997,0.41,Online
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Women's Apparel,55.0,161,8855.0,3453.4500000000003,0.39,Online
+Kohl's,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Street Footwear,52.0,224,11648.0,7105.28,0.61,Online
+Kohl's,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Athletic Footwear,44.0,168,7392.0,3030.72,0.41,Online

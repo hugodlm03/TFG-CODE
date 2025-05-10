@@ -1,0 +1,67 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,70.0,275,192500.0,67375.0,0.35,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,65.0,425,276250.0,110500.0,0.4,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,66000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,55.00000000000001,295,162250.00000000003,48675.00000000001,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,55.00000000000001,275,151250.00000000003,45375.00000000001,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,65.0,250,162500.0,48750.0,0.3,In-store
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,70.0,350,245000.0,85750.0,0.35,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,65.0,575,373750.0,149500.0,0.4,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,55.00000000000001,350,192500.00000000003,57750.00000000001,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,65.0,300,195000.0,58500.0,0.3,In-store
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,70.0,400,280000.0,98000.0,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,25.000000000000007,225,56250.000000000015,22500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,30.0,75,22500.0,9000.0,0.4,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,35.0,475,166250.0,58187.49999999999,0.35,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,35.0,125,43750.0,15312.499999999998,0.35,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,25.000000000000007,175,43750.000000000015,17500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,63.0,74,4662.0,2331.0,0.5,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,60.0,111,6660.0,3330.0,0.5,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,51.0,84,4284.0,2227.6800000000003,0.52,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,51.0,80,4080.0,1835.9999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,50.0,80,4000.0,1680.0,0.42,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,60.0,68,4080.0,1795.2,0.44,Online
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,67.0,95,6365.0,2991.5499999999997,0.47,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,59.0,150,8850.0,4513.5,0.51,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,51.0,101,5151.0,2627.01,0.51,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,50.0,88,4400.0,1979.9999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,53.0,87,4611.0,1936.62,0.42,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,60.0,78,4680.0,2106.0,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,67.0,112,7504.0,3451.8399999999997,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,34.0,115,3910.0,1798.6,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,34.0,63,2142.0,963.8999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,24.0,63,1512.0,831.6,0.55,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,29.0,20,580.0,307.40000000000003,0.53,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,44.0,33,1452.0,580.8000000000001,0.4,Online
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,33.0,63,2079.0,1122.66,0.54,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,34.0,119,4046.0,1982.54,0.49,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,34.0,36,1224.0,575.28,0.47,Online
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,24.0,49,1176.0,588.0,0.5,Online
+Foot Locker,1185732,2021-10-05,Northeast,Connecticut,Hartford,Women's Apparel,46.0,94,4324.0,1816.08,0.42,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Street Footwear,51.0,149,7599.0,3267.57,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Athletic Footwear,37.0,105,3885.0,1787.1000000000001,0.46,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Street Footwear,36.0,103,3708.0,1371.96,0.37,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Athletic Footwear,39.0,83,3237.0,1197.69,0.37,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Men's Apparel,44.0,88,3872.0,1393.9199999999998,0.36,Outlet
+Foot Locker,1185732,2021-11-04,Northeast,Connecticut,Hartford,Women's Apparel,52.0,116,6032.0,2352.4799999999996,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Street Footwear,45.0,173,7785.0,3269.7000000000003,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Athletic Footwear,37.0,131,4847.0,2181.15,0.45,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Street Footwear,43.0,116,4988.0,1646.0399999999997,0.32999999999999996,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Athletic Footwear,38.0,96,3648.0,1276.8,0.35,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Men's Apparel,42.0,99,4158.0,1455.3,0.35,Outlet
+Foot Locker,1185732,2021-12-03,Northeast,Connecticut,Hartford,Women's Apparel,52.0,120,6240.0,2308.8,0.37,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Street Footwear,23.0,149,3427.0,1439.34,0.42,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Athletic Footwear,28.0,79,2212.0,884.8,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Street Footwear,19.0,72,1368.0,574.5600000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Athletic Footwear,24.0,24,576.0,264.96000000000004,0.46,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Men's Apparel,34.0,44,1496.0,538.56,0.36,Outlet
+Foot Locker,1185732,2021-01-10,Northeast,Connecticut,Hartford,Women's Apparel,26.0,72,1872.0,879.84,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Street Footwear,24.0,162,3888.0,1555.1999999999998,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Men's Athletic Footwear,24.0,41,984.0,383.75999999999993,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Connecticut,Hartford,Women's Street Footwear,18.0,53,954.0,410.22,0.43000000000000005,Outlet

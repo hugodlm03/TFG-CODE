@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Street Footwear,65.00000000000001,575,373750.00000000006,149500.00000000003,0.4,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,65.00000000000001,525,341250.00000000006,136500.00000000003,0.4,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Apparel,75.00000000000001,525,393750.00000000006,137812.5,0.35,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Apparel,80.0,625,500000.0,250000.0,0.5,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Street Footwear,59.0,161,9499.0,4939.4800000000005,0.52,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Athletic Footwear,63.0,147,9261.0,4630.5,0.5,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Apparel,68.0,142,9656.0,4731.44,0.49,Online
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Apparel,74.0,156,11544.0,6926.4,0.6,Online

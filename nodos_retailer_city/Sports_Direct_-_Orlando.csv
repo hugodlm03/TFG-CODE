@@ -1,0 +1,28 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,50.0,275,137500.0,41250.0,0.3,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,55.00000000000001,200,110000.00000000001,22000.000000000004,0.2,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,50.0,400,200000.0,90000.0,0.45,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,50.0,550,275000.0,82500.0,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,60.0,400,240000.0,60000.0,0.25,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,64.99999999999999,425,276249.99999999994,82874.99999999999,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,60.0,325,195000.0,58500.0,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,65.0,175,113750.0,22750.0,0.2,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,60.0,375,225000.0,101250.0,0.45,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,45.0,74,3330.0,1465.2,0.44,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,52.0,60,3120.0,998.4,0.32,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,47.0,108,5076.0,2944.0800000000004,0.5800000000000001,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,46.0,160,7360.0,3017.6,0.41,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,58.0,100,5800.0,2204.0,0.38,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,59.0,115,6785.0,2917.55,0.43,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,58.0,91,5278.0,2216.7599999999998,0.42,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,61.0,44,2684.0,885.72,0.33,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,54.0,101,5454.0,3272.4,0.6,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,36.0,94,3384.0,1252.08,0.37,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,44.0,62,2728.0,654.72,0.24000000000000002,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,33.0,124,4092.0,2086.92,0.51,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,35.0,171,5985.0,2034.8999999999999,0.33999999999999997,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,44.0,124,5456.0,1691.36,0.31,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,47.0,149,7003.0,2240.96,0.32,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,42.0,114,4788.0,1675.8,0.35,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,44.0,60,2640.0,686.4,0.26,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,48.0,131,6288.0,2955.36,0.47000000000000003,Outlet

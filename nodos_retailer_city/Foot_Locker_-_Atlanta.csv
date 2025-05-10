@@ -1,0 +1,40 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,55.00000000000001,475,261250.00000000003,104500.00000000001,0.4,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,65.0,400,260000.0,91000.0,0.35,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,70.0,500,350000.0,87500.0,0.25,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,40.0,1025,410000.0,184500.0,0.45,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,825,330000.0,115499.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,30.000000000000004,825,247500.00000000003,61875.00000000001,0.25,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,35.0,675,236250.0,70875.0,0.3,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,50.0,725,362500.0,126874.99999999999,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,40.0,825,330000.0,165000.0,0.5,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,40.0,1075,430000.0,193500.0,0.45,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,725,290000.0,101500.0,0.35,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,30.000000000000004,775,232500.00000000003,58125.00000000001,0.25,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,53.0,138,7314.0,3657.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,51.0,128,6528.0,3264.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,64.0,116,7424.0,3712.0,0.5,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,64.0,135,8640.0,3024.0,0.35,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,39.0,256,9984.0,5790.720000000001,0.5800000000000001,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,37.0,206,7622.0,3429.8999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,29.0,248,7192.0,2804.88,0.39,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,34.0,203,6902.0,3036.88,0.44,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,47.0,189,8883.0,4175.01,0.47,Online
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,37.0,239,8843.0,5305.8,0.6,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,38.0,312,11856.0,6995.040000000001,0.5900000000000001,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,39.0,218,8502.0,3910.9199999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,29.0,217,6293.0,2328.41,0.37,Online
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Street Footwear,36.0,147,5292.0,2222.64,0.42,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,40.0,143,5720.0,2459.6000000000004,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Apparel,44.0,120,5280.0,2006.4,0.38,Outlet
+Foot Locker,1128299,2021-12-12,Southeast,Georgia,Atlanta,Women's Apparel,47.0,160,7520.0,2256.0,0.3,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,26.0,349,9074.0,4264.780000000001,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Athletic Footwear,30.0,256,7680.0,3071.9999999999995,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Street Footwear,24.0,264,6336.0,2027.52,0.32,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Athletic Footwear,25.0,209,5225.0,1828.7499999999998,0.35,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Apparel,35.0,247,8645.0,3371.5499999999997,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Women's Apparel,30.0,281,8430.0,4467.900000000001,0.53,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,31.0,376,11656.0,5594.88,0.48,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Athletic Footwear,27.0,247,6669.0,2534.2200000000003,0.38,Outlet
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Women's Street Footwear,21.0,248,5208.0,1562.3999999999999,0.3,Outlet

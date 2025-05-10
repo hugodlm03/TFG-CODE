@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-10-12,South,Alabama,Birmingham,Men's Street Footwear,40.0,450,180000.0,62999.99999999999,0.35,Outlet
+Amazon,1185732,2021-10-13,South,Alabama,Birmingham,Men's Athletic Footwear,40.0,250,100000.0,35000.0,0.35,Outlet
+Amazon,1185732,2021-10-14,South,Alabama,Birmingham,Women's Street Footwear,30.000000000000004,250,75000.00000000001,30000.000000000004,0.39999999999999997,Outlet
+Amazon,1185732,2021-10-15,South,Alabama,Birmingham,Women's Athletic Footwear,35.0,100,35000.0,10500.0,0.3,Outlet
+Amazon,1185732,2021-10-12,South,Alabama,Birmingham,Men's Street Footwear,38.0,117,4446.0,2223.0,0.5,Online
+Amazon,1185732,2021-10-13,South,Alabama,Birmingham,Men's Athletic Footwear,38.0,75,2850.0,1311.0,0.45999999999999996,Online
+Amazon,1185732,2021-10-14,South,Alabama,Birmingham,Women's Street Footwear,28.0,63,1764.0,917.2800000000001,0.52,Online
+Amazon,1185732,2021-10-15,South,Alabama,Birmingham,Women's Athletic Footwear,34.0,28,952.0,390.32,0.41,Online
+Amazon,1185732,2021-10-12,South,Alabama,Birmingham,Men's Street Footwear,27.0,140,3780.0,1474.1999999999998,0.38999999999999996,Outlet
+Amazon,1185732,2021-10-13,South,Alabama,Birmingham,Men's Athletic Footwear,30.0,88,2640.0,1082.3999999999999,0.41,Outlet
+Amazon,1185732,2021-10-14,South,Alabama,Birmingham,Women's Street Footwear,23.0,83,1909.0,801.78,0.42,Outlet
+Amazon,1185732,2021-10-15,South,Alabama,Birmingham,Women's Athletic Footwear,25.0,30,750.0,247.49999999999997,0.32999999999999996,Outlet

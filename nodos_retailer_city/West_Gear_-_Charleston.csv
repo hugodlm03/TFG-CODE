@@ -1,0 +1,107 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,35.0,175,61250.0,24500.0,0.4,In-store
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Men's Apparel,49.99999999999999,250,124999.99999999999,50000.0,0.4,In-store
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Women's Apparel,24.999999999999993,350,87499.99999999997,34999.99999999999,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Street Footwear,30.000000000000004,570,171000.00000000003,68400.00000000001,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,30.000000000000004,275,82500.00000000001,33000.00000000001,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Street Footwear,20.0,325,65000.0,26000.0,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,24.999999999999993,175,43749.999999999985,17499.999999999996,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Apparel,40.0,225,90000.0,36000.0,0.4,In-store
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Apparel,30.000000000000004,325,97500.00000000001,39000.00000000001,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Street Footwear,30.000000000000004,550,165000.00000000003,66000.00000000001,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,30.000000000000004,250,75000.00000000001,30000.000000000007,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Street Footwear,20.0,250,50000.0,20000.0,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,24.999999999999993,175,43749.999999999985,17499.999999999996,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Apparel,65.0,200,130000.0,52000.0,0.4,In-store
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Apparel,50.0,325,162500.0,65000.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Street Footwear,60.0,595,357000.0,142800.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Athletic Footwear,40.0,300,120000.0,48000.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Street Footwear,35.0,275,96250.0,38500.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Athletic Footwear,35.0,200,70000.0,28000.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Apparel,44.99999999999999,225,101249.99999999999,40500.0,0.4,In-store
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Apparel,54.99999999999999,350,192499.99999999997,76999.99999999999,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Street Footwear,45.0,600,270000.0,108000.0,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,40.00000000000001,425,170000.00000000003,68000.00000000001,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Street Footwear,35.0,300,105000.0,42000.0,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,35.0,275,96250.0,38500.0,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Apparel,45.0,275,123750.0,49500.0,0.4,In-store
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Apparel,65.00000000000001,425,276250.00000000006,110500.00000000003,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Street Footwear,60.00000000000001,650,390000.00000000006,156000.00000000003,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,55.000000000000014,400,220000.00000000006,88000.00000000003,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Street Footwear,50.0,325,162500.0,65000.0,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,50.0,275,137500.0,55000.0,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Apparel,60.00000000000001,300,180000.00000000003,72000.00000000001,0.4,In-store
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Apparel,65.00000000000001,475,308750.00000000006,123500.00000000003,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Street Footwear,50.0,525,262500.0,105000.0,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,54000.000000000015,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Street Footwear,40.0,300,120000.0,48000.0,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,40.0,275,110000.0,44000.0,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Apparel,50.0,250,125000.0,50000.0,0.4,In-store
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Apparel,55.00000000000001,425,233750.00000000003,93500.00000000001,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Street Footwear,35.0,550,192500.0,77000.0,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Athletic Footwear,30.00000000000001,350,105000.00000000004,42000.00000000002,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Street Footwear,25.000000000000007,250,62500.000000000015,25000.000000000007,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Athletic Footwear,25.000000000000007,225,56250.000000000015,22500.000000000007,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Apparel,40.0,300,120000.0,48000.0,0.4,In-store
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Street Footwear,44.99999999999999,425,191249.99999999997,76499.99999999999,0.4,In-store
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,275,96250.0,38500.0,0.4,In-store
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Street Footwear,35.0,175,61250.0,24500.0,0.4,In-store
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,35.0,175,61250.0,24500.0,0.4,In-store
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Apparel,44.99999999999999,175,78749.99999999999,31499.999999999996,0.4,In-store
+West Gear,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Street Footwear,55.00000000000001,400,220000.00000000003,88000.00000000001,0.4,In-store
+West Gear,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,125,43750.0,15312.499999999998,0.35,In-store
+West Gear,1185732,2021-02-22,Northeast,West Virginia,Charleston,Women's Street Footwear,25.000000000000007,175,43750.000000000015,15312.500000000004,0.35,In-store
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,34.0,49,1666.0,882.98,0.53,Online
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Men's Apparel,48.0,65,3120.0,1653.6000000000001,0.53,Online
+West Gear,1185732,2021-02-17,Northeast,West Virginia,Charleston,Women's Apparel,24.0,105,2520.0,1360.8000000000002,0.54,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Street Footwear,28.0,165,4620.0,2356.2,0.51,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,27.0,69,1863.0,1006.0200000000001,0.54,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Street Footwear,19.0,91,1729.0,933.6600000000001,0.54,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,23.0,49,1127.0,597.3100000000001,0.53,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Men's Apparel,37.0,59,2183.0,1091.5,0.5,Online
+West Gear,1185732,2021-03-16,Northeast,West Virginia,Charleston,Women's Apparel,29.0,81,2349.0,1268.46,0.54,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Street Footwear,27.0,143,3861.0,1969.1100000000001,0.51,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,28.0,75,2100.0,1155.0,0.55,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Street Footwear,19.0,68,1292.0,697.6800000000001,0.54,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,25.0,47,1175.0,611.0,0.52,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Men's Apparel,60.0,56,3360.0,1848.0000000000002,0.55,Online
+West Gear,1185732,2021-04-17,Northeast,West Virginia,Charleston,Women's Apparel,47.0,94,4418.0,2253.18,0.51,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Street Footwear,58.0,179,10382.0,5398.64,0.52,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Athletic Footwear,37.0,87,3219.0,1641.69,0.51,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Street Footwear,32.0,77,2464.0,1355.2,0.55,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Athletic Footwear,33.0,50,1650.0,907.5000000000001,0.55,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Men's Apparel,42.0,68,2856.0,1542.24,0.54,Online
+West Gear,1185732,2021-05-18,Northeast,West Virginia,Charleston,Women's Apparel,52.0,95,4940.0,2717.0,0.55,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Street Footwear,43.0,150,6450.0,3354.0,0.52,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,37.0,119,4403.0,2201.5,0.5,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Street Footwear,33.0,81,2673.0,1443.42,0.54,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,33.0,69,2277.0,1184.04,0.52,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Men's Apparel,41.0,74,3034.0,1668.7,0.55,Online
+West Gear,1185732,2021-06-17,Northeast,West Virginia,Charleston,Women's Apparel,59.0,115,6785.0,3528.2000000000003,0.52,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Street Footwear,55.0,182,10010.0,5205.2,0.52,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,50.0,116,5800.0,3074.0,0.53,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Street Footwear,49.0,98,4802.0,2545.06,0.53,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,48.0,77,3696.0,1884.96,0.51,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Men's Apparel,54.0,87,4698.0,2536.92,0.54,Online
+West Gear,1185732,2021-07-16,Northeast,West Virginia,Charleston,Women's Apparel,63.0,133,8379.0,4524.66,0.54,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Street Footwear,46.0,131,6026.0,3133.52,0.52,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,42.0,90,3780.0,2079.0,0.55,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Street Footwear,38.0,87,3306.0,1719.1200000000001,0.52,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,36.0,72,2592.0,1321.92,0.51,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Men's Apparel,49.0,68,3332.0,1799.2800000000002,0.54,Online
+West Gear,1185732,2021-08-17,Northeast,West Virginia,Charleston,Women's Apparel,54.0,115,6210.0,3353.4,0.54,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Street Footwear,34.0,154,5236.0,2670.36,0.51,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Athletic Footwear,29.0,91,2639.0,1398.67,0.53,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Street Footwear,24.0,68,1632.0,881.2800000000001,0.54,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Athletic Footwear,23.0,59,1357.0,678.5,0.5,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Men's Apparel,32.0,61,1952.0,1015.0400000000001,0.52,Online
+West Gear,1185732,2021-09-18,Northeast,West Virginia,Charleston,Women's Apparel,36.0,75,2700.0,1377.0,0.51,Online
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Street Footwear,41.0,115,4715.0,2546.1000000000004,0.54,Online
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,32.0,80,2560.0,1331.2,0.52,Online
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Street Footwear,33.0,44,1452.0,769.5600000000001,0.53,Online
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,32.0,47,1504.0,797.12,0.53,Online
+West Gear,1185732,2021-10-17,Northeast,West Virginia,Charleston,Men's Apparel,41.0,53,2173.0,1195.15,0.55,Online
+West Gear,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Street Footwear,50.0,112,5600.0,2968.0,0.53,Online
+West Gear,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Athletic Footwear,34.0,38,1292.0,594.3199999999999,0.45999999999999996,Online
+West Gear,1185732,2021-02-22,Northeast,West Virginia,Charleston,Women's Street Footwear,24.0,46,1104.0,518.88,0.47,Online

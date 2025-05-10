@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Apparel,75.0,300,225000.0,89999.99999999999,0.39999999999999997,In-store
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Street Footwear,70.0,450,315000.0,141750.0,0.45,In-store
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,60.00000000000001,325,195000.00000000003,87750.00000000001,0.45,In-store
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Street Footwear,60.00000000000001,320,192000.00000000003,67200.0,0.35,In-store
+West Gear,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Apparel,71.0,81,5751.0,3048.03,0.53,Online
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Street Footwear,64.0,126,8064.0,4838.4,0.6,Online
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.0,81,4455.0,2583.9,0.5800000000000001,Online
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Street Footwear,57.0,96,5472.0,2626.56,0.48,Online
+West Gear,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Apparel,54.0,90,4860.0,2235.6,0.45999999999999996,Outlet
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Street Footwear,54.0,140,7560.0,3780.0,0.5,Outlet
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,47.0,98,4606.0,2256.94,0.49,Outlet
+West Gear,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Street Footwear,46.0,102,4692.0,1736.04,0.37,Outlet

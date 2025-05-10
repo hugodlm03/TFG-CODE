@@ -1,0 +1,428 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2020-09-25,Southeast,Florida,Miami,Women's Street Footwear,45.0,750,337500.0,84375.0,0.25,In-store
+Sports Direct,1185732,2020-09-26,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,725,326250.0,97875.0,0.3,In-store
+Sports Direct,1185732,2020-09-27,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,725,398750.00000000006,139562.5,0.35,In-store
+Sports Direct,1185732,2020-09-28,Southeast,Florida,Miami,Women's Apparel,60.00000000000001,825,495000.00000000006,247500.00000000003,0.5,In-store
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,1000,600000.0000000001,270000.00000000006,0.45,In-store
+Sports Direct,1185732,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,825,412500.0000000001,144375.00000000003,0.35,In-store
+Sports Direct,1185732,2020-10-01,Southeast,Florida,Miami,Women's Street Footwear,50.000000000000014,725,362500.0000000001,90625.00000000003,0.25,In-store
+Sports Direct,1185732,2020-10-02,Southeast,Florida,Miami,Women's Athletic Footwear,50.000000000000014,700,350000.0000000001,105000.00000000003,0.3,In-store
+Sports Direct,1185732,2020-10-03,Southeast,Florida,Miami,Men's Apparel,60.00000000000001,700,420000.00000000006,147000.0,0.35,In-store
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,65.0,825,536250.0,268125.0,0.5,In-store
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,975,585000.0000000001,263250.00000000006,0.45,In-store
+Sports Direct,1185732,2020-10-06,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,800,400000.0000000001,140000.00000000003,0.35,In-store
+Sports Direct,1185732,2020-10-07,Southeast,Florida,Miami,Women's Street Footwear,50.000000000000014,745,372500.0000000001,93125.00000000003,0.25,In-store
+Sports Direct,1185732,2020-10-08,Southeast,Florida,Miami,Women's Athletic Footwear,50.000000000000014,775,387500.0000000001,116250.00000000003,0.3,In-store
+Sports Direct,1185732,2020-10-09,Southeast,Florida,Miami,Men's Apparel,65.0,750,487500.0,170625.0,0.35,In-store
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,70.0,850,595000.0,297500.0,0.5,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,65.0,1075,698750.0,314437.5,0.45,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Athletic Footwear,55.00000000000001,875,481250.00000000006,168437.5,0.35,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,127875.00000000001,0.3,In-store
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,50.0,275,137500.0,41250.0,0.3,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,55.00000000000001,200,110000.00000000001,22000.000000000004,0.2,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,50.0,400,200000.0,90000.0,0.45,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,50.0,550,275000.0,82500.0,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,60.0,400,240000.0,60000.0,0.25,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,64.99999999999999,425,276249.99999999994,82874.99999999999,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,60.0,325,195000.0,58500.0,0.3,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,65.0,175,113750.0,22750.0,0.2,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,60.0,375,225000.0,101250.0,0.45,Outlet
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Street Footwear,70.00000000000001,550,385000.00000000006,134750.0,0.35,In-store
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,70.00000000000001,550,385000.00000000006,134750.0,0.35,In-store
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Apparel,80.00000000000001,475,380000.00000000006,152000.00000000003,0.4,In-store
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Apparel,85.00000000000001,575,488750.00000000006,146625.0,0.3,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Street Footwear,35.0,750,262500.0,131250.0,0.5,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Athletic Footwear,35.0,550,192500.0,77000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Street Footwear,25.0,550,137500.0,41250.0,0.3,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Athletic Footwear,29.999999999999993,400,119999.99999999997,41999.999999999985,0.35,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Apparel,45.00000000000001,450,202500.00000000003,81000.0,0.39999999999999997,In-store
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Apparel,35.0,550,192500.0,105875.00000000001,0.55,In-store
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Street Footwear,35.0,800,280000.0,140000.0,0.5,In-store
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Athletic Footwear,35.0,450,157500.0,62999.99999999999,0.39999999999999997,In-store
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Women's Street Footwear,25.0,500,125000.0,37500.0,0.3,In-store
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,40.0,250,100000.0,40000.0,0.4,Online
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Men's Apparel,45.000000000000014,175,78750.00000000003,27562.500000000007,0.35,Online
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Apparel,40.0,375,150000.0,37500.0,0.25,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Street Footwear,40.0,525,210000.0,84000.0,0.4,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,50.0,375,187500.0,75000.0,0.4,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Street Footwear,50.0,375,187500.0,65625.0,0.35,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,50.0,250,125000.0,50000.0,0.4,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,150,82500.00000000001,28875.000000000004,0.35,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Apparel,50.0,350,175000.0,43750.0,0.25,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Street Footwear,50.0,525,262500.0,105000.0,0.4,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,55.00000000000001,325,178750.00000000003,71500.00000000001,0.4,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,375,206250.00000000003,72187.5,0.35,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,50.0,275,137500.0,55000.0,0.4,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,175,96250.00000000001,33687.5,0.35,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Apparel,70.0,350,245000.0,61250.0,0.25,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Street Footwear,50.0,550,275000.0,110000.0,0.4,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,55.00000000000001,400,220000.00000000003,88000.00000000001,0.4,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,425,233750.00000000003,81812.5,0.35,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,50.0,325,162500.0,65000.0,0.4,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,225,123750.00000000001,43312.5,0.35,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Apparel,70.0,400,280000.0,70000.0,0.25,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Street Footwear,50.0,675,337500.0,135000.0,0.4,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,55.00000000000001,525,288750.00000000006,115500.00000000003,0.4,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,50.0,400,200000.0,80000.0,0.4,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,275,151250.00000000003,52937.50000000001,0.35,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Apparel,70.0,575,402500.0,100625.0,0.25,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Street Footwear,50.0,725,362500.0,145000.0,0.4,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,55.00000000000001,575,316250.00000000006,126500.00000000003,0.4,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,50.0,425,212500.0,85000.0,0.4,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Apparel,70.0,475,332500.0,83125.0,0.25,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Street Footwear,55.00000000000001,675,371250.00000000006,148500.00000000003,0.4,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,60.00000000000001,625,375000.00000000006,150000.00000000003,0.4,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,500,275000.00000000006,96250.00000000001,0.35,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,55.00000000000001,450,247500.00000000003,99000.00000000001,0.4,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Apparel,65.0,450,292500.0,102375.0,0.35,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Apparel,70.0,425,297500.0,74375.0,0.25,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Street Footwear,45.000000000000014,600,270000.00000000006,108000.00000000003,0.4,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,50.000000000000014,600,300000.00000000006,120000.00000000003,0.4,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Street Footwear,45.000000000000014,450,202500.00000000006,70875.00000000001,0.35,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,45.000000000000014,400,180000.00000000006,72000.00000000003,0.4,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,400,220000.00000000003,77000.0,0.35,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Apparel,60.00000000000001,450,270000.00000000006,67500.00000000001,0.25,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Street Footwear,45.000000000000014,525,236250.0000000001,94500.00000000004,0.4,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,50.000000000000014,525,262500.00000000006,105000.00000000003,0.4,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Street Footwear,45.000000000000014,350,157500.00000000006,55125.000000000015,0.35,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,45.000000000000014,325,146250.00000000006,58500.00000000003,0.4,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Apparel,55.00000000000001,300,165000.00000000003,57750.00000000001,0.35,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Apparel,70.0,350,245000.0,61250.0,0.25,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Street Footwear,55.00000000000001,525,288750.00000000006,115500.00000000003,0.4,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,60.00000000000001,575,345000.00000000006,138000.00000000003,0.4,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Street Footwear,55.00000000000001,425,233750.00000000003,81812.5,0.35,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,55.00000000000001,400,220000.00000000003,88000.00000000001,0.4,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Apparel,65.0,350,227500.0,79625.0,0.35,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Apparel,70.0,475,332500.0,83125.0,0.25,Online
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Street Footwear,55.00000000000001,675,371250.00000000006,148500.00000000003,0.4,Online
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,60.00000000000001,675,405000.00000000006,162000.00000000003,0.4,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,60.00000000000001,825,495000.00000000006,123750.00000000001,0.25,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,60.00000000000001,775,465000.00000000006,139500.0,0.3,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,70.0,775,542500.0,189875.0,0.35,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,75.0,875,656250.0,328125.0,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,925,323750.0,129500.0,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,725,253750.0,88812.5,0.35,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Street Footwear,25.000000000000007,725,181250.00000000006,72500.00000000003,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,30.0,575,172500.0,69000.0,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Apparel,45.0,625,281250.0,98437.5,0.35,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Apparel,35.0,725,253750.0,126875.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,975,341250.0,136500.0,0.4,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,625,218750.0,76562.5,0.35,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Women's Street Footwear,25.000000000000007,675,168750.00000000006,67500.00000000003,0.4,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,30.0,525,157500.0,63000.0,0.4,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Men's Apparel,45.0,600,270000.0,94500.0,0.35,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Women's Apparel,30.0,700,210000.0,105000.0,0.5,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,30.0,920,276000.0,110400.0,0.4,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,30.0,600,180000.0,62999.99999999999,0.35,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,20.0,625,125000.0,50000.0,0.4,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,24.999999999999993,475,118749.99999999997,47499.99999999999,0.4,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Apparel,40.00000000000001,525,210000.00000000003,73500.0,0.35,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Apparel,30.0,625,187500.0,93750.0,0.5,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,30.0,875,262500.0,105000.0,0.4,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,30.0,575,172500.0,60374.99999999999,0.35,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,20.0,575,115000.0,46000.0,0.4,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,24.999999999999993,500,124999.99999999997,49999.99999999999,0.4,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Apparel,45.0,525,236250.0,82687.5,0.35,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Apparel,35.0,675,236250.0,118125.0,0.5,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,45.0,945,425250.0,170100.0,0.4,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,45.0,650,292500.0,102375.0,0.35,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,40.0,625,250000.0,100000.0,0.4,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,40.0,575,230000.0,92000.0,0.4,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Apparel,49.99999999999999,600,299999.99999999994,104999.99999999997,0.35,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Apparel,54.99999999999999,700,384999.99999999994,192499.99999999997,0.5,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Street Footwear,49.99999999999999,950,474999.99999999994,190000.0,0.4,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,45.0,700,315000.0,110250.0,0.35,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Street Footwear,50.0,675,337500.0,135000.0,0.4,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,50.0,650,325000.0,130000.0,0.4,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Apparel,65.0,650,422500.0,147875.0,0.35,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Apparel,70.0,825,577500.0,288750.0,0.5,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1050,682500.0,273000.0,0.4,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60.00000000000001,800,480000.00000000006,168000.0,0.35,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,55.00000000000001,725,398750.00000000006,159500.00000000003,0.4,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,55.00000000000001,675,371250.00000000006,148500.00000000003,0.4,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Apparel,65.0,700,455000.0,159250.0,0.35,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,70.0,875,612500.0,306250.0,0.5,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1025,666250.0,266500.0,0.4,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60.00000000000001,800,480000.00000000006,168000.0,0.35,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,55.00000000000001,725,398750.00000000006,159500.00000000003,0.4,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,45.0,675,303750.0,121500.0,0.4,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Apparel,55.00000000000001,650,357500.00000000006,125125.00000000001,0.35,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Apparel,60.00000000000001,825,495000.00000000006,247500.00000000003,0.5,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,55.00000000000001,925,508750.00000000006,203500.00000000003,0.4,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,50.000000000000014,725,362500.0000000001,126875.00000000003,0.35,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,30.000000000000004,625,187500.00000000003,75000.00000000001,0.4,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,30.000000000000004,600,180000.00000000003,72000.00000000001,0.4,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Apparel,40.0,600,240000.0,84000.0,0.35,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Apparel,45.00000000000001,700,315000.00000000006,157500.00000000003,0.5,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Street Footwear,45.00000000000001,875,393750.00000000006,157500.00000000003,0.4,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,35.00000000000001,700,245000.00000000006,85750.00000000001,0.35,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Street Footwear,35.00000000000001,575,201250.00000000003,80500.00000000001,0.4,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,35.00000000000001,550,192500.00000000003,77000.00000000001,0.4,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Apparel,45.00000000000001,550,247500.00000000003,86625.0,0.35,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Apparel,50.0,675,337500.0,168750.0,0.5,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,45.00000000000001,825,371250.00000000006,148500.00000000003,0.4,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,35.00000000000001,650,227500.00000000006,79625.00000000001,0.35,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,40.000000000000014,595,238000.0000000001,95200.00000000004,0.4,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,60.00000000000002,650,390000.0000000001,156000.00000000006,0.4,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Apparel,75.00000000000001,625,468750.0000000001,164062.50000000003,0.35,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Apparel,75.0,725,543750.0,271875.0,0.5,Online
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,70.0,975,682500.0,273000.0,0.4,Online
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60.00000000000001,775,465000.00000000006,162750.0,0.35,Online
+Sports Direct,1185732,2020-09-25,Southeast,Florida,Miami,Women's Street Footwear,41.0,225,9225.0,3413.25,0.37,Online
+Sports Direct,1185732,2020-09-26,Southeast,Florida,Miami,Women's Athletic Footwear,42.0,210,8820.0,3792.6,0.43,Online
+Sports Direct,1185732,2020-09-27,Southeast,Florida,Miami,Men's Apparel,50.0,210,10500.0,5250.0,0.5,Online
+Sports Direct,1185732,2020-09-28,Southeast,Florida,Miami,Women's Apparel,55.0,223,12265.0,7726.95,0.63,Online
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,56.0,270,15120.0,9072.0,0.6,Online
+Sports Direct,1185732,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,47.0,215,10105.0,4547.25,0.44999999999999996,Online
+Sports Direct,1185732,2020-10-01,Southeast,Florida,Miami,Women's Street Footwear,47.0,203,9541.0,3720.9900000000002,0.39,Online
+Sports Direct,1185732,2020-10-02,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,182,8190.0,3603.6,0.44,Online
+Sports Direct,1185732,2020-10-03,Southeast,Florida,Miami,Men's Apparel,57.0,189,10773.0,5386.5,0.5,Online
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,59.0,223,13157.0,8552.050000000001,0.65,Online
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,56.0,244,13664.0,7925.120000000001,0.5800000000000001,Online
+Sports Direct,1185732,2020-10-06,Southeast,Florida,Miami,Men's Athletic Footwear,49.0,224,10976.0,5268.48,0.48,Online
+Sports Direct,1185732,2020-10-07,Southeast,Florida,Miami,Women's Street Footwear,46.0,224,10304.0,3812.48,0.37,Online
+Sports Direct,1185732,2020-10-08,Southeast,Florida,Miami,Women's Athletic Footwear,49.0,202,9898.0,4355.12,0.44,Online
+Sports Direct,1185732,2020-10-09,Southeast,Florida,Miami,Men's Apparel,64.0,195,12480.0,6240.0,0.5,Online
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,64.0,213,13632.0,8179.2,0.6,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,63.0,323,20349.0,11395.44,0.56,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Athletic Footwear,51.0,254,12954.0,6088.38,0.47,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,52.0,248,12896.0,4771.5199999999995,0.37,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,54.0,209,11286.0,4852.98,0.43,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,45.0,74,3330.0,1465.2,0.44,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,52.0,60,3120.0,998.4,0.32,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,47.0,108,5076.0,2944.0800000000004,0.5800000000000001,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,46.0,160,7360.0,3017.6,0.41,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,58.0,100,5800.0,2204.0,0.38,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,59.0,115,6785.0,2917.55,0.43,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,58.0,91,5278.0,2216.7599999999998,0.42,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,61.0,44,2684.0,885.72,0.33,Online
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,54.0,101,5454.0,3272.4,0.6,Online
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Street Footwear,64.0,154,9856.0,4730.88,0.48,Online
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,67.0,160,10720.0,5360.0,0.5,Online
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Apparel,72.0,133,9576.0,4883.76,0.51,Online
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Apparel,82.0,150,12300.0,5289.0,0.43,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Street Footwear,34.0,203,6902.0,4210.22,0.61,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Athletic Footwear,34.0,154,5236.0,2670.36,0.51,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Street Footwear,23.0,149,3427.0,1370.8000000000002,0.4,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Athletic Footwear,29.0,116,3364.0,1682.0,0.5,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Apparel,43.0,122,5246.0,2727.92,0.52,Online
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Apparel,33.0,138,4554.0,3096.7200000000003,0.68,Online
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Street Footwear,34.0,200,6800.0,4284.0,0.63,Online
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Athletic Footwear,33.0,117,3861.0,2007.72,0.52,Online
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Women's Street Footwear,23.0,150,3450.0,1483.5,0.43,Online
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,36.0,63,2268.0,1179.3600000000001,0.52,Online
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Men's Apparel,41.0,51,2091.0,1003.68,0.48,Online
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Apparel,37.0,98,3626.0,1305.36,0.36,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Street Footwear,37.0,137,5069.0,2534.5,0.5,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,46.0,101,4646.0,2462.38,0.53,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Street Footwear,49.0,113,5537.0,2713.13,0.49,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,47.0,73,3431.0,1784.1200000000001,0.52,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Apparel,51.0,39,1989.0,934.8299999999999,0.47,Online
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Apparel,48.0,95,4560.0,1641.6,0.36,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Street Footwear,45.0,142,6390.0,3258.9,0.51,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,51.0,88,4488.0,2244.0,0.5,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Street Footwear,50.0,94,4700.0,2350.0,0.5,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,48.0,69,3312.0,1821.6000000000001,0.55,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Apparel,52.0,53,2756.0,1322.8799999999999,0.48,Online
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Apparel,63.0,105,6615.0,2646.0,0.4,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Street Footwear,47.0,160,7520.0,4060.8,0.54,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,52.0,108,5616.0,2920.32,0.52,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Street Footwear,52.0,123,6396.0,3198.0,0.5,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,47.0,91,4277.0,2309.58,0.54,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Apparel,50.0,56,2800.0,1344.0,0.48,Online
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Apparel,64.0,120,7680.0,3072.0,0.4,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Street Footwear,46.0,176,8096.0,4290.88,0.53,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,54.0,147,7938.0,4048.38,0.51,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Street Footwear,52.0,142,7384.0,3544.3199999999997,0.48,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,49.0,120,5880.0,2998.8,0.51,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Apparel,51.0,72,3672.0,1762.56,0.48,Online
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Apparel,67.0,150,10050.0,3517.5,0.35,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Street Footwear,47.0,196,9212.0,4606.0,0.5,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,51.0,173,8823.0,4499.7300000000005,0.51,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Street Footwear,50.0,137,6850.0,3425.0,0.5,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,46.0,128,5888.0,3002.88,0.51,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Apparel,54.0,138,7452.0,3576.96,0.48,Online
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Apparel,67.0,143,9581.0,3640.78,0.38,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Street Footwear,53.0,182,9646.0,4919.46,0.51,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,58.0,175,10150.0,5278.0,0.52,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Street Footwear,54.0,150,8100.0,3725.9999999999995,0.45999999999999996,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,53.0,113,5989.0,3114.28,0.52,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Apparel,60.0,126,7560.0,3628.7999999999997,0.48,Online
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Apparel,68.0,119,8092.0,2832.2,0.35,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Street Footwear,43.0,180,7740.0,4179.6,0.54,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,47.0,156,7332.0,4032.6000000000004,0.55,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Street Footwear,42.0,135,5670.0,2664.8999999999996,0.47,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,43.0,120,5160.0,2786.4,0.54,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Apparel,54.0,100,5400.0,2592.0,0.48,Online
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Apparel,59.0,131,7729.0,3091.6000000000004,0.4,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Street Footwear,42.0,131,5502.0,2806.02,0.51,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,47.0,142,6674.0,3470.48,0.52,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Street Footwear,42.0,105,4410.0,2072.7,0.47,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,44.0,88,3872.0,1936.0,0.5,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Apparel,50.0,90,4500.0,2070.0,0.45999999999999996,Online
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Apparel,64.0,102,6528.0,2545.92,0.39,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Street Footwear,51.0,137,6987.0,3563.37,0.51,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,58.0,173,10034.0,5418.360000000001,0.54,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Street Footwear,54.0,115,6210.0,2918.7,0.47,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,51.0,116,5916.0,3076.32,0.52,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Apparel,60.0,102,6120.0,2876.3999999999996,0.47,Online
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Apparel,65.0,124,8060.0,2821.0,0.35,Online
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Street Footwear,50.0,203,10150.0,5582.5,0.55,Online
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,58.0,189,10962.0,5809.860000000001,0.53,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,56.0,215,12040.0,4214.0,0.35,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,59.0,194,11446.0,5150.7,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,66.0,225,14850.0,6682.499999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,68.0,228,15504.0,9302.4,0.6,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,231,7623.0,3811.5,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,181,6154.0,3077.0,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,189,4536.0,2449.44,0.54,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.0,173,5017.0,2759.3500000000004,0.55,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Apparel,42.0,156,6552.0,3013.9199999999996,0.45999999999999996,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Apparel,34.0,196,6664.0,4264.96,0.64,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Street Footwear,34.0,263,8942.0,4471.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,188,6392.0,3068.16,0.48,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Women's Street Footwear,23.0,169,3887.0,2137.8500000000004,0.55,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,29.0,142,4118.0,2059.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Men's Apparel,44.0,180,7920.0,3960.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,North Carolina,Charlotte,Women's Apparel,29.0,203,5887.0,3532.2,0.6,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,28.0,276,7728.0,4173.12,0.54,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,29.0,150,4350.0,1957.4999999999998,0.44999999999999996,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,19.0,181,3439.0,1788.28,0.52,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,25.0,124,3100.0,1674.0,0.54,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Men's Apparel,37.0,158,5846.0,2630.7,0.44999999999999996,Online
+Sports Direct,1185732,2021-03-02,Southeast,North Carolina,Charlotte,Women's Apparel,27.0,169,4563.0,2829.06,0.62,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,27.0,263,7101.0,3834.5400000000004,0.54,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,28.0,155,4340.0,2039.8,0.47,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,20.0,144,2880.0,1584.0000000000002,0.55,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,24.0,140,3360.0,1814.4,0.54,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Men's Apparel,42.0,131,5502.0,2751.0,0.5,Online
+Sports Direct,1185732,2021-04-03,Southeast,North Carolina,Charlotte,Women's Apparel,32.0,189,6048.0,3689.2799999999997,0.61,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,41.0,246,10086.0,5547.3,0.55,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,42.0,182,7644.0,3516.24,0.45999999999999996,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,37.0,169,6253.0,3314.09,0.53,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,38.0,150,5700.0,3078.0,0.54,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Apparel,46.0,150,6900.0,3381.0,0.49,Online
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Women's Apparel,51.0,203,10353.0,6418.86,0.62,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Street Footwear,46.0,238,10948.0,6021.400000000001,0.55,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,42.0,182,7644.0,3592.68,0.47,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Street Footwear,47.0,169,7943.0,4289.22,0.54,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,49.0,169,8281.0,4223.31,0.51,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Apparel,61.0,163,9943.0,4872.07,0.49,Online
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Apparel,67.0,231,15477.0,9286.199999999999,0.6,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,60.0,294,17640.0,8820.0,0.5,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,58.0,224,12992.0,6496.0,0.5,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,53.0,196,10388.0,5713.400000000001,0.55,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,52.0,203,10556.0,5383.56,0.51,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Apparel,59.0,182,10738.0,5261.62,0.49,Online
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,64.0,263,16832.0,10604.16,0.63,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,61.0,308,18788.0,9957.640000000001,0.53,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,58.0,200,11600.0,5219.999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,54.0,210,11340.0,6010.200000000001,0.53,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,44.0,182,8008.0,4244.24,0.53,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Apparel,53.0,176,9328.0,4477.44,0.48,Online
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Apparel,54.0,231,12474.0,7983.360000000001,0.64,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,53.0,250,13250.0,6890.0,0.52,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,49.0,181,8869.0,4434.5,0.5,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,28.0,175,4900.0,2499.0,0.51,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,28.0,150,4200.0,2100.0,0.5,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Apparel,38.0,156,5928.0,2726.8799999999997,0.45999999999999996,Online
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Women's Apparel,41.0,203,8323.0,5077.03,0.61,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Street Footwear,42.0,245,10290.0,5556.6,0.54,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,33.0,196,6468.0,2975.2799999999997,0.45999999999999996,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Street Footwear,34.0,150,5100.0,2601.0,0.51,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,34.0,160,5440.0,2937.6000000000004,0.54,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Men's Apparel,42.0,149,6258.0,2941.2599999999998,0.47,Online
+Sports Direct,1185732,2021-10-04,Southeast,North Carolina,Charlotte,Women's Apparel,48.0,176,8448.0,5322.24,0.63,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,44.0,215,9460.0,5203.0,0.55,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,32.0,195,6240.0,2932.7999999999997,0.47,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,38.0,167,6346.0,3426.84,0.54,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,55.0,163,8965.0,4572.15,0.51,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Apparel,72.0,163,11736.0,5750.64,0.49,Online
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Apparel,72.0,210,15120.0,9676.800000000001,0.64,Online
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,64.0,244,15616.0,7964.16,0.51,Online
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,55.0,202,11110.0,4999.499999999999,0.44999999999999996,Online
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Athletic Footwear,36.0,94,3384.0,1252.08,0.37,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Men's Apparel,44.0,62,2728.0,654.72,0.24000000000000002,Outlet
+Sports Direct,1128299,2021-02-17,Southeast,Florida,Orlando,Women's Apparel,33.0,124,4092.0,2086.92,0.51,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Street Footwear,35.0,171,5985.0,2034.8999999999999,0.33999999999999997,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Athletic Footwear,44.0,124,5456.0,1691.36,0.31,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Street Footwear,47.0,149,7003.0,2240.96,0.32,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Athletic Footwear,42.0,114,4788.0,1675.8,0.35,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Men's Apparel,44.0,60,2640.0,686.4,0.26,Outlet
+Sports Direct,1128299,2021-03-16,Southeast,Florida,Orlando,Women's Apparel,48.0,131,6288.0,2955.36,0.47000000000000003,Outlet
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Street Footwear,53.0,165,8745.0,3497.9999999999995,0.39999999999999997,Outlet
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,51.0,176,8976.0,3500.6399999999994,0.38999999999999996,Outlet
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Apparel,59.0,157,9263.0,3890.4600000000005,0.42000000000000004,Outlet
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Apparel,65.0,190,12350.0,4322.5,0.35,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Street Footwear,23.0,233,5359.0,2786.6800000000003,0.52,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Athletic Footwear,28.0,187,5236.0,2460.92,0.47,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Street Footwear,18.0,176,3168.0,1013.76,0.32,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Athletic Footwear,21.0,136,2856.0,1199.52,0.42,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Men's Apparel,30.0,140,4200.0,1889.9999999999998,0.44999999999999996,Outlet
+Sports Direct,1185732,2021-01-19,Southeast,Virginia,Richmond,Women's Apparel,25.0,193,4825.0,2798.5000000000005,0.5800000000000001,Outlet
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Street Footwear,26.0,256,6656.0,3660.8,0.55,Outlet
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Men's Athletic Footwear,27.0,153,4131.0,1858.9499999999998,0.44999999999999996,Outlet
+Sports Direct,1185732,2021-02-17,Southeast,Virginia,Richmond,Women's Street Footwear,17.0,170,2890.0,1040.3999999999999,0.36,Outlet
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,30.0,80,2400.0,1056.0,0.44,Outlet
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Men's Apparel,34.0,60,2040.0,795.5999999999999,0.38999999999999996,Outlet
+Sports Direct,1128299,2021-02-13,Southeast,Georgia,Atlanta,Women's Apparel,28.0,131,3668.0,1063.72,0.29,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Street Footwear,30.0,163,4890.0,2102.7000000000003,0.43000000000000005,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,37.0,113,4181.0,1839.64,0.44,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Street Footwear,39.0,124,4836.0,1837.68,0.38,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,38.0,78,2964.0,1333.8,0.45,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Men's Apparel,41.0,45,1845.0,756.4499999999999,0.41,Outlet
+Sports Direct,1128299,2021-03-12,Southeast,Georgia,Atlanta,Women's Apparel,40.0,112,4480.0,1299.1999999999998,0.29,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Street Footwear,37.0,179,6623.0,2847.8900000000003,0.43000000000000005,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,111,4440.0,1864.8000000000002,0.42000000000000004,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Street Footwear,36.0,113,4068.0,1505.16,0.37,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,40.0,96,3840.0,1728.0,0.45,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Men's Apparel,38.0,56,2128.0,893.76,0.42,Outlet
+Sports Direct,1128299,2021-04-13,Southeast,Georgia,Atlanta,Women's Apparel,56.0,112,6272.0,1756.16,0.28,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Street Footwear,37.0,187,6919.0,3182.7400000000002,0.46,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,36.0,136,4896.0,2203.2000000000003,0.45,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Street Footwear,40.0,145,5800.0,2261.9999999999995,0.38999999999999996,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,34.0,114,3876.0,1666.6800000000003,0.43000000000000005,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Men's Apparel,39.0,74,2886.0,1212.12,0.42,Outlet
+Sports Direct,1128299,2021-05-14,Southeast,Georgia,Atlanta,Women's Apparel,53.0,124,6572.0,2037.32,0.31,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Street Footwear,35.0,203,7105.0,3055.1500000000005,0.43000000000000005,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,41.0,163,6683.0,2940.52,0.44,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Street Footwear,39.0,158,6162.0,2341.56,0.38,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,33.0,132,4356.0,1873.0800000000002,0.43000000000000005,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Men's Apparel,42.0,94,3948.0,1539.7199999999998,0.38999999999999996,Outlet
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Apparel,53.0,190,10070.0,3222.4,0.32,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Street Footwear,37.0,218,8066.0,3710.36,0.46,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,37.0,173,6401.0,2944.46,0.46,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Street Footwear,41.0,184,7544.0,3093.04,0.41,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Athletic Footwear,39.0,128,4992.0,2246.4,0.45,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Men's Apparel,39.0,162,6318.0,2400.84,0.38,Outlet
+Sports Direct,1128299,2021-07-12,Southeast,Georgia,Atlanta,Women's Apparel,51.0,157,8007.0,2322.0299999999997,0.29,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Street Footwear,39.0,209,8151.0,3749.46,0.46,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,44.0,200,8800.0,3696.0000000000005,0.42000000000000004,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Street Footwear,42.0,150,6300.0,2646.0,0.42,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,42.0,149,6258.0,2816.1,0.45,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Men's Apparel,51.0,140,7140.0,2784.6,0.38999999999999996,Outlet
+Sports Direct,1128299,2021-08-13,Southeast,Georgia,Atlanta,Women's Apparel,50.0,128,6400.0,1855.9999999999998,0.29,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Street Footwear,31.0,204,6324.0,2909.04,0.46,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Athletic Footwear,38.0,198,7524.0,3310.56,0.44,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Street Footwear,32.0,135,4320.0,1598.4,0.37,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Athletic Footwear,35.0,120,4200.0,1932.0,0.46,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Men's Apparel,36.0,132,4752.0,1758.24,0.37,Outlet
+Sports Direct,1128299,2021-09-14,Southeast,Georgia,Atlanta,Women's Apparel,46.0,135,6210.0,1863.0,0.3,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Street Footwear,34.0,173,5882.0,2705.7200000000003,0.46,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,34.0,173,5882.0,2470.44,0.42000000000000004,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Street Footwear,32.0,123,3936.0,1495.68,0.38,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,32.0,114,3648.0,1605.1200000000001,0.44,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Men's Apparel,41.0,102,4182.0,1672.8,0.39999999999999997,Outlet
+Sports Direct,1128299,2021-10-13,Southeast,Georgia,Atlanta,Women's Apparel,46.0,109,5014.0,1554.34,0.31,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Street Footwear,36.0,173,6228.0,2615.76,0.42000000000000004,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Athletic Footwear,40.0,184,7360.0,3238.4,0.44,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Street Footwear,39.0,145,5655.0,2262.0,0.39999999999999997,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Athletic Footwear,37.0,140,5180.0,2382.8,0.46,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Men's Apparel,47.0,119,5593.0,2125.34,0.38,Outlet
+Sports Direct,1128299,2021-11-13,Southeast,Georgia,Atlanta,Women's Apparel,46.0,157,7222.0,2094.3799999999997,0.29,Outlet
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Street Footwear,42.0,209,8778.0,4125.66,0.47000000000000003,Outlet
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,39.0,223,8697.0,4087.59,0.47000000000000003,Outlet

@@ -1,0 +1,101 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,30.0,100,30000.0,12000.0,0.4,In-store
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Men's Apparel,45.0,175,78750.0,23625.0,0.3,In-store
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Women's Apparel,35.0,275,96250.0,38500.0,0.4,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Street Footwear,35.0,495,173250.0,60637.49999999999,0.35,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,35.0,200,70000.0,24500.0,0.35,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Street Footwear,25.000000000000007,225,56250.000000000015,22500.000000000007,0.4,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,30.0,75,22500.0,9000.0,0.4,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Street Footwear,35.0,475,166250.0,58187.49999999999,0.35,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,35.0,175,61250.0,21437.5,0.35,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Street Footwear,25.000000000000007,175,43750.000000000015,17500.000000000007,0.4,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,30.0,100,30000.0,12000.0,0.4,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Apparel,45.0,100,45000.0,13500.0,0.3,In-store
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Apparel,35.0,250,87500.0,35000.0,0.4,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Street Footwear,49.99999999999999,520,259999.99999999997,90999.99999999999,0.35,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Street Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Apparel,49.99999999999999,225,112499.99999999999,33749.99999999999,0.3,In-store
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Apparel,54.99999999999999,350,192499.99999999997,76999.99999999999,0.4,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Street Footwear,49.99999999999999,600,299999.99999999994,104999.99999999997,0.35,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Athletic Footwear,45.0,350,157500.0,55125.0,0.35,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Street Footwear,40.0,275,110000.0,44000.0,0.4,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Apparel,49.99999999999999,250,124999.99999999999,37499.99999999999,0.3,In-store
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Apparel,54.99999999999999,400,219999.99999999997,88000.0,0.4,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Street Footwear,49.99999999999999,625,312499.99999999994,109374.99999999997,0.35,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,45.0,375,168750.0,59062.49999999999,0.35,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Street Footwear,40.0,300,120000.0,48000.0,0.4,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Apparel,49.99999999999999,275,137499.99999999997,41249.99999999999,0.3,In-store
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Apparel,54.99999999999999,450,247499.99999999997,99000.0,0.4,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Street Footwear,49.99999999999999,600,299999.99999999994,104999.99999999997,0.35,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,45.0,375,168750.0,59062.49999999999,0.35,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Street Footwear,40.0,300,120000.0,48000.0,0.4,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Apparel,49.99999999999999,175,87499.99999999999,26249.999999999996,0.3,In-store
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Apparel,54.99999999999999,350,192499.99999999997,76999.99999999999,0.4,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Street Footwear,49.99999999999999,475,237499.99999999997,83124.99999999999,0.35,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Street Footwear,40.0,175,70000.0,28000.0,0.4,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,40.0,150,60000.0,24000.0,0.4,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Apparel,49.99999999999999,150,74999.99999999999,22499.999999999996,0.3,In-store
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Apparel,54.99999999999999,250,137499.99999999997,54999.99999999999,0.4,In-store
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Street Footwear,54.99999999999999,425,233749.99999999997,81812.49999999999,0.35,In-store
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Street Footwear,50.0,150,75000.0,30000.0,0.4,In-store
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,50.0,125,62500.0,25000.0,0.4,In-store
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Apparel,60.0,125,75000.0,22500.0,0.3,In-store
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,29.0,30,870.0,461.1,0.53,Online
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Men's Apparel,41.0,47,1927.0,770.8000000000001,0.4,Online
+Kohl's,1185732,2021-02-08,Northeast,New Jersey,Newark,Women's Apparel,32.0,74,2368.0,1255.04,0.53,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Street Footwear,32.0,144,4608.0,2119.68,0.45999999999999996,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,32.0,58,1856.0,909.4399999999999,0.49,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Street Footwear,24.0,59,1416.0,750.48,0.53,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,27.0,22,594.0,308.88,0.52,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Men's Apparel,43.0,34,1462.0,657.9,0.44999999999999996,Online
+Kohl's,1185732,2021-03-06,Northeast,New Jersey,Newark,Women's Apparel,32.0,61,1952.0,976.0,0.5,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Street Footwear,34.0,133,4522.0,2261.0,0.5,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,33.0,51,1683.0,774.18,0.45999999999999996,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Street Footwear,24.0,51,1224.0,612.0,0.5,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,27.0,27,729.0,371.79,0.51,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Men's Apparel,44.0,27,1188.0,522.72,0.44,Online
+Kohl's,1185732,2021-04-07,Northeast,New Jersey,Newark,Women's Apparel,33.0,68,2244.0,1211.76,0.54,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Street Footwear,48.0,130,6240.0,2932.7999999999997,0.47,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,41.0,68,2788.0,1394.0,0.5,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Street Footwear,38.0,75,2850.0,1425.0,0.5,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,38.0,56,2128.0,1064.0,0.5,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Men's Apparel,47.0,68,3196.0,1310.36,0.41,Online
+Kohl's,1185732,2021-05-06,Northeast,New Jersey,Newark,Women's Apparel,51.0,102,5202.0,2705.04,0.52,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Street Footwear,45.0,156,7020.0,3229.2,0.45999999999999996,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Athletic Footwear,44.0,105,4620.0,2125.2,0.45999999999999996,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Street Footwear,38.0,69,2622.0,1389.66,0.53,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,39.0,65,2535.0,1368.9,0.54,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Men's Apparel,46.0,65,2990.0,1345.4999999999998,0.44999999999999996,Online
+Kohl's,1185732,2021-06-08,Northeast,New Jersey,Newark,Women's Apparel,50.0,120,6000.0,3000.0,0.5,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Street Footwear,47.0,188,8836.0,4152.92,0.47,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,42.0,98,4116.0,2058.0,0.5,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Street Footwear,37.0,81,2997.0,1558.44,0.52,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,36.0,63,2268.0,1224.72,0.54,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Men's Apparel,48.0,74,3552.0,1527.36,0.43,Online
+Kohl's,1185732,2021-07-06,Northeast,New Jersey,Newark,Women's Apparel,54.0,131,7074.0,3749.2200000000003,0.53,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Street Footwear,47.0,180,8460.0,4060.7999999999997,0.48,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Athletic Footwear,42.0,101,4242.0,1993.7399999999998,0.47,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Street Footwear,37.0,75,2775.0,1498.5,0.54,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Athletic Footwear,36.0,52,1872.0,954.72,0.51,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Men's Apparel,46.0,46,2116.0,909.88,0.43,Online
+Kohl's,1185732,2021-08-07,Northeast,New Jersey,Newark,Women's Apparel,52.0,105,5460.0,2893.8,0.53,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Street Footwear,46.0,124,5704.0,2794.96,0.49,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Athletic Footwear,41.0,72,2952.0,1476.0,0.5,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Street Footwear,39.0,51,1989.0,1054.17,0.53,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Athletic Footwear,37.0,38,1406.0,745.1800000000001,0.53,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Men's Apparel,47.0,41,1927.0,790.0699999999999,0.41,Online
+Kohl's,1185732,2021-09-06,Northeast,New Jersey,Newark,Women's Apparel,50.0,73,3650.0,1934.5,0.53,Online
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Street Footwear,53.0,119,6307.0,2901.22,0.45999999999999996,Online
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Athletic Footwear,48.0,63,3024.0,1512.0,0.5,Online
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Street Footwear,46.0,42,1932.0,966.0,0.5,Online
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Women's Athletic Footwear,48.0,31,1488.0,773.76,0.52,Online
+Kohl's,1185732,2021-10-08,Northeast,New Jersey,Newark,Men's Apparel,58.0,38,2204.0,903.64,0.41,Online

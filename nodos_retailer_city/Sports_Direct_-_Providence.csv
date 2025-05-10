@@ -1,0 +1,67 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,200,129999.99999999997,51999.99999999999,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,60.0,350,210000.0,73500.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,225,112500.0,39375.0,0.35,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,220,110000.0,44000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,200,100000.0,40000.0,0.4,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,60.0,175,105000.0,31500.0,0.3,In-store
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,275,178749.99999999997,71499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,60.0,500,300000.0,105000.0,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,300,150000.0,52500.0,0.35,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,275,137500.0,55000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,225,112500.0,45000.0,0.4,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,60.0,225,135000.0,40500.0,0.3,In-store
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,450,180000.0,54000.0,0.3,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,30.000000000000004,250,75000.00000000001,18750.000000000004,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,35.0,100,35000.0,8750.0,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,50.0,150,75000.0,18750.0,0.25,In-store
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,40.0,250,100000.0,30000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,500,200000.0,60000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,150,60000.0,18000.0,0.3,In-store
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,30.000000000000004,200,60000.00000000001,15000.000000000002,0.25,In-store
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,64.0,58,3712.0,1893.1200000000001,0.51,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,55.0,95,5225.0,2560.25,0.49,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,46.0,63,2898.0,1304.1,0.44999999999999996,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,48.0,64,3072.0,1658.88,0.54,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,48.0,58,2784.0,1531.2,0.55,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,58.0,44,2552.0,1122.88,0.44,Online
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,60.0,77,4620.0,2402.4,0.52,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,54.0,135,7290.0,3645.0,0.5,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,78,3510.0,1684.8,0.48,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,47.0,74,3478.0,1773.78,0.51,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,48.0,65,3120.0,1560.0,0.5,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,56.0,68,3808.0,1637.44,0.43,Online
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,60.0,85,5100.0,2805.0,0.55,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,126,4788.0,2058.84,0.43,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,68,2584.0,1136.96,0.44,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,27.0,73,1971.0,709.56,0.36,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,34.0,26,884.0,335.92,0.38,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,48.0,41,1968.0,767.52,0.39,Online
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,38.0,70,2660.0,1090.6,0.41,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,36.0,140,5040.0,2066.4,0.41,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,41,1558.0,654.36,0.42,Online
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,29.0,60,1740.0,661.2,0.38,Online
+Sports Direct,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Apparel,47.0,66,3102.0,1364.88,0.44,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Street Footwear,40.0,105,4200.0,1764.0,0.42,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,40.0,74,2960.0,1243.2,0.42,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Street Footwear,37.0,68,2516.0,1132.2,0.45,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,36.0,68,2448.0,1101.6000000000001,0.45,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Men's Apparel,43.0,61,2623.0,865.5899999999999,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-11-07,Northeast,Rhode Island,Providence,Women's Apparel,46.0,83,3818.0,1679.92,0.44,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Street Footwear,48.0,160,7680.0,2995.2,0.38999999999999996,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,37.0,102,3774.0,1396.3799999999999,0.37,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,88,3520.0,1654.4,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,34.0,77,2618.0,1125.7400000000002,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Men's Apparel,41.0,74,3034.0,1122.58,0.37,Outlet
+Sports Direct,1185732,2021-12-06,Northeast,Rhode Island,Providence,Women's Apparel,51.0,111,5661.0,2434.2300000000005,0.43000000000000005,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Street Footwear,28.0,140,3920.0,1293.6,0.32999999999999996,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Athletic Footwear,28.0,88,2464.0,837.7599999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Street Footwear,22.0,75,1650.0,478.49999999999994,0.29,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Athletic Footwear,25.0,33,825.0,255.75,0.31,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Men's Apparel,39.0,47,1833.0,586.5600000000001,0.32,Outlet
+Sports Direct,1185732,2021-01-17,Northeast,Rhode Island,Providence,Women's Apparel,26.0,83,2158.0,733.7199999999999,0.33999999999999997,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Street Footwear,26.0,155,4030.0,1491.1,0.37,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Men's Athletic Footwear,31.0,53,1643.0,575.05,0.35,Outlet
+Sports Direct,1185732,2021-02-15,Northeast,Rhode Island,Providence,Women's Street Footwear,24.0,70,1680.0,487.2,0.29,Outlet

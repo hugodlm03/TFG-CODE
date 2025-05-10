@@ -1,0 +1,45 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Walmart,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Apparel,70.0,525,367500.0,55125.0,0.15,Outlet
+Walmart,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Apparel,75.0,350,262500.0,105000.0,0.4,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Street Footwear,65.00000000000001,550,357500.00000000006,89375.00000000001,0.25,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Athletic Footwear,70.00000000000001,550,385000.00000000006,77000.00000000001,0.2,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Street Footwear,65.00000000000001,375,243750.00000000006,60937.500000000015,0.25,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Athletic Footwear,65.00000000000001,325,211250.00000000006,52812.500000000015,0.25,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Apparel,75.00000000000001,350,262500.00000000006,39375.00000000001,0.15,Outlet
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Apparel,60.0,375,225000.0,90000.0,0.4,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Street Footwear,55.00000000000001,475,261250.00000000003,65312.50000000001,0.25,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Athletic Footwear,65.00000000000001,475,308750.00000000006,61750.000000000015,0.2,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Street Footwear,60.00000000000001,300,180000.00000000003,45000.00000000001,0.25,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Athletic Footwear,55.00000000000001,275,151250.00000000003,37812.50000000001,0.25,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Apparel,65.0,250,162500.0,24375.0,0.15,Outlet
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Apparel,70.0,300,210000.0,84000.0,0.4,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Street Footwear,55.00000000000001,525,288750.00000000006,72187.50000000001,0.25,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Athletic Footwear,60.00000000000001,600,360000.00000000006,72000.00000000001,0.2,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Street Footwear,55.00000000000001,425,233750.00000000003,58437.50000000001,0.25,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Athletic Footwear,65.00000000000001,400,260000.00000000006,65000.000000000015,0.25,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Apparel,85.00000000000001,375,318750.00000000006,47812.50000000001,0.15,Outlet
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Apparel,90.00000000000001,500,450000.00000000006,180000.00000000003,0.4,Outlet
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Street Footwear,75.00000000000001,700,525000.0000000001,131250.00000000003,0.25,Outlet
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.00000000000001,700,595000.0000000001,119000.00000000003,0.2,Outlet
+Walmart,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Apparel,69.0,147,10143.0,2738.61,0.27,Online
+Walmart,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Apparel,72.0,88,6336.0,3358.0800000000004,0.53,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Street Footwear,62.0,149,9238.0,3325.68,0.36,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Athletic Footwear,69.0,149,10281.0,3392.73,0.33,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Street Footwear,64.0,105,6720.0,2620.8,0.39,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Athletic Footwear,62.0,85,5270.0,2108.0,0.4,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Men's Apparel,71.0,91,6461.0,1938.3,0.3,Online
+Walmart,1128299,2021-09-11,West,Hawaii,Honolulu,Women's Apparel,56.0,105,5880.0,3116.4,0.53,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Street Footwear,52.0,124,6448.0,2579.2000000000003,0.4,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Athletic Footwear,61.0,138,8418.0,2525.4000000000005,0.30000000000000004,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Street Footwear,56.0,87,4872.0,1705.1999999999998,0.35,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Athletic Footwear,50.0,83,4150.0,1535.5,0.37,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Men's Apparel,63.0,70,4410.0,1234.8000000000002,0.28,Online
+Walmart,1128299,2021-10-10,West,Hawaii,Honolulu,Women's Apparel,64.0,75,4800.0,2448.0,0.51,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Street Footwear,51.0,158,8058.0,2981.46,0.37,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Athletic Footwear,56.0,168,9408.0,3010.56,0.32,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Street Footwear,50.0,123,6150.0,2460.0,0.4,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Athletic Footwear,60.0,104,6240.0,2433.6,0.39,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Men's Apparel,83.0,113,9379.0,2813.7,0.3,Online
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Apparel,82.0,140,11480.0,5969.6,0.52,Online
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Street Footwear,68.0,189,12852.0,5140.8,0.4,Online
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Athletic Footwear,77.0,182,14014.0,4204.200000000001,0.30000000000000004,Online

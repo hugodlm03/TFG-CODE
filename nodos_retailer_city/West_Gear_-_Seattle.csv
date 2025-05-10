@@ -1,0 +1,137 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-05-30,West,Washington,Seattle,Men's Apparel,55.00000000000001,250,137500.00000000003,34375.00000000001,0.25,In-store
+West Gear,1128299,2020-05-31,West,Washington,Seattle,Women's Apparel,50.0,500,250000.0,50000.0,0.2,In-store
+West Gear,1128299,2020-06-01,West,Washington,Seattle,Men's Street Footwear,40.0,550,220000.0,66000.0,0.3,In-store
+West Gear,1128299,2020-06-02,West,Washington,Seattle,Men's Athletic Footwear,50.0,450,225000.0,56250.0,0.25,In-store
+West Gear,1128299,2020-06-03,West,Washington,Seattle,Women's Street Footwear,50.0,450,225000.0,56250.0,0.25,In-store
+West Gear,1128299,2020-06-04,West,Washington,Seattle,Women's Athletic Footwear,50.0,300,150000.0,45000.0,0.3,In-store
+West Gear,1128299,2020-06-05,West,Washington,Seattle,Men's Apparel,55.00000000000001,225,123750.00000000001,30937.500000000004,0.25,In-store
+West Gear,1128299,2020-06-06,West,Washington,Seattle,Women's Apparel,50.0,425,212500.0,42500.0,0.2,In-store
+West Gear,1128299,2020-06-07,West,Washington,Seattle,Men's Street Footwear,50.0,575,287500.0,86250.0,0.3,In-store
+West Gear,1128299,2020-06-08,West,Washington,Seattle,Men's Athletic Footwear,60.0,425,255000.0,63750.0,0.25,In-store
+West Gear,1128299,2020-06-09,West,Washington,Seattle,Women's Street Footwear,64.99999999999999,425,276249.99999999994,69062.49999999999,0.25,In-store
+West Gear,1128299,2020-06-10,West,Washington,Seattle,Women's Athletic Footwear,64.99999999999999,325,211249.99999999994,63374.99999999998,0.3,In-store
+West Gear,1128299,2020-06-11,West,Washington,Seattle,Men's Apparel,70.0,175,122500.0,30625.0,0.25,In-store
+West Gear,1128299,2020-06-12,West,Washington,Seattle,Women's Apparel,64.99999999999999,375,243749.99999999994,48749.99999999999,0.2,In-store
+West Gear,1128299,2020-06-13,West,Washington,Seattle,Men's Street Footwear,70.0,550,385000.0,115500.0,0.3,In-store
+West Gear,1128299,2020-06-14,West,Washington,Seattle,Men's Athletic Footwear,75.0,350,262500.0,65625.0,0.25,In-store
+West Gear,1128299,2020-06-15,West,Washington,Seattle,Women's Street Footwear,75.0,400,300000.0,75000.0,0.25,In-store
+West Gear,1128299,2020-06-16,West,Washington,Seattle,Women's Athletic Footwear,60.0,300,180000.0,54000.0,0.3,In-store
+West Gear,1128299,2020-06-17,West,Washington,Seattle,Men's Apparel,65.0,200,130000.0,32500.0,0.25,In-store
+West Gear,1128299,2020-06-18,West,Washington,Seattle,Women's Apparel,80.0,350,280000.0,56000.0,0.2,In-store
+West Gear,1128299,2020-06-19,West,Washington,Seattle,Men's Street Footwear,60.0,550,330000.0,99000.0,0.3,In-store
+West Gear,1128299,2020-06-20,West,Washington,Seattle,Men's Athletic Footwear,65.0,400,260000.0,65000.0,0.25,In-store
+West Gear,1128299,2020-06-21,West,Washington,Seattle,Women's Street Footwear,65.0,400,260000.0,65000.0,0.25,In-store
+West Gear,1128299,2020-06-22,West,Washington,Seattle,Women's Athletic Footwear,60.0,300,180000.0,54000.0,0.3,In-store
+West Gear,1128299,2020-06-23,West,Washington,Seattle,Men's Apparel,65.0,200,130000.0,32500.0,0.25,In-store
+West Gear,1128299,2020-06-24,West,Washington,Seattle,Women's Apparel,80.0,500,400000.0,80000.0,0.2,In-store
+West Gear,1128299,2020-06-25,West,Washington,Seattle,Men's Street Footwear,75.0,750,562500.0,168750.0,0.3,In-store
+West Gear,1128299,2020-06-26,West,Washington,Seattle,Men's Athletic Footwear,80.0,625,500000.0,125000.0,0.25,In-store
+West Gear,1128299,2020-06-27,West,Washington,Seattle,Women's Street Footwear,80.0,625,500000.0,125000.0,0.25,In-store
+West Gear,1128299,2020-06-28,West,Washington,Seattle,Women's Athletic Footwear,80.0,500,400000.0,120000.0,0.3,In-store
+West Gear,1128299,2020-06-29,West,Washington,Seattle,Men's Apparel,85.00000000000001,375,318750.00000000006,79687.50000000001,0.25,In-store
+West Gear,1128299,2020-06-30,West,Washington,Seattle,Women's Apparel,100.0,675,675000.0,135000.0,0.2,In-store
+West Gear,1128299,2020-07-01,West,Washington,Seattle,Men's Street Footwear,80.0,825,660000.0,198000.0,0.3,In-store
+West Gear,1128299,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,85.00000000000001,675,573750.0000000001,143437.50000000003,0.25,In-store
+West Gear,1128299,2020-07-03,West,Washington,Seattle,Women's Street Footwear,85.00000000000001,625,531250.0000000001,132812.50000000003,0.25,In-store
+West Gear,1128299,2020-07-04,West,Washington,Seattle,Women's Athletic Footwear,80.0,525,420000.0,126000.0,0.3,In-store
+West Gear,1128299,2020-07-05,West,Washington,Seattle,Men's Apparel,85.00000000000001,575,488750.00000000006,122187.50000000001,0.25,In-store
+West Gear,1128299,2020-07-06,West,Washington,Seattle,Women's Apparel,100.0,575,575000.0,115000.0,0.2,In-store
+West Gear,1128299,2020-07-07,West,Washington,Seattle,Men's Street Footwear,85.00000000000001,775,658750.0000000001,197625.00000000003,0.3,In-store
+West Gear,1128299,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,80.00000000000001,750,600000.0000000001,150000.00000000003,0.25,In-store
+West Gear,1128299,2020-07-09,West,Washington,Seattle,Women's Street Footwear,75.00000000000001,625,468750.0000000001,117187.50000000003,0.25,In-store
+West Gear,1128299,2020-07-10,West,Washington,Seattle,Women's Athletic Footwear,75.00000000000001,575,431250.00000000006,129375.00000000001,0.3,In-store
+West Gear,1128299,2020-07-11,West,Washington,Seattle,Men's Apparel,75.0,575,431250.0,107812.5,0.25,In-store
+West Gear,1128299,2020-07-12,West,Washington,Seattle,Women's Apparel,80.0,400,320000.0,64000.0,0.2,In-store
+West Gear,1128299,2020-07-13,West,Washington,Seattle,Men's Street Footwear,70.00000000000001,600,420000.00000000006,126000.00000000001,0.3,In-store
+West Gear,1128299,2020-07-14,West,Washington,Seattle,Men's Athletic Footwear,75.00000000000003,600,450000.0000000002,112500.00000000004,0.25,In-store
+West Gear,1128299,2020-07-15,West,Washington,Seattle,Women's Street Footwear,70.00000000000001,450,315000.00000000006,78750.00000000001,0.25,In-store
+West Gear,1128299,2020-07-16,West,Washington,Seattle,Women's Athletic Footwear,70.00000000000001,400,280000.00000000006,84000.00000000001,0.3,In-store
+West Gear,1128299,2020-07-17,West,Washington,Seattle,Men's Apparel,80.00000000000001,425,340000.00000000006,85000.00000000001,0.25,In-store
+West Gear,1128299,2020-07-18,West,Washington,Seattle,Women's Apparel,65.0,450,292500.0,58500.0,0.2,In-store
+West Gear,1128299,2020-07-19,West,Washington,Seattle,Men's Street Footwear,60.00000000000001,550,330000.00000000006,99000.00000000001,0.3,In-store
+West Gear,1128299,2020-07-20,West,Washington,Seattle,Men's Athletic Footwear,65.00000000000001,550,357500.00000000006,89375.00000000001,0.25,In-store
+West Gear,1128299,2020-07-21,West,Washington,Seattle,Women's Street Footwear,60.00000000000001,375,225000.00000000003,56250.00000000001,0.25,In-store
+West Gear,1128299,2020-07-22,West,Washington,Seattle,Women's Athletic Footwear,60.00000000000001,350,210000.00000000003,63000.00000000001,0.3,In-store
+West Gear,1128299,2020-07-23,West,Washington,Seattle,Men's Apparel,70.0,325,227500.0,56875.0,0.25,In-store
+West Gear,1128299,2020-07-24,West,Washington,Seattle,Women's Apparel,75.00000000000001,375,281250.00000000006,56250.000000000015,0.2,In-store
+West Gear,1128299,2020-07-25,West,Washington,Seattle,Men's Street Footwear,60.00000000000001,600,360000.00000000006,108000.00000000001,0.3,In-store
+West Gear,1128299,2020-07-26,West,Washington,Seattle,Men's Athletic Footwear,65.00000000000001,625,406250.0000000001,101562.50000000003,0.25,In-store
+West Gear,1128299,2020-07-27,West,Washington,Seattle,Women's Street Footwear,60.00000000000001,475,285000.00000000006,71250.00000000001,0.25,In-store
+West Gear,1128299,2020-07-28,West,Washington,Seattle,Women's Athletic Footwear,70.00000000000001,450,315000.00000000006,94500.00000000001,0.3,In-store
+West Gear,1128299,2020-07-29,West,Washington,Seattle,Men's Apparel,90.00000000000001,425,382500.00000000006,95625.00000000001,0.25,In-store
+West Gear,1128299,2020-07-30,West,Washington,Seattle,Women's Apparel,95.00000000000001,550,522500.00000000006,104500.00000000001,0.2,In-store
+West Gear,1128299,2020-07-31,West,Washington,Seattle,Men's Street Footwear,80.00000000000001,750,600000.0000000001,180000.00000000003,0.3,In-store
+West Gear,1128299,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,85.00000000000001,750,637500.0000000001,159375.00000000003,0.25,In-store
+West Gear,1128299,2020-08-02,West,Washington,Seattle,Women's Street Footwear,80.00000000000001,550,440000.00000000006,110000.00000000001,0.25,In-store
+West Gear,1128299,2020-08-03,West,Washington,Seattle,Women's Athletic Footwear,80.00000000000001,550,440000.00000000006,132000.0,0.3,In-store
+West Gear,1128299,2020-08-04,West,Washington,Seattle,Men's Apparel,90.00000000000001,475,427500.00000000006,106875.00000000001,0.25,In-store
+West Gear,1128299,2020-08-05,West,Washington,Seattle,Women's Apparel,95.00000000000001,575,546250.0000000001,109250.00000000003,0.2,In-store
+West Gear,1128299,2020-05-30,West,Washington,Seattle,Men's Apparel,51.0,73,3723.0,1451.97,0.39,Online
+West Gear,1128299,2020-05-31,West,Washington,Seattle,Women's Apparel,46.0,125,5750.0,1782.5,0.31,Online
+West Gear,1128299,2020-06-01,West,Washington,Seattle,Men's Street Footwear,36.0,138,4968.0,2136.24,0.43,Online
+West Gear,1128299,2020-06-02,West,Washington,Seattle,Men's Athletic Footwear,47.0,131,6157.0,2401.23,0.39,Online
+West Gear,1128299,2020-06-03,West,Washington,Seattle,Women's Street Footwear,47.0,122,5734.0,2236.26,0.39,Online
+West Gear,1128299,2020-06-04,West,Washington,Seattle,Women's Athletic Footwear,48.0,87,4176.0,1753.9199999999998,0.42,Online
+West Gear,1128299,2020-06-05,West,Washington,Seattle,Men's Apparel,52.0,65,3380.0,1352.0,0.4,Online
+West Gear,1128299,2020-06-06,West,Washington,Seattle,Women's Apparel,46.0,123,5658.0,1753.98,0.31,Online
+West Gear,1128299,2020-06-07,West,Washington,Seattle,Men's Street Footwear,46.0,167,7682.0,3456.8999999999996,0.44999999999999996,Online
+West Gear,1128299,2020-06-08,West,Washington,Seattle,Men's Athletic Footwear,58.0,115,6670.0,2401.2,0.36,Online
+West Gear,1128299,2020-06-09,West,Washington,Seattle,Women's Street Footwear,60.0,115,6900.0,2760.0,0.4,Online
+West Gear,1128299,2020-06-10,West,Washington,Seattle,Women's Athletic Footwear,64.0,85,5440.0,2284.7999999999997,0.42,Online
+West Gear,1128299,2020-06-11,West,Washington,Seattle,Men's Apparel,69.0,46,3174.0,1206.1200000000001,0.38,Online
+West Gear,1128299,2020-06-12,West,Washington,Seattle,Women's Apparel,62.0,105,6510.0,2213.4,0.34,Online
+West Gear,1128299,2020-06-13,West,Washington,Seattle,Men's Street Footwear,68.0,160,10880.0,4787.2,0.44,Online
+West Gear,1128299,2020-06-14,West,Washington,Seattle,Men's Athletic Footwear,71.0,88,6248.0,2436.7200000000003,0.39,Online
+West Gear,1128299,2020-06-15,West,Washington,Seattle,Women's Street Footwear,74.0,120,8880.0,3463.2000000000003,0.39,Online
+West Gear,1128299,2020-06-16,West,Washington,Seattle,Women's Athletic Footwear,55.0,90,4950.0,2079.0,0.42,Online
+West Gear,1128299,2020-06-17,West,Washington,Seattle,Men's Apparel,59.0,56,3304.0,1321.6000000000001,0.4,Online
+West Gear,1128299,2020-06-18,West,Washington,Seattle,Women's Apparel,78.0,88,6864.0,2196.48,0.32,Online
+West Gear,1128299,2020-06-19,West,Washington,Seattle,Men's Street Footwear,55.0,165,9075.0,3720.75,0.41,Online
+West Gear,1128299,2020-06-20,West,Washington,Seattle,Men's Athletic Footwear,60.0,108,6480.0,2462.4,0.38,Online
+West Gear,1128299,2020-06-21,West,Washington,Seattle,Women's Street Footwear,61.0,120,7320.0,2781.6,0.38,Online
+West Gear,1128299,2020-06-22,West,Washington,Seattle,Women's Athletic Footwear,59.0,90,5310.0,2336.4,0.44,Online
+West Gear,1128299,2020-06-23,West,Washington,Seattle,Men's Apparel,60.0,52,3120.0,1185.6,0.38,Online
+West Gear,1128299,2020-06-24,West,Washington,Seattle,Women's Apparel,75.0,125,9375.0,3093.75,0.33,Online
+West Gear,1128299,2020-06-25,West,Washington,Seattle,Men's Street Footwear,71.0,195,13845.0,5814.9,0.42,Online
+West Gear,1128299,2020-06-26,West,Washington,Seattle,Men's Athletic Footwear,74.0,188,13912.0,5147.44,0.37,Online
+West Gear,1128299,2020-06-27,West,Washington,Seattle,Women's Street Footwear,72.0,163,11736.0,4459.68,0.38,Online
+West Gear,1128299,2020-06-28,West,Washington,Seattle,Women's Athletic Footwear,75.0,125,9375.0,3750.0,0.4,Online
+West Gear,1128299,2020-06-29,West,Washington,Seattle,Men's Apparel,82.0,105,8610.0,3357.9,0.39,Online
+West Gear,1128299,2020-06-30,West,Washington,Seattle,Women's Apparel,98.0,182,17836.0,6064.240000000001,0.34,Online
+West Gear,1128299,2020-07-01,West,Washington,Seattle,Men's Street Footwear,73.0,239,17447.0,6978.8,0.4,Online
+West Gear,1128299,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,82.0,182,14924.0,5372.639999999999,0.36,Online
+West Gear,1128299,2020-07-03,West,Washington,Seattle,Women's Street Footwear,78.0,175,13650.0,4777.5,0.35,Online
+West Gear,1128299,2020-07-04,West,Washington,Seattle,Women's Athletic Footwear,78.0,137,10686.0,4381.259999999999,0.41,Online
+West Gear,1128299,2020-07-05,West,Washington,Seattle,Men's Apparel,77.0,144,11088.0,3880.7999999999997,0.35,Online
+West Gear,1128299,2020-07-06,West,Washington,Seattle,Women's Apparel,95.0,155,14725.0,5153.75,0.35,Online
+West Gear,1128299,2020-07-07,West,Washington,Seattle,Men's Street Footwear,80.0,217,17360.0,7811.999999999999,0.44999999999999996,Online
+West Gear,1128299,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,77.0,210,16170.0,6306.3,0.39,Online
+West Gear,1128299,2020-07-09,West,Washington,Seattle,Women's Street Footwear,73.0,163,11899.0,4164.65,0.35,Online
+West Gear,1128299,2020-07-10,West,Washington,Seattle,Women's Athletic Footwear,74.0,155,11470.0,5046.8,0.44,Online
+West Gear,1128299,2020-07-11,West,Washington,Seattle,Men's Apparel,71.0,155,11005.0,4291.95,0.39,Online
+West Gear,1128299,2020-07-12,West,Washington,Seattle,Women's Apparel,76.0,108,8208.0,2708.6400000000003,0.33,Online
+West Gear,1128299,2020-07-13,West,Washington,Seattle,Men's Street Footwear,64.0,156,9984.0,4093.4399999999996,0.41,Online
+West Gear,1128299,2020-07-14,West,Washington,Seattle,Men's Athletic Footwear,71.0,174,12354.0,4323.9,0.35,Online
+West Gear,1128299,2020-07-15,West,Washington,Seattle,Women's Street Footwear,63.0,135,8505.0,3146.85,0.37,Online
+West Gear,1128299,2020-07-16,West,Washington,Seattle,Women's Athletic Footwear,67.0,112,7504.0,3001.6000000000004,0.4,Online
+West Gear,1128299,2020-07-17,West,Washington,Seattle,Men's Apparel,72.0,111,7992.0,3196.8,0.4,Online
+West Gear,1128299,2020-07-18,West,Washington,Seattle,Women's Apparel,62.0,113,7006.0,2452.1,0.35,Online
+West Gear,1128299,2020-07-19,West,Washington,Seattle,Men's Street Footwear,58.0,149,8642.0,3456.8,0.4,Online
+West Gear,1128299,2020-07-20,West,Washington,Seattle,Men's Athletic Footwear,64.0,138,8832.0,3267.84,0.37,Online
+West Gear,1128299,2020-07-21,West,Washington,Seattle,Women's Street Footwear,56.0,113,6328.0,2278.08,0.36,Online
+West Gear,1128299,2020-07-22,West,Washington,Seattle,Women's Athletic Footwear,58.0,98,5684.0,2500.96,0.44,Online
+West Gear,1128299,2020-07-23,West,Washington,Seattle,Men's Apparel,69.0,94,6486.0,2270.1,0.35,Online
+West Gear,1128299,2020-07-24,West,Washington,Seattle,Women's Apparel,71.0,101,7171.0,2509.85,0.35,Online
+West Gear,1128299,2020-07-25,West,Washington,Seattle,Men's Street Footwear,54.0,162,8748.0,3849.12,0.44,Online
+West Gear,1128299,2020-07-26,West,Washington,Seattle,Men's Athletic Footwear,60.0,188,11280.0,4173.6,0.37,Online
+West Gear,1128299,2020-07-27,West,Washington,Seattle,Women's Street Footwear,54.0,124,6696.0,2477.52,0.37,Online
+West Gear,1128299,2020-07-28,West,Washington,Seattle,Women's Athletic Footwear,69.0,117,8073.0,3471.39,0.43,Online
+West Gear,1128299,2020-07-29,West,Washington,Seattle,Men's Apparel,85.0,115,9775.0,3910.0,0.4,Online
+West Gear,1128299,2020-07-30,West,Washington,Seattle,Women's Apparel,88.0,138,12144.0,3764.64,0.31,Online
+West Gear,1128299,2020-07-31,West,Washington,Seattle,Men's Street Footwear,78.0,188,14664.0,5865.6,0.4,Online
+West Gear,1128299,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,77.0,195,15015.0,5705.7,0.38,Online
+West Gear,1128299,2020-08-02,West,Washington,Seattle,Women's Street Footwear,73.0,138,10074.0,3928.86,0.39,Online
+West Gear,1128299,2020-08-03,West,Washington,Seattle,Women's Athletic Footwear,76.0,138,10488.0,4509.84,0.43,Online
+West Gear,1128299,2020-08-04,West,Washington,Seattle,Men's Apparel,82.0,133,10906.0,4144.28,0.38,Online
+West Gear,1128299,2020-08-05,West,Washington,Seattle,Women's Apparel,86.0,150,12900.0,4386.0,0.34,Online

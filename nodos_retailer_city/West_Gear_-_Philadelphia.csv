@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2020-01-02,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,35.0,450,157500.0,63000.0,0.4,Outlet
+West Gear,1128299,2020-01-03,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,45.0,450,202500.0,50625.0,0.25,Outlet
+West Gear,1128299,2020-01-04,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,45.0,450,202500.0,81000.0,0.4,Outlet
+West Gear,1128299,2020-01-05,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,45.0,300,135000.0,47250.0,0.35,Outlet
+West Gear,1128299,2020-01-02,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,32.0,122,3904.0,1991.04,0.51,Online
+West Gear,1128299,2020-01-03,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,44.0,117,5148.0,1904.76,0.37,Online
+West Gear,1128299,2020-01-04,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,41.0,117,4797.0,2590.38,0.54,Online
+West Gear,1128299,2020-01-05,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43.0,87,3741.0,1870.5,0.5,Online
+West Gear,1128299,2020-01-02,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,27.0,158,4266.0,1791.7200000000003,0.42000000000000004,Outlet
+West Gear,1128299,2020-01-03,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,35.0,135,4725.0,1464.75,0.31,Outlet
+West Gear,1128299,2020-01-04,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,36.0,140,5040.0,2368.8,0.47000000000000003,Outlet
+West Gear,1128299,2020-01-05,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,34.0,90,3060.0,1254.6,0.41,Outlet

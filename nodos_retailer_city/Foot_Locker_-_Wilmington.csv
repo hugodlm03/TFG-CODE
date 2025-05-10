@@ -1,0 +1,101 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,150,52500.0,21000.0,0.4,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Men's Apparel,50.0,225,112500.0,33750.0,0.3,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Apparel,40.0,325,130000.0,52000.0,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Street Footwear,40.0,545,218000.0,76300.0,0.35,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,40.0,250,100000.0,35000.0,0.35,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Street Footwear,30.000000000000004,275,82500.00000000001,33000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,125,43750.0,17500.0,0.4,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,175,87500.0,26250.0,0.3,In-store
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Apparel,40.0,275,110000.0,44000.0,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Street Footwear,40.0,525,210000.0,73500.0,0.35,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,40.0,225,90000.0,31499.999999999996,0.35,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Street Footwear,30.000000000000004,225,67500.00000000001,27000.000000000007,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,35.0,150,52500.0,21000.0,0.4,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Apparel,50.0,150,75000.0,22500.0,0.3,In-store
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Apparel,40.0,300,120000.0,48000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,570,313499.99999999994,109724.99999999997,0.35,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,275,137500.0,48125.0,0.35,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,250,112500.0,45000.0,0.4,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,275,151249.99999999997,45374.99999999999,0.3,In-store
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,400,240000.0,96000.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,650,357499.99999999994,125124.99999999997,0.35,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,400,200000.0,70000.0,0.35,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,325,146250.0,58500.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,300,164999.99999999997,49499.99999999999,0.3,In-store
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Apparel,60.0,450,270000.0,108000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,675,371249.99999999994,129937.49999999997,0.35,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,425,212500.0,74375.0,0.35,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,350,157500.0,63000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,300,135000.0,54000.0,0.4,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,325,178749.99999999997,53624.99999999999,0.3,In-store
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,500,300000.0,120000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,650,357499.99999999994,125124.99999999997,0.35,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,425,212500.0,74375.0,0.35,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,350,157500.0,63000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,250,112500.0,45000.0,0.4,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,225,123749.99999999999,37124.99999999999,0.3,In-store
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Apparel,60.0,400,240000.0,96000.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Street Footwear,54.99999999999999,525,288749.99999999994,101062.49999999997,0.35,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Street Footwear,45.0,225,101250.0,40500.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,45.0,200,90000.0,36000.0,0.4,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Apparel,54.99999999999999,200,109999.99999999999,32999.99999999999,0.3,In-store
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Apparel,60.0,300,180000.0,72000.0,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Street Footwear,60.0,475,285000.0,99750.0,0.35,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,57750.00000000001,0.35,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Street Footwear,55.00000000000001,200,110000.00000000001,44000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,55.00000000000001,175,96250.00000000001,38500.00000000001,0.4,In-store
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Apparel,65.0,175,113750.0,34125.0,0.3,In-store
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,33.0,45,1485.0,816.7500000000001,0.55,Online
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Men's Apparel,45.0,65,2925.0,1199.25,0.41,Online
+Foot Locker,1185732,2021-02-15,Northeast,Delaware,Wilmington,Women's Apparel,39.0,98,3822.0,2025.66,0.53,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Street Footwear,36.0,158,5688.0,2616.48,0.45999999999999996,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,39.0,68,2652.0,1193.3999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Street Footwear,29.0,69,2001.0,1080.54,0.54,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,32.0,31,992.0,525.76,0.53,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Men's Apparel,46.0,49,2254.0,924.14,0.41,Online
+Foot Locker,1185732,2021-03-13,Northeast,Delaware,Wilmington,Women's Apparel,39.0,72,2808.0,1404.0,0.5,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Street Footwear,36.0,131,4716.0,2358.0,0.5,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,38.0,61,2318.0,1089.46,0.47,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Street Footwear,27.0,59,1593.0,876.1500000000001,0.55,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,32.0,44,1408.0,718.08,0.51,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Men's Apparel,47.0,45,2115.0,951.7499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-04-14,Northeast,Delaware,Wilmington,Women's Apparel,38.0,78,2964.0,1600.5600000000002,0.54,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Street Footwear,51.0,160,8160.0,3916.7999999999997,0.48,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,69,3243.0,1459.35,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Street Footwear,41.0,81,3321.0,1726.92,0.52,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,65,2665.0,1385.8,0.52,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,74,3700.0,1554.0,0.42,Online
+Foot Locker,1185732,2021-05-13,Northeast,Delaware,Wilmington,Women's Apparel,54.0,104,5616.0,3088.8,0.55,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Street Footwear,51.0,189,9639.0,4433.94,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,48.0,120,5760.0,2591.9999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Street Footwear,43.0,85,3655.0,1937.15,0.53,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,75,3075.0,1691.2500000000002,0.55,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Men's Apparel,50.0,75,3750.0,1500.0,0.4,Online
+Foot Locker,1185732,2021-06-15,Northeast,Delaware,Wilmington,Women's Apparel,56.0,135,7560.0,4006.8,0.53,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Street Footwear,53.0,182,9646.0,4823.0,0.5,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,119,5593.0,2516.85,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Street Footwear,41.0,102,4182.0,2258.28,0.54,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,43.0,90,3870.0,2051.1,0.53,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Men's Apparel,51.0,94,4794.0,1965.54,0.41,Online
+Foot Locker,1185732,2021-07-13,Northeast,Delaware,Wilmington,Women's Apparel,55.0,145,7975.0,3987.5,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Street Footwear,50.0,163,8150.0,3993.5,0.49,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,128,6016.0,2767.3599999999997,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Street Footwear,42.0,105,4410.0,2205.0,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,63,2583.0,1291.5,0.5,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Men's Apparel,50.0,63,3150.0,1417.4999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-08-14,Northeast,Delaware,Wilmington,Women's Apparel,59.0,120,7080.0,3681.6,0.52,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Street Footwear,50.0,142,7100.0,3479.0,0.49,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Athletic Footwear,47.0,85,3995.0,1797.7499999999998,0.44999999999999996,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Street Footwear,43.0,61,2623.0,1337.73,0.51,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Athletic Footwear,41.0,60,2460.0,1254.6,0.51,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Men's Apparel,50.0,60,3000.0,1320.0,0.44,Online
+Foot Locker,1185732,2021-09-13,Northeast,Delaware,Wilmington,Women's Apparel,58.0,84,4872.0,2630.88,0.54,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Street Footwear,56.0,128,7168.0,3225.5999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Athletic Footwear,51.0,90,4590.0,2111.3999999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Street Footwear,50.0,52,2600.0,1430.0000000000002,0.55,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Women's Athletic Footwear,52.0,44,2288.0,1144.0,0.5,Online
+Foot Locker,1185732,2021-10-15,Northeast,Delaware,Wilmington,Men's Apparel,62.0,49,3038.0,1215.2,0.4,Online

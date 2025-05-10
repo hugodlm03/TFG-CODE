@@ -1,0 +1,205 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Men's Apparel,55.00000000000001,225,123750.00000000001,43312.5,0.35,In-store
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Apparel,45.0,325,146250.0,58499.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Street Footwear,45.0,545,245250.0,110362.5,0.45,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,45.0,250,112500.0,50625.0,0.45,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Street Footwear,35.0,275,96250.0,33687.5,0.35,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,40.0,125,50000.0,17500.0,0.35,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Apparel,55.00000000000001,175,96250.00000000001,33687.5,0.35,In-store
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Apparel,45.0,275,123750.0,49499.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Street Footwear,45.0,525,236250.0,106312.5,0.45,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,45.0,225,101250.0,45562.5,0.45,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Street Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,40.0,150,60000.0,21000.0,0.35,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Apparel,55.00000000000001,150,82500.00000000001,28875.000000000004,0.35,In-store
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Apparel,45.0,300,135000.0,53999.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Street Footwear,60.0,570,342000.0,153900.0,0.45,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.00000000000001,275,151250.00000000003,68062.50000000001,0.45,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Street Footwear,50.0,300,150000.0,52500.0,0.35,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Apparel,60.0,275,165000.0,57749.99999999999,0.35,In-store
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Apparel,65.0,400,260000.0,103999.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Street Footwear,60.0,650,390000.0,175500.0,0.45,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.00000000000001,400,220000.00000000003,99000.00000000001,0.45,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Street Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,50.0,300,150000.0,52500.0,0.35,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Apparel,60.0,300,180000.0,62999.99999999999,0.35,In-store
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Apparel,65.0,450,292500.0,116999.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Street Footwear,60.0,675,405000.0,182250.0,0.45,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.00000000000001,425,233750.00000000003,105187.50000000001,0.45,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Street Footwear,50.0,350,175000.0,61249.99999999999,0.35,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,50.0,300,150000.0,52500.0,0.35,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Apparel,60.0,325,195000.0,68250.0,0.35,In-store
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Apparel,65.0,500,325000.0,129999.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Street Footwear,60.0,650,390000.0,175500.0,0.45,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.00000000000001,425,233750.00000000003,105187.50000000001,0.45,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Street Footwear,50.0,350,175000.0,61249.99999999999,0.35,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Apparel,60.0,225,135000.0,47250.0,0.35,In-store
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Apparel,65.0,400,260000.0,103999.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Street Footwear,60.0,525,315000.0,141750.0,0.45,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.00000000000001,325,178750.00000000003,80437.50000000001,0.45,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Street Footwear,50.0,225,112500.0,39375.0,0.35,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,50.0,200,100000.0,35000.0,0.35,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Apparel,60.0,200,120000.0,42000.0,0.35,In-store
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Apparel,65.0,300,195000.0,78000.0,0.39999999999999997,In-store
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Street Footwear,65.0,475,308750.0,138937.5,0.45,In-store
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,60.00000000000001,300,180000.00000000003,81000.00000000001,0.45,In-store
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Street Footwear,60.00000000000001,200,120000.00000000001,42000.0,0.35,In-store
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,60.00000000000001,175,105000.00000000001,36750.0,0.35,In-store
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Apparel,70.0,175,122500.0,42875.0,0.35,In-store
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,60.00000000000001,300,180000.00000000003,63000.00000000001,0.35,In-store
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Apparel,70.0,275,192500.0,67375.0,0.35,In-store
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Apparel,75.0,375,281250.0,112499.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Street Footwear,70.0,600,420000.0,189000.0,0.45,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,60.00000000000001,400,240000.00000000003,108000.00000000001,0.45,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Street Footwear,60.00000000000001,375,225000.00000000003,78750.0,0.35,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,60.00000000000001,325,195000.00000000003,68250.0,0.35,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Apparel,70.0,325,227500.0,79625.0,0.35,In-store
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Apparel,75.0,425,318750.0,127499.99999999999,0.39999999999999997,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Street Footwear,50.0,525,262500.0,105000.0,0.4,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Athletic Footwear,50.0,325,162500.0,65000.0,0.4,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Street Footwear,40.0,325,130000.0,39000.0,0.3,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Athletic Footwear,44.99999999999999,175,78749.99999999999,23624.999999999996,0.3,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Apparel,60.00000000000001,225,135000.00000000003,40500.00000000001,0.3,In-store
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Apparel,50.0,325,162500.0,56875.0,0.35,In-store
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Street Footwear,50.0,600,300000.0,120000.0,0.4,In-store
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Athletic Footwear,50.0,250,125000.0,50000.0,0.4,In-store
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Women's Street Footwear,40.0,300,120000.0,36000.0,0.3,In-store
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,36.0,45,1620.0,745.1999999999999,0.45999999999999996,Online
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Men's Apparel,54.0,63,3402.0,1701.0,0.5,Online
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Apparel,43.0,85,3655.0,1973.7,0.54,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Street Footwear,44.0,142,6248.0,3748.7999999999997,0.6,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,42.0,70,2940.0,1675.8000000000002,0.5700000000000001,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Street Footwear,34.0,77,2618.0,1282.82,0.49,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,36.0,38,1368.0,670.3199999999999,0.49,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Apparel,51.0,47,2397.0,1174.53,0.49,Online
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Apparel,41.0,80,3280.0,1803.9999999999998,0.5499999999999999,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Street Footwear,41.0,137,5617.0,3145.5200000000004,0.56,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,43.0,56,2408.0,1396.64,0.5800000000000001,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Street Footwear,32.0,65,2080.0,1040.0,0.5,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,36.0,44,1584.0,792.0,0.5,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Apparel,51.0,38,1938.0,891.4799999999999,0.45999999999999996,Online
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Apparel,44.0,90,3960.0,2019.6000000000001,0.51,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Street Footwear,55.0,154,8470.0,4827.900000000001,0.5700000000000001,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,54.0,80,4320.0,2419.2000000000003,0.56,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Street Footwear,49.0,75,3675.0,1690.4999999999998,0.45999999999999996,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,46.0,65,2990.0,1405.3,0.47,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Apparel,55.0,72,3960.0,1861.1999999999998,0.47,Online
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Apparel,60.0,120,7200.0,3744.0,0.52,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Street Footwear,58.0,163,9454.0,5483.320000000001,0.5800000000000001,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,53.0,116,6148.0,3627.3200000000006,0.5900000000000001,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Street Footwear,45.0,81,3645.0,1713.1499999999999,0.47,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,47.0,90,4230.0,1903.4999999999998,0.44999999999999996,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Apparel,58.0,81,4698.0,2349.0,0.5,Online
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Apparel,62.0,117,7254.0,3772.08,0.52,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Street Footwear,54.0,182,9828.0,5601.960000000001,0.5700000000000001,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,51.0,115,5865.0,3284.4,0.56,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Street Footwear,46.0,98,4508.0,2163.84,0.48,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,46.0,90,4140.0,2028.6,0.49,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Apparel,54.0,94,5076.0,2385.72,0.47,Online
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Apparel,61.0,125,7625.0,3965.0,0.52,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Street Footwear,58.0,176,10208.0,6124.8,0.6,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,53.0,106,5618.0,3314.6200000000003,0.5900000000000001,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Street Footwear,48.0,105,5040.0,2318.3999999999996,0.45999999999999996,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,49.0,68,3332.0,1566.04,0.47,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Apparel,57.0,65,3705.0,1815.45,0.49,Online
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Apparel,61.0,104,6344.0,3235.44,0.51,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Street Footwear,56.0,137,7672.0,4373.040000000001,0.5700000000000001,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,50.0,85,4250.0,2550.0,0.6,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Street Footwear,46.0,56,2576.0,1288.0,0.5,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,45.0,52,2340.0,1146.6,0.49,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Apparel,58.0,50,2900.0,1363.0,0.47,Online
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Apparel,59.0,78,4602.0,2531.1,0.5499999999999999,Online
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Street Footwear,62.0,133,8246.0,4947.599999999999,0.6,Online
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,54.0,75,4050.0,2389.5000000000005,0.5900000000000001,Online
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Street Footwear,59.0,54,3186.0,1593.0,0.5,Online
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,55.0,46,2530.0,1214.3999999999999,0.48,Online
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Apparel,66.0,51,3366.0,1615.6799999999998,0.48,Online
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,55.0,75,4125.0,2062.5,0.5,Online
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Apparel,67.0,80,5360.0,2680.0,0.5,Online
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Apparel,70.0,94,6580.0,3487.4,0.53,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Street Footwear,64.0,168,10752.0,6451.2,0.6,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,55.0,100,5500.0,3025.0000000000005,0.55,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Street Footwear,55.0,113,6215.0,2921.0499999999997,0.47,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,56.0,81,4536.0,2041.1999999999998,0.44999999999999996,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Apparel,67.0,81,5427.0,2604.96,0.48,Online
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Apparel,68.0,106,7208.0,3748.1600000000003,0.52,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Street Footwear,49.0,131,6419.0,3530.4500000000003,0.55,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Athletic Footwear,45.0,91,4095.0,2170.35,0.53,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Street Footwear,38.0,81,3078.0,1385.1,0.44999999999999996,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Athletic Footwear,43.0,46,1978.0,791.2,0.4,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Apparel,59.0,56,3304.0,1453.76,0.44,Online
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Apparel,49.0,88,4312.0,1940.3999999999999,0.44999999999999996,Online
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Street Footwear,49.0,180,8820.0,4674.6,0.53,Online
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Athletic Footwear,45.0,75,3375.0,1721.25,0.51,Online
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Women's Street Footwear,39.0,90,3510.0,1544.4,0.44,Online
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,30.0,48,1440.0,547.2,0.38,Outlet
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Men's Apparel,36.0,68,2448.0,954.7199999999999,0.38999999999999996,Outlet
+Amazon,1185732,2021-02-12,Northeast,Vermont,Burlington,Women's Apparel,35.0,107,3745.0,1760.1499999999999,0.47,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Street Footwear,35.0,185,6475.0,3172.75,0.49,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,36.0,80,2880.0,1440.0,0.5,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Street Footwear,23.0,85,1955.0,742.9,0.38,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,30.0,39,1170.0,467.99999999999994,0.39999999999999997,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Men's Apparel,36.0,56,2016.0,786.2399999999999,0.38999999999999996,Outlet
+Amazon,1185732,2021-03-10,Northeast,Vermont,Burlington,Women's Apparel,29.0,96,2784.0,1280.6399999999999,0.45999999999999996,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Street Footwear,30.0,168,5040.0,2620.8,0.52,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,35.0,68,2380.0,1118.6000000000001,0.47000000000000003,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Street Footwear,25.0,74,1850.0,777.0,0.42,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,30.0,50,1500.0,600.0,0.39999999999999997,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Men's Apparel,41.0,53,2173.0,912.66,0.42,Outlet
+Amazon,1185732,2021-04-11,Northeast,Vermont,Burlington,Women's Apparel,36.0,90,3240.0,1425.6,0.43999999999999995,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Street Footwear,48.0,177,8496.0,4332.96,0.51,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,41.0,94,3854.0,1965.54,0.51,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Street Footwear,37.0,96,3552.0,1314.24,0.37,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,40.0,83,3320.0,1328.0,0.39999999999999997,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Men's Apparel,46.0,91,4186.0,1716.26,0.41,Outlet
+Amazon,1185732,2021-05-10,Northeast,Vermont,Burlington,Women's Apparel,47.0,120,5640.0,2594.3999999999996,0.45999999999999996,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Street Footwear,47.0,195,9165.0,4490.85,0.49,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,44.0,120,5280.0,2640.0,0.5,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Street Footwear,35.0,104,3640.0,1419.6,0.38999999999999996,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,38.0,102,3876.0,1550.3999999999999,0.39999999999999997,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Men's Apparel,44.0,105,4620.0,1894.1999999999998,0.41,Outlet
+Amazon,1185732,2021-06-12,Northeast,Vermont,Burlington,Women's Apparel,49.0,158,7742.0,3483.8999999999996,0.44999999999999996,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Street Footwear,45.0,209,9405.0,4890.6,0.52,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,42.0,145,6090.0,3045.0,0.5,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Street Footwear,33.0,109,3597.0,1330.8899999999999,0.37,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,36.0,96,3456.0,1451.52,0.42,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Apparel,39.0,114,4446.0,1689.48,0.38,Outlet
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Women's Apparel,49.0,175,8575.0,4030.2499999999995,0.47,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Street Footwear,42.0,215,9030.0,4605.3,0.51,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Athletic Footwear,43.0,149,6407.0,3331.6400000000003,0.52,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Street Footwear,34.0,116,3944.0,1538.1599999999999,0.38999999999999996,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,40.0,85,3400.0,1428.0,0.42,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Men's Apparel,43.0,72,3096.0,1207.4399999999998,0.38999999999999996,Outlet
+Amazon,1185732,2021-08-11,Northeast,Vermont,Burlington,Women's Apparel,44.0,136,5984.0,2573.1199999999994,0.42999999999999994,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Street Footwear,44.0,179,7876.0,3859.24,0.49,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,42.0,111,4662.0,2377.62,0.51,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Street Footwear,40.0,72,2880.0,1209.6,0.42,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,35.0,66,2310.0,923.9999999999999,0.39999999999999997,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Men's Apparel,48.0,68,3264.0,1207.68,0.37,Outlet
+Amazon,1185732,2021-09-10,Northeast,Vermont,Burlington,Women's Apparel,45.0,93,4185.0,1925.1,0.45999999999999996,Outlet
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Street Footwear,44.0,157,6908.0,3246.76,0.47000000000000003,Outlet
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Athletic Footwear,44.0,99,4356.0,2134.44,0.49,Outlet
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Street Footwear,40.0,66,2640.0,976.8,0.37,Outlet
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Women's Athletic Footwear,46.0,61,2806.0,1038.22,0.37,Outlet
+Amazon,1185732,2021-10-12,Northeast,Vermont,Burlington,Men's Apparel,55.0,58,3190.0,1180.3,0.37,Outlet
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Athletic Footwear,42.0,96,4032.0,1572.4799999999998,0.38999999999999996,Outlet
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Men's Apparel,50.0,91,4550.0,1774.4999999999998,0.38999999999999996,Outlet
+Amazon,1185732,2021-11-11,Northeast,Vermont,Burlington,Women's Apparel,57.0,128,7296.0,3429.12,0.47,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Street Footwear,48.0,186,8928.0,4285.44,0.48,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Athletic Footwear,41.0,132,5412.0,2760.12,0.51,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Street Footwear,44.0,131,5764.0,2305.6,0.39999999999999997,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Athletic Footwear,44.0,101,4444.0,1866.48,0.42,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Apparel,48.0,104,4992.0,2096.64,0.42,Outlet
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Women's Apparel,60.0,145,8700.0,4088.9999999999995,0.47,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Street Footwear,34.0,173,5882.0,2529.26,0.43000000000000005,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Athletic Footwear,39.0,111,4329.0,1861.4700000000003,0.43000000000000005,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Street Footwear,28.0,101,2828.0,1018.0799999999999,0.36,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Athletic Footwear,36.0,60,2160.0,691.2,0.32,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Men's Apparel,43.0,74,3182.0,1050.06,0.32999999999999996,Outlet
+Amazon,1185732,2021-01-21,Northeast,Vermont,Burlington,Women's Apparel,35.0,101,3535.0,1413.9999999999998,0.39999999999999997,Outlet
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Street Footwear,34.0,186,6324.0,2782.56,0.44,Outlet
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Men's Athletic Footwear,37.0,85,3145.0,1352.3500000000001,0.43000000000000005,Outlet
+Amazon,1185732,2021-02-19,Northeast,Vermont,Burlington,Women's Street Footwear,31.0,96,2976.0,1011.8399999999999,0.33999999999999997,Outlet

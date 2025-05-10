@@ -1,0 +1,127 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Amazon,1185732,2021-01-24,West,Alaska,Anchorage,Women's Apparel,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Street Footwear,55.00000000000001,575,316250.00000000006,110687.50000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Athletic Footwear,55.00000000000001,225,123750.00000000001,43312.50000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Street Footwear,45.0,275,123750.0,30937.5,0.25,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Athletic Footwear,49.99999999999999,175,87499.99999999999,21874.999999999996,0.25,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Apparel,65.00000000000001,250,162500.00000000003,40625.00000000001,0.25,Outlet
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Apparel,55.00000000000001,350,192500.00000000003,57750.00000000001,0.3,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Street Footwear,55.00000000000001,545,299750.00000000006,104912.50000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Athletic Footwear,55.00000000000001,250,137500.00000000003,48125.000000000015,0.35000000000000003,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Street Footwear,45.0,275,123750.0,30937.5,0.25,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Athletic Footwear,49.99999999999999,125,62499.99999999999,15624.999999999998,0.25,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Apparel,65.00000000000001,175,113750.00000000003,28437.500000000007,0.25,Outlet
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Apparel,55.00000000000001,275,151250.00000000003,45375.00000000001,0.3,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Street Footwear,55.00000000000001,525,288750.00000000006,101062.50000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Athletic Footwear,55.00000000000001,225,123750.00000000001,43312.50000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Street Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Athletic Footwear,49.99999999999999,150,74999.99999999999,18749.999999999996,0.25,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Apparel,60.00000000000001,150,90000.00000000001,22500.000000000004,0.25,Outlet
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Apparel,50.0,300,150000.0,45000.0,0.3,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Street Footwear,65.0,570,370500.0,129675.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Athletic Footwear,60.00000000000001,275,165000.00000000003,57750.000000000015,0.35000000000000003,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Street Footwear,55.00000000000001,300,165000.00000000003,41250.00000000001,0.25,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Athletic Footwear,55.00000000000001,250,137500.00000000003,34375.00000000001,0.25,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Apparel,65.0,275,178750.0,44687.5,0.25,Outlet
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Apparel,70.0,400,280000.0,84000.0,0.3,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Street Footwear,65.0,650,422500.0,147875.0,0.35000000000000003,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Athletic Footwear,60.00000000000001,400,240000.00000000003,84000.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Street Footwear,55.00000000000001,325,178750.00000000003,44687.50000000001,0.25,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,41250.00000000001,0.25,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Apparel,65.0,300,195000.0,48750.0,0.25,Outlet
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Apparel,70.0,450,315000.0,94500.0,0.3,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Street Footwear,65.0,675,438750.0,153562.50000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Athletic Footwear,60.00000000000001,425,255000.00000000003,89250.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Street Footwear,55.00000000000001,350,192500.00000000003,48125.00000000001,0.25,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,41250.00000000001,0.25,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Apparel,65.0,325,211250.0,52812.5,0.25,Outlet
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Apparel,70.0,500,350000.0,105000.0,0.3,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Street Footwear,65.0,650,422500.0,147875.0,0.35000000000000003,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Athletic Footwear,60.00000000000001,425,255000.00000000003,89250.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Street Footwear,55.00000000000001,350,192500.00000000003,48125.00000000001,0.25,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Athletic Footwear,55.00000000000001,250,137500.00000000003,34375.00000000001,0.25,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Apparel,65.0,225,146250.0,36562.5,0.25,Outlet
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Apparel,70.0,400,280000.0,84000.0,0.3,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Street Footwear,65.0,525,341250.0,119437.50000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Athletic Footwear,60.00000000000001,325,195000.00000000003,68250.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Street Footwear,55.00000000000001,225,123750.00000000001,30937.500000000004,0.25,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Athletic Footwear,55.00000000000001,200,110000.00000000001,27500.000000000004,0.25,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Apparel,65.0,200,130000.0,32500.0,0.25,Outlet
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Apparel,70.0,300,210000.0,63000.0,0.3,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Street Footwear,70.0,450,315000.0,110250.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Athletic Footwear,65.00000000000001,275,178750.00000000003,62562.500000000015,0.35000000000000003,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Street Footwear,65.00000000000001,175,113750.00000000003,28437.500000000007,0.25,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Athletic Footwear,65.00000000000001,150,97500.00000000001,24375.000000000004,0.25,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Apparel,75.00000000000001,150,112500.00000000001,28125.000000000004,0.25,Outlet
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Apparel,80.0,275,220000.0,66000.0,0.3,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Street Footwear,75.00000000000001,425,318750.00000000006,111562.50000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Athletic Footwear,65.00000000000001,300,195000.00000000003,68250.00000000001,0.35000000000000003,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Street Footwear,65.00000000000001,320,208000.00000000006,52000.000000000015,0.25,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Athletic Footwear,65.00000000000001,300,195000.00000000003,48750.00000000001,0.25,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Apparel,75.00000000000001,275,206250.00000000003,51562.50000000001,0.25,Outlet
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Apparel,80.0,375,300000.0,90000.0,0.3,Outlet
+Amazon,1185732,2021-12-20,West,Alaska,Anchorage,Men's Street Footwear,75.00000000000001,600,450000.00000000006,157500.00000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-12-20,West,Alaska,Anchorage,Men's Athletic Footwear,65.00000000000001,400,260000.00000000006,91000.00000000003,0.35000000000000003,Outlet
+Amazon,1185732,2021-01-24,West,Alaska,Anchorage,Women's Apparel,52.0,84,4368.0,1790.8799999999999,0.41,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Street Footwear,51.0,173,8823.0,4146.81,0.47000000000000003,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Athletic Footwear,53.0,65,3445.0,1653.6000000000001,0.48000000000000004,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Street Footwear,43.0,77,3311.0,1225.07,0.37,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Athletic Footwear,49.0,46,2254.0,879.0600000000001,0.39,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Men's Apparel,60.0,75,4500.0,1710.0,0.38,Online
+Amazon,1185732,2021-02-22,West,Alaska,Anchorage,Women's Apparel,52.0,102,5304.0,2333.76,0.44,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Street Footwear,53.0,153,8109.0,3973.4100000000003,0.49000000000000005,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Athletic Footwear,52.0,65,3380.0,1690.0,0.5,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Street Footwear,41.0,69,2829.0,1046.73,0.37,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Athletic Footwear,49.0,36,1764.0,670.32,0.38,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Men's Apparel,64.0,53,3392.0,1322.88,0.39,Online
+Amazon,1185732,2021-03-20,West,Alaska,Anchorage,Women's Apparel,53.0,72,3816.0,1526.4,0.4,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Street Footwear,54.0,131,7074.0,3254.04,0.46,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Athletic Footwear,50.0,61,3050.0,1525.0,0.5,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Street Footwear,44.0,61,2684.0,1073.6000000000001,0.4,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Athletic Footwear,47.0,44,2068.0,765.16,0.37,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Men's Apparel,56.0,41,2296.0,849.52,0.37,Online
+Amazon,1185732,2021-04-21,West,Alaska,Anchorage,Women's Apparel,49.0,84,4116.0,1811.04,0.44,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Street Footwear,59.0,160,9440.0,4720.0,0.5,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Athletic Footwear,56.0,72,4032.0,1814.4000000000003,0.45000000000000007,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Street Footwear,53.0,84,4452.0,1780.8000000000002,0.4,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Athletic Footwear,51.0,63,3213.0,1220.94,0.38,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Men's Apparel,62.0,69,4278.0,1625.64,0.38,Online
+Amazon,1185732,2021-05-20,West,Alaska,Anchorage,Women's Apparel,67.0,100,6700.0,2747.0,0.41,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Street Footwear,59.0,189,11151.0,5129.46,0.46,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Athletic Footwear,55.0,112,6160.0,3080.0,0.5,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Street Footwear,53.0,81,4293.0,1545.48,0.36,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Athletic Footwear,53.0,90,4770.0,1717.2,0.36,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Apparel,60.0,84,5040.0,1814.3999999999999,0.36,Online
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Women's Apparel,67.0,126,8442.0,3545.64,0.42,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Street Footwear,63.0,182,11466.0,5274.360000000001,0.46,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Athletic Footwear,59.0,111,6549.0,3078.03,0.47000000000000003,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Street Footwear,53.0,102,5406.0,1946.1599999999999,0.36,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Athletic Footwear,51.0,75,3825.0,1453.5,0.38,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Apparel,61.0,91,5551.0,2164.89,0.39,Online
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Women's Apparel,67.0,130,8710.0,3919.4999999999995,0.44999999999999996,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Street Footwear,59.0,163,9617.0,4327.650000000001,0.45000000000000007,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Athletic Footwear,56.0,106,5936.0,2671.2000000000003,0.45000000000000007,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Street Footwear,54.0,102,5508.0,1982.8799999999999,0.36,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Athletic Footwear,53.0,68,3604.0,1441.6000000000001,0.4,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Apparel,62.0,65,4030.0,1531.4,0.38,Online
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Women's Apparel,67.0,104,6968.0,2926.56,0.42,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Street Footwear,64.0,131,8384.0,4024.32,0.48000000000000004,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Athletic Footwear,55.0,91,5005.0,2402.4,0.48000000000000004,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Street Footwear,50.0,59,2950.0,1121.0,0.38,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Athletic Footwear,50.0,56,2800.0,1092.0,0.39,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Men's Apparel,62.0,60,3720.0,1488.0,0.4,Online
+Amazon,1185732,2021-09-20,West,Alaska,Anchorage,Women's Apparel,64.0,84,5376.0,2204.16,0.41,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Street Footwear,68.0,113,7684.0,3611.48,0.47000000000000003,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Athletic Footwear,60.0,77,4620.0,2217.6000000000004,0.48000000000000004,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Street Footwear,59.0,46,2714.0,1085.6000000000001,0.4,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Athletic Footwear,59.0,42,2478.0,892.0799999999999,0.36,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Men's Apparel,71.0,44,3124.0,1093.3999999999999,0.35,Online
+Amazon,1185732,2021-10-22,West,Alaska,Anchorage,Women's Apparel,73.0,83,6059.0,2423.6,0.4,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Street Footwear,68.0,123,8364.0,4014.7200000000003,0.48000000000000004,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Athletic Footwear,59.0,81,4779.0,2198.34,0.46,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Street Footwear,59.0,93,5487.0,2139.9300000000003,0.39,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Athletic Footwear,62.0,90,5580.0,2120.4,0.38,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Men's Apparel,69.0,83,5727.0,2004.4499999999998,0.35,Online
+Amazon,1185732,2021-11-21,West,Alaska,Anchorage,Women's Apparel,74.0,101,7474.0,3139.08,0.42,Online
+Amazon,1185732,2021-12-20,West,Alaska,Anchorage,Men's Street Footwear,69.0,174,12006.0,5642.820000000001,0.47000000000000003,Online
+Amazon,1185732,2021-12-20,West,Alaska,Anchorage,Men's Athletic Footwear,60.0,112,6720.0,3158.4,0.47000000000000003,Online

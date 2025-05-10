@@ -1,0 +1,119 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Women's Athletic Footwear,40.0,475,190000.0,57000.0,0.3,In-store
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Men's Apparel,55.00000000000001,550,302500.00000000006,105875.00000000001,0.35,In-store
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Women's Apparel,45.0,650,292500.0,146250.0,0.5,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Street Footwear,45.0,870,391500.0,176175.0,0.45,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Athletic Footwear,45.0,550,247500.0,86625.0,0.35,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Street Footwear,35.0,575,201250.0,50312.5,0.25,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Athletic Footwear,40.0,425,170000.0,51000.0,0.3,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Apparel,55.00000000000001,475,261250.00000000003,91437.5,0.35,In-store
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Apparel,45.0,575,258750.0,129375.0,0.5,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Street Footwear,45.0,825,371250.0,167062.5,0.45,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Athletic Footwear,45.0,525,236250.0,82687.5,0.35,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Street Footwear,35.0,525,183750.0,45937.5,0.25,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Athletic Footwear,40.0,450,180000.0,54000.0,0.3,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Apparel,55.00000000000001,475,261250.00000000003,91437.5,0.35,In-store
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Apparel,45.0,600,270000.0,135000.0,0.5,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Street Footwear,55.00000000000001,870,478500.00000000006,215325.00000000003,0.45,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Athletic Footwear,55.00000000000001,575,316250.00000000006,110687.50000000001,0.35,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Street Footwear,50.0,550,275000.0,68750.0,0.25,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Athletic Footwear,50.0,500,250000.0,75000.0,0.3,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Apparel,60.0,525,315000.0,110250.0,0.35,In-store
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Apparel,65.0,625,406250.0,203125.0,0.5,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Street Footwear,60.0,875,525000.0,236250.0,0.45,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Athletic Footwear,55.00000000000001,625,343750.00000000006,120312.50000000001,0.35,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Street Footwear,50.0,600,300000.0,75000.0,0.25,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Athletic Footwear,50.0,575,287500.0,86250.0,0.3,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Apparel,65.0,575,373750.0,130812.49999999999,0.35,In-store
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Apparel,70.0,725,507500.0,253750.0,0.5,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,65.0,950,617500.0,277875.0,0.45,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Athletic Footwear,60.00000000000001,700,420000.00000000006,147000.0,0.35,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Street Footwear,55.00000000000001,625,343750.00000000006,85937.50000000001,0.25,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Athletic Footwear,55.00000000000001,575,316250.00000000006,94875.00000000001,0.3,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Apparel,65.0,600,390000.0,136500.0,0.35,In-store
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Apparel,70.0,775,542500.0,271250.0,0.5,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Street Footwear,65.0,925,601250.0,270562.5,0.45,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Athletic Footwear,60.00000000000001,700,420000.00000000006,147000.0,0.35,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Street Footwear,55.00000000000001,625,343750.00000000006,85937.50000000001,0.25,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Athletic Footwear,45.0,575,258750.0,77625.0,0.3,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Apparel,55.00000000000001,550,302500.00000000006,105875.00000000001,0.35,In-store
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Apparel,60.00000000000001,725,435000.00000000006,217500.00000000003,0.5,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Street Footwear,55.00000000000001,850,467500.00000000006,210375.00000000003,0.45,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Athletic Footwear,50.000000000000014,650,325000.0000000001,113750.00000000003,0.35,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Street Footwear,45.0,550,247500.0,61875.0,0.25,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Athletic Footwear,45.0,525,236250.0,70875.0,0.3,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Apparel,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,In-store
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Apparel,60.00000000000001,625,375000.00000000006,187500.00000000003,0.5,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Street Footwear,60.00000000000001,800,480000.00000000006,216000.00000000003,0.45,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Athletic Footwear,50.000000000000014,625,312500.0000000001,109375.00000000003,0.35,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Street Footwear,50.000000000000014,525,262500.00000000006,65625.00000000001,0.25,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Athletic Footwear,50.000000000000014,500,250000.00000000006,75000.00000000001,0.3,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Apparel,60.00000000000001,500,300000.00000000006,105000.00000000001,0.35,In-store
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Apparel,65.0,625,406250.0,203125.0,0.5,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Street Footwear,60.00000000000001,775,465000.00000000006,209250.00000000003,0.45,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Athletic Footwear,50.000000000000014,600,300000.00000000006,105000.00000000001,0.35,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Street Footwear,50.000000000000014,545,272500.00000000006,68125.00000000001,0.25,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Athletic Footwear,50.000000000000014,575,287500.00000000006,86250.00000000001,0.3,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Apparel,65.0,550,357500.0,125124.99999999999,0.35,In-store
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Apparel,70.0,650,455000.0,227500.0,0.5,In-store
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Street Footwear,65.0,875,568750.0,255937.5,0.45,In-store
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Athletic Footwear,55.00000000000001,675,371250.00000000006,129937.50000000001,0.35,In-store
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Women's Athletic Footwear,37.0,133,4921.0,2066.8199999999997,0.42,Online
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Men's Apparel,50.0,154,7700.0,3541.9999999999995,0.45999999999999996,Online
+West Gear,1185732,2021-02-10,Northeast,New York,Albany,Women's Apparel,42.0,182,7644.0,4892.16,0.64,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Street Footwear,44.0,252,11088.0,6541.920000000001,0.5900000000000001,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Athletic Footwear,44.0,165,7260.0,3339.6,0.45999999999999996,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Street Footwear,33.0,161,5313.0,1912.6799999999998,0.36,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Athletic Footwear,39.0,106,4134.0,1694.9399999999998,0.41,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Men's Apparel,51.0,133,6783.0,3323.67,0.49,Online
+West Gear,1185732,2021-03-08,Northeast,New York,Albany,Women's Apparel,43.0,161,6923.0,4153.8,0.6,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Street Footwear,42.0,248,10416.0,5832.960000000001,0.56,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Athletic Footwear,43.0,147,6321.0,2844.45,0.44999999999999996,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Street Footwear,34.0,152,5168.0,1860.48,0.36,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Athletic Footwear,37.0,135,4995.0,2047.9499999999998,0.41,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Men's Apparel,50.0,124,6200.0,2914.0,0.47,Online
+West Gear,1185732,2021-04-09,Northeast,New York,Albany,Women's Apparel,41.0,156,6396.0,4157.400000000001,0.65,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Street Footwear,50.0,261,13050.0,7830.0,0.6,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Athletic Footwear,53.0,161,8533.0,4010.5099999999998,0.47,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Street Footwear,49.0,160,7840.0,2822.4,0.36,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Athletic Footwear,47.0,130,6110.0,2444.0,0.4,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Apparel,56.0,137,7672.0,3759.2799999999997,0.49,Online
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Apparel,59.0,169,9971.0,6281.7300000000005,0.63,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Street Footwear,59.0,263,15517.0,8689.52,0.56,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Athletic Footwear,54.0,175,9450.0,4536.0,0.48,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Street Footwear,48.0,150,7200.0,2736.0,0.38,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Athletic Footwear,49.0,144,7056.0,2892.96,0.41,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Apparel,62.0,150,9300.0,4557.0,0.49,Online
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Apparel,69.0,181,12489.0,7743.18,0.62,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,59.0,247,14573.0,8015.150000000001,0.55,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Athletic Footwear,56.0,196,10976.0,4939.2,0.44999999999999996,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Street Footwear,51.0,169,8619.0,3016.6499999999996,0.35,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Athletic Footwear,53.0,150,7950.0,3418.5,0.43,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Apparel,62.0,168,10416.0,4791.36,0.45999999999999996,Online
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Apparel,66.0,194,12804.0,8322.6,0.65,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Street Footwear,62.0,250,15500.0,8680.0,0.56,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Athletic Footwear,55.0,210,11550.0,5197.499999999999,0.44999999999999996,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Street Footwear,51.0,188,9588.0,3451.68,0.36,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Athletic Footwear,41.0,150,6150.0,2460.0,0.4,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Apparel,52.0,149,7748.0,3719.04,0.48,Online
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Apparel,55.0,218,11990.0,7194.0,0.6,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Street Footwear,50.0,238,11900.0,7021.000000000001,0.5900000000000001,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Athletic Footwear,48.0,163,7824.0,3520.7999999999997,0.44999999999999996,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Street Footwear,41.0,138,5658.0,1980.3,0.35,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Athletic Footwear,44.0,137,6028.0,2471.48,0.41,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Apparel,51.0,131,6681.0,3206.8799999999997,0.48,Online
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Women's Apparel,59.0,156,9204.0,5522.4,0.6,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Street Footwear,57.0,208,11856.0,6757.920000000001,0.5700000000000001,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Athletic Footwear,46.0,156,7176.0,3300.9599999999996,0.45999999999999996,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Street Footwear,46.0,137,6302.0,2520.8,0.4,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Athletic Footwear,45.0,135,6075.0,2490.75,0.41,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Apparel,59.0,150,8850.0,4159.5,0.47,Online
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Apparel,64.0,156,9984.0,6190.08,0.62,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Street Footwear,56.0,217,12152.0,6683.6,0.55,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Athletic Footwear,49.0,162,7938.0,3889.62,0.49,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Street Footwear,45.0,147,6615.0,2381.4,0.36,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Athletic Footwear,47.0,144,6768.0,2707.2000000000003,0.4,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Apparel,62.0,154,9548.0,4296.599999999999,0.44999999999999996,Online
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Apparel,68.0,176,11968.0,7659.52,0.64,Online
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Street Footwear,59.0,245,14455.0,8383.900000000001,0.5800000000000001,Online
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Athletic Footwear,51.0,169,8619.0,4309.5,0.5,Online

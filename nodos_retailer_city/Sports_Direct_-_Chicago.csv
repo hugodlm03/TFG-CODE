@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-08-11,Midwest,Illinois,Chicago,Men's Street Footwear,20.0,725,145000.0,43500.0,0.3,Outlet
+Sports Direct,1197831,2021-08-12,Midwest,Illinois,Chicago,Men's Athletic Footwear,30.0,725,217500.0,65250.0,0.3,Outlet
+Sports Direct,1197831,2021-08-13,Midwest,Illinois,Chicago,Women's Street Footwear,30.0,525,157500.0,47250.0,0.3,Outlet
+Sports Direct,1197831,2021-08-14,Midwest,Illinois,Chicago,Women's Athletic Footwear,35.0,525,183750.0,73500.0,0.4,Outlet
+Sports Direct,1197831,2021-08-11,Midwest,Illinois,Chicago,Men's Street Footwear,20.0,189,3780.0,1512.0,0.4,Online
+Sports Direct,1197831,2021-08-12,Midwest,Illinois,Chicago,Men's Athletic Footwear,28.0,196,5488.0,2195.2000000000003,0.4,Online
+Sports Direct,1197831,2021-08-13,Midwest,Illinois,Chicago,Women's Street Footwear,27.0,158,4266.0,1749.06,0.41,Online
+Sports Direct,1197831,2021-08-14,Midwest,Illinois,Chicago,Women's Athletic Footwear,34.0,152,5168.0,2635.68,0.51,Online

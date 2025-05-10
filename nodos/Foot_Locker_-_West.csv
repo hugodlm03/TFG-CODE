@@ -1,0 +1,397 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,45.0,475,213750.0,85500.0,0.4,Outlet
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,Outlet
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,35.0,275,96250.0,33687.5,0.35,Outlet
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,40.0,125,50000.0,20000.0,0.4,Outlet
+Foot Locker,1185732,2020-08-06,West,Washington,Seattle,Men's Street Footwear,45.0,1050,472500.0,212625.0,0.45,In-store
+Foot Locker,1185732,2020-08-07,West,Washington,Seattle,Men's Athletic Footwear,45.0,850,382500.0,133875.0,0.35,In-store
+Foot Locker,1185732,2020-08-08,West,Washington,Seattle,Women's Street Footwear,35.0,850,297500.0,74375.0,0.25,In-store
+Foot Locker,1185732,2020-08-09,West,Washington,Seattle,Women's Athletic Footwear,40.0,700,280000.0,84000.0,0.3,In-store
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Street Footwear,35.0,375,131250.0,32812.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Athletic Footwear,45.0,375,168750.0,33750.0,0.2,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Street Footwear,45.0,375,168750.0,42187.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Apparel,50.0,175,87500.0,13125.0,0.15,Outlet
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Apparel,45.0,425,191250.0,76500.0,0.4,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Street Footwear,35.0,475,166250.0,41562.5,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Athletic Footwear,45.0,375,168750.0,33750.0,0.2,Outlet
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Women's Street Footwear,45.0,375,168750.0,42187.5,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Men's Apparel,50.0,150,75000.0,11250.0,0.15,Outlet
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Apparel,45.0,350,157500.0,63000.0,0.4,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Street Footwear,45.0,500,225000.0,56250.0,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Athletic Footwear,54.99999999999999,350,192499.99999999997,38499.99999999999,0.2,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Street Footwear,59.999999999999986,375,224999.99999999994,56249.999999999985,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Athletic Footwear,54.99999999999999,275,151249.99999999997,37812.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Apparel,60.0,125,75000.0,11250.0,0.15,Outlet
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Apparel,54.99999999999999,325,178749.99999999997,71499.99999999999,0.4,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Street Footwear,60.0,500,300000.0,75000.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Athletic Footwear,65.0,300,195000.0,39000.0,0.2,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Street Footwear,65.0,350,227500.0,56875.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Athletic Footwear,50.0,250,125000.0,31250.0,0.25,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Apparel,55.00000000000001,150,82500.00000000001,12375.000000000002,0.15,Outlet
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Apparel,70.0,325,227500.0,91000.0,0.4,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Street Footwear,54.99999999999999,525,288749.99999999994,72187.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Athletic Footwear,60.0,375,225000.0,45000.0,0.2,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Street Footwear,60.0,375,225000.0,56250.0,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Athletic Footwear,54.99999999999999,275,151249.99999999997,37812.49999999999,0.25,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Apparel,60.0,175,105000.0,15750.0,0.15,Outlet
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Apparel,75.0,475,356250.0,142500.0,0.4,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,70.0,725,507500.0,126875.0,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.0,600,450000.0,90000.0,0.2,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Street Footwear,75.0,600,450000.0,112500.0,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Athletic Footwear,75.0,475,356250.0,89062.5,0.25,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Apparel,85.00000000000001,350,297500.00000000006,44625.00000000001,0.15,Outlet
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,100.0,650,650000.0,260000.0,0.4,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,80.0,800,640000.0,160000.0,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.00000000000001,650,552500.0000000001,110500.00000000003,0.2,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Street Footwear,85.00000000000001,600,510000.00000000006,127500.00000000001,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,80.0,500,400000.0,100000.0,0.25,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Apparel,85.00000000000001,550,467500.00000000006,70125.0,0.15,Outlet
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,100.0,550,550000.0,220000.0,0.4,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,85.00000000000001,750,637500.0000000001,159375.00000000003,0.25,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.00000000000001,725,543750.0000000001,108750.00000000003,0.2,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,70.0,600,420000.0,105000.0,0.25,Outlet
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Athletic Footwear,70.0,525,367500.0,91875.0,0.25,Outlet
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Street Footwear,45.00000000000001,550,247500.00000000003,86625.0,0.35,In-store
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,45.00000000000001,500,225000.00000000003,78750.0,0.35,In-store
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Apparel,55.00000000000001,500,275000.00000000006,82500.00000000001,0.3,In-store
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Apparel,60.0,600,360000.0,90000.0,0.25,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Street Footwear,30.000000000000004,350,105000.00000000001,36750.0,0.35,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Athletic Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Athletic Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Apparel,45.00000000000001,150,67500.00000000001,27000.000000000007,0.4,In-store
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Apparel,40.0,400,160000.0,48000.0,0.3,In-store
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Men's Street Footwear,30.000000000000004,450,135000.00000000003,47250.00000000001,0.35,In-store
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Men's Athletic Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Women's Street Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,35.0,375,131250.0,52500.0,0.4,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,40.0,250,100000.0,25000.0,0.25,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,35.0,450,157500.0,70875.0,0.45,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,30.0,625,187500.0,65625.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,40.0,625,250000.0,87500.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,30.0,450,135000.0,47250.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,35.0,350,122500.0,55125.0,0.45,Online
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,65.0,800,520000.0,286000.0,0.55,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,50.0,750,375000.0,150000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,55.00000000000001,750,412500.00000000006,165000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,50.0,925,462500.0,184999.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,50.0,475,237500.0,118750.0,0.5,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,54.99999999999999,775,426249.99999999994,170499.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,54.99999999999999,775,426249.99999999994,170499.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,60.0,675,405000.0,162000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,60.0,525,315000.0,157500.0,0.5,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,54.99999999999999,475,261249.99999999997,91437.49999999999,0.35,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,65.0,725,471250.0,259187.50000000003,0.55,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,29.999999999999993,425,127499.99999999997,44624.999999999985,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,40.0,425,170000.0,68000.0,0.4,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,40.0,425,170000.0,59499.99999999999,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,40.0,275,110000.0,38500.0,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,45.00000000000001,225,101250.00000000001,30375.000000000004,0.3,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,40.0,425,170000.0,42500.0,0.25,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,29.999999999999993,475,142499.99999999997,49874.999999999985,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,40.0,375,150000.0,60000.0,0.4,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,40.0,375,150000.0,52500.0,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Athletic Footwear,40.0,225,90000.0,31499.999999999996,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Men's Apparel,45.00000000000001,150,67500.00000000001,20250.000000000004,0.3,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Apparel,40.0,350,140000.0,35000.0,0.25,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Street Footwear,40.0,500,200000.0,70000.0,0.35,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Athletic Footwear,50.0,350,175000.0,70000.0,0.4,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Street Footwear,50.0,350,175000.0,61249.99999999999,0.35,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Athletic Footwear,50.0,225,112500.0,39375.0,0.35,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,125,68750.00000000001,20625.000000000004,0.3,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Apparel,50.0,325,162500.0,40625.0,0.25,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Street Footwear,50.0,500,250000.0,87500.0,0.35,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Athletic Footwear,55.00000000000001,300,165000.00000000003,66000.00000000001,0.4,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Street Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,150,82500.00000000001,24750.000000000004,0.3,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Apparel,70.0,325,227500.0,56875.0,0.25,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Street Footwear,50.0,525,262500.0,91875.0,0.35,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Athletic Footwear,55.00000000000001,375,206250.00000000003,82500.00000000001,0.4,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Street Footwear,55.00000000000001,400,220000.00000000003,77000.0,0.35,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Athletic Footwear,50.0,300,150000.0,52500.0,0.35,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,200,110000.00000000001,33000.0,0.3,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Apparel,70.0,375,262500.0,65625.0,0.25,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Street Footwear,50.0,625,312500.0,109375.0,0.35,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Athletic Footwear,55.00000000000001,475,261250.00000000003,104500.00000000001,0.4,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Athletic Footwear,50.0,350,175000.0,61249.99999999999,0.35,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,225,123750.00000000001,37125.0,0.3,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Apparel,70.0,525,367500.0,91875.0,0.25,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Street Footwear,50.0,675,337500.0,118124.99999999999,0.35,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Athletic Footwear,55.00000000000001,525,288750.00000000006,115500.00000000003,0.4,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Athletic Footwear,50.0,375,187500.0,65625.0,0.35,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,425,233750.00000000003,70125.0,0.3,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Apparel,70.0,425,297500.0,74375.0,0.25,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Street Footwear,55.00000000000001,625,343750.00000000006,120312.50000000001,0.35,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Athletic Footwear,60.00000000000001,575,345000.00000000006,138000.00000000003,0.4,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Street Footwear,55.00000000000001,450,247500.00000000003,86625.0,0.35,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Athletic Footwear,55.00000000000001,400,220000.00000000003,77000.0,0.35,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Apparel,65.0,400,260000.0,78000.0,0.3,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Apparel,70.0,375,262500.0,65625.0,0.25,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Street Footwear,45.00000000000001,575,258750.00000000003,90562.5,0.35,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Athletic Footwear,50.000000000000014,575,287500.00000000006,115000.00000000003,0.4,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Street Footwear,45.00000000000001,425,191250.00000000003,66937.5,0.35,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Athletic Footwear,45.00000000000001,375,168750.00000000003,59062.50000000001,0.35,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,375,206250.00000000003,61875.00000000001,0.3,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Apparel,60.00000000000001,425,255000.00000000003,63750.00000000001,0.25,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Street Footwear,45.00000000000001,500,225000.00000000003,78750.0,0.35,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Athletic Footwear,50.000000000000014,500,250000.00000000006,100000.00000000003,0.4,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Street Footwear,45.00000000000001,325,146250.00000000003,51187.50000000001,0.35,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Athletic Footwear,45.00000000000001,300,135000.00000000003,47250.00000000001,0.35,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,275,151250.00000000003,45375.00000000001,0.3,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Apparel,60.00000000000001,325,195000.00000000003,48750.00000000001,0.25,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Street Footwear,45.00000000000001,500,225000.00000000003,78750.0,0.35,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Athletic Footwear,50.000000000000014,525,262500.00000000006,105000.00000000003,0.4,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Street Footwear,45.00000000000001,375,168750.00000000003,59062.50000000001,0.35,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Athletic Footwear,45.00000000000001,350,157500.00000000003,55125.00000000001,0.35,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Apparel,55.00000000000001,300,165000.00000000003,49500.00000000001,0.3,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Apparel,60.00000000000001,425,255000.00000000003,63750.00000000001,0.25,Online
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Street Footwear,45.00000000000001,625,281250.00000000006,98437.50000000001,0.35,Online
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Athletic Footwear,50.000000000000014,625,312500.0000000001,125000.00000000006,0.4,Online
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,44.0,124,5456.0,2837.12,0.52,Online
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,41.0,77,3157.0,1452.2199999999998,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,32.0,83,2656.0,1248.32,0.47,Online
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,37.0,34,1258.0,654.16,0.52,Online
+Foot Locker,1185732,2020-08-06,West,Washington,Seattle,Men's Street Footwear,44.0,273,12012.0,6606.6,0.55,Online
+Foot Locker,1185732,2020-08-07,West,Washington,Seattle,Men's Athletic Footwear,41.0,221,9061.0,4439.89,0.49,Online
+Foot Locker,1185732,2020-08-08,West,Washington,Seattle,Women's Street Footwear,34.0,230,7820.0,3049.8,0.39,Online
+Foot Locker,1185732,2020-08-09,West,Washington,Seattle,Women's Athletic Footwear,38.0,175,6650.0,2660.0,0.4,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Street Footwear,33.0,109,3597.0,1366.8600000000001,0.38,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Athletic Footwear,43.0,109,4687.0,1546.71,0.33,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Street Footwear,41.0,113,4633.0,1667.8799999999999,0.36,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Athletic Footwear,43.0,56,2408.0,842.8,0.35,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Men's Apparel,46.0,46,2116.0,634.8,0.3,Online
+Foot Locker,1128299,2021-01-10,West,Alaska,Anchorage,Women's Apparel,42.0,123,5166.0,2789.6400000000003,0.54,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Street Footwear,33.0,143,4719.0,1698.84,0.36,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Men's Athletic Footwear,42.0,98,4116.0,1317.1200000000001,0.32,Online
+Foot Locker,1128299,2021-02-10,West,Alaska,Anchorage,Women's Street Footwear,44.0,94,4136.0,1488.96,0.36,Online
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Athletic Footwear,41.0,56,2296.0,895.44,0.39,Online
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Men's Apparel,47.0,38,1786.0,535.8,0.3,Online
+Foot Locker,1128299,2021-02-10,West,Hawaii,Honolulu,Women's Apparel,44.0,102,4488.0,2468.4,0.55,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Street Footwear,44.0,135,5940.0,2376.0,0.4,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Athletic Footwear,54.0,91,4914.0,1523.34,0.31,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Street Footwear,57.0,101,5757.0,2245.23,0.39,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Athletic Footwear,52.0,69,3588.0,1291.68,0.36,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Men's Apparel,55.0,36,1980.0,514.8000000000001,0.26,Online
+Foot Locker,1128299,2021-03-09,West,Hawaii,Honolulu,Women's Apparel,50.0,85,4250.0,2337.5,0.55,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Street Footwear,59.0,130,7670.0,2761.2,0.36,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Athletic Footwear,61.0,81,4941.0,1729.35,0.35,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Street Footwear,60.0,91,5460.0,2074.8,0.38,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Athletic Footwear,48.0,73,3504.0,1226.3999999999999,0.35,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Men's Apparel,52.0,42,2184.0,589.6800000000001,0.27,Online
+Foot Locker,1128299,2021-04-10,West,Hawaii,Honolulu,Women's Apparel,66.0,94,6204.0,3102.0,0.5,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Street Footwear,51.0,158,8058.0,2981.46,0.37,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Athletic Footwear,58.0,98,5684.0,1875.72,0.33,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Street Footwear,56.0,98,5488.0,2195.2000000000003,0.4,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Athletic Footwear,52.0,80,4160.0,1664.0,0.4,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Men's Apparel,55.0,46,2530.0,708.4000000000001,0.28,Online
+Foot Locker,1128299,2021-05-11,West,Hawaii,Honolulu,Women's Apparel,69.0,143,9867.0,5426.85,0.55,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,67.0,210,14070.0,5628.0,0.4,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Athletic Footwear,72.0,156,11232.0,3481.92,0.31,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Street Footwear,71.0,180,12780.0,4600.8,0.36,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Athletic Footwear,74.0,133,9842.0,3739.96,0.38,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Apparel,83.0,88,7304.0,2191.2,0.3,Online
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,97.0,169,16393.0,8524.36,0.52,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,74.0,208,15392.0,5695.04,0.37,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,81.0,182,14742.0,5012.280000000001,0.34,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Street Footwear,79.0,150,11850.0,4266.0,0.36,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,73.0,130,9490.0,3796.0,0.4,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Apparel,80.0,149,11920.0,3576.0,0.3,Online
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,96.0,154,14784.0,7687.68,0.52,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,79.0,210,16590.0,6138.3,0.37,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,71.0,218,15478.0,5262.52,0.34,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,64.0,162,10368.0,4043.52,0.39,Online
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Athletic Footwear,67.0,142,9514.0,3615.32,0.38,Online
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Street Footwear,44.0,165,7260.0,3339.6,0.45999999999999996,Online
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Athletic Footwear,44.0,135,5940.0,2910.6,0.49,Online
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Apparel,54.0,145,7830.0,3523.4999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-10,West,Wyoming,Cheyenne,Women's Apparel,56.0,174,9744.0,3507.8399999999997,0.36,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Street Footwear,29.0,91,2639.0,1213.9399999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Athletic Footwear,36.0,105,3780.0,1738.8,0.45999999999999996,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Street Footwear,39.0,91,3549.0,1597.05,0.44999999999999996,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Athletic Footwear,38.0,54,2052.0,964.4399999999999,0.47,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Men's Apparel,42.0,45,1890.0,963.9,0.51,Online
+Foot Locker,1128299,2021-01-24,West,Wyoming,Cheyenne,Women's Apparel,38.0,116,4408.0,1983.6,0.44999999999999996,Online
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Men's Street Footwear,27.0,113,3051.0,1403.4599999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Men's Athletic Footwear,36.0,105,3780.0,1700.9999999999998,0.44999999999999996,Online
+Foot Locker,1128299,2021-02-24,West,Wyoming,Cheyenne,Women's Street Footwear,39.0,88,3432.0,1544.3999999999999,0.44999999999999996,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,32.0,109,3488.0,1883.5200000000002,0.54,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,39.0,70,2730.0,955.4999999999999,0.35,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,34.0,131,4454.0,2449.7000000000003,0.55,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,28.0,156,4368.0,1965.6,0.44999999999999996,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,36.0,169,6084.0,2798.64,0.45999999999999996,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,28.0,113,3164.0,1550.36,0.49,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,33.0,105,3465.0,2009.7000000000003,0.5800000000000001,Online
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,64.0,208,13312.0,9185.28,0.6900000000000001,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,46.0,210,9660.0,5312.999999999999,0.5499999999999999,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,53.0,195,10335.0,5477.55,0.53,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,46.0,250,11500.0,6095.0,0.53,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,48.0,124,5952.0,3868.8,0.65,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,54.0,233,12582.0,6794.280000000001,0.54,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,51.0,209,10659.0,5755.860000000001,0.54,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,56.0,176,9856.0,5125.12,0.52,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,59.0,142,8378.0,5445.7,0.65,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,50.0,133,6650.0,3258.5,0.49,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,60.0,196,11760.0,8114.400000000001,0.6900000000000001,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,29.0,119,3451.0,1656.48,0.48,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,37.0,106,3922.0,2000.22,0.51,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,37.0,106,3922.0,1921.78,0.49,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,38.0,77,2926.0,1345.9599999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,42.0,63,2646.0,1190.6999999999998,0.44999999999999996,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,36.0,111,3996.0,1398.6,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,29.0,143,4147.0,2073.5,0.5,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,38.0,113,4294.0,2318.76,0.54,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,38.0,105,3990.0,1875.3,0.47,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Athletic Footwear,38.0,63,2394.0,1149.12,0.48,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Men's Apparel,42.0,44,1848.0,813.12,0.44,Online
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Apparel,38.0,88,3344.0,1203.84,0.36,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Street Footwear,37.0,145,5365.0,2521.5499999999997,0.47,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Athletic Footwear,48.0,95,4560.0,2508.0,0.55,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Street Footwear,49.0,91,4459.0,2229.5,0.5,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Athletic Footwear,47.0,68,3196.0,1470.1599999999999,0.45999999999999996,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Apparel,54.0,31,1674.0,686.3399999999999,0.41,Online
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Apparel,47.0,88,4136.0,1654.4,0.4,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Street Footwear,48.0,130,6240.0,2807.9999999999995,0.44999999999999996,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Athletic Footwear,53.0,90,4770.0,2385.0,0.5,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Street Footwear,50.0,102,5100.0,2550.0,0.5,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Athletic Footwear,46.0,75,3450.0,1725.0,0.5,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Apparel,50.0,39,1950.0,819.0,0.42,Online
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Apparel,67.0,94,6298.0,2267.2799999999997,0.36,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Street Footwear,47.0,147,6909.0,3247.23,0.47,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Athletic Footwear,53.0,113,5989.0,3234.0600000000004,0.54,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Street Footwear,50.0,120,6000.0,2820.0,0.47,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Athletic Footwear,49.0,90,4410.0,2205.0,0.5,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Apparel,51.0,58,2958.0,1212.78,0.41,Online
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Apparel,64.0,98,6272.0,2257.92,0.36,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Street Footwear,48.0,156,7488.0,3669.12,0.49,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Athletic Footwear,51.0,138,7038.0,3659.76,0.52,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Street Footwear,51.0,138,7038.0,3167.1,0.44999999999999996,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Athletic Footwear,46.0,95,4370.0,2185.0,0.5,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Apparel,51.0,68,3468.0,1456.56,0.42,Online
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Apparel,69.0,131,9039.0,3525.21,0.39,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Street Footwear,49.0,196,9604.0,4705.96,0.49,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Athletic Footwear,50.0,142,7100.0,3621.0,0.51,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Street Footwear,51.0,133,6783.0,3188.0099999999998,0.47,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Athletic Footwear,48.0,101,4848.0,2181.6,0.44999999999999996,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Apparel,52.0,128,6656.0,2862.08,0.43,Online
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Apparel,67.0,123,8241.0,3131.58,0.38,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Street Footwear,50.0,163,8150.0,4075.0,0.5,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Athletic Footwear,57.0,161,9177.0,4588.5,0.5,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Street Footwear,54.0,113,6102.0,2989.98,0.49,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Athletic Footwear,52.0,112,5824.0,2853.7599999999998,0.49,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Apparel,59.0,116,6844.0,2806.04,0.41,Online
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Apparel,65.0,94,6110.0,2444.0,0.4,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Street Footwear,41.0,167,6847.0,3355.0299999999997,0.49,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Athletic Footwear,45.0,161,7245.0,3839.8500000000004,0.53,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Street Footwear,43.0,128,5504.0,2476.7999999999997,0.44999999999999996,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Athletic Footwear,41.0,113,4633.0,2177.5099999999998,0.47,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Apparel,54.0,105,5670.0,2494.8,0.44,Online
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Apparel,56.0,119,6664.0,2465.68,0.37,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Street Footwear,41.0,135,5535.0,2656.7999999999997,0.48,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Athletic Footwear,47.0,145,6815.0,3611.9500000000003,0.53,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Street Footwear,44.0,91,4004.0,1921.9199999999998,0.48,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Athletic Footwear,43.0,90,3870.0,1896.3,0.49,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Apparel,53.0,69,3657.0,1462.8000000000002,0.4,Online
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Apparel,56.0,85,4760.0,1808.8,0.38,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Street Footwear,42.0,135,5670.0,2664.8999999999996,0.47,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Athletic Footwear,46.0,147,6762.0,3516.2400000000002,0.52,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Street Footwear,44.0,105,4620.0,2125.2,0.45999999999999996,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Athletic Footwear,42.0,98,4116.0,1934.52,0.47,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Apparel,53.0,87,4611.0,1890.51,0.41,Online
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Apparel,55.0,111,6105.0,2258.85,0.37,Online
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Street Footwear,44.0,181,7964.0,3663.4399999999996,0.45999999999999996,Online
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Athletic Footwear,49.0,175,8575.0,4630.5,0.54,Online
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,36.0,147,5292.0,2381.4,0.45,Outlet
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,31.0,91,2821.0,1156.61,0.41,Outlet
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,24.0,94,2256.0,879.8399999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,27.0,41,1107.0,509.22,0.46,Outlet
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,27.0,116,3132.0,1315.44,0.42000000000000004,Outlet
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,31.0,88,2728.0,818.4,0.3,Outlet
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,26.0,135,3510.0,1825.2,0.52,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,21.0,200,4200.0,1554.0,0.37,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,27.0,188,5076.0,1979.6399999999999,0.38999999999999996,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,20.0,135,2700.0,1026.0,0.38,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,26.0,112,2912.0,1368.64,0.47000000000000003,Outlet
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,51.0,264,13464.0,7943.760000000001,0.5900000000000001,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,38.0,233,8854.0,3718.68,0.42,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,37.0,255,9435.0,4057.0499999999993,0.42999999999999994,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,39.0,305,11895.0,5114.849999999999,0.42999999999999994,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,33.0,162,5346.0,2940.3,0.55,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,40.0,240,9600.0,4320.0,0.44999999999999996,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,41.0,240,9840.0,4526.4,0.45999999999999996,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,47.0,223,10481.0,4611.639999999999,0.43999999999999995,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,44.0,184,8096.0,4209.92,0.52,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,43.0,147,6321.0,2591.6099999999997,0.41,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,47.0,232,10904.0,6651.440000000001,0.6100000000000001,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,23.0,136,3128.0,1251.1999999999998,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,30.0,140,4200.0,1806.0000000000002,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,31.0,145,4495.0,1753.0499999999997,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,30.0,88,2640.0,976.8,0.37,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,35.0,68,2380.0,809.1999999999999,0.33999999999999997,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,27.0,140,3780.0,1020.6,0.27,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,21.0,162,3402.0,1258.74,0.37,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,28.0,128,3584.0,1541.1200000000001,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,28.0,124,3472.0,1458.24,0.42,Outlet
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Athletic Footwear,26.0,68,1768.0,742.56,0.42,Outlet
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Men's Apparel,36.0,51,1836.0,679.3199999999999,0.37,Outlet
+Foot Locker,1128299,2021-02-23,West,Arizona,Phoenix,Women's Apparel,31.0,116,3596.0,970.9200000000001,0.27,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Street Footwear,29.0,160,4640.0,1855.9999999999998,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Athletic Footwear,38.0,116,4408.0,1939.52,0.44,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Street Footwear,37.0,119,4403.0,1805.2299999999998,0.41,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Athletic Footwear,38.0,68,2584.0,956.08,0.37,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Men's Apparel,41.0,39,1599.0,511.68,0.32,Outlet
+Foot Locker,1128299,2021-03-22,West,Arizona,Phoenix,Women's Apparel,37.0,107,3959.0,1068.93,0.27,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Street Footwear,40.0,175,7000.0,2660.0,0.38,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Athletic Footwear,37.0,90,3330.0,1465.2,0.44,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Street Footwear,42.0,123,5166.0,1911.42,0.37,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Athletic Footwear,40.0,78,3120.0,1248.0,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Men's Apparel,43.0,47,2021.0,687.14,0.33999999999999997,Outlet
+Foot Locker,1128299,2021-04-23,West,Arizona,Phoenix,Women's Apparel,49.0,111,5439.0,1631.7,0.3,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Street Footwear,38.0,184,6992.0,2656.96,0.38,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Athletic Footwear,36.0,116,4176.0,1753.92,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Street Footwear,41.0,132,5412.0,2056.56,0.38,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Athletic Footwear,39.0,93,3627.0,1341.99,0.37,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Men's Apparel,39.0,62,2418.0,797.9399999999999,0.32999999999999996,Outlet
+Foot Locker,1128299,2021-05-24,West,Arizona,Phoenix,Women's Apparel,53.0,124,6572.0,1905.8799999999999,0.29,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Street Footwear,37.0,194,7178.0,2799.4199999999996,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Athletic Footwear,36.0,143,5148.0,2162.1600000000003,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Street Footwear,41.0,147,6027.0,2290.26,0.38,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Athletic Footwear,38.0,105,3990.0,1595.9999999999998,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Men's Apparel,43.0,72,3096.0,1052.6399999999999,0.33999999999999997,Outlet
+Foot Locker,1128299,2021-06-23,West,Arizona,Phoenix,Women's Apparel,46.0,158,7268.0,2253.08,0.31,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Street Footwear,40.0,216,8640.0,3196.8,0.37,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Athletic Footwear,40.0,163,6520.0,2999.2000000000003,0.46,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Street Footwear,39.0,157,6123.0,2387.97,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Athletic Footwear,36.0,113,4068.0,1545.84,0.38,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Men's Apparel,40.0,145,5800.0,2146.0,0.37,Outlet
+Foot Locker,1128299,2021-07-22,West,Arizona,Phoenix,Women's Apparel,46.0,145,6670.0,2001.0,0.3,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Street Footwear,41.0,194,7954.0,3181.6,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Athletic Footwear,46.0,190,8740.0,3670.8,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Street Footwear,37.0,153,5661.0,2321.0099999999998,0.41,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Athletic Footwear,43.0,120,5160.0,2167.2,0.42,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Men's Apparel,45.0,136,6120.0,2264.4,0.37,Outlet
+Foot Locker,1128299,2021-08-23,West,Arizona,Phoenix,Women's Apparel,48.0,131,6288.0,1760.64,0.28,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Street Footwear,35.0,184,6440.0,2704.7999999999997,0.42,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Athletic Footwear,34.0,201,6834.0,3211.98,0.47000000000000003,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Street Footwear,34.0,145,4930.0,1824.1,0.37,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Athletic Footwear,33.0,124,4092.0,1514.04,0.37,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Men's Apparel,41.0,128,5248.0,1731.8399999999997,0.32999999999999996,Outlet
+Foot Locker,1128299,2021-09-24,West,Arizona,Phoenix,Women's Apparel,43.0,132,5676.0,1816.32,0.32,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Street Footwear,36.0,170,6120.0,2570.4,0.42,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Athletic Footwear,33.0,175,5775.0,2425.5000000000005,0.42000000000000004,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Street Footwear,31.0,111,3441.0,1273.17,0.37,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Athletic Footwear,32.0,102,3264.0,1272.9599999999998,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Men's Apparel,44.0,88,3872.0,1432.6399999999999,0.37,Outlet
+Foot Locker,1128299,2021-10-23,West,Arizona,Phoenix,Women's Apparel,47.0,107,5029.0,1458.4099999999999,0.29,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Street Footwear,31.0,150,4650.0,1767.0,0.38,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Athletic Footwear,38.0,163,6194.0,2911.1800000000003,0.47000000000000003,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Street Footwear,33.0,124,4092.0,1595.8799999999999,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Athletic Footwear,33.0,116,3828.0,1607.76,0.42,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Men's Apparel,44.0,99,4356.0,1568.1599999999999,0.36,Outlet
+Foot Locker,1128299,2021-11-23,West,Arizona,Phoenix,Women's Apparel,39.0,140,5460.0,1528.8000000000002,0.28,Outlet
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Street Footwear,35.0,194,6790.0,2716.0,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-12-22,West,Arizona,Phoenix,Men's Athletic Footwear,33.0,213,7029.0,3233.34,0.46,Outlet

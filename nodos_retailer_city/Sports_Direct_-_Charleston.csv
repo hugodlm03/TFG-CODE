@@ -1,0 +1,27 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,60.00000000000001,825,495000.00000000006,123750.00000000001,0.25,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,60.00000000000001,775,465000.00000000006,139500.0,0.3,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,70.0,775,542500.0,189875.0,0.35,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,75.0,875,656250.0,328125.0,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,925,323750.0,129500.0,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,725,253750.0,88812.5,0.35,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Street Footwear,25.000000000000007,725,181250.00000000006,72500.00000000003,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,30.0,575,172500.0,69000.0,0.4,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Apparel,45.0,625,281250.0,98437.5,0.35,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Apparel,35.0,725,253750.0,126875.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,975,341250.0,136500.0,0.4,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,625,218750.0,76562.5,0.35,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Women's Street Footwear,25.000000000000007,675,168750.00000000006,67500.00000000003,0.4,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,56.0,215,12040.0,4214.0,0.35,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,59.0,194,11446.0,5150.7,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,66.0,225,14850.0,6682.499999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,68.0,228,15504.0,9302.4,0.6,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,231,7623.0,3811.5,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,181,6154.0,3077.0,0.5,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,189,4536.0,2449.44,0.54,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.0,173,5017.0,2759.3500000000004,0.55,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Men's Apparel,42.0,156,6552.0,3013.9199999999996,0.45999999999999996,Online
+Sports Direct,1185732,2021-01-06,Southeast,South Carolina,Charleston,Women's Apparel,34.0,196,6664.0,4264.96,0.64,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Street Footwear,34.0,263,8942.0,4471.0,0.5,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,188,6392.0,3068.16,0.48,Online
+Sports Direct,1185732,2021-02-04,Southeast,South Carolina,Charleston,Women's Street Footwear,23.0,169,3887.0,2137.8500000000004,0.55,Online

@@ -1,0 +1,55 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2020-07-23,South,Texas,Houston,Men's Apparel,40.0,550,220000.0,66000.0,0.3,Outlet
+Sports Direct,1197831,2020-07-24,South,Texas,Houston,Women's Apparel,35.0,700,245000.0,122500.0,0.5,Outlet
+Sports Direct,1197831,2020-07-25,South,Texas,Houston,Men's Street Footwear,25.0,850,212500.0,74375.0,0.35,Outlet
+Sports Direct,1197831,2020-07-26,South,Texas,Houston,Men's Athletic Footwear,35.0,850,297500.0,104125.0,0.35,Outlet
+Sports Direct,1197831,2020-07-27,South,Texas,Houston,Women's Street Footwear,35.0,675,236250.0,82687.5,0.35,Outlet
+Sports Direct,1197831,2020-07-28,South,Texas,Houston,Women's Athletic Footwear,35.0,625,218750.0,98437.5,0.45,Outlet
+Sports Direct,1197831,2020-07-29,South,Texas,Houston,Men's Apparel,40.0,500,200000.0,60000.0,0.3,Outlet
+Sports Direct,1197831,2020-07-30,South,Texas,Houston,Women's Apparel,35.0,700,245000.0,122500.0,0.5,Outlet
+Sports Direct,1197831,2020-07-31,South,Texas,Houston,Men's Street Footwear,30.0,875,262500.0,91875.0,0.35,Outlet
+Sports Direct,1197831,2020-08-01,South,Texas,Houston,Men's Athletic Footwear,40.0,875,350000.0,122499.99999999999,0.35,Outlet
+Sports Direct,1197831,2020-08-02,South,Texas,Houston,Women's Street Footwear,35.0,700,245000.0,85750.0,0.35,Outlet
+Sports Direct,1197831,2020-08-03,South,Texas,Houston,Women's Athletic Footwear,40.0,600,240000.0,108000.0,0.45,Outlet
+Sports Direct,1197831,2020-08-04,South,Texas,Houston,Men's Apparel,45.0,500,225000.0,67500.0,0.3,Outlet
+Sports Direct,1197831,2020-08-05,South,Texas,Houston,Women's Apparel,40.0,650,260000.0,130000.0,0.5,Outlet
+Sports Direct,1197831,2020-08-06,South,Texas,Houston,Men's Street Footwear,30.0,900,270000.0,94500.0,0.35,Outlet
+Sports Direct,1197831,2020-08-07,South,Texas,Houston,Men's Athletic Footwear,40.0,900,360000.0,125999.99999999999,0.35,Outlet
+Sports Direct,1197831,2020-08-08,South,Texas,Houston,Women's Street Footwear,35.0,725,253750.0,88812.5,0.35,Outlet
+Sports Direct,1197831,2020-08-09,South,Texas,Houston,Women's Athletic Footwear,40.0,625,250000.0,112500.0,0.45,Outlet
+Sports Direct,1197831,2020-07-23,South,Texas,Houston,Men's Apparel,36.0,154,5544.0,2383.92,0.43,Online
+Sports Direct,1197831,2020-07-24,South,Texas,Houston,Women's Apparel,34.0,203,6902.0,4417.28,0.64,Online
+Sports Direct,1197831,2020-07-25,South,Texas,Houston,Men's Street Footwear,23.0,213,4899.0,2449.5,0.5,Online
+Sports Direct,1197831,2020-07-26,South,Texas,Houston,Men's Athletic Footwear,33.0,255,8415.0,3786.7499999999995,0.44999999999999996,Online
+Sports Direct,1197831,2020-07-27,South,Texas,Houston,Women's Street Footwear,32.0,176,5632.0,2534.3999999999996,0.44999999999999996,Online
+Sports Direct,1197831,2020-07-28,South,Texas,Houston,Women's Athletic Footwear,34.0,175,5950.0,3570.0,0.6,Online
+Sports Direct,1197831,2020-07-29,South,Texas,Houston,Men's Apparel,38.0,125,4750.0,2137.5,0.44999999999999996,Online
+Sports Direct,1197831,2020-07-30,South,Texas,Houston,Women's Apparel,34.0,196,6664.0,4198.32,0.63,Online
+Sports Direct,1197831,2020-07-31,South,Texas,Houston,Men's Street Footwear,29.0,254,7366.0,3314.7,0.44999999999999996,Online
+Sports Direct,1197831,2020-08-01,South,Texas,Houston,Men's Athletic Footwear,39.0,236,9204.0,4141.799999999999,0.44999999999999996,Online
+Sports Direct,1197831,2020-08-02,South,Texas,Houston,Women's Street Footwear,32.0,182,5824.0,2853.7599999999998,0.49,Online
+Sports Direct,1197831,2020-08-03,South,Texas,Houston,Women's Athletic Footwear,37.0,174,6438.0,3734.0400000000004,0.5800000000000001,Online
+Sports Direct,1197831,2020-08-04,South,Texas,Houston,Men's Apparel,41.0,125,5125.0,2050.0,0.4,Online
+Sports Direct,1197831,2020-08-05,South,Texas,Houston,Women's Apparel,39.0,189,7371.0,4422.599999999999,0.6,Online
+Sports Direct,1197831,2020-08-06,South,Texas,Houston,Men's Street Footwear,27.0,234,6318.0,3032.64,0.48,Online
+Sports Direct,1197831,2020-08-07,South,Texas,Houston,Men's Athletic Footwear,38.0,225,8550.0,3847.4999999999995,0.44999999999999996,Online
+Sports Direct,1197831,2020-08-08,South,Texas,Houston,Women's Street Footwear,34.0,203,6902.0,3174.9199999999996,0.45999999999999996,Online
+Sports Direct,1197831,2020-08-09,South,Texas,Houston,Women's Athletic Footwear,36.0,163,5868.0,3462.1200000000003,0.5900000000000001,Online
+Sports Direct,1197831,2020-07-23,South,Texas,Houston,Men's Apparel,26.0,176,4576.0,1555.84,0.33999999999999997,Outlet
+Sports Direct,1197831,2020-07-24,South,Texas,Houston,Women's Apparel,25.0,224,5600.0,3136.0000000000005,0.56,Outlet
+Sports Direct,1197831,2020-07-25,South,Texas,Houston,Men's Street Footwear,20.0,255,5100.0,2091.0,0.41,Outlet
+Sports Direct,1197831,2020-07-26,South,Texas,Houston,Men's Athletic Footwear,23.0,289,6647.0,2791.74,0.42,Outlet
+Sports Direct,1197831,2020-07-27,South,Texas,Houston,Women's Street Footwear,27.0,236,6372.0,2612.52,0.41,Outlet
+Sports Direct,1197831,2020-07-28,South,Texas,Houston,Women's Athletic Footwear,26.0,213,5538.0,2769.0,0.5,Outlet
+Sports Direct,1197831,2020-07-29,South,Texas,Houston,Men's Apparel,28.0,160,4480.0,1478.3999999999999,0.32999999999999996,Outlet
+Sports Direct,1197831,2020-07-30,South,Texas,Houston,Women's Apparel,26.0,231,6006.0,3303.3,0.55,Outlet
+Sports Direct,1197831,2020-07-31,South,Texas,Houston,Men's Street Footwear,20.0,306,6120.0,2570.4,0.42,Outlet
+Sports Direct,1197831,2020-08-01,South,Texas,Houston,Men's Athletic Footwear,30.0,263,7890.0,3077.0999999999995,0.38999999999999996,Outlet
+Sports Direct,1197831,2020-08-02,South,Texas,Houston,Women's Street Footwear,23.0,224,5152.0,2163.84,0.42,Outlet
+Sports Direct,1197831,2020-08-03,South,Texas,Houston,Women's Athletic Footwear,30.0,204,6120.0,2937.6,0.48,Outlet
+Sports Direct,1197831,2020-08-04,South,Texas,Houston,Men's Apparel,35.0,155,5425.0,1736.0,0.32,Outlet
+Sports Direct,1197831,2020-08-05,South,Texas,Houston,Women's Apparel,29.0,228,6612.0,3636.6000000000004,0.55,Outlet
+Sports Direct,1197831,2020-08-06,South,Texas,Houston,Men's Street Footwear,23.0,306,7038.0,2604.06,0.37,Outlet
+Sports Direct,1197831,2020-08-07,South,Texas,Houston,Men's Athletic Footwear,29.0,306,8874.0,3638.3399999999997,0.41,Outlet
+Sports Direct,1197831,2020-08-08,South,Texas,Houston,Women's Street Footwear,24.0,232,5568.0,2060.16,0.37,Outlet
+Sports Direct,1197831,2020-08-09,South,Texas,Houston,Women's Athletic Footwear,28.0,213,5964.0,2862.72,0.48,Outlet

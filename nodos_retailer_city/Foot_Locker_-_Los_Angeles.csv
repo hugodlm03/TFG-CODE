@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,45.0,475,213750.0,85500.0,0.4,Outlet
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,Outlet
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,35.0,275,96250.0,33687.5,0.35,Outlet
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,40.0,125,50000.0,20000.0,0.4,Outlet
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,44.0,124,5456.0,2837.12,0.52,Online
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,41.0,77,3157.0,1452.2199999999998,0.45999999999999996,Online
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,32.0,83,2656.0,1248.32,0.47,Online
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,37.0,34,1258.0,654.16,0.52,Online
+Foot Locker,1185732,2021-05-31,West,California,Los Angeles,Men's Street Footwear,36.0,147,5292.0,2381.4,0.45,Outlet
+Foot Locker,1185732,2021-06-01,West,California,Los Angeles,Men's Athletic Footwear,31.0,91,2821.0,1156.61,0.41,Outlet
+Foot Locker,1185732,2021-06-02,West,California,Los Angeles,Women's Street Footwear,24.0,94,2256.0,879.8399999999999,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-06-03,West,California,Los Angeles,Women's Athletic Footwear,27.0,41,1107.0,509.22,0.46,Outlet

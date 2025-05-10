@@ -1,0 +1,67 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2021-10-18,South,Mississippi,Jackson,Women's Apparel,35.0,475,166250.0,83125.0,0.5,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Street Footwear,30.00000000000001,625,187500.00000000006,75000.00000000003,0.4,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Athletic Footwear,20.00000000000001,450,90000.00000000004,31500.000000000015,0.35,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Street Footwear,30.000000000000014,395,118500.00000000006,47400.00000000003,0.4,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Athletic Footwear,60.00000000000002,450,270000.0000000001,108000.00000000006,0.4,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Apparel,75.00000000000001,425,318750.00000000006,111562.50000000001,0.35,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Apparel,75.0,525,393750.0,196875.0,0.5,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Street Footwear,70.0,775,542500.0,217000.0,0.4,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Athletic Footwear,60.00000000000001,575,345000.00000000006,120750.00000000001,0.35,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Street Footwear,60.00000000000001,525,315000.00000000006,126000.00000000003,0.4,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Athletic Footwear,60.00000000000001,475,285000.00000000006,114000.00000000003,0.4,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Apparel,70.0,475,332500.0,116374.99999999999,0.35,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Apparel,75.0,575,431250.0,215625.0,0.5,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Street Footwear,25.000000000000007,650,162500.00000000006,65000.00000000003,0.4,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Athletic Footwear,25.000000000000007,450,112500.00000000003,39375.00000000001,0.35,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Street Footwear,15.000000000000007,450,67500.00000000003,27000.000000000015,0.4,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Athletic Footwear,20.0,300,60000.0,24000.0,0.4,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Apparel,35.0,350,122500.0,42875.0,0.35,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Apparel,25.000000000000007,450,112500.00000000003,45000.000000000015,0.4,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Street Footwear,25.000000000000007,700,175000.00000000006,70000.00000000003,0.4,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Athletic Footwear,25.000000000000007,350,87500.00000000003,30625.000000000007,0.35,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Women's Street Footwear,15.000000000000007,400,60000.00000000003,24000.000000000015,0.4,Online
+Sports Direct,1185732,2021-10-18,South,Mississippi,Jackson,Women's Apparel,33.0,124,4092.0,2618.88,0.64,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Street Footwear,28.0,163,4564.0,2464.56,0.54,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Athletic Footwear,18.0,117,2106.0,947.6999999999999,0.44999999999999996,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Street Footwear,28.0,111,3108.0,1678.3200000000002,0.54,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Athletic Footwear,54.0,117,6318.0,3348.54,0.53,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Apparel,71.0,123,8733.0,3929.8499999999995,0.44999999999999996,Online
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Apparel,68.0,158,10744.0,6553.84,0.61,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Street Footwear,68.0,194,13192.0,6991.76,0.53,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Athletic Footwear,58.0,155,8990.0,4405.1,0.49,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Street Footwear,59.0,137,8083.0,4364.820000000001,0.54,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Athletic Footwear,56.0,133,7448.0,3872.96,0.52,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Apparel,65.0,124,8060.0,4030.0,0.5,Online
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Apparel,71.0,144,10224.0,6236.639999999999,0.61,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Street Footwear,24.0,176,4224.0,2154.2400000000002,0.51,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Athletic Footwear,25.0,131,3275.0,1473.7499999999998,0.44999999999999996,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Street Footwear,14.0,117,1638.0,835.38,0.51,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Athletic Footwear,19.0,78,1482.0,785.46,0.53,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Apparel,34.0,95,3230.0,1550.3999999999999,0.48,Online
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Apparel,23.0,122,2806.0,1459.1200000000001,0.52,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Street Footwear,24.0,189,4536.0,2313.36,0.51,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Athletic Footwear,24.0,105,2520.0,1134.0,0.44999999999999996,Online
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Women's Street Footwear,14.0,120,1680.0,840.0,0.5,Online
+Sports Direct,1185732,2021-10-18,South,Mississippi,Jackson,Women's Apparel,27.0,162,4374.0,2361.96,0.54,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Street Footwear,22.0,206,4532.0,1994.08,0.44,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Athletic Footwear,15.0,153,2295.0,872.1,0.38,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Street Footwear,22.0,119,2618.0,1099.5600000000002,0.42000000000000004,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Athletic Footwear,43.0,153,6579.0,2894.76,0.44,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Men's Apparel,59.0,132,7788.0,3115.2,0.39999999999999997,Outlet
+Sports Direct,1185732,2021-11-17,South,Mississippi,Jackson,Women's Apparel,51.0,168,8568.0,4883.76,0.5700000000000001,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Street Footwear,48.0,256,12288.0,5775.360000000001,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Athletic Footwear,44.0,201,8844.0,3272.2799999999997,0.37,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Street Footwear,43.0,158,6794.0,3057.3,0.45,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Athletic Footwear,41.0,143,5863.0,2755.61,0.47000000000000003,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Apparel,54.0,157,8478.0,3221.64,0.38,Outlet
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Apparel,53.0,178,9434.0,5188.700000000001,0.55,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Street Footwear,17.0,215,3655.0,1608.2,0.44,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Athletic Footwear,18.0,135,2430.0,971.9999999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Street Footwear,11.0,140,1540.0,677.6,0.44,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Athletic Footwear,13.0,102,1326.0,623.22,0.47000000000000003,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Men's Apparel,26.0,123,3198.0,1215.24,0.38,Outlet
+Sports Direct,1197831,2021-01-23,South,Mississippi,Jackson,Women's Apparel,18.0,158,2844.0,1222.92,0.43000000000000005,Outlet
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Street Footwear,17.0,210,3570.0,1606.5,0.45,Outlet
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Men's Athletic Footwear,17.0,112,1904.0,742.56,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-02-21,South,Mississippi,Jackson,Women's Street Footwear,11.0,136,1496.0,628.32,0.42000000000000004,Outlet

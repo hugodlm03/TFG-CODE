@@ -1,0 +1,82 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,35.0,375,131250.0,52500.0,0.4,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,40.0,250,100000.0,25000.0,0.25,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,35.0,450,157500.0,70875.0,0.45,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,30.0,625,187500.0,65625.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,40.0,625,250000.0,87500.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,30.0,450,135000.0,47250.0,0.35,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,35.0,350,122500.0,55125.0,0.45,Online
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,65.0,800,520000.0,286000.0,0.55,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,50.0,750,375000.0,150000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,55.00000000000001,750,412500.00000000006,165000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,50.0,925,462500.0,184999.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,50.0,475,237500.0,118750.0,0.5,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,54.99999999999999,775,426249.99999999994,170499.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,54.99999999999999,775,426249.99999999994,170499.99999999997,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,60.0,675,405000.0,162000.0,0.39999999999999997,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,60.0,525,315000.0,157500.0,0.5,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,54.99999999999999,475,261249.99999999997,91437.49999999999,0.35,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,65.0,725,471250.0,259187.50000000003,0.55,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,29.999999999999993,425,127499.99999999997,44624.999999999985,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,40.0,425,170000.0,68000.0,0.4,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,40.0,425,170000.0,59499.99999999999,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,40.0,275,110000.0,38500.0,0.35,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,45.00000000000001,225,101250.00000000001,30375.000000000004,0.3,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,40.0,425,170000.0,42500.0,0.25,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,29.999999999999993,475,142499.99999999997,49874.999999999985,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,40.0,375,150000.0,60000.0,0.4,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,40.0,375,150000.0,52500.0,0.35,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,32.0,109,3488.0,1883.5200000000002,0.54,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,39.0,70,2730.0,955.4999999999999,0.35,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,34.0,131,4454.0,2449.7000000000003,0.55,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,28.0,156,4368.0,1965.6,0.44999999999999996,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,36.0,169,6084.0,2798.64,0.45999999999999996,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,28.0,113,3164.0,1550.36,0.49,Online
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,33.0,105,3465.0,2009.7000000000003,0.5800000000000001,Online
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,64.0,208,13312.0,9185.28,0.6900000000000001,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,46.0,210,9660.0,5312.999999999999,0.5499999999999999,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,53.0,195,10335.0,5477.55,0.53,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,46.0,250,11500.0,6095.0,0.53,Online
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,48.0,124,5952.0,3868.8,0.65,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,54.0,233,12582.0,6794.280000000001,0.54,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,51.0,209,10659.0,5755.860000000001,0.54,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,56.0,176,9856.0,5125.12,0.52,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,59.0,142,8378.0,5445.7,0.65,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,50.0,133,6650.0,3258.5,0.49,Online
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,60.0,196,11760.0,8114.400000000001,0.6900000000000001,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,29.0,119,3451.0,1656.48,0.48,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,37.0,106,3922.0,2000.22,0.51,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,37.0,106,3922.0,1921.78,0.49,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,38.0,77,2926.0,1345.9599999999998,0.45999999999999996,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,42.0,63,2646.0,1190.6999999999998,0.44999999999999996,Online
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,36.0,111,3996.0,1398.6,0.35,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,29.0,143,4147.0,2073.5,0.5,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,38.0,113,4294.0,2318.76,0.54,Online
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,38.0,105,3990.0,1875.3,0.47,Online
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Athletic Footwear,27.0,116,3132.0,1315.44,0.42000000000000004,Outlet
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Men's Apparel,31.0,88,2728.0,818.4,0.3,Outlet
+Foot Locker,1197831,2021-02-04,West,Idaho,Boise,Women's Apparel,26.0,135,3510.0,1825.2,0.52,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Street Footwear,21.0,200,4200.0,1554.0,0.37,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Men's Athletic Footwear,27.0,188,5076.0,1979.6399999999999,0.38999999999999996,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Street Footwear,20.0,135,2700.0,1026.0,0.38,Outlet
+Foot Locker,1197831,2021-03-06,West,Idaho,Boise,Women's Athletic Footwear,26.0,112,2912.0,1368.64,0.47000000000000003,Outlet
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,51.0,264,13464.0,7943.760000000001,0.5900000000000001,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Street Footwear,38.0,233,8854.0,3718.68,0.42,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,37.0,255,9435.0,4057.0499999999993,0.42999999999999994,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,39.0,305,11895.0,5114.849999999999,0.42999999999999994,Outlet
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Athletic Footwear,33.0,162,5346.0,2940.3,0.55,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,40.0,240,9600.0,4320.0,0.44999999999999996,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,41.0,240,9840.0,4526.4,0.45999999999999996,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,47.0,223,10481.0,4611.639999999999,0.43999999999999995,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,44.0,184,8096.0,4209.92,0.52,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Apparel,43.0,147,6321.0,2591.6099999999997,0.41,Outlet
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,47.0,232,10904.0,6651.440000000001,0.6100000000000001,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Street Footwear,23.0,136,3128.0,1251.1999999999998,0.39999999999999997,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Athletic Footwear,30.0,140,4200.0,1806.0000000000002,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Street Footwear,31.0,145,4495.0,1753.0499999999997,0.38999999999999996,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Athletic Footwear,30.0,88,2640.0,976.8,0.37,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Men's Apparel,35.0,68,2380.0,809.1999999999999,0.33999999999999997,Outlet
+Foot Locker,1128299,2021-01-23,West,Idaho,Boise,Women's Apparel,27.0,140,3780.0,1020.6,0.27,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Street Footwear,21.0,162,3402.0,1258.74,0.37,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Men's Athletic Footwear,28.0,128,3584.0,1541.1200000000001,0.43000000000000005,Outlet
+Foot Locker,1128299,2021-02-23,West,Idaho,Boise,Women's Street Footwear,28.0,124,3472.0,1458.24,0.42,Outlet

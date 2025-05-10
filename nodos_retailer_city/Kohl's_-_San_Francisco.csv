@@ -1,0 +1,13 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Kohl's,1189833,2021-02-17,West,California,San Francisco,Men's Street Footwear,35.0,700,245000.0,98000.0,0.4,Outlet
+Kohl's,1189833,2021-02-18,West,California,San Francisco,Men's Athletic Footwear,45.0,700,315000.0,78750.0,0.25,Outlet
+Kohl's,1189833,2021-03-09,West,California,San Francisco,Women's Street Footwear,45.0,700,315000.0,126000.0,0.4,Outlet
+Kohl's,1189833,2021-03-10,West,California,San Francisco,Women's Athletic Footwear,45.0,550,247500.0,86625.0,0.35,Outlet
+Kohl's,1189833,2021-02-17,West,California,San Francisco,Men's Street Footwear,32.0,203,6496.0,3312.96,0.51,Online
+Kohl's,1189833,2021-02-18,West,California,San Francisco,Men's Athletic Footwear,41.0,196,8036.0,2892.96,0.36,Online
+Kohl's,1189833,2021-03-09,West,California,San Francisco,Women's Street Footwear,41.0,189,7749.0,4029.48,0.52,Online
+Kohl's,1189833,2021-03-10,West,California,San Francisco,Women's Athletic Footwear,41.0,160,6560.0,3214.4,0.49,Online
+Kohl's,1189833,2021-02-17,West,California,San Francisco,Men's Street Footwear,26.0,224,5824.0,2504.32,0.43000000000000005,Outlet
+Kohl's,1189833,2021-02-18,West,California,San Francisco,Men's Athletic Footwear,35.0,224,7840.0,2352.0,0.3,Outlet
+Kohl's,1189833,2021-03-09,West,California,San Francisco,Women's Street Footwear,36.0,217,7812.0,3281.0400000000004,0.42000000000000004,Outlet
+Kohl's,1189833,2021-03-10,West,California,San Francisco,Women's Athletic Footwear,33.0,182,6006.0,2282.28,0.38,Outlet

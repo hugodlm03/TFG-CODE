@@ -1,0 +1,67 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Athletic Footwear,55.00000000000001,600,330000.00000000006,115500.00000000001,0.35,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Street Footwear,50.0,525,262500.0,105000.0,0.4,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Athletic Footwear,50.0,475,237500.0,95000.0,0.4,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Apparel,60.0,500,300000.0,105000.0,0.35,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Apparel,65.0,675,438750.0,219375.0,0.5,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Street Footwear,60.0,825,495000.0,198000.0,0.4,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Athletic Footwear,55.00000000000001,600,330000.00000000006,115500.00000000001,0.35,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Street Footwear,50.0,525,262500.0,105000.0,0.4,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Athletic Footwear,40.0,475,190000.0,76000.0,0.4,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Apparel,50.0,450,225000.0,78750.0,0.35,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Apparel,55.00000000000001,625,343750.00000000006,171875.00000000003,0.5,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Street Footwear,50.0,725,362500.0,145000.0,0.4,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Athletic Footwear,45.000000000000014,525,236250.0000000001,82687.50000000003,0.35,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Street Footwear,20.000000000000007,425,85000.00000000003,34000.000000000015,0.4,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Athletic Footwear,20.000000000000007,400,80000.00000000003,32000.000000000015,0.4,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Apparel,30.000000000000004,400,120000.00000000001,42000.0,0.35,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Apparel,35.00000000000001,500,175000.00000000003,87500.00000000001,0.5,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Street Footwear,35.00000000000001,675,236250.00000000006,94500.00000000003,0.4,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Athletic Footwear,25.00000000000001,500,125000.00000000006,43750.000000000015,0.35,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Street Footwear,25.00000000000001,375,93750.00000000004,37500.00000000002,0.4,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Athletic Footwear,25.00000000000001,350,87500.00000000004,35000.00000000002,0.4,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Apparel,35.00000000000001,350,122500.00000000003,42875.00000000001,0.35,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Athletic Footwear,53.0,156,8268.0,3720.5999999999995,0.44999999999999996,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Street Footwear,48.0,142,6816.0,3408.0,0.5,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Athletic Footwear,48.0,124,5952.0,3154.56,0.53,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Apparel,59.0,150,8850.0,4248.0,0.48,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Apparel,61.0,176,10736.0,6548.96,0.61,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Street Footwear,56.0,215,12040.0,6501.6,0.54,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Athletic Footwear,50.0,168,8400.0,4032.0,0.48,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Street Footwear,48.0,147,7056.0,3669.1200000000003,0.52,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Athletic Footwear,39.0,128,4992.0,2595.84,0.52,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Apparel,46.0,122,5612.0,2525.3999999999996,0.44999999999999996,Online
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Apparel,53.0,169,8957.0,5822.05,0.65,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Street Footwear,47.0,203,9541.0,5152.14,0.54,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Athletic Footwear,42.0,147,6174.0,2778.2999999999997,0.44999999999999996,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Street Footwear,19.0,123,2337.0,1168.5,0.5,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Athletic Footwear,19.0,100,1900.0,1045.0,0.55,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Apparel,29.0,108,3132.0,1503.36,0.48,Online
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Apparel,32.0,130,4160.0,2579.2,0.62,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Street Footwear,32.0,176,5632.0,3041.28,0.54,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Athletic Footwear,25.0,145,3625.0,1631.2499999999998,0.44999999999999996,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Street Footwear,24.0,98,2352.0,1270.0800000000002,0.54,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Athletic Footwear,23.0,105,2415.0,1207.5,0.5,Online
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Apparel,32.0,98,3136.0,1568.0,0.5,Online
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Athletic Footwear,42.0,192,8064.0,3064.32,0.38,Outlet
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Street Footwear,37.0,168,6216.0,2610.7200000000003,0.42000000000000004,Outlet
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Athletic Footwear,33.0,143,4719.0,2029.1700000000003,0.43000000000000005,Outlet
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Men's Apparel,46.0,150,6900.0,2553.0,0.37,Outlet
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Apparel,49.0,209,10241.0,5427.7300000000005,0.53,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Street Footwear,41.0,256,10496.0,4723.2,0.45,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Athletic Footwear,44.0,198,8712.0,3571.9199999999996,0.41,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Street Footwear,37.0,179,6623.0,2914.12,0.44,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Athletic Footwear,32.0,147,4704.0,1975.6800000000003,0.42000000000000004,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Apparel,35.0,158,5530.0,2322.6,0.42,Outlet
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Women's Apparel,42.0,206,8652.0,4758.6,0.55,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Street Footwear,40.0,232,9280.0,4083.2,0.44,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Athletic Footwear,33.0,158,5214.0,2137.74,0.41,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Street Footwear,15.0,145,2175.0,1022.2500000000001,0.47000000000000003,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Athletic Footwear,16.0,120,1920.0,864.0,0.45,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Men's Apparel,22.0,132,2904.0,1103.52,0.38,Outlet
+Walmart,1185732,2021-09-16,South,Mississippi,Jackson,Women's Apparel,26.0,160,4160.0,2329.6000000000004,0.56,Outlet
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Street Footwear,24.0,216,5184.0,2384.6400000000003,0.46,Outlet
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Athletic Footwear,17.0,165,2805.0,1037.85,0.37,Outlet
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Street Footwear,19.0,120,2280.0,1071.6000000000001,0.47000000000000003,Outlet
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Women's Athletic Footwear,20.0,109,2180.0,981.0,0.45,Outlet
+Walmart,1185732,2021-10-18,South,Mississippi,Jackson,Men's Apparel,25.0,105,2625.0,1102.5,0.42,Outlet

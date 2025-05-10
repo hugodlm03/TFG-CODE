@@ -1,0 +1,61 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Men's Apparel,55.00000000000001,475,261250.00000000003,91437.5,0.35,Online
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Women's Apparel,60.0,725,435000.0,239250.00000000003,0.55,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Street Footwear,55.00000000000001,675,371250.00000000006,148500.0,0.39999999999999997,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Athletic Footwear,55.00000000000001,625,343750.00000000006,137500.0,0.39999999999999997,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Street Footwear,60.0,675,405000.0,162000.0,0.39999999999999997,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Athletic Footwear,60.0,400,240000.0,120000.0,0.5,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Apparel,55.00000000000001,400,220000.00000000003,77000.0,0.35,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Apparel,50.0,625,312500.0,171875.0,0.55,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Street Footwear,40.0,575,230000.0,91999.99999999999,0.39999999999999997,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Athletic Footwear,40.0,575,230000.0,91999.99999999999,0.39999999999999997,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Street Footwear,45.0,525,236250.0,94499.99999999999,0.39999999999999997,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Athletic Footwear,45.0,375,168750.0,84375.0,0.5,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Apparel,35.0,350,122500.0,42875.0,0.35,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Apparel,45.0,525,236250.0,129937.50000000001,0.55,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Street Footwear,35.0,675,236250.0,94499.99999999999,0.39999999999999997,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Athletic Footwear,35.0,675,236250.0,94499.99999999999,0.39999999999999997,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Street Footwear,60.0,600,360000.0,144000.0,0.39999999999999997,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Athletic Footwear,60.0,450,270000.0,135000.0,0.5,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Apparel,54.99999999999999,425,233749.99999999997,81812.49999999999,0.35,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Apparel,65.0,625,406250.0,223437.50000000003,0.55,Online
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Men's Apparel,52.0,133,6916.0,3181.3599999999997,0.45999999999999996,Online
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Women's Apparel,54.0,196,10584.0,7197.120000000001,0.68,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Street Footwear,50.0,176,8800.0,4400.0,0.5,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Athletic Footwear,50.0,188,9400.0,4888.0,0.52,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Street Footwear,56.0,182,10192.0,5299.84,0.52,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Athletic Footwear,55.0,116,6380.0,4019.4,0.63,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Apparel,50.0,104,5200.0,2392.0,0.45999999999999996,Online
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Apparel,49.0,181,8869.0,5942.2300000000005,0.67,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Street Footwear,36.0,167,6012.0,3066.12,0.51,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Athletic Footwear,37.0,173,6401.0,3456.5400000000004,0.54,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Street Footwear,41.0,131,5371.0,2739.21,0.51,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Athletic Footwear,44.0,101,4444.0,2888.6,0.65,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Apparel,32.0,91,2912.0,1397.76,0.48,Online
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Apparel,42.0,142,5964.0,3936.2400000000002,0.66,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Street Footwear,33.0,182,6006.0,3303.2999999999997,0.5499999999999999,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Athletic Footwear,32.0,189,6048.0,3144.96,0.52,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Street Footwear,58.0,150,8700.0,4698.0,0.54,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Athletic Footwear,54.0,122,6588.0,4018.68,0.61,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Apparel,54.0,106,5724.0,2862.0,0.5,Online
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Apparel,63.0,163,10269.0,6880.2300000000005,0.67,Online
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Men's Apparel,39.0,166,6474.0,2719.08,0.42,Outlet
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Women's Apparel,44.0,239,10516.0,6414.760000000001,0.6100000000000001,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Street Footwear,41.0,230,9430.0,4337.799999999999,0.45999999999999996,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Athletic Footwear,38.0,219,8322.0,3578.4599999999996,0.42999999999999994,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Street Footwear,43.0,203,8729.0,3928.0499999999997,0.44999999999999996,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Athletic Footwear,40.0,136,5440.0,2992.0000000000005,0.55,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Men's Apparel,42.0,140,5880.0,2410.7999999999997,0.41,Outlet
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Apparel,36.0,200,7200.0,4176.000000000001,0.5800000000000001,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Street Footwear,30.0,201,6030.0,2773.7999999999997,0.45999999999999996,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Athletic Footwear,27.0,190,5130.0,2205.8999999999996,0.42999999999999994,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Street Footwear,31.0,179,5549.0,2330.58,0.42,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Athletic Footwear,35.0,116,4060.0,2151.8,0.53,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Men's Apparel,25.0,123,3075.0,1199.2499999999998,0.38999999999999996,Outlet
+Sports Direct,1197831,2021-10-04,West,Idaho,Boise,Women's Apparel,34.0,179,6086.0,3590.7400000000007,0.5900000000000001,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Street Footwear,27.0,203,5481.0,2521.2599999999998,0.45999999999999996,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Athletic Footwear,28.0,223,6244.0,2684.9199999999996,0.42999999999999994,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Street Footwear,42.0,210,8820.0,3704.3999999999996,0.42,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Athletic Footwear,43.0,158,6794.0,3532.88,0.52,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Men's Apparel,41.0,149,6109.0,2321.42,0.38,Outlet
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Apparel,51.0,194,9894.0,5837.460000000001,0.5900000000000001,Outlet

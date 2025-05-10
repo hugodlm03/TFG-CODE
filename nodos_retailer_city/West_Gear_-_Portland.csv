@@ -1,0 +1,225 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Men's Street Footwear,35.0,375,131250.0,32812.5,0.25,Outlet
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Men's Athletic Footwear,45.0,375,168750.0,33750.0,0.2,Outlet
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Women's Street Footwear,45.0,375,168750.0,42187.5,0.25,Outlet
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Women's Athletic Footwear,45.0,225,101250.0,25312.5,0.25,Outlet
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Athletic Footwear,40.0,200,80000.0,28000.0,0.35,In-store
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Men's Apparel,45.00000000000001,125,56250.00000000001,22500.000000000004,0.4,In-store
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Apparel,40.0,325,130000.0,39000.0,0.3,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Street Footwear,40.0,475,190000.0,66500.0,0.35,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Athletic Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Street Footwear,54.99999999999999,350,192499.99999999997,67374.99999999999,0.35,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Athletic Footwear,50.0,250,125000.0,43750.0,0.35,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Apparel,55.00000000000001,100,55000.00000000001,22000.000000000004,0.4,In-store
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Apparel,50.0,300,150000.0,45000.0,0.3,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Street Footwear,55.00000000000001,475,261250.00000000003,91437.5,0.35,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Athletic Footwear,60.00000000000001,275,165000.00000000003,57750.00000000001,0.35,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Street Footwear,60.00000000000001,325,195000.00000000003,68250.0,0.35,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Athletic Footwear,45.00000000000001,225,101250.00000000001,35437.5,0.35,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Apparel,50.000000000000014,125,62500.000000000015,25000.000000000007,0.4,In-store
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Apparel,65.00000000000001,300,195000.00000000003,58500.00000000001,0.3,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Street Footwear,50.0,500,250000.0,87500.0,0.35,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Athletic Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Street Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Athletic Footwear,50.0,275,137500.0,48125.0,0.35,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Apparel,44.99999999999999,175,78749.99999999999,31499.999999999996,0.4,In-store
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Apparel,60.0,525,315000.0,94500.0,0.3,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Street Footwear,54.99999999999999,775,426249.99999999994,149187.49999999997,0.35,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,64.99999999999999,650,422499.9999999999,147874.99999999994,0.35,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Street Footwear,80.0,650,520000.0,182000.0,0.35,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,80.0,525,420000.0,147000.0,0.35,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Apparel,90.0,400,360000.0,144000.0,0.4,In-store
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Apparel,105.0,700,735000.0,220500.0,0.3,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Street Footwear,85.0,850,722500.0,252874.99999999997,0.35,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,90.0,700,630000.0,220500.0,0.35,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Street Footwear,90.0,650,585000.0,204750.0,0.35,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,85.0,550,467500.0,163625.0,0.35,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Apparel,90.0,600,540000.0,216000.0,0.4,In-store
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Apparel,105.0,600,630000.0,189000.0,0.3,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Street Footwear,90.0,800,720000.0,251999.99999999997,0.35,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,80.0,775,620000.0,217000.0,0.35,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Street Footwear,70.0,650,455000.0,159250.0,0.35,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Athletic Footwear,70.0,425,297500.0,104125.0,0.35,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Apparel,70.0,425,297500.0,119000.0,0.4,In-store
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Apparel,75.0,250,187500.0,56250.0,0.3,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Street Footwear,50.000000000000014,450,225000.00000000006,78750.00000000001,0.35,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Athletic Footwear,55.000000000000014,450,247500.00000000006,86625.00000000001,0.35,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Street Footwear,50.000000000000014,250,125000.00000000003,43750.00000000001,0.35,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Athletic Footwear,50.000000000000014,200,100000.00000000003,35000.00000000001,0.35,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Apparel,60.00000000000001,225,135000.00000000003,54000.000000000015,0.4,In-store
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Apparel,44.99999999999999,250,112499.99999999999,33749.99999999999,0.3,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Street Footwear,40.0,350,140000.0,49000.0,0.35,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Athletic Footwear,55.000000000000014,525,288750.00000000006,101062.50000000001,0.35,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Street Footwear,50.000000000000014,350,175000.00000000006,61250.000000000015,0.35,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Athletic Footwear,45.00000000000001,325,146250.00000000003,51187.50000000001,0.35,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Apparel,55.00000000000001,300,165000.00000000003,66000.00000000001,0.4,In-store
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Apparel,60.00000000000001,350,210000.00000000003,63000.00000000001,0.3,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Street Footwear,45.00000000000001,575,258750.00000000003,90562.5,0.35,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Athletic Footwear,50.000000000000014,650,325000.0000000001,113750.00000000003,0.35,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Street Footwear,45.00000000000001,475,213750.00000000003,74812.5,0.35,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Athletic Footwear,55.000000000000014,450,247500.00000000006,86625.00000000001,0.35,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Apparel,75.00000000000001,425,318750.00000000006,127500.00000000003,0.4,In-store
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Apparel,80.00000000000001,550,440000.00000000006,132000.0,0.3,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Street Footwear,65.00000000000001,750,487500.0000000001,170625.00000000003,0.35,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Athletic Footwear,75.00000000000003,750,562500.0000000002,196875.00000000006,0.35,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Street Footwear,70.00000000000001,550,385000.00000000006,134750.0,0.35,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Athletic Footwear,70.00000000000001,550,385000.00000000006,134750.0,0.35,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Apparel,80.00000000000001,475,380000.00000000006,152000.00000000003,0.4,In-store
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Apparel,85.00000000000001,575,488750.00000000006,146625.0,0.3,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Street Footwear,35.0,400,140000.0,55999.99999999999,0.39999999999999997,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Athletic Footwear,45.0,400,180000.0,72000.0,0.39999999999999997,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Street Footwear,45.0,400,180000.0,72000.0,0.39999999999999997,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Athletic Footwear,45.0,250,112500.0,44999.99999999999,0.39999999999999997,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Apparel,50.000000000000014,200,100000.00000000003,45000.000000000015,0.45,In-store
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Apparel,45.0,450,202500.0,70875.0,0.35,In-store
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Street Footwear,35.0,500,175000.0,70000.0,0.39999999999999997,In-store
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Athletic Footwear,45.0,400,180000.0,72000.0,0.39999999999999997,In-store
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Women's Street Footwear,45.0,400,180000.0,72000.0,0.39999999999999997,In-store
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Men's Street Footwear,33.0,98,3234.0,1131.8999999999999,0.35,Online
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Men's Athletic Footwear,41.0,109,4469.0,1474.77,0.33,Online
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Women's Street Footwear,43.0,101,4343.0,1737.2,0.4,Online
+West Gear,1128299,2021-01-10,Northeast,Maine,Portland,Women's Athletic Footwear,43.0,59,2537.0,989.4300000000001,0.39,Online
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Athletic Footwear,39.0,58,2262.0,1085.76,0.48,Online
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Men's Apparel,42.0,38,1596.0,829.9200000000001,0.52,Online
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Apparel,37.0,85,3145.0,1258.0,0.4,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Street Footwear,38.0,128,4864.0,2383.36,0.49,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Athletic Footwear,45.0,85,3825.0,1836.0,0.48,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Street Footwear,54.0,88,4752.0,2138.3999999999996,0.44999999999999996,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Athletic Footwear,49.0,65,3185.0,1528.8,0.48,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Apparel,54.0,26,1404.0,744.12,0.53,Online
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Apparel,49.0,87,4263.0,1790.46,0.42,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Street Footwear,51.0,124,6324.0,2909.04,0.45999999999999996,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Athletic Footwear,54.0,83,4482.0,2196.18,0.49,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Street Footwear,55.0,85,4675.0,2244.0,0.48,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Athletic Footwear,41.0,63,2583.0,1291.5,0.5,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Apparel,48.0,36,1728.0,864.0,0.5,Online
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Apparel,59.0,84,4956.0,2230.2,0.44999999999999996,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Street Footwear,48.0,145,6960.0,3131.9999999999995,0.44999999999999996,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Athletic Footwear,50.0,105,5250.0,2415.0,0.45999999999999996,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Street Footwear,50.0,95,4750.0,2375.0,0.5,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Athletic Footwear,49.0,83,4067.0,1952.1599999999999,0.48,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Apparel,41.0,44,1804.0,992.2,0.55,Online
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Apparel,54.0,158,8532.0,3839.3999999999996,0.44999999999999996,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Street Footwear,51.0,225,11475.0,5622.75,0.49,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,62.0,169,10478.0,5134.22,0.49,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Street Footwear,78.0,189,14742.0,6781.32,0.45999999999999996,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,74.0,158,11692.0,5846.0,0.5,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Apparel,86.0,108,9288.0,4922.64,0.53,Online
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Apparel,95.0,189,17955.0,8079.749999999999,0.44999999999999996,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Street Footwear,79.0,255,20145.0,9669.6,0.48,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,85.0,196,16660.0,7830.2,0.47,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Street Footwear,86.0,163,14018.0,6588.46,0.47,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,82.0,165,13530.0,6494.4,0.48,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Apparel,84.0,156,13104.0,6552.0,0.5,Online
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Apparel,97.0,150,14550.0,6111.0,0.42,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Street Footwear,81.0,200,16200.0,7776.0,0.48,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,76.0,233,17708.0,8676.92,0.49,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Street Footwear,68.0,195,13260.0,6497.4,0.49,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Athletic Footwear,68.0,119,8092.0,3722.3199999999997,0.45999999999999996,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Apparel,65.0,128,8320.0,4409.6,0.53,Online
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Apparel,69.0,73,5037.0,2216.28,0.44,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Street Footwear,46.0,122,5612.0,2525.3999999999996,0.44999999999999996,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Athletic Footwear,51.0,122,6222.0,2862.12,0.45999999999999996,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Street Footwear,49.0,75,3675.0,1653.7499999999998,0.44999999999999996,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Athletic Footwear,49.0,52,2548.0,1172.08,0.45999999999999996,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Apparel,58.0,59,3422.0,1813.66,0.53,Online
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Apparel,41.0,73,2993.0,1257.06,0.42,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Street Footwear,38.0,102,3876.0,1821.7199999999998,0.47,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Athletic Footwear,50.0,142,7100.0,3265.9999999999995,0.45999999999999996,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Street Footwear,46.0,91,4186.0,2051.14,0.49,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Athletic Footwear,44.0,81,3564.0,1710.72,0.48,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Apparel,51.0,75,3825.0,2065.5,0.54,Online
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Apparel,58.0,105,6090.0,2618.7,0.43,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Street Footwear,44.0,173,7612.0,3501.5199999999995,0.45999999999999996,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Athletic Footwear,48.0,195,9360.0,4680.0,0.5,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Street Footwear,42.0,128,5376.0,2688.0,0.5,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Athletic Footwear,51.0,131,6681.0,3073.2599999999998,0.45999999999999996,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Apparel,68.0,111,7548.0,4075.92,0.54,Online
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Apparel,76.0,149,11324.0,4756.08,0.42,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Street Footwear,61.0,188,11468.0,5504.639999999999,0.48,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Athletic Footwear,72.0,218,15696.0,7377.12,0.47,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Street Footwear,67.0,165,11055.0,4974.749999999999,0.44999999999999996,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Athletic Footwear,67.0,143,9581.0,4311.45,0.44999999999999996,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Apparel,72.0,133,9576.0,4788.0,0.5,Online
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Apparel,77.0,173,13321.0,5328.400000000001,0.4,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Street Footwear,33.0,100,3300.0,1683.0,0.51,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Athletic Footwear,42.0,100,4200.0,2268.0,0.54,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Street Footwear,43.0,112,4816.0,2600.6400000000003,0.54,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Athletic Footwear,41.0,68,2788.0,1533.3999999999999,0.5499999999999999,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Apparel,46.0,58,2668.0,1574.1200000000001,0.5900000000000001,Online
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Apparel,41.0,122,5002.0,2400.96,0.48,Online
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Street Footwear,33.0,140,4620.0,2448.6,0.53,Online
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Athletic Footwear,41.0,116,4756.0,2425.56,0.51,Online
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Women's Street Footwear,41.0,120,4920.0,2558.4,0.52,Online
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Athletic Footwear,29.0,64,1856.0,760.9599999999999,0.41,Outlet
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Men's Apparel,32.0,43,1376.0,605.44,0.44,Outlet
+West Gear,1128299,2021-02-24,West,Oregon,Portland,Women's Apparel,28.0,98,2744.0,960.4,0.35,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Street Footwear,28.0,143,4004.0,1601.6,0.39999999999999997,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Athletic Footwear,40.0,98,3920.0,1607.1999999999998,0.41,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Street Footwear,41.0,112,4592.0,1744.96,0.38,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Athletic Footwear,39.0,75,2925.0,1082.25,0.37,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Men's Apparel,43.0,30,1290.0,567.6,0.44,Outlet
+West Gear,1128299,2021-03-23,West,Oregon,Portland,Women's Apparel,40.0,90,3600.0,1260.0,0.35,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Street Footwear,44.0,166,7304.0,2848.5599999999995,0.38999999999999996,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Athletic Footwear,39.0,88,3432.0,1407.12,0.41,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Street Footwear,47.0,114,5358.0,2196.7799999999997,0.41,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Athletic Footwear,34.0,70,2380.0,880.6,0.37,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Men's Apparel,36.0,39,1404.0,589.6800000000001,0.42000000000000004,Outlet
+West Gear,1128299,2021-04-24,West,Oregon,Portland,Women's Apparel,49.0,90,4410.0,1499.3999999999999,0.33999999999999997,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Street Footwear,39.0,155,6045.0,2538.9,0.42,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Athletic Footwear,36.0,109,3924.0,1569.6,0.39999999999999997,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Street Footwear,39.0,119,4641.0,1809.9899999999998,0.38999999999999996,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Athletic Footwear,33.0,94,3102.0,1209.78,0.38999999999999996,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Men's Apparel,33.0,58,1914.0,842.16,0.44,Outlet
+West Gear,1128299,2021-05-25,West,Oregon,Portland,Women's Apparel,46.0,173,7958.0,2864.88,0.36,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Street Footwear,43.0,240,10320.0,3921.6,0.38,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,47.0,202,9494.0,3892.54,0.41,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Street Footwear,53.0,208,11024.0,4299.36,0.38999999999999996,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,62.0,179,11098.0,4550.179999999999,0.41,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Apparel,67.0,140,9380.0,4314.8,0.46,Outlet
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Apparel,74.0,231,17094.0,5641.0199999999995,0.32999999999999996,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Street Footwear,60.0,298,17880.0,7509.599999999999,0.42,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,66.0,217,14322.0,5872.0199999999995,0.41,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Street Footwear,66.0,221,14586.0,6126.12,0.42,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,61.0,171,10431.0,4276.71,0.41,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Apparel,68.0,198,13464.0,6193.4400000000005,0.46,Outlet
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Apparel,78.0,204,15912.0,5569.2,0.35,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Street Footwear,69.0,256,17664.0,6535.68,0.37,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,62.0,256,15872.0,6666.24,0.42,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Street Footwear,50.0,215,10750.0,4300.0,0.39999999999999997,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Athletic Footwear,50.0,128,6400.0,2432.0,0.38,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Apparel,53.0,136,7208.0,3027.36,0.42000000000000004,Outlet
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Apparel,53.0,88,4664.0,1725.68,0.37,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Street Footwear,34.0,149,5066.0,1874.42,0.37,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Athletic Footwear,43.0,158,6794.0,2581.7200000000003,0.38,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Street Footwear,39.0,83,3237.0,1359.54,0.42,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Athletic Footwear,38.0,62,2356.0,989.52,0.42,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Men's Apparel,48.0,77,3696.0,1552.3200000000002,0.42000000000000004,Outlet
+West Gear,1128299,2021-09-25,West,Oregon,Portland,Women's Apparel,36.0,85,3060.0,979.2,0.32,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Street Footwear,29.0,119,3451.0,1345.8899999999999,0.38999999999999996,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Athletic Footwear,37.0,179,6623.0,2516.7400000000002,0.38,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Street Footwear,37.0,109,4033.0,1492.21,0.37,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Athletic Footwear,34.0,114,3876.0,1511.6399999999999,0.38999999999999996,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Men's Apparel,40.0,93,3720.0,1674.0,0.45,Outlet
+West Gear,1128299,2021-10-24,West,Oregon,Portland,Women's Apparel,41.0,123,5043.0,1865.91,0.37,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Street Footwear,34.0,190,6460.0,2390.2,0.37,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Athletic Footwear,37.0,202,7474.0,2914.8599999999997,0.38999999999999996,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Street Footwear,32.0,152,4864.0,2042.8799999999999,0.42,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Athletic Footwear,39.0,149,5811.0,2382.5099999999998,0.41,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Men's Apparel,50.0,145,7250.0,3335.0,0.46,Outlet
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Apparel,53.0,165,8745.0,3235.65,0.37,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Street Footwear,51.0,225,11475.0,4819.5,0.42,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Athletic Footwear,56.0,233,13048.0,5219.2,0.39999999999999997,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Street Footwear,48.0,193,9264.0,3798.24,0.41,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Athletic Footwear,53.0,165,8745.0,3410.5499999999997,0.38999999999999996,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Apparel,54.0,157,8478.0,3984.6600000000003,0.47000000000000003,Outlet
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Apparel,55.0,201,11055.0,3758.7,0.33999999999999997,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Street Footwear,28.0,120,3360.0,1411.2,0.42,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Athletic Footwear,31.0,124,3844.0,1691.36,0.43999999999999995,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Street Footwear,33.0,128,4224.0,1816.3199999999997,0.42999999999999994,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Athletic Footwear,34.0,78,2652.0,1219.9199999999998,0.45999999999999996,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Men's Apparel,33.0,68,2244.0,1144.44,0.51,Outlet
+West Gear,1128299,2021-01-17,West,Oregon,Portland,Women's Apparel,34.0,140,4760.0,1903.9999999999998,0.39999999999999997,Outlet
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Street Footwear,24.0,175,4200.0,1889.9999999999998,0.44999999999999996,Outlet
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Men's Athletic Footwear,31.0,124,3844.0,1652.9199999999998,0.42999999999999994,Outlet
+West Gear,1128299,2021-02-17,West,Oregon,Portland,Women's Street Footwear,34.0,132,4488.0,1929.8399999999997,0.42999999999999994,Outlet

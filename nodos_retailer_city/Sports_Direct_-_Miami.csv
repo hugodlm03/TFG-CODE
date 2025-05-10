@@ -1,0 +1,41 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1185732,2020-09-25,Southeast,Florida,Miami,Women's Street Footwear,45.0,750,337500.0,84375.0,0.25,In-store
+Sports Direct,1185732,2020-09-26,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,725,326250.0,97875.0,0.3,In-store
+Sports Direct,1185732,2020-09-27,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,725,398750.00000000006,139562.5,0.35,In-store
+Sports Direct,1185732,2020-09-28,Southeast,Florida,Miami,Women's Apparel,60.00000000000001,825,495000.00000000006,247500.00000000003,0.5,In-store
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,1000,600000.0000000001,270000.00000000006,0.45,In-store
+Sports Direct,1185732,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,825,412500.0000000001,144375.00000000003,0.35,In-store
+Sports Direct,1185732,2020-10-01,Southeast,Florida,Miami,Women's Street Footwear,50.000000000000014,725,362500.0000000001,90625.00000000003,0.25,In-store
+Sports Direct,1185732,2020-10-02,Southeast,Florida,Miami,Women's Athletic Footwear,50.000000000000014,700,350000.0000000001,105000.00000000003,0.3,In-store
+Sports Direct,1185732,2020-10-03,Southeast,Florida,Miami,Men's Apparel,60.00000000000001,700,420000.00000000006,147000.0,0.35,In-store
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,65.0,825,536250.0,268125.0,0.5,In-store
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,975,585000.0000000001,263250.00000000006,0.45,In-store
+Sports Direct,1185732,2020-10-06,Southeast,Florida,Miami,Men's Athletic Footwear,50.000000000000014,800,400000.0000000001,140000.00000000003,0.35,In-store
+Sports Direct,1185732,2020-10-07,Southeast,Florida,Miami,Women's Street Footwear,50.000000000000014,745,372500.0000000001,93125.00000000003,0.25,In-store
+Sports Direct,1185732,2020-10-08,Southeast,Florida,Miami,Women's Athletic Footwear,50.000000000000014,775,387500.0000000001,116250.00000000003,0.3,In-store
+Sports Direct,1185732,2020-10-09,Southeast,Florida,Miami,Men's Apparel,65.0,750,487500.0,170625.0,0.35,In-store
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,70.0,850,595000.0,297500.0,0.5,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,65.0,1075,698750.0,314437.5,0.45,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Athletic Footwear,55.00000000000001,875,481250.00000000006,168437.5,0.35,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,In-store
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,127875.00000000001,0.3,In-store
+Sports Direct,1185732,2020-09-25,Southeast,Florida,Miami,Women's Street Footwear,41.0,225,9225.0,3413.25,0.37,Online
+Sports Direct,1185732,2020-09-26,Southeast,Florida,Miami,Women's Athletic Footwear,42.0,210,8820.0,3792.6,0.43,Online
+Sports Direct,1185732,2020-09-27,Southeast,Florida,Miami,Men's Apparel,50.0,210,10500.0,5250.0,0.5,Online
+Sports Direct,1185732,2020-09-28,Southeast,Florida,Miami,Women's Apparel,55.0,223,12265.0,7726.95,0.63,Online
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,56.0,270,15120.0,9072.0,0.6,Online
+Sports Direct,1185732,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,47.0,215,10105.0,4547.25,0.44999999999999996,Online
+Sports Direct,1185732,2020-10-01,Southeast,Florida,Miami,Women's Street Footwear,47.0,203,9541.0,3720.9900000000002,0.39,Online
+Sports Direct,1185732,2020-10-02,Southeast,Florida,Miami,Women's Athletic Footwear,45.0,182,8190.0,3603.6,0.44,Online
+Sports Direct,1185732,2020-10-03,Southeast,Florida,Miami,Men's Apparel,57.0,189,10773.0,5386.5,0.5,Online
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,59.0,223,13157.0,8552.050000000001,0.65,Online
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,56.0,244,13664.0,7925.120000000001,0.5800000000000001,Online
+Sports Direct,1185732,2020-10-06,Southeast,Florida,Miami,Men's Athletic Footwear,49.0,224,10976.0,5268.48,0.48,Online
+Sports Direct,1185732,2020-10-07,Southeast,Florida,Miami,Women's Street Footwear,46.0,224,10304.0,3812.48,0.37,Online
+Sports Direct,1185732,2020-10-08,Southeast,Florida,Miami,Women's Athletic Footwear,49.0,202,9898.0,4355.12,0.44,Online
+Sports Direct,1185732,2020-10-09,Southeast,Florida,Miami,Men's Apparel,64.0,195,12480.0,6240.0,0.5,Online
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,64.0,213,13632.0,8179.2,0.6,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,63.0,323,20349.0,11395.44,0.56,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Athletic Footwear,51.0,254,12954.0,6088.38,0.47,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,52.0,248,12896.0,4771.5199999999995,0.37,Online
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,54.0,209,11286.0,4852.98,0.43,Online

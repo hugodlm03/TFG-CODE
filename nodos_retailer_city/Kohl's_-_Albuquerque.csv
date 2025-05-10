@@ -1,0 +1,178 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,45.0,275,123750.0,43312.5,0.35,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Men's Apparel,50.000000000000014,200,100000.00000000003,30000.000000000007,0.3,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Apparel,45.0,400,180000.0,45000.0,0.25,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Street Footwear,45.0,550,247500.0,86625.0,0.35,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,55.00000000000001,400,220000.00000000003,88000.00000000001,0.4,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Street Footwear,55.00000000000001,400,220000.00000000003,77000.0,0.35,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.00000000000001,275,151250.00000000003,52937.50000000001,0.35,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,175,105000.00000000001,31500.000000000004,0.3,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Apparel,55.00000000000001,375,206250.00000000003,51562.50000000001,0.25,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Street Footwear,55.00000000000001,550,302500.00000000006,105875.00000000001,0.35,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,60.00000000000001,350,210000.00000000003,84000.00000000001,0.4,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,400,240000.00000000003,84000.0,0.35,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.00000000000001,300,165000.00000000003,57750.00000000001,0.35,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,200,120000.00000000001,36000.0,0.3,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,375,281250.00000000006,70312.50000000001,0.25,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Street Footwear,55.00000000000001,575,316250.00000000006,110687.50000000001,0.35,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,60.00000000000001,425,255000.00000000003,102000.00000000001,0.4,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,450,270000.00000000006,94500.00000000001,0.35,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.00000000000001,350,192500.00000000003,67375.0,0.35,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,250,150000.00000000003,45000.00000000001,0.3,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,425,318750.00000000006,79687.50000000001,0.25,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Street Footwear,55.00000000000001,700,385000.00000000006,134750.0,0.35,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,60.00000000000001,550,330000.00000000006,132000.00000000003,0.4,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,550,330000.00000000006,115500.00000000001,0.35,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.00000000000001,425,233750.00000000003,81812.5,0.35,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,300,180000.00000000003,54000.00000000001,0.3,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,600,450000.00000000006,112500.00000000001,0.25,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Street Footwear,55.00000000000001,750,412500.00000000006,144375.0,0.35,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,60.00000000000001,600,360000.00000000006,144000.00000000003,0.4,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,550,330000.00000000006,115500.00000000001,0.35,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.00000000000001,450,247500.00000000003,86625.0,0.35,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,500,300000.00000000006,90000.00000000001,0.3,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,500,375000.00000000006,93750.00000000001,0.25,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Street Footwear,60.00000000000001,700,420000.00000000006,147000.0,0.35,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,65.00000000000001,650,422500.0000000001,169000.00000000006,0.4,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,525,315000.00000000006,110250.00000000001,0.35,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,60.00000000000001,475,285000.00000000006,99750.00000000001,0.35,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Apparel,70.0,475,332500.0,99750.0,0.3,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,450,337500.00000000006,84375.00000000001,0.25,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Street Footwear,50.000000000000014,625,312500.0000000001,109375.00000000003,0.35,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,55.000000000000014,625,343750.0000000001,137500.00000000006,0.4,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Street Footwear,50.000000000000014,475,237500.00000000006,83125.00000000001,0.35,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,50.000000000000014,425,212500.00000000006,74375.00000000001,0.35,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,425,255000.00000000003,76500.0,0.3,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Apparel,65.00000000000001,475,308750.00000000006,77187.50000000001,0.25,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Street Footwear,50.000000000000014,550,275000.00000000006,96250.00000000001,0.35,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,55.000000000000014,550,302500.00000000006,121000.00000000003,0.4,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Street Footwear,50.000000000000014,375,187500.00000000006,65625.00000000001,0.35,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,50.000000000000014,350,175000.00000000006,61250.000000000015,0.35,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Apparel,60.00000000000001,325,195000.00000000003,58500.00000000001,0.3,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,375,281250.00000000006,70312.50000000001,0.25,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Street Footwear,60.00000000000001,550,330000.00000000006,115500.00000000001,0.35,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,65.00000000000001,600,390000.00000000006,156000.00000000003,0.4,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Street Footwear,60.00000000000001,450,270000.00000000006,94500.00000000001,0.35,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,60.00000000000001,425,255000.00000000003,89250.0,0.35,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Apparel,70.0,375,262500.0,78750.0,0.3,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Apparel,75.00000000000001,500,375000.00000000006,93750.00000000001,0.25,Online
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Street Footwear,60.00000000000001,700,420000.00000000006,147000.0,0.35,Online
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,65.00000000000001,700,455000.0000000001,182000.00000000006,0.4,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,43.0,74,3182.0,1559.18,0.49,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Men's Apparel,45.0,54,2430.0,1069.2,0.44,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Apparel,41.0,104,4264.0,1620.32,0.38,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Street Footwear,44.0,165,7260.0,3630.0,0.5,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,51.0,112,5712.0,3027.36,0.53,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Street Footwear,52.0,112,5824.0,2853.7599999999998,0.49,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,50.0,83,4150.0,1908.9999999999998,0.45999999999999996,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Apparel,55.0,53,2915.0,1253.45,0.43,Online
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Apparel,50.0,98,4900.0,1862.0,0.38,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Street Footwear,51.0,154,7854.0,3534.2999999999997,0.44999999999999996,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,59.0,98,5782.0,2891.0,0.5,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Street Footwear,55.0,116,6380.0,3190.0,0.5,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,54.0,87,4698.0,2161.08,0.45999999999999996,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Apparel,56.0,58,3248.0,1331.6799999999998,0.41,Online
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Apparel,69.0,101,6969.0,2648.2200000000003,0.38,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Street Footwear,51.0,150,7650.0,3442.4999999999995,0.44999999999999996,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,58.0,111,6438.0,3283.38,0.51,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Street Footwear,56.0,126,7056.0,3316.3199999999997,0.47,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,51.0,91,4641.0,2134.8599999999997,0.45999999999999996,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Apparel,56.0,65,3640.0,1528.8,0.42,Online
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Apparel,69.0,115,7935.0,3094.65,0.39,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Street Footwear,52.0,203,10556.0,5066.88,0.48,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,54.0,154,8316.0,4324.32,0.52,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Street Footwear,54.0,149,8046.0,4023.0,0.5,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,54.0,106,5724.0,2575.7999999999997,0.44999999999999996,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Apparel,56.0,87,4872.0,2094.96,0.43,Online
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Apparel,74.0,162,11988.0,4315.68,0.36,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Street Footwear,54.0,203,10962.0,5152.139999999999,0.47,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,56.0,180,10080.0,5443.200000000001,0.54,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Street Footwear,58.0,160,9280.0,4454.4,0.48,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,54.0,135,7290.0,3280.4999999999995,0.44999999999999996,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Apparel,57.0,145,8265.0,3553.95,0.43,Online
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Apparel,69.0,140,9660.0,3670.8,0.38,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Street Footwear,56.0,175,9800.0,4900.0,0.5,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,60.0,176,10560.0,5491.2,0.52,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Street Footwear,58.0,142,8236.0,3788.5599999999995,0.45999999999999996,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.0,143,7865.0,3696.5499999999997,0.47,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Apparel,67.0,124,8308.0,3323.2000000000003,0.4,Online
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Apparel,70.0,126,8820.0,3351.6,0.38,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Street Footwear,49.0,163,7987.0,3594.1499999999996,0.44999999999999996,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,51.0,156,7956.0,4057.56,0.51,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Street Footwear,46.0,143,6578.0,3091.66,0.47,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,49.0,123,6027.0,2832.69,0.47,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Apparel,54.0,111,5994.0,2397.6,0.4,Online
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Apparel,59.0,133,7847.0,2824.92,0.36,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Street Footwear,48.0,165,7920.0,3960.0,0.5,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,50.0,149,7450.0,3948.5,0.53,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Street Footwear,48.0,105,5040.0,2368.7999999999997,0.47,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,46.0,95,4370.0,2141.3,0.49,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Apparel,56.0,91,5096.0,2242.2400000000002,0.44,Online
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Apparel,68.0,105,7140.0,2641.8,0.37,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Street Footwear,58.0,160,9280.0,4547.2,0.49,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,59.0,150,8850.0,4779.0,0.54,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Street Footwear,54.0,117,6318.0,3032.64,0.48,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,55.0,115,6325.0,2972.75,0.47,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Apparel,65.0,113,7345.0,3231.8,0.44,Online
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Apparel,72.0,140,10080.0,3931.2000000000003,0.39,Online
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Street Footwear,55.0,210,11550.0,5313.0,0.45999999999999996,Online
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,61.0,182,11102.0,5551.0,0.5,Online
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,29.0,91,2639.0,976.43,0.37,Outlet
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Men's Apparel,34.0,62,2108.0,674.5600000000001,0.32,Outlet
+Kohl's,1128299,2021-02-26,West,New Mexico,Albuquerque,Women's Apparel,35.0,140,4900.0,1372.0000000000002,0.28,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Street Footwear,30.0,187,5610.0,2300.1,0.41,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,36.0,136,4896.0,2203.2000000000003,0.45,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Street Footwear,44.0,124,5456.0,2073.28,0.38,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,37.0,88,3256.0,1269.84,0.38999999999999996,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Men's Apparel,41.0,53,2173.0,695.36,0.32,Outlet
+Kohl's,1128299,2021-03-25,West,New Mexico,Albuquerque,Women's Apparel,44.0,131,5764.0,1786.84,0.31,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Street Footwear,41.0,165,6765.0,2841.2999999999997,0.42,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,43.0,109,4687.0,2156.02,0.46,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Street Footwear,44.0,140,6160.0,2587.2,0.42,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,37.0,96,3552.0,1385.2799999999997,0.38999999999999996,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Men's Apparel,46.0,60,2760.0,965.9999999999999,0.35,Outlet
+Kohl's,1128299,2021-04-26,West,New Mexico,Albuquerque,Women's Apparel,56.0,116,6496.0,1818.88,0.28,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Street Footwear,43.0,184,7912.0,3243.9199999999996,0.41,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,46.0,136,6256.0,2627.5200000000004,0.42000000000000004,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Street Footwear,46.0,135,6210.0,2546.1,0.41,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,43.0,109,4687.0,1921.6699999999998,0.41,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Men's Apparel,45.0,78,3510.0,1228.5,0.35,Outlet
+Kohl's,1128299,2021-05-27,West,New Mexico,Albuquerque,Women's Apparel,56.0,132,7392.0,2143.68,0.29,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Street Footwear,37.0,224,8288.0,3232.3199999999997,0.38999999999999996,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,47.0,187,8789.0,3779.2700000000004,0.43000000000000005,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Street Footwear,41.0,193,7913.0,3165.2,0.39999999999999997,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,37.0,128,4736.0,1894.3999999999999,0.39999999999999997,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Men's Apparel,44.0,93,4092.0,1432.1999999999998,0.35,Outlet
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Apparel,50.0,192,9600.0,2688.0000000000005,0.28,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Street Footwear,41.0,248,10168.0,3965.5199999999995,0.38999999999999996,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,45.0,210,9450.0,4063.5000000000005,0.43000000000000005,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Street Footwear,39.0,171,6669.0,2467.5299999999997,0.37,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Athletic Footwear,39.0,149,5811.0,2440.62,0.42,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Apparel,40.0,160,6400.0,2048.0,0.32,Outlet
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Women's Apparel,49.0,160,7840.0,2508.8,0.32,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Street Footwear,40.0,224,8960.0,3315.2,0.37,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,44.0,208,9152.0,4026.88,0.44,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Street Footwear,46.0,163,7498.0,2999.2,0.39999999999999997,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,46.0,152,6992.0,2587.04,0.37,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Apparel,48.0,162,7776.0,2643.8399999999997,0.33999999999999997,Outlet
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Women's Apparel,50.0,153,7650.0,2448.0,0.32,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Street Footwear,37.0,206,7622.0,3201.24,0.42,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Athletic Footwear,39.0,188,7332.0,3372.7200000000003,0.46,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Street Footwear,39.0,147,5733.0,2407.86,0.42,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Athletic Footwear,37.0,145,5365.0,2199.65,0.41,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Men's Apparel,40.0,145,5800.0,2029.9999999999998,0.35,Outlet
+Kohl's,1128299,2021-09-27,West,New Mexico,Albuquerque,Women's Apparel,48.0,157,7536.0,2260.7999999999997,0.3,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Street Footwear,35.0,171,5985.0,2214.45,0.37,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,38.0,182,6916.0,2973.8800000000006,0.43000000000000005,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Street Footwear,34.0,120,4080.0,1631.9999999999998,0.39999999999999997,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,35.0,112,3920.0,1646.3999999999999,0.42,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Men's Apparel,41.0,114,4674.0,1542.4199999999998,0.32999999999999996,Outlet
+Kohl's,1128299,2021-10-26,West,New Mexico,Albuquerque,Women's Apparel,57.0,131,7467.0,2314.77,0.31,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Street Footwear,47.0,176,8272.0,3391.52,0.41,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,44.0,180,7920.0,3405.6000000000004,0.43000000000000005,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Street Footwear,46.0,149,6854.0,2535.98,0.37,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Athletic Footwear,40.0,136,5440.0,2230.4,0.41,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Men's Apparel,54.0,131,7074.0,2617.38,0.37,Outlet
+Kohl's,1128299,2021-11-26,West,New Mexico,Albuquerque,Women's Apparel,56.0,170,9520.0,2856.0,0.3,Outlet
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Street Footwear,44.0,238,10472.0,4398.24,0.42,Outlet
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,47.0,217,10199.0,4793.530000000001,0.47000000000000003,Outlet

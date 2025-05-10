@@ -1,0 +1,137 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2020-10-21,Midwest,Minnesota,Minneapolis,Men's Apparel,44.99999999999999,150,67499.99999999999,20249.999999999996,0.3,In-store
+Foot Locker,1185732,2020-10-22,Midwest,Minnesota,Minneapolis,Women's Apparel,35.0,250,87500.0,39375.0,0.45,In-store
+Foot Locker,1185732,2020-10-23,Midwest,Minnesota,Minneapolis,Men's Street Footwear,35.0,500,175000.0,61250.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-10-24,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,35.0,150,52500.0,15750.0,0.3,In-store
+Foot Locker,1185732,2020-10-25,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25.0,200,50000.0,15000.0,0.3,In-store
+Foot Locker,1185732,2020-10-26,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,30.000000000000004,75,22500.000000000004,7875.000000000002,0.35000000000000003,In-store
+Foot Locker,1185732,2020-10-27,Midwest,Minnesota,Minneapolis,Men's Apparel,44.99999999999999,150,67499.99999999999,20249.999999999996,0.3,In-store
+Foot Locker,1185732,2020-10-28,Midwest,Minnesota,Minneapolis,Women's Apparel,35.0,225,78750.0,35437.5,0.45,In-store
+Foot Locker,1185732,2020-10-29,Midwest,Minnesota,Minneapolis,Men's Street Footwear,40.0,445,178000.0,62300.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-10-30,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40.0,125,50000.0,15000.0,0.3,In-store
+Foot Locker,1185732,2020-10-31,Midwest,Minnesota,Minneapolis,Women's Street Footwear,30.000000000000004,175,52500.00000000001,15750.000000000002,0.3,In-store
+Foot Locker,1185732,2020-11-01,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35.0,25,8750.0,3062.5000000000005,0.35000000000000003,In-store
+Foot Locker,1185732,2020-11-02,Midwest,Minnesota,Minneapolis,Men's Apparel,50.0,75,37500.0,11250.0,0.3,In-store
+Foot Locker,1185732,2020-11-03,Midwest,Minnesota,Minneapolis,Women's Apparel,40.0,175,70000.0,31500.0,0.45,In-store
+Foot Locker,1185732,2020-11-04,Midwest,Minnesota,Minneapolis,Men's Street Footwear,40.0,400,160000.0,56000.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-11-05,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40.0,100,40000.0,12000.0,0.3,In-store
+Foot Locker,1185732,2020-11-06,Midwest,Minnesota,Minneapolis,Women's Street Footwear,30.000000000000004,100,30000.000000000004,9000.0,0.3,In-store
+Foot Locker,1185732,2020-11-07,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35.0,25,8750.0,3062.5000000000005,0.35000000000000003,In-store
+Foot Locker,1185732,2020-11-08,Midwest,Minnesota,Minneapolis,Men's Apparel,50.0,50,25000.0,7500.0,0.3,In-store
+Foot Locker,1185732,2020-11-09,Midwest,Minnesota,Minneapolis,Women's Apparel,40.0,175,70000.0,31500.0,0.45,In-store
+Foot Locker,1185732,2020-11-10,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50.0,445,222500.0,77875.00000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-11-11,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45.00000000000001,150,67500.00000000001,20250.000000000004,0.3,In-store
+Foot Locker,1185732,2020-11-12,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40.0,125,50000.0,15000.0,0.3,In-store
+Foot Locker,1185732,2020-11-13,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40.0,50,20000.0,7000.000000000001,0.35000000000000003,In-store
+Foot Locker,1185732,2020-11-14,Midwest,Minnesota,Minneapolis,Men's Apparel,54.99999999999999,75,41249.99999999999,12374.999999999998,0.3,In-store
+Foot Locker,1185732,2020-11-15,Midwest,Minnesota,Minneapolis,Women's Apparel,60.0,175,105000.0,47250.0,0.45,In-store
+Foot Locker,1185732,2020-11-16,Midwest,Minnesota,Minneapolis,Men's Street Footwear,45.0,425,191250.0,66937.5,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-11-17,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40.00000000000001,175,70000.00000000001,21000.000000000004,0.3,Outlet
+Foot Locker,1185732,2020-11-18,Midwest,Minnesota,Minneapolis,Women's Street Footwear,35.0,175,61250.0,18375.0,0.3,Outlet
+Foot Locker,1185732,2020-11-19,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35.0,150,52500.0,18375.0,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-11-20,Midwest,Minnesota,Minneapolis,Men's Apparel,50.0,150,75000.0,22500.0,0.3,Outlet
+Foot Locker,1185732,2020-11-21,Midwest,Minnesota,Minneapolis,Women's Apparel,55.00000000000001,325,178750.00000000003,80437.50000000001,0.45,Outlet
+Foot Locker,1185732,2020-11-22,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50.0,550,275000.0,96250.00000000001,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-11-23,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,Outlet
+Foot Locker,1185732,2020-11-24,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,Outlet
+Foot Locker,1185732,2020-11-25,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40.0,175,70000.0,24500.000000000004,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-11-26,Midwest,Minnesota,Minneapolis,Men's Apparel,50.0,200,100000.0,30000.0,0.3,Outlet
+Foot Locker,1185732,2020-11-27,Midwest,Minnesota,Minneapolis,Women's Apparel,55.00000000000001,375,206250.00000000003,92812.50000000001,0.45,Outlet
+Foot Locker,1185732,2020-11-28,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50.0,525,262500.0,91875.00000000001,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-11-29,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45.00000000000001,300,135000.00000000003,40500.00000000001,0.3,Outlet
+Foot Locker,1185732,2020-11-30,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40.0,225,90000.0,27000.0,0.3,Outlet
+Foot Locker,1185732,2020-12-01,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35.0,175,61250.0,21437.500000000004,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-02,Midwest,Minnesota,Minneapolis,Men's Apparel,45.0,150,67500.0,20250.0,0.3,Outlet
+Foot Locker,1185732,2020-12-03,Midwest,Minnesota,Minneapolis,Women's Apparel,50.0,325,162500.0,73125.0,0.45,Outlet
+Foot Locker,1185732,2020-12-04,Midwest,Minnesota,Minneapolis,Men's Street Footwear,45.0,450,202500.0,70875.0,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-05,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40.00000000000001,250,100000.00000000001,30000.000000000004,0.3,Outlet
+Foot Locker,1185732,2020-12-06,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25.0,150,37500.0,11250.0,0.3,Outlet
+Foot Locker,1185732,2020-12-07,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,25.0,125,31250.0,10937.500000000002,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-08,Midwest,Minnesota,Minneapolis,Men's Apparel,35.0,125,43750.0,13125.0,0.3,Outlet
+Foot Locker,1185732,2020-12-09,Midwest,Minnesota,Minneapolis,Women's Apparel,40.0,200,80000.0,36000.0,0.45,Outlet
+Foot Locker,1185732,2020-12-10,Midwest,Minnesota,Minneapolis,Men's Street Footwear,44.99999999999999,375,168749.99999999997,59062.49999999999,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-11,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,35.0,200,70000.0,21000.0,0.3,Outlet
+Foot Locker,1185732,2020-12-12,Midwest,Minnesota,Minneapolis,Women's Street Footwear,35.0,100,35000.0,10500.0,0.3,Outlet
+Foot Locker,1185732,2020-12-13,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35.0,75,26250.0,9187.5,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-14,Midwest,Minnesota,Minneapolis,Men's Apparel,44.99999999999999,75,33749.99999999999,10124.999999999998,0.3,Outlet
+Foot Locker,1185732,2020-12-15,Midwest,Minnesota,Minneapolis,Women's Apparel,49.999999999999986,200,99999.99999999997,44999.999999999985,0.45,Outlet
+Foot Locker,1185732,2020-12-16,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50.0,350,175000.0,61250.00000000001,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-17,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40.0,200,80000.0,24000.0,0.3,Outlet
+Foot Locker,1185732,2020-12-18,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40.0,145,58000.0,17400.0,0.3,Outlet
+Foot Locker,1185732,2020-12-19,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40.0,150,60000.0,21000.000000000004,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-20,Midwest,Minnesota,Minneapolis,Men's Apparel,54.99999999999999,125,68749.99999999999,20624.999999999996,0.3,Outlet
+Foot Locker,1185732,2020-12-21,Midwest,Minnesota,Minneapolis,Women's Apparel,59.999999999999986,225,134999.99999999997,60749.999999999985,0.45,Outlet
+Foot Locker,1185732,2020-12-22,Midwest,Minnesota,Minneapolis,Men's Street Footwear,54.99999999999999,475,261249.99999999997,91437.5,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-23,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45.0,275,123750.0,37125.0,0.3,Outlet
+Foot Locker,1185732,2020-12-24,Midwest,Minnesota,Minneapolis,Women's Street Footwear,45.0,225,101250.0,30375.0,0.3,Outlet
+Foot Locker,1185732,2020-12-25,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,45.0,175,78750.0,27562.500000000004,0.35000000000000003,Outlet
+Foot Locker,1185732,2020-12-26,Midwest,Minnesota,Minneapolis,Men's Apparel,54.99999999999999,175,96249.99999999999,28874.999999999996,0.3,Outlet
+Foot Locker,1185732,2020-12-27,Midwest,Minnesota,Minneapolis,Women's Apparel,59.999999999999986,275,164999.99999999997,74249.99999999999,0.45,Outlet
+Foot Locker,1185732,2020-10-21,Midwest,Minnesota,Minneapolis,Men's Apparel,43.0,39,1677.0,754.65,0.44999999999999996,Online
+Foot Locker,1185732,2020-10-22,Midwest,Minnesota,Minneapolis,Women's Apparel,32.0,65,2080.0,1164.8000000000002,0.56,Online
+Foot Locker,1185732,2020-10-23,Midwest,Minnesota,Minneapolis,Men's Street Footwear,32.0,135,4320.0,1944.0000000000002,0.45000000000000007,Online
+Foot Locker,1185732,2020-10-24,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,34.0,38,1292.0,581.4,0.44999999999999996,Online
+Foot Locker,1185732,2020-10-25,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25.0,56,1400.0,588.0,0.42,Online
+Foot Locker,1185732,2020-10-26,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,27.0,20,540.0,253.8,0.47000000000000003,Online
+Foot Locker,1185732,2020-10-27,Midwest,Minnesota,Minneapolis,Men's Apparel,41.0,44,1804.0,739.64,0.41,Online
+Foot Locker,1185732,2020-10-28,Midwest,Minnesota,Minneapolis,Women's Apparel,34.0,65,2210.0,1215.5,0.55,Online
+Foot Locker,1185732,2020-10-29,Midwest,Minnesota,Minneapolis,Men's Street Footwear,39.0,116,4524.0,2262.0,0.5,Online
+Foot Locker,1185732,2020-10-30,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38.0,35,1330.0,532.0,0.4,Online
+Foot Locker,1185732,2020-10-31,Midwest,Minnesota,Minneapolis,Women's Street Footwear,29.0,53,1537.0,691.65,0.44999999999999996,Online
+Foot Locker,1185732,2020-11-01,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32.0,7,224.0,112.0,0.5,Online
+Foot Locker,1185732,2020-11-02,Midwest,Minnesota,Minneapolis,Men's Apparel,47.0,19,893.0,375.06,0.42,Online
+Foot Locker,1185732,2020-11-03,Midwest,Minnesota,Minneapolis,Women's Apparel,38.0,47,1786.0,982.3000000000001,0.55,Online
+Foot Locker,1185732,2020-11-04,Midwest,Minnesota,Minneapolis,Men's Street Footwear,36.0,120,4320.0,2030.4,0.47000000000000003,Online
+Foot Locker,1185732,2020-11-05,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38.0,28,1064.0,446.88,0.42,Online
+Foot Locker,1185732,2020-11-06,Midwest,Minnesota,Minneapolis,Women's Street Footwear,29.0,26,754.0,331.76,0.44,Online
+Foot Locker,1185732,2020-11-07,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32.0,7,224.0,112.0,0.5,Online
+Foot Locker,1185732,2020-11-08,Midwest,Minnesota,Minneapolis,Men's Apparel,47.0,14,658.0,263.2,0.4,Online
+Foot Locker,1185732,2020-11-09,Midwest,Minnesota,Minneapolis,Women's Apparel,36.0,53,1908.0,1144.8,0.6,Online
+Foot Locker,1185732,2020-11-10,Midwest,Minnesota,Minneapolis,Men's Street Footwear,48.0,116,5568.0,2616.96,0.47000000000000003,Online
+Foot Locker,1185732,2020-11-11,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,44.0,44,1936.0,793.76,0.41,Online
+Foot Locker,1185732,2020-11-12,Midwest,Minnesota,Minneapolis,Women's Street Footwear,37.0,38,1406.0,618.64,0.44,Online
+Foot Locker,1185732,2020-11-13,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,36.0,13,468.0,229.32000000000002,0.49000000000000005,Online
+Foot Locker,1185732,2020-11-14,Midwest,Minnesota,Minneapolis,Men's Apparel,50.0,20,1000.0,410.0,0.41,Online
+Foot Locker,1185732,2020-11-15,Midwest,Minnesota,Minneapolis,Women's Apparel,58.0,51,2958.0,1745.2200000000003,0.5900000000000001,Online
+Foot Locker,1185732,2020-11-16,Midwest,Minnesota,Minneapolis,Men's Street Footwear,44.0,106,4664.0,2285.36,0.49000000000000005,Online
+Foot Locker,1185732,2020-11-17,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38.0,49,1862.0,763.42,0.41,Online
+Foot Locker,1185732,2020-11-18,Midwest,Minnesota,Minneapolis,Women's Street Footwear,33.0,47,1551.0,697.9499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2020-11-19,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32.0,45,1440.0,676.8000000000001,0.47000000000000003,Online
+Foot Locker,1185732,2020-11-20,Midwest,Minnesota,Minneapolis,Men's Apparel,49.0,45,2205.0,926.0999999999999,0.42,Online
+Foot Locker,1185732,2020-11-21,Midwest,Minnesota,Minneapolis,Women's Apparel,53.0,81,4293.0,2404.0800000000004,0.56,Online
+Foot Locker,1185732,2020-11-22,Midwest,Minnesota,Minneapolis,Men's Street Footwear,49.0,160,7840.0,3684.8,0.47000000000000003,Online
+Foot Locker,1185732,2020-11-23,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,42.0,75,3150.0,1417.4999999999998,0.44999999999999996,Online
+Foot Locker,1185732,2020-11-24,Midwest,Minnesota,Minneapolis,Women's Street Footwear,36.0,63,2268.0,952.56,0.42,Online
+Foot Locker,1185732,2020-11-25,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,38.0,51,1938.0,930.2400000000001,0.48000000000000004,Online
+Foot Locker,1185732,2020-11-26,Midwest,Minnesota,Minneapolis,Men's Apparel,49.0,58,2842.0,1165.22,0.41,Online
+Foot Locker,1185732,2020-11-27,Midwest,Minnesota,Minneapolis,Women's Apparel,54.0,98,5292.0,2910.6000000000004,0.55,Online
+Foot Locker,1185732,2020-11-28,Midwest,Minnesota,Minneapolis,Men's Street Footwear,47.0,137,6439.0,3026.3300000000004,0.47000000000000003,Online
+Foot Locker,1185732,2020-11-29,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,43.0,87,3741.0,1533.81,0.41,Online
+Foot Locker,1185732,2020-11-30,Midwest,Minnesota,Minneapolis,Women's Street Footwear,37.0,68,2516.0,1006.4000000000001,0.4,Online
+Foot Locker,1185732,2020-12-01,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,33.0,47,1551.0,759.9900000000001,0.49000000000000005,Online
+Foot Locker,1185732,2020-12-02,Midwest,Minnesota,Minneapolis,Men's Apparel,42.0,42,1764.0,723.24,0.41,Online
+Foot Locker,1185732,2020-12-03,Midwest,Minnesota,Minneapolis,Women's Apparel,46.0,88,4048.0,2307.36,0.5700000000000001,Online
+Foot Locker,1185732,2020-12-04,Midwest,Minnesota,Minneapolis,Men's Street Footwear,43.0,113,4859.0,2332.32,0.48000000000000004,Online
+Foot Locker,1185732,2020-12-05,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,37.0,73,2701.0,1215.4499999999998,0.44999999999999996,Online
+Foot Locker,1185732,2020-12-06,Midwest,Minnesota,Minneapolis,Women's Street Footwear,24.0,41,984.0,393.6,0.4,Online
+Foot Locker,1185732,2020-12-07,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,24.0,31,744.0,342.24,0.46,Online
+Foot Locker,1185732,2020-12-08,Midwest,Minnesota,Minneapolis,Men's Apparel,32.0,34,1088.0,478.72,0.44,Online
+Foot Locker,1185732,2020-12-09,Midwest,Minnesota,Minneapolis,Women's Apparel,39.0,52,2028.0,1155.96,0.5700000000000001,Online
+Foot Locker,1185732,2020-12-10,Midwest,Minnesota,Minneapolis,Men's Street Footwear,41.0,98,4018.0,1888.46,0.47000000000000003,Online
+Foot Locker,1185732,2020-12-11,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,34.0,58,1972.0,847.96,0.43,Online
+Foot Locker,1185732,2020-12-12,Midwest,Minnesota,Minneapolis,Women's Street Footwear,32.0,25,800.0,336.0,0.42,Online
+Foot Locker,1185732,2020-12-13,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32.0,21,672.0,309.12,0.46,Online
+Foot Locker,1185732,2020-12-14,Midwest,Minnesota,Minneapolis,Men's Apparel,41.0,19,779.0,327.18,0.42,Online
+Foot Locker,1185732,2020-12-15,Midwest,Minnesota,Minneapolis,Women's Apparel,49.0,60,2940.0,1764.0,0.6,Online
+Foot Locker,1185732,2020-12-16,Midwest,Minnesota,Minneapolis,Men's Street Footwear,46.0,91,4186.0,1967.42,0.47000000000000003,Online
+Foot Locker,1185732,2020-12-17,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38.0,52,1976.0,790.4000000000001,0.4,Online
+Foot Locker,1185732,2020-12-18,Midwest,Minnesota,Minneapolis,Women's Street Footwear,36.0,38,1368.0,547.2,0.4,Online
+Foot Locker,1185732,2020-12-19,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,38.0,45,1710.0,837.9000000000001,0.49000000000000005,Online
+Foot Locker,1185732,2020-12-20,Midwest,Minnesota,Minneapolis,Men's Apparel,52.0,34,1768.0,742.56,0.42,Online
+Foot Locker,1185732,2020-12-21,Midwest,Minnesota,Minneapolis,Women's Apparel,59.0,61,3599.0,2159.4,0.6,Online
+Foot Locker,1185732,2020-12-22,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50.0,124,6200.0,3100.0,0.5,Online
+Foot Locker,1185732,2020-12-23,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,42.0,77,3234.0,1455.3,0.44999999999999996,Online
+Foot Locker,1185732,2020-12-24,Midwest,Minnesota,Minneapolis,Women's Street Footwear,44.0,56,2464.0,1010.2399999999999,0.41,Online
+Foot Locker,1185732,2020-12-25,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,44.0,49,2156.0,1056.44,0.49000000000000005,Online
+Foot Locker,1185732,2020-12-26,Midwest,Minnesota,Minneapolis,Men's Apparel,54.0,44,2376.0,974.16,0.41,Online
+Foot Locker,1185732,2020-12-27,Midwest,Minnesota,Minneapolis,Women's Apparel,54.0,77,4158.0,2370.0600000000004,0.5700000000000001,Online

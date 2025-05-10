@@ -1,0 +1,53 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2020-08-15,Southeast,Florida,Miami,Women's Athletic Footwear,40.0,675,270000.0,81000.0,0.3,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Street Footwear,35.0,725,253750.0,63437.5,0.25,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Athletic Footwear,40.0,650,260000.0,78000.0,0.3,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Apparel,55.00000000000001,675,371250.00000000006,129937.50000000001,0.35,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,45.0,800,360000.0,180000.0,0.5,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,55.00000000000001,1070,588500.0000000001,264825.00000000006,0.45,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,55.00000000000001,775,426250.00000000006,149187.5,0.35,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Street Footwear,50.0,750,375000.0,93750.0,0.25,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Athletic Footwear,50.0,700,350000.0,105000.0,0.3,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Apparel,60.0,725,435000.0,152250.0,0.35,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,65.0,825,536250.0,268125.0,0.5,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,60.0,1075,645000.0,290250.0,0.45,In-store
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,55.00000000000001,825,453750.00000000006,158812.5,0.35,In-store
+West Gear,1185732,2020-09-07,Southeast,Florida,Miami,Women's Street Footwear,50.0,800,400000.0,100000.0,0.25,In-store
+West Gear,1185732,2020-09-08,Southeast,Florida,Miami,Women's Athletic Footwear,50.0,775,387500.0,116250.0,0.3,In-store
+West Gear,1185732,2020-09-09,Southeast,Florida,Miami,Men's Apparel,65.0,775,503750.0,176312.5,0.35,In-store
+West Gear,1185732,2020-09-10,Southeast,Florida,Miami,Women's Apparel,70.0,925,647500.0,323750.0,0.5,In-store
+West Gear,1185732,2020-09-11,Southeast,Florida,Miami,Men's Street Footwear,65.0,1150,747500.0,336375.0,0.45,In-store
+West Gear,1185732,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,In-store
+West Gear,1185732,2020-09-13,Southeast,Florida,Miami,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,In-store
+West Gear,1185732,2020-09-14,Southeast,Florida,Miami,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,127875.00000000001,0.3,In-store
+West Gear,1185732,2020-09-15,Southeast,Florida,Miami,Men's Apparel,65.0,800,520000.0,182000.0,0.35,In-store
+West Gear,1185732,2020-09-16,Southeast,Florida,Miami,Women's Apparel,70.0,975,682500.0,341250.0,0.5,In-store
+West Gear,1185732,2020-09-17,Southeast,Florida,Miami,Men's Street Footwear,65.0,1125,731250.0,329062.5,0.45,In-store
+West Gear,1185732,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,In-store
+West Gear,1185732,2020-09-19,Southeast,Florida,Miami,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,In-store
+West Gear,1185732,2020-08-15,Southeast,Florida,Miami,Women's Athletic Footwear,38.0,169,6422.0,2825.68,0.44,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Street Footwear,32.0,203,6496.0,2598.4,0.4,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Athletic Footwear,38.0,189,7182.0,3231.8999999999996,0.44999999999999996,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Apparel,52.0,196,10192.0,4586.4,0.44999999999999996,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,44.0,208,9152.0,5491.2,0.6,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,52.0,300,15600.0,8736.0,0.56,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,54.0,194,10476.0,5238.0,0.5,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Street Footwear,47.0,188,8836.0,3269.32,0.37,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Athletic Footwear,49.0,175,8575.0,3687.25,0.43,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Apparel,58.0,196,11368.0,5342.96,0.47,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,64.0,248,15872.0,10158.08,0.64,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,55.0,290,15950.0,9410.500000000002,0.5900000000000001,Online
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,54.0,206,11124.0,5450.76,0.49,Online
+West Gear,1185732,2020-09-07,Southeast,Florida,Miami,Women's Street Footwear,49.0,208,10192.0,3567.2,0.35,Online
+West Gear,1185732,2020-09-08,Southeast,Florida,Miami,Women's Athletic Footwear,47.0,217,10199.0,4079.6000000000004,0.4,Online
+West Gear,1185732,2020-09-09,Southeast,Florida,Miami,Men's Apparel,62.0,233,14446.0,7078.54,0.49,Online
+West Gear,1185732,2020-09-10,Southeast,Florida,Miami,Women's Apparel,63.0,259,16317.0,10606.050000000001,0.65,Online
+West Gear,1185732,2020-09-11,Southeast,Florida,Miami,Men's Street Footwear,60.0,299,17940.0,10764.0,0.6,Online
+West Gear,1185732,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,57.0,225,12825.0,5899.499999999999,0.45999999999999996,Online
+West Gear,1185732,2020-09-13,Southeast,Florida,Miami,Women's Street Footwear,50.0,215,10750.0,3977.5,0.37,Online
+West Gear,1185732,2020-09-14,Southeast,Florida,Miami,Women's Athletic Footwear,53.0,233,12349.0,5310.07,0.43,Online
+West Gear,1185732,2020-09-15,Southeast,Florida,Miami,Men's Apparel,61.0,208,12688.0,6217.12,0.49,Online
+West Gear,1185732,2020-09-16,Southeast,Florida,Miami,Women's Apparel,67.0,244,16348.0,10626.2,0.65,Online
+West Gear,1185732,2020-09-17,Southeast,Florida,Miami,Men's Street Footwear,60.0,304,18240.0,10396.800000000001,0.5700000000000001,Online
+West Gear,1185732,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,55.0,252,13860.0,6236.999999999999,0.44999999999999996,Online
+West Gear,1185732,2020-09-19,Southeast,Florida,Miami,Women's Street Footwear,53.0,231,12243.0,4529.91,0.37,Online

@@ -1,0 +1,45 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1185732,2021-10-06,Midwest,Iowa,Des Moines,Women's Apparel,49.999999999999986,250,124999.99999999997,49999.99999999999,0.4,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Street Footwear,44.99999999999999,400,179999.99999999997,53999.99999999999,0.3,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Athletic Footwear,35.0,275,96250.0,33687.5,0.35,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Street Footwear,35.0,220,77000.0,23100.0,0.3,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Athletic Footwear,35.0,200,70000.0,21000.0,0.3,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Apparel,60.0,175,105000.0,52500.0,0.5,In-store
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Apparel,64.99999999999999,275,178749.99999999997,71499.99999999999,0.4,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Street Footwear,60.0,525,315000.0,94500.0,0.3,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Athletic Footwear,50.0,325,162500.0,56875.0,0.35,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Street Footwear,50.0,275,137500.0,41250.0,0.3,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Athletic Footwear,50.0,225,112500.0,33750.0,0.3,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Apparel,60.0,225,135000.0,67500.0,0.5,In-store
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Apparel,64.99999999999999,325,211249.99999999994,84499.99999999999,0.4,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Street Footwear,30.000000000000004,450,135000.00000000003,40500.00000000001,0.3,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Athletic Footwear,30.000000000000004,250,75000.00000000001,26250.000000000004,0.35,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Street Footwear,20.000000000000007,250,50000.000000000015,15000.000000000004,0.3,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Athletic Footwear,25.000000000000007,100,25000.000000000007,7500.000000000002,0.3,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Apparel,40.0,150,60000.0,30000.0,0.5,In-store
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Apparel,30.000000000000004,250,75000.00000000001,30000.000000000007,0.4,In-store
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Men's Street Footwear,30.000000000000004,500,150000.00000000003,45000.00000000001,0.3,In-store
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Men's Athletic Footwear,30.000000000000004,150,45000.00000000001,15750.000000000002,0.35,In-store
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Women's Street Footwear,20.000000000000007,200,40000.000000000015,12000.000000000004,0.3,In-store
+West Gear,1185732,2021-10-06,Midwest,Iowa,Des Moines,Women's Apparel,49.0,73,3577.0,1895.8100000000002,0.53,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Street Footwear,41.0,112,4592.0,2020.48,0.44,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Athletic Footwear,32.0,72,2304.0,1128.96,0.49,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Street Footwear,32.0,57,1824.0,802.5600000000001,0.44,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Athletic Footwear,34.0,52,1768.0,724.88,0.41,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Men's Apparel,55.0,49,2695.0,1617.0,0.6,Online
+West Gear,1185732,2021-11-06,Midwest,Iowa,Des Moines,Women's Apparel,59.0,72,4248.0,2208.96,0.52,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Street Footwear,54.0,147,7938.0,3333.96,0.42,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Athletic Footwear,47.0,91,4277.0,2010.1899999999998,0.47,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Street Footwear,47.0,83,3901.0,1638.4199999999998,0.42,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Athletic Footwear,49.0,61,2989.0,1285.27,0.43,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Men's Apparel,59.0,59,3481.0,2123.41,0.61,Online
+West Gear,1185732,2021-12-05,Midwest,Iowa,Des Moines,Women's Apparel,59.0,88,5192.0,2855.6000000000004,0.55,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Street Footwear,28.0,126,3528.0,1587.6,0.44999999999999996,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Athletic Footwear,29.0,70,2030.0,933.8,0.45999999999999996,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Street Footwear,18.0,65,1170.0,479.7,0.41,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Athletic Footwear,23.0,29,667.0,300.15,0.44999999999999996,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Men's Apparel,38.0,45,1710.0,1060.2,0.62,Online
+West Gear,1185732,2021-01-03,Midwest,Iowa,Des Moines,Women's Apparel,28.0,73,2044.0,1124.2,0.55,Online
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Men's Street Footwear,29.0,140,4060.0,1664.6,0.41,Online
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Men's Athletic Footwear,29.0,39,1131.0,554.1899999999999,0.49,Online
+West Gear,1185732,2021-02-03,Midwest,Iowa,Des Moines,Women's Street Footwear,20.0,60,1200.0,516.0,0.43,Online

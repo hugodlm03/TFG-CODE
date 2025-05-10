@@ -1,0 +1,27 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Street Footwear,50.0,600,300000.0,90000.0,0.3,In-store
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,50.0,550,275000.0,96250.0,0.35,In-store
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Apparel,60.0,550,330000.0,132000.0,0.39999999999999997,In-store
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Apparel,64.99999999999999,650,422499.9999999999,232374.99999999994,0.55,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Street Footwear,30.0,625,187500.0,75000.0,0.4,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Athletic Footwear,30.0,425,127500.0,44625.0,0.35,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Street Footwear,20.0,425,85000.0,29749.999999999996,0.35,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Athletic Footwear,25.000000000000007,275,68750.00000000001,27500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Apparel,40.0,325,130000.0,45500.0,0.35,In-store
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Apparel,30.0,425,127500.0,63750.0,0.5,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Men's Street Footwear,30.0,675,202500.0,81000.0,0.4,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Men's Athletic Footwear,30.0,325,97500.0,34125.0,0.35,In-store
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Women's Street Footwear,20.0,375,75000.0,26250.0,0.35,In-store
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Street Footwear,48.0,168,8064.0,3628.7999999999997,0.44999999999999996,Online
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Athletic Footwear,48.0,138,6624.0,3179.52,0.48,Online
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Apparel,55.0,143,7865.0,4089.8,0.52,Online
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Apparel,59.0,163,9617.0,6251.05,0.65,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Street Footwear,27.0,156,4212.0,2106.0,0.5,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Athletic Footwear,29.0,123,3567.0,1676.49,0.47,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Street Footwear,19.0,123,2337.0,1051.6499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Athletic Footwear,24.0,77,1848.0,960.96,0.52,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Men's Apparel,39.0,98,3822.0,1872.78,0.49,Online
+Foot Locker,1185732,2021-01-18,Midwest,Michigan,Detroit,Women's Apparel,29.0,123,3567.0,2247.21,0.63,Online
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Men's Street Footwear,29.0,182,5278.0,2797.34,0.53,Online
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Men's Athletic Footwear,28.0,94,2632.0,1289.68,0.49,Online
+Foot Locker,1185732,2021-02-18,Midwest,Michigan,Detroit,Women's Street Footwear,19.0,113,2147.0,966.1499999999999,0.44999999999999996,Online

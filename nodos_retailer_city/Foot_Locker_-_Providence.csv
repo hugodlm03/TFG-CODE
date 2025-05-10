@@ -1,0 +1,151 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,50,15000.0,6000.0,0.4,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,35.0,225,78750.0,31500.0,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,35.0,445,155750.0,54512.5,0.35,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,150,52500.0,18375.0,0.35,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,25.000000000000007,175,43750.000000000015,17500.000000000007,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,25,7500.0,3000.0,0.4,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,45.0,75,33750.0,10125.0,0.3,In-store
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,35.0,175,61250.0,24500.0,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,35.0,425,148750.0,52062.5,0.35,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,125,43750.0,15312.499999999998,0.35,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,25.000000000000007,125,31250.000000000007,12500.000000000004,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,50,15000.0,6000.0,0.4,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,45.0,50,22500.0,6750.0,0.3,In-store
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,35.0,200,70000.0,28000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,470,234999.99999999997,82249.99999999999,0.35,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,175,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,150,60000.0,24000.0,0.4,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,175,87499.99999999999,26249.999999999996,0.3,In-store
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,300,164999.99999999997,65999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,550,274999.99999999994,96249.99999999997,0.35,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,300,135000.0,47250.0,0.35,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,225,90000.0,36000.0,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,200,99999.99999999999,29999.999999999993,0.3,In-store
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,350,192499.99999999997,76999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,575,287499.99999999994,100624.99999999997,0.35,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,325,146250.0,51187.5,0.35,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,200,80000.0,32000.0,0.4,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,225,112499.99999999999,33749.99999999999,0.3,In-store
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,400,219999.99999999997,88000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,550,274999.99999999994,96249.99999999997,0.35,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,325,146250.0,51187.5,0.35,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,250,100000.0,40000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,150,60000.0,24000.0,0.4,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,125,62499.99999999999,18749.999999999996,0.3,In-store
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,300,164999.99999999997,65999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.99999999999999,425,212499.99999999997,74374.99999999999,0.35,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,45.0,225,101250.0,35437.5,0.35,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,125,50000.0,20000.0,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,40.0,100,40000.0,16000.0,0.4,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,49.99999999999999,100,49999.99999999999,14999.999999999996,0.3,In-store
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,54.99999999999999,200,109999.99999999999,44000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,54.99999999999999,375,206249.99999999997,72187.49999999999,0.35,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,50.0,200,100000.0,35000.0,0.35,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,50.0,100,50000.0,20000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,50.0,75,37500.0,15000.0,0.4,In-store
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,60.0,75,45000.0,13500.0,0.3,In-store
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,13,377.0,203.58,0.54,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,41.0,35,1435.0,588.3499999999999,0.41,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,33.0,65,2145.0,1136.8500000000001,0.53,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,34.0,111,3774.0,1887.0,0.5,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,34.0,44,1496.0,673.1999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,23.0,51,1173.0,609.96,0.52,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,8,232.0,116.0,0.5,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,44.0,20,880.0,395.99999999999994,0.44999999999999996,Online
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,32.0,51,1632.0,881.2800000000001,0.54,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,32.0,111,3552.0,1740.48,0.49,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,33,1056.0,528.0,0.5,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,24.0,36,864.0,449.28000000000003,0.52,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,13,377.0,199.81,0.53,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,44.0,15,660.0,264.0,0.4,Online
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,33.0,50,1650.0,858.0,0.52,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,49.0,122,5978.0,2989.0,0.5,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,43.0,49,2107.0,948.1499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,39.0,60,2340.0,1263.6000000000001,0.54,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,44,1716.0,892.32,0.52,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,49.0,46,2254.0,901.6,0.4,Online
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,52.0,81,4212.0,2232.36,0.53,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,47.0,138,6486.0,2918.7,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,41.0,90,3690.0,1808.1,0.49,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,39.0,65,2535.0,1394.25,0.55,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,60,2340.0,1263.6000000000001,0.54,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,48.0,58,2784.0,1141.4399999999998,0.41,Online
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,51.0,88,4488.0,2288.88,0.51,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,46.0,167,7682.0,3456.8999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,41.0,81,3321.0,1660.5,0.5,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,37.0,65,2405.0,1250.6000000000001,0.52,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,37.0,58,2146.0,1115.92,0.52,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,47.0,63,2961.0,1184.4,0.4,Online
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,50.0,116,5800.0,2900.0,0.5,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,46.0,143,6578.0,3157.44,0.48,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,42.0,91,3822.0,1796.34,0.47,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,38.0,75,2850.0,1567.5000000000002,0.55,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,37.0,39,1443.0,764.7900000000001,0.53,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,45.0,31,1395.0,558.0,0.4,Online
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,52.0,87,4524.0,2442.96,0.54,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,45.0,111,4995.0,2247.75,0.44999999999999996,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,43.0,56,2408.0,1155.84,0.48,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,36.0,38,1368.0,697.6800000000001,0.51,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,27,1053.0,568.62,0.54,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,47.0,27,1269.0,520.29,0.41,Online
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,52.0,58,3016.0,1538.16,0.51,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,53.0,94,4982.0,2491.0,0.5,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,46.0,56,2576.0,1262.24,0.49,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,45.0,29,1305.0,678.6,0.52,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,47.0,23,1081.0,540.5,0.5,Online
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,55.0,19,1045.0,418.0,0.4,Online
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,20.0,16,320.0,144.0,0.45,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Men's Apparel,34.0,40,1360.0,489.59999999999997,0.36,Outlet
+Foot Locker,1185732,2021-02-08,Northeast,Rhode Island,Providence,Women's Apparel,27.0,77,2079.0,977.1300000000001,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Street Footwear,26.0,156,4056.0,1500.72,0.37,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,27.0,45,1215.0,473.84999999999997,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Street Footwear,17.0,56,952.0,447.44000000000005,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,20.0,8,160.0,75.2,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Men's Apparel,33.0,25,825.0,297.0,0.36,Outlet
+Foot Locker,1185732,2021-03-06,Northeast,Rhode Island,Providence,Women's Apparel,25.0,58,1450.0,638.0,0.44,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Street Footwear,28.0,132,3696.0,1552.32,0.42,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,23.0,40,920.0,367.99999999999994,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Street Footwear,16.0,44,704.0,295.68,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,21.0,17,357.0,160.65,0.45,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Men's Apparel,33.0,15,495.0,158.4,0.32,Outlet
+Foot Locker,1185732,2021-04-07,Northeast,Rhode Island,Providence,Women's Apparel,26.0,60,1560.0,686.4,0.44,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Street Footwear,39.0,150,5850.0,2398.5,0.41,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,58,1856.0,686.72,0.37,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Street Footwear,32.0,60,1920.0,806.4000000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,27.0,51,1377.0,633.4200000000001,0.46,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Men's Apparel,40.0,54,2160.0,799.2,0.37,Outlet
+Foot Locker,1185732,2021-05-06,Northeast,Rhode Island,Providence,Women's Apparel,36.0,93,3348.0,1473.1200000000001,0.44,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Street Footwear,36.0,176,6336.0,2534.3999999999996,0.39999999999999997,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,35.0,105,3675.0,1433.2499999999998,0.38999999999999996,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Street Footwear,32.0,74,2368.0,994.5600000000001,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,26.0,70,1820.0,837.2,0.46,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Men's Apparel,39.0,66,2574.0,900.9,0.35,Outlet
+Foot Locker,1185732,2021-06-08,Northeast,Rhode Island,Providence,Women's Apparel,43.0,119,5117.0,2302.65,0.45,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,173,6574.0,2498.12,0.38,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,32.0,114,3648.0,1349.76,0.37,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Street Footwear,27.0,78,2106.0,947.7,0.45,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,31.0,60,1860.0,855.6,0.46,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Men's Apparel,33.0,68,2244.0,762.9599999999999,0.33999999999999997,Outlet
+Foot Locker,1185732,2021-07-06,Northeast,Rhode Island,Providence,Women's Apparel,38.0,136,5168.0,2170.5600000000004,0.42000000000000004,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Street Footwear,38.0,182,6916.0,2835.56,0.41,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Athletic Footwear,31.0,111,3441.0,1307.58,0.38,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Street Footwear,30.0,85,2550.0,1096.5000000000002,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Athletic Footwear,29.0,47,1363.0,586.09,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Men's Apparel,37.0,40,1480.0,532.8,0.36,Outlet
+Foot Locker,1185732,2021-08-07,Northeast,Rhode Island,Providence,Women's Apparel,38.0,96,3648.0,1714.5600000000002,0.47000000000000003,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Street Footwear,39.0,128,4992.0,2096.64,0.42,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Athletic Footwear,30.0,79,2370.0,876.9,0.37,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Street Footwear,29.0,39,1131.0,486.33000000000004,0.43000000000000005,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Athletic Footwear,30.0,32,960.0,441.6,0.46,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Men's Apparel,34.0,33,1122.0,403.91999999999996,0.36,Outlet
+Foot Locker,1185732,2021-09-06,Northeast,Rhode Island,Providence,Women's Apparel,41.0,64,2624.0,1180.8,0.45,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Street Footwear,37.0,113,4181.0,1714.2099999999998,0.41,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Athletic Footwear,38.0,68,2584.0,981.92,0.38,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Street Footwear,40.0,30,1200.0,528.0,0.44,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Women's Athletic Footwear,39.0,23,897.0,403.65000000000003,0.45,Outlet
+Foot Locker,1185732,2021-10-08,Northeast,Rhode Island,Providence,Men's Apparel,40.0,23,920.0,303.59999999999997,0.32999999999999996,Outlet

@@ -1,0 +1,76 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Men's Apparel,40.0,250,100000.0,30000.0,0.3,Online
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Women's Apparel,35.0,400,140000.0,70000.0,0.5,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Street Footwear,20.0,650,130000.0,45500.0,0.35,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Athletic Footwear,30.000000000000004,650,195000.00000000003,68250.0,0.35,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Street Footwear,24.999999999999996,475,118749.99999999999,41562.49999999999,0.35,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Athletic Footwear,30.000000000000004,375,112500.00000000001,50625.00000000001,0.45,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Apparel,35.0,275,96250.0,28875.0,0.3,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Apparel,30.000000000000004,550,165000.00000000003,82500.00000000001,0.5,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Street Footwear,20.0,700,140000.0,49000.0,0.35,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Athletic Footwear,30.000000000000004,725,217500.00000000003,76125.0,0.35,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Street Footwear,24.999999999999996,575,143749.99999999997,50312.499999999985,0.35,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Athletic Footwear,35.0,500,175000.0,78750.0,0.45,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Apparel,50.0,400,200000.0,60000.0,0.3,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Apparel,45.0,750,337500.0,168750.0,0.5,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Street Footwear,45.0,750,337500.0,118124.99999999999,0.35,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Athletic Footwear,50.0,750,375000.0,131250.0,0.35,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Street Footwear,50.0,600,300000.0,105000.0,0.35,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Athletic Footwear,50.0,550,275000.0,123750.0,0.45,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Apparel,55.00000000000001,450,247500.00000000003,74250.0,0.3,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Apparel,60.00000000000001,825,495000.00000000006,247500.00000000003,0.5,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Street Footwear,50.0,775,387500.0,155000.0,0.39999999999999997,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Athletic Footwear,55.00000000000001,775,426250.00000000006,170500.0,0.39999999999999997,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Street Footwear,50.0,925,462500.0,184999.99999999997,0.39999999999999997,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Athletic Footwear,50.0,525,262500.0,131250.0,0.5,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Apparel,55.00000000000001,525,288750.00000000006,101062.50000000001,0.35,Online
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Men's Apparel,37.0,75,2775.0,1248.7499999999998,0.44999999999999996,Online
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Women's Apparel,33.0,116,3828.0,2488.2000000000003,0.65,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Street Footwear,19.0,195,3705.0,1741.35,0.47,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Athletic Footwear,29.0,195,5655.0,2714.4,0.48,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Street Footwear,24.0,138,3312.0,1556.6399999999999,0.47,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Athletic Footwear,29.0,113,3277.0,1802.3500000000001,0.55,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Apparel,34.0,72,2448.0,1052.6399999999999,0.43,Online
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Apparel,28.0,138,3864.0,2357.04,0.61,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Street Footwear,18.0,203,3654.0,1827.0,0.5,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Athletic Footwear,28.0,196,5488.0,2634.24,0.48,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Street Footwear,23.0,167,3841.0,1805.27,0.47,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Athletic Footwear,33.0,130,4290.0,2359.5,0.55,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Apparel,47.0,120,5640.0,2256.0,0.4,Online
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Apparel,42.0,218,9156.0,5768.28,0.63,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Street Footwear,42.0,195,8190.0,4013.1,0.49,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Athletic Footwear,46.0,188,8648.0,4151.04,0.48,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Street Footwear,47.0,174,8178.0,3925.44,0.48,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Athletic Footwear,48.0,143,6864.0,4049.7600000000007,0.5900000000000001,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Apparel,52.0,117,6084.0,2616.12,0.43,Online
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Apparel,55.0,231,12705.0,7750.05,0.61,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Street Footwear,48.0,217,10416.0,5208.0,0.5,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Athletic Footwear,52.0,202,10504.0,5462.08,0.52,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Street Footwear,46.0,241,11086.0,6097.299999999999,0.5499999999999999,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Athletic Footwear,47.0,137,6439.0,4120.96,0.64,Online
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Apparel,53.0,131,6943.0,3332.64,0.48,Online
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Men's Apparel,32.0,88,2816.0,985.5999999999999,0.35,Outlet
+West Gear,1197831,2021-03-06,West,Idaho,Boise,Women's Apparel,25.0,124,3100.0,1643.0,0.53,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Street Footwear,15.0,215,3225.0,1354.5,0.42,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Athletic Footwear,21.0,215,4515.0,1760.85,0.38999999999999996,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Street Footwear,19.0,162,3078.0,1138.86,0.37,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Athletic Footwear,20.0,116,2320.0,1136.8,0.49,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Men's Apparel,27.0,91,2457.0,786.24,0.32,Outlet
+West Gear,1197831,2021-04-05,West,Idaho,Boise,Women's Apparel,23.0,176,4048.0,2307.36,0.5700000000000001,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Street Footwear,14.0,210,2940.0,1234.8,0.42,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Athletic Footwear,22.0,247,5434.0,2227.94,0.41,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Street Footwear,18.0,184,3312.0,1291.6799999999998,0.38999999999999996,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Athletic Footwear,24.0,155,3720.0,1860.0,0.5,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Men's Apparel,34.0,120,4080.0,1428.0,0.35,Outlet
+West Gear,1197831,2021-05-05,West,Idaho,Boise,Women's Apparel,33.0,240,7920.0,4356.0,0.55,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Street Footwear,31.0,233,7223.0,2744.7400000000002,0.38,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Athletic Footwear,35.0,263,9205.0,3774.0499999999997,0.41,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Street Footwear,34.0,186,6324.0,2592.8399999999997,0.41,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Athletic Footwear,33.0,187,6171.0,3023.79,0.49,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Men's Apparel,43.0,158,6794.0,2309.9599999999996,0.33999999999999997,Outlet
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Apparel,39.0,248,9672.0,5319.6,0.55,Outlet
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Street Footwear,35.0,264,9240.0,4250.4,0.45999999999999996,Outlet
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Athletic Footwear,40.0,271,10840.0,4661.199999999999,0.42999999999999994,Outlet
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Street Footwear,34.0,278,9452.0,3969.8399999999997,0.42,Outlet
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Athletic Footwear,38.0,158,6004.0,3182.1200000000003,0.53,Outlet
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Apparel,43.0,173,7439.0,2975.6,0.39999999999999997,Outlet

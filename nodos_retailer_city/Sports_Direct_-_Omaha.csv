@@ -1,0 +1,9 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Sports Direct,1197831,2021-08-01,Midwest,Nebraska,Omaha,Men's Street Footwear,20.0,675,135000.0,53999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-02,Midwest,Nebraska,Omaha,Men's Athletic Footwear,30.0,675,202500.0,81000.0,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-03,Midwest,Nebraska,Omaha,Women's Street Footwear,30.0,475,142500.0,56999.99999999999,0.39999999999999997,Outlet
+Sports Direct,1197831,2021-08-04,Midwest,Nebraska,Omaha,Women's Athletic Footwear,35.0,475,166250.0,83125.0,0.5,Outlet
+Sports Direct,1197831,2021-08-01,Midwest,Nebraska,Omaha,Men's Street Footwear,19.0,203,3857.0,2044.21,0.53,Online
+Sports Direct,1197831,2021-08-02,Midwest,Nebraska,Omaha,Men's Athletic Footwear,29.0,196,5684.0,3069.36,0.54,Online
+Sports Direct,1197831,2021-08-03,Midwest,Nebraska,Omaha,Women's Street Footwear,28.0,138,3864.0,2125.2,0.5499999999999999,Online
+Sports Direct,1197831,2021-08-04,Midwest,Nebraska,Omaha,Women's Athletic Footwear,33.0,138,4554.0,2914.56,0.64,Online

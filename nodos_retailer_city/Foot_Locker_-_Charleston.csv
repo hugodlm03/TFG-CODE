@@ -1,0 +1,157 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,35.0,625,218750.0,65625.0,0.3,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Men's Apparel,50.0,700,350000.0,122499.99999999999,0.35,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Apparel,35.0,800,280000.0,140000.0,0.5,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,1020,357000.0,160650.0,0.45,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,700,245000.0,85750.0,0.35,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Street Footwear,25.0,725,181250.0,45312.5,0.25,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.999999999999993,575,172499.99999999997,51749.99999999999,0.3,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Apparel,45.00000000000001,625,281250.00000000006,98437.50000000001,0.35,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Apparel,35.0,725,253750.0,126875.0,0.5,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Street Footwear,35.0,975,341250.0,153562.5,0.45,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,35.0,675,236250.0,82687.5,0.35,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Street Footwear,25.0,675,168750.0,42187.5,0.25,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,29.999999999999993,600,179999.99999999997,53999.99999999999,0.3,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Apparel,50.0,625,312500.0,109375.0,0.35,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Apparel,40.0,775,310000.0,155000.0,0.5,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,1045,522500.0,235125.0,0.45,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.0,750,375000.0,131250.0,0.35,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Street Footwear,45.0,725,326250.0,81562.5,0.25,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.0,675,303750.0,91125.0,0.3,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Apparel,54.99999999999999,700,384999.99999999994,134749.99999999997,0.35,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Apparel,60.0,800,480000.0,240000.0,0.5,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,54.99999999999999,1050,577499.9999999999,259874.99999999994,0.45,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.0,800,400000.0,140000.0,0.35,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Street Footwear,50.0,775,387500.0,96875.0,0.25,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,50.0,750,375000.0,112500.0,0.3,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Apparel,65.0,750,487500.0,170625.0,0.35,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,70.0,925,647500.0,323750.0,0.5,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1150,747500.0,336375.0,0.45,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.00000000000001,775,426250.00000000006,127875.00000000001,0.3,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,65.0,800,520000.0,182000.0,0.35,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,70.0,975,682500.0,341250.0,0.5,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1125,731250.0,329062.5,0.45,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900,540000.0000000001,189000.00000000003,0.35,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Street Footwear,55.00000000000001,825,453750.00000000006,113437.50000000001,0.25,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.0,775,348750.0,104625.0,0.3,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,55.00000000000001,750,412500.00000000006,144375.0,0.35,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,60.00000000000001,925,555000.0000000001,277500.00000000006,0.5,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,1025,563750.0000000001,253687.50000000006,0.45,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50.000000000000014,825,412500.0000000001,144375.00000000003,0.35,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Street Footwear,40.0,725,290000.0,72500.0,0.25,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,40.0,700,280000.0,84000.0,0.3,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Apparel,50.0,700,350000.0,122499.99999999999,0.35,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Apparel,55.00000000000001,800,440000.00000000006,220000.00000000003,0.5,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,975,536250.0000000001,241312.50000000006,0.45,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.000000000000014,800,360000.0000000001,126000.00000000003,0.35,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Street Footwear,45.000000000000014,675,303750.0000000001,75937.50000000003,0.25,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.000000000000014,650,292500.0000000001,87750.00000000003,0.3,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Apparel,55.00000000000001,650,357500.00000000006,125125.00000000001,0.35,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Apparel,60.0,775,465000.0,232500.0,0.5,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,925,508750.00000000006,228937.50000000003,0.45,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.000000000000014,750,337500.0000000001,118125.00000000003,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Street Footwear,45.000000000000014,695,312750.0000000001,78187.50000000003,0.25,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.000000000000014,750,412500.0000000001,123750.00000000003,0.3,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,70.0,725,507500.0,177625.0,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,75.0,825,618750.0,309375.0,0.5,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,70.0,1075,752500.0,338625.0,0.45,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,875,525000.0000000001,183750.00000000003,0.35,Online
+Foot Locker,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Apparel,49.999999999999986,300,149999.99999999997,59999.99999999999,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Street Footwear,44.99999999999999,450,202499.99999999997,81000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,350,122500.0,49000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Street Footwear,35.0,295,103250.0,41300.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,40.0,325,130000.0,52000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Apparel,65.0,300,195000.0,78000.0,0.4,In-store
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Apparel,70.0,400,280000.0,112000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Street Footwear,65.0,650,422500.0,169000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,55.00000000000001,450,247500.00000000003,99000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,55.00000000000001,350,192500.00000000003,77000.00000000001,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Apparel,65.0,350,227500.0,91000.0,0.4,In-store
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Apparel,70.0,450,315000.0,126000.0,0.4,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Street Footwear,35.0,425,148750.0,59500.0,0.4,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Athletic Footwear,35.0,225,78750.0,27562.5,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Street Footwear,25.000000000000007,225,56250.000000000015,19687.500000000004,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Athletic Footwear,30.0,75,22500.0,7874.999999999999,0.35,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Apparel,45.0,125,56250.0,16875.0,0.3,In-store
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Apparel,35.0,225,78750.0,23625.0,0.3,In-store
+Foot Locker,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Street Footwear,35.0,475,166250.0,66500.0,0.4,In-store
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,33.0,169,5577.0,2509.6499999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Men's Apparel,49.0,189,9261.0,4352.67,0.47,Online
+Foot Locker,1185732,2021-02-07,Southeast,South Carolina,Charleston,Women's Apparel,34.0,216,7344.0,4773.6,0.65,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,265,8745.0,5072.1,0.5800000000000001,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,32.0,210,6720.0,3292.7999999999997,0.49,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,181,4344.0,1650.72,0.38,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,27.0,144,3888.0,1632.96,0.42,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Men's Apparel,41.0,181,7421.0,3562.08,0.48,Online
+Foot Locker,1185732,2021-03-05,Southeast,South Carolina,Charleston,Women's Apparel,32.0,189,6048.0,3810.2400000000002,0.63,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Street Footwear,33.0,283,9339.0,5323.2300000000005,0.5700000000000001,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,34.0,182,6188.0,2846.4799999999996,0.45999999999999996,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Street Footwear,24.0,182,4368.0,1659.84,0.38,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,27.0,180,4860.0,2089.8,0.43,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Men's Apparel,47.0,188,8836.0,4418.0,0.5,Online
+Foot Locker,1185732,2021-04-06,Southeast,South Carolina,Charleston,Women's Apparel,39.0,209,8151.0,5135.13,0.63,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,48.0,282,13536.0,7444.8,0.55,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.0,188,8460.0,3806.9999999999995,0.44999999999999996,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Street Footwear,41.0,210,8610.0,3185.7,0.37,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,43.0,182,7826.0,3286.92,0.42,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Apparel,53.0,196,10388.0,5194.0,0.5,Online
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Apparel,59.0,200,11800.0,7080.0,0.6,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,51.0,273,13923.0,7796.880000000001,0.56,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,49.0,200,9800.0,4410.0,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Street Footwear,47.0,209,9823.0,3536.2799999999997,0.36,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,47.0,218,10246.0,4610.7,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Apparel,62.0,195,12090.0,5440.499999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,65.0,250,16250.0,10400.0,0.64,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,63.0,311,19593.0,11559.87,0.5900000000000001,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,58.0,270,15660.0,7673.4,0.49,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Street Footwear,51.0,248,12648.0,4553.28,0.36,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,52.0,202,10504.0,4411.68,0.42,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,64.0,240,15360.0,6911.999999999999,0.44999999999999996,Online
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,66.0,244,16104.0,10467.6,0.65,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,62.0,326,20212.0,11520.840000000002,0.5700000000000001,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,54.0,243,13122.0,6429.78,0.49,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Street Footwear,50.0,231,11550.0,4620.0,0.4,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,44.0,233,10252.0,4203.32,0.41,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,51.0,225,11475.0,5278.5,0.45999999999999996,Online
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,58.0,278,16124.0,9835.64,0.61,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,51.0,287,14637.0,8489.460000000001,0.5800000000000001,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,48.0,223,10704.0,5137.92,0.48,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Street Footwear,38.0,196,7448.0,2904.7200000000003,0.39,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,39.0,210,8190.0,3276.0,0.4,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Apparel,48.0,175,8400.0,3863.9999999999995,0.45999999999999996,Online
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Apparel,52.0,232,12064.0,7238.4,0.6,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,244,12200.0,7320.0,0.6,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,42.0,208,8736.0,4368.0,0.5,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Street Footwear,41.0,176,7216.0,2814.2400000000002,0.39,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,41.0,176,7216.0,2886.4,0.4,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Apparel,52.0,189,9828.0,4717.44,0.48,Online
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Apparel,56.0,225,12600.0,8190.0,0.65,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,278,13900.0,7923.000000000001,0.5700000000000001,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,44.0,188,8272.0,3722.3999999999996,0.44999999999999996,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Street Footwear,43.0,202,8686.0,3040.1,0.35,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,53.0,225,11925.0,5008.5,0.42,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,66.0,196,12936.0,6079.92,0.47,Online
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,74.0,206,15244.0,9603.72,0.63,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,67.0,290,19430.0,11658.0,0.6,Online
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,58.0,219,12702.0,5715.9,0.44999999999999996,Online
+Foot Locker,1185732,2021-10-17,Northeast,West Virginia,Charleston,Women's Apparel,47.0,84,3948.0,1974.0,0.5,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Street Footwear,44.0,117,5148.0,2676.96,0.52,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Athletic Footwear,33.0,95,3135.0,1661.5500000000002,0.53,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Street Footwear,32.0,77,2464.0,1232.0,0.5,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,38.0,91,3458.0,1901.9,0.55,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Men's Apparel,62.0,78,4836.0,2563.08,0.53,Online
+Foot Locker,1185732,2021-11-17,Northeast,West Virginia,Charleston,Women's Apparel,64.0,100,6400.0,3264.0,0.51,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Street Footwear,60.0,176,10560.0,5491.2,0.52,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,52.0,135,7020.0,3650.4,0.52,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,53.0,102,5406.0,2757.06,0.51,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Apparel,61.0,95,5795.0,2897.5,0.5,Online
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Women's Apparel,68.0,122,8296.0,4562.8,0.55,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Street Footwear,33.0,106,3498.0,1749.0,0.5,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Athletic Footwear,34.0,68,2312.0,1086.6399999999999,0.47,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Street Footwear,24.0,63,1512.0,695.52,0.45999999999999996,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Athletic Footwear,28.0,20,560.0,280.0,0.5,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Men's Apparel,42.0,33,1386.0,595.98,0.43,Online
+Foot Locker,1185732,2021-01-24,Northeast,West Virginia,Charleston,Women's Apparel,33.0,59,1947.0,778.8000000000001,0.4,Online
+Foot Locker,1185732,2021-02-22,Northeast,West Virginia,Charleston,Men's Street Footwear,32.0,138,4416.0,2340.48,0.53,Online
