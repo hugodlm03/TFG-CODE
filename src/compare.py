@@ -119,4 +119,4 @@ resumen_mae = (
     .reset_index()
 )
 resumen_mae.to_csv("resultados_comparacion_mae.csv", index=False)
-print("✓ Guardado resumen de MAE en 'resultados_comparacion_mae.csv'")
+print(" Guardado resumen de MAE en 'resultados_comparacion_mae.csv'")

@@ -49,7 +49,7 @@ class TreeClient(fl.client.NumPyClient):
         if not hasattr(self.model, "tree_"):
             self.model.fit(self.X, self.y)
 
-        # ➋ recibir bytes y des-serializar
+        #  recibir bytes y des-serializar
         X_bytes = config.get("X_test")
         y_bytes = config.get("y_test")
         if X_bytes is None or y_bytes is None:
