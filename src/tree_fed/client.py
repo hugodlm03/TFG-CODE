@@ -43,6 +43,8 @@ class NodoCliente:
 
     # Evalúa el modelo con el test común (MAE y RMSE)
     def evaluar_localmente(self):                                       
+        if self.X_test is None or self.y_test is None:
+            raise ValueError("X_test y/o y_test no han sido asignados. Usa 'asignar_test_comun' antes de evaluar.")
         pred = self.model.predict(self.X_test)
         mae = mean_absolute_error(self.y_test, pred)
         rmse = np.sqrt(mean_squared_error(self.y_test, pred))           # sqrt porque sklearn da MSE por defecto
@@ -75,11 +77,15 @@ class NodoCliente:
     # Guarda las predicciones del modelo local junto a los valores reales
     def guardar_predicciones(self, ruta="predicciones_locales"):       
         Path(ruta).mkdir(exist_ok=True)
+        if self.X_test is None or self.y_test is None:
+            raise ValueError("X_test y/o y_test no han sido asignados. Usa 'asignar_test_comun' antes de guardar predicciones.")
         pred = self.model.predict(self.X_test)
         nombre_archivo = self.nombre.replace(' ', '_').replace('/', '_') + ".csv"
         df_pred = pd.DataFrame({
             'y_real': self.y_test,
             'y_pred_local': pred
         })
+        df_pred.to_csv(Path(ruta) / nombre_archivo, index=False)
+        print(f" Predicciones guardadas en: {Path(ruta) / nombre_archivo}")
         df_pred.to_csv(Path(ruta) / nombre_archivo, index=False)
         print(f" Predicciones guardadas en: {Path(ruta) / nombre_archivo}")

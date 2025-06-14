@@ -1,0 +1,14 @@
+[tool.flwr.app.config]
+# Server
+num-server-rounds = 5
+fraction-fit      = 1.0
+fraction-evaluate = 1.0
+
+# Client (XGBoost)
+local-epochs      = 1
+params.objective  = "reg:squarederror"
+params.eval-metric= "rmse"
+params.eta        = 0.1
+params.max-depth  = 8
+params.nthread    = 16
+params.tree-method= "hist"

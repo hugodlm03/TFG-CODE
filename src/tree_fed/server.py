@@ -18,7 +18,7 @@
 
 
 import argparse
-from src.client import NodoCliente, RANDOM_STATE
+from src.tree_fed.client import NodoCliente, RANDOM_STATE
 from src.data_loader import load_clean_adidas_data
 from src.utils import preparar_X_y
 from pathlib import Path

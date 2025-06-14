@@ -22,7 +22,7 @@ def load_clean_adidas_data(ruta_excel: str | Path) -> pd.DataFrame:
     # Eliminar primeras filas vacías y convertir fila 3 en header
     df = df.drop([0, 1, 2])
     columnas = df.loc[3]
-    df = df.rename(columns=columnas)
+    df = df.rename(columns=columnas.to_dict())
     df = df.drop(df.columns[0], axis=1)
     df = df.drop(index=3).reset_index(drop=True)
 
@@ -102,8 +102,9 @@ def partition_by_region(df: pd.DataFrame) -> dict[str, pd.DataFrame]:
     return particiones
 
 #  FUNCIÓN: Guardar csv por nodo federado (Retailer + Región) 
-def guardar_nodos_en_csv(particiones, carpeta_salida="nodos"):
-    Path(carpeta_salida).mkdir(exist_ok=True)
+def guardar_nodos_en_csv(particiones, carpeta_salida: Path | str):
+    carpeta_salida = Path(carpeta_salida)
+    carpeta_salida.mkdir(parents=True, exist_ok=True)
 
     for nombre, df_nodo in particiones.items():
         filename = f"{nombre.replace(' ', '_').replace('/', '_')}.csv"
@@ -121,18 +122,20 @@ if __name__ == "__main__":
     ruta_excel = "datos/Adidas US Sales Datasets.xlsx"
     df = load_clean_adidas_data(ruta_excel)
 
-    # Elegir función y carpeta de salida
+    # Elegir función y subcarpeta bajo nodos/
+    base_dir = Path("nodos")            # carpeta raíz común
     if scheme == "retailer_city":
         particiones = partition_by_retailer_city(df)
-        carpeta = "nodos_retailer_city"
+        subdir = base_dir / "retailer_city"
     elif scheme == "region":
         particiones = partition_by_region(df)
-        carpeta = "nodos_region"
+        subdir = base_dir / "region"
     elif scheme == "retailer_region":
         particiones = partition_by_retailer_region(df)
-        carpeta = "nodos"
+        subdir = base_dir / "retailer_region"
     else:
         raise ValueError(f"Esquema no reconocido: {scheme}")
+
 
     # Mostrar muestra de 3 nodos
     for nombre, df_nodo in list(particiones.items())[:3]:
@@ -140,5 +143,6 @@ if __name__ == "__main__":
         print(df_nodo.head())
 
     # Guardar CSVs
-    guardar_nodos_en_csv(particiones, carpeta)
-    print(f"\n✓ Particiones '{scheme}' guardadas en la carpeta '{carpeta}/'")
+    guardar_nodos_en_csv(particiones, subdir)
+    print(f"✓ Particiones '{scheme}' guardadas en '{subdir}/'")
+

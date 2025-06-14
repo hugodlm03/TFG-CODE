@@ -1,0 +1,43 @@
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_client() is deprecated.
+	Instead, use the `flower-supernode` CLI command to start a SuperNode as shown below:
+
+		$ flower-supernode --insecure --superlink='<IP>:<PORT>'
+
+	To view all available options, run:
+
+		$ flower-supernode --help
+
+	Using `start_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_cTraceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspaces/TFG-CODE/src/xgb_bagging/client.py", line 179, in <module>
+    main()
+  File "/workspaces/TFG-CODE/src/xgb_bagging/client.py", line 175, in main
+    fl.client.start_client(server_address=args.server, client=client)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/flwr/client/app.py", line 201, in start_client
+    start_client_internal(
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/flwr/client/app.py", line 438, in start_client_internal
+    message = receive()
+              ^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/flwr/client/grpc_client/connection.py", line 142, in receive
+    proto = next(server_message_iterator)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "recvmsg:Connection reset by peer"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8087 {grpc_message:"recvmsg:Connection reset by peer", grpc_status:14}"
+>
+out before receiving SETTINGS frame", grpc_status:14}"
+>

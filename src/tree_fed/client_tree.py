@@ -54,6 +54,10 @@ class TreeClient(fl.client.NumPyClient):
         y_bytes = config.get("y_test")
         if X_bytes is None or y_bytes is None:
             raise ValueError("El servidor no envió X_test / y_test")
+        if not isinstance(X_bytes, (bytes, bytearray)):
+            raise ValueError("X_test is not bytes-like, got type: {}".format(type(X_bytes)))
+        if not isinstance(y_bytes, (bytes, bytearray)):
+            raise ValueError("y_test is not bytes-like, got type: {}".format(type(y_bytes)))
         X_test = pickle.loads(X_bytes)
         y_test = pickle.loads(y_bytes)
 
