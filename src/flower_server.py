@@ -12,7 +12,8 @@ from src.utils import preparar_X_y
 
 # Configuración y datos globales 
 RANDOM_STATE = 16062025
-DATA_PATH = Path("datos/Adidas US Sales Datasets.xlsx")
+# Ruta al Excel de datos (relativa al directorio del proyecto)
+DATA_PATH = Path(__file__).resolve().parent.parent / "datos" / "Adidas US Sales Datasets.xlsx"
 
 # Carga y prepara el conjunto de test común (≈20 % del total)
 _df = load_clean_adidas_data(DATA_PATH)
@@ -45,14 +46,17 @@ class FedAvgWithGlobalTest(fl.server.strategy.FedAvg):
 def start_server(address: str, num_rounds: int = 1, log_level: str = "INFO") -> None:
     logging.basicConfig(level=getattr(logging, log_level))
 
-    base_dir = Path(__file__).resolve().parent      # carpeta del script
-    csv_files = list((base_dir / "nodos").glob("*.csv"))
-    total      = len(csv_files)                    
+    base_dir = Path(__file__).resolve().parent
+    # CSVs de los nodos generados por data_loader.py
+    csv_dir = base_dir.parent / "nodos"
+    csv_files = list(csv_dir.glob("*.csv"))
+    total = len(csv_files)
 
+    # Ajusta los parámetros al número real de nodos disponibles
     strategy = FedAvgWithGlobalTest(
-        min_available_clients=28,#  número de nodos disponibles
-        min_fit_clients=28,         #  número de nodos para entrenar
-        min_evaluate_clients=28,     #  número de nodos para evaluar
+        min_available_clients=total,
+        min_fit_clients=total,
+        min_evaluate_clients=total,
     )
 
 
